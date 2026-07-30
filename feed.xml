@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 30 Jul 2026 09:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:39:03 +0000</lastBuildDate>
     <item>
       <title>LLM Honeypot</title>
       <link>https://llm2human.pages.dev/</link>
@@ -22,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Explain This – select text, get an explanation from a local LLM</title>
-      <link>https://github.com/Vishwamitra/explain-this</link>
-      <guid isPermaLink="false">https://github.com/Vishwamitra/explain-this</guid>
+      <title>Open-weights AI models have become good enough</title>
+      <link>https://blog.senko.net/open-weights-ai-models-have-become-good-enough</link>
+      <guid isPermaLink="false">https://blog.senko.net/open-weights-ai-models-have-become-good-enough</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 08:34:46 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 09:57:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)</title>
+      <link>https://github.com/robolamp/smol-llm-proxy</link>
+      <guid isPermaLink="false">https://github.com/robolamp/smol-llm-proxy</guid>
+      <category>model</category>
+      <pubDate>Thu, 30 Jul 2026 10:56:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
       <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
       <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
@@ -46,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Don&#x27;t ask an LLM for a confidence score</title>
-      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
-      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
+      <title>Explain This – select text, get an explanation from a local LLM</title>
+      <link>https://github.com/Vishwamitra/explain-this</link>
+      <guid isPermaLink="false">https://github.com/Vishwamitra/explain-this</guid>
       <category>model</category>
-      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 08:34:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +67,14 @@
       <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
       <category>model</category>
       <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Don&#x27;t ask an LLM for a confidence score</title>
+      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
+      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>My Local LLM Scored 6/6. It Was Wrong Every Time</title>
-      <link>https://markbhall.dev/writing/my-local-llm-scored-6-of-6/</link>
-      <guid isPermaLink="false">https://markbhall.dev/writing/my-local-llm-scored-6-of-6/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 20:59:08 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Hetzner is working on LLM Inference</title>
-      <link>https://sliplane.io/blog/hetzner-inference</link>
-      <guid isPermaLink="false">https://sliplane.io/blog/hetzner-inference</guid>
-      <category>model</category>
-      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>From /Init to Code Execution with Opus 5 – An Indirect Prompt Injection Story</title>
       <link>https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</link>
       <guid isPermaLink="false">https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</guid>
@@ -126,19 +126,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10188</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10188</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10188</guid>
+      <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
+      <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</link>
+      <guid isPermaLink="false">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</guid>
       <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 08:59:39 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 30 Jul 2026 13:00:18 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10186</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10186</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10186</guid>
+      <title>llama.cpp: b10192</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10192</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10192</guid>
       <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 07:37:42 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 13:46:51 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,11 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10184</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10184</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10184</guid>
+      <title>llama.cpp: b10189</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10189</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10189</guid>
       <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 04:42:03 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 09:35:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10188</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10188</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10188</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 08:59:39 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,19 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
-      <link>https://github.com/DevMando/MandoCode.Desktop</link>
-      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
-      <category>harness</category>
-      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
       <link>https://github.com/FedericoTs/quantprobe</link>
       <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
+      <link>https://github.com/DevMando/MandoCode.Desktop</link>
+      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,14 +198,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
-      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
-      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
-      <category>harness</category>
-      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Kimi-K3 on Ollama</title>
       <link>https://ollama.com/library/kimi-k3</link>
       <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
@@ -206,19 +206,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
+      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
+      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
+      <category>harness</category>
+      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Self Hosting LLMs with Llama.cpp</title>
       <link>https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</link>
       <guid isPermaLink="false">https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</guid>
       <category>harness</category>
       <pubDate>Tue, 28 Jul 2026 11:02:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A production-grade OCR pipeline on Kubernetes with vLLM and Rust</title>
-      <link>https://github.com/neural-maze/production-ocr-course</link>
-      <guid isPermaLink="false">https://github.com/neural-maze/production-ocr-course</guid>
-      <category>harness</category>
-      <pubDate>Fri, 24 Jul 2026 15:25:16 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

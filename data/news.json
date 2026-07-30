@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T09:09:27.874192+00:00",
+  "generated_at": "2026-07-30T14:39:03.229382+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 231,
+        "score": 344,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
@@ -25,25 +25,36 @@
         }
       },
       {
-        "title": "Explain This – select text, get an explanation from a local LLM",
-        "url": "https://github.com/Vishwamitra/explain-this",
+        "title": "Open-weights AI models have become good enough",
+        "url": "https://blog.senko.net/open-weights-ai-models-have-become-good-enough",
         "source": "hn",
-        "score": 1,
-        "published": "2026-07-30T08:34:46Z",
+        "score": 4,
+        "published": "2026-07-30T09:57:16Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
         "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
         "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
         "source": "hn",
-        "score": 37,
+        "score": 39,
         "published": "2026-07-29T18:42:50Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 26 points)"
+        }
+      },
+      {
+        "title": "Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)",
+        "url": "https://github.com/robolamp/smol-llm-proxy",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-30T10:56:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,14 +69,14 @@
         }
       },
       {
-        "title": "Don't ask an LLM for a confidence score",
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "title": "Explain This – select text, get an explanation from a local LLM",
+        "url": "https://github.com/Vishwamitra/explain-this",
         "source": "hn",
-        "score": 90,
-        "published": "2026-07-28T00:06:53Z",
+        "score": 2,
+        "published": "2026-07-30T08:34:46Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -77,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 286 points)"
+        }
+      },
+      {
+        "title": "Don't ask an LLM for a confidence score",
+        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "source": "hn",
+        "score": 90,
+        "published": "2026-07-28T00:06:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
         }
       },
       {
@@ -94,7 +116,7 @@
         "title": "Truth is not a direction: a Tarski attack on LLM probes",
         "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
         "source": "hn",
-        "score": 108,
+        "score": 109,
         "published": "2026-07-27T12:56:36Z",
         "truthiness": {
           "label": "green",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
-        }
-      },
-      {
-        "title": "My Local LLM Scored 6/6. It Was Wrong Every Time",
-        "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-07-29T20:59:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Hetzner is working on LLM Inference",
-        "url": "https://sliplane.io/blog/hetzner-inference",
-        "source": "hn",
-        "score": 155,
-        "published": "2026-07-24T09:24:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 155 points)"
         }
       }
     ],
@@ -172,22 +172,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10188",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10188",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T08:59:39+00:00",
+        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-30T13:00:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "llama.cpp: b10186",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10186",
+        "title": "llama.cpp: b10192",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10192",
         "source": "rss",
         "score": 0,
-        "published": "2026-07-30T07:37:42+00:00",
+        "published": "2026-07-30T13:46:51+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -197,7 +197,7 @@
         "title": "Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
         "url": "https://github.com/coderredlab/runNburn",
         "source": "hn",
-        "score": 3,
+        "score": 8,
         "published": "2026-07-30T01:30:13Z",
         "truthiness": {
           "label": "red",
@@ -205,11 +205,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10184",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10184",
+        "title": "llama.cpp: b10189",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10189",
         "source": "rss",
         "score": 0,
-        "published": "2026-07-30T04:42:03+00:00",
+        "published": "2026-07-30T09:35:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10188",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10188",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-30T08:59:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +238,6 @@
         }
       },
       {
-        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
-        "url": "https://github.com/DevMando/MandoCode.Desktop",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-07-29T16:48:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp",
         "url": "https://github.com/FedericoTs/quantprobe",
         "source": "hn",
@@ -246,6 +246,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+        "url": "https://github.com/DevMando/MandoCode.Desktop",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-07-29T16:48:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -260,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama",
-        "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-28T14:33:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Kimi-K3 on Ollama",
         "url": "https://ollama.com/library/kimi-k3",
         "source": "hn",
@@ -282,6 +282,17 @@
         }
       },
       {
+        "title": "Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama",
+        "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-28T14:33:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Self Hosting LLMs with Llama.cpp",
         "url": "https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp",
         "source": "hn",
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "A production-grade OCR pipeline on Kubernetes with vLLM and Rust",
-        "url": "https://github.com/neural-maze/production-ocr-course",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-07-24T15:25:16Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       }
     ]
