@@ -1,0 +1,73 @@
+name: Update news feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache local truthiness model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: qwen2.5-1.5b-instruct-gguf-q4_k_m
+
+      - name: Install dependencies
+        run: pip install llama-cpp-python huggingface_hub
+
+      - name: Fetch news
+        id: fetch
+        continue-on-error: true
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: python3 scripts/fetch_news.py
+
+      - name: Score truthiness
+        if: steps.fetch.outcome == 'success'
+        continue-on-error: true
+        run: python3 scripts/evaluate_truthiness.py
+
+      - name: Commit updated data
+        if: steps.fetch.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/archive feed.xml
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update news feed"
+            git push
+          fi
+
+      - name: File issue on total feed failure
+        if: steps.fetch.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create "feed-broken" --color "d73a4a" --description "Scheduled fetch returned zero items" 2>/dev/null || true
+          existing=$(gh issue list --search "Feed fetch returned zero items" --state open --json number --jq '.[0].number // empty')
+          body="The scheduled fetch at $(date -u +%Y-%m-%dT%H:%M:%SZ) returned zero items across all sections, or errored outright. Check the run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "Feed fetch returned zero items" --body "$body" --label "feed-broken"
+          fi
