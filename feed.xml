@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 23:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:05:02 +0000</lastBuildDate>
     <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
       <category>model</category>
       <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>My Local LLM Scored 6/6. It Was Wrong Every Time</title>
+      <link>https://markbhall.dev/writing/my-local-llm-scored-6-of-6/</link>
+      <guid isPermaLink="false">https://markbhall.dev/writing/my-local-llm-scored-6-of-6/</guid>
+      <category>model</category>
+      <pubDate>Wed, 29 Jul 2026 20:59:08 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac</title>
-      <link>https://github.com/scouttyg/writekin</link>
-      <guid isPermaLink="false">https://github.com/scouttyg/writekin</guid>
-      <category>model</category>
-      <pubDate>Tue, 28 Jul 2026 19:05:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>From /Init to Code Execution with Opus 5 – An Indirect Prompt Injection Story</title>
       <link>https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</link>
       <guid isPermaLink="false">https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</guid>
@@ -142,20 +142,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10182</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10182</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10182</guid>
-      <category>harness</category>
-      <pubDate>Wed, 29 Jul 2026 17:03:28 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
       <link>https://github.com/FedericoTs/quantprobe</link>
       <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10182</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10182</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10182</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 17:03:28 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10181</title>
