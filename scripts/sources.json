@@ -1,0 +1,42 @@
+{
+  "hn_queries": [
+    "local llm", "open weight model", "llama.cpp", "ollama", "vllm",
+    "quantization llm", "prompt injection", "llm jailbreak",
+    "gguf model", "on-device inference"
+  ],
+  "rss_feeds": [
+    {"url": "https://github.com/ggml-org/llama.cpp/releases.atom", "label": "llama.cpp"},
+    {"url": "https://github.com/ollama/ollama/releases.atom", "label": "ollama"},
+    {"url": "https://github.com/vllm-project/vllm/releases.atom", "label": "vLLM"},
+    {"url": "https://github.com/oobabooga/text-generation-webui/releases.atom", "label": "text-generation-webui"},
+    {"url": "https://github.com/LostRuins/koboldcpp/releases.atom", "label": "koboldcpp"},
+    {"url": "https://github.com/ml-explore/mlx-lm/releases.atom", "label": "mlx-lm"},
+    {"url": "https://github.com/sgl-project/sglang/releases.atom", "label": "sglang"},
+    {"url": "https://huggingface.co/blog/feed.xml", "label": "Hugging Face blog"}
+  ],
+  "keywords": {
+    "security": [
+      "cve", "vulnerabilit", "exploit", "jailbreak", "prompt injection",
+      "backdoor", "malware", "rce", "remote code execution", "poison",
+      "supply chain", "adversarial", "red team", "red-team", "security flaw",
+      "data leak", "leaked", "sandbox escape", "arbitrary code"
+    ],
+    "harness": [
+      "llama.cpp", "llamacpp", "ollama", "vllm", "exllama", "lm studio",
+      "lmstudio", "text-generation-webui", "textgen webui", "koboldcpp",
+      "mlx", "gguf", "quantiz", "sglang", "tabbyapi", "llamafile",
+      "inference engine", "mcp server", "model context protocol",
+      "agent framework", "langchain", "llamaindex", "runtime", "serving stack"
+    ],
+    "model": [
+      "llm", "model", "weights", "fine-tun", "finetun", "benchmark", "param",
+      "release", "checkpoint", "open weight", "open-weight", "distill",
+      "moe", "mixture of experts", "context window", "training run",
+      "dataset", "reasoning model"
+    ]
+  },
+  "truthiness_model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+    "filename": "qwen2.5-1.5b-instruct-q4_k_m.gguf"
+  }
+}

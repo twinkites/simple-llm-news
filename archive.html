@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archive - Simple News</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+try {
+  if (localStorage.getItem("simplenews:theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+} catch {}
+</script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-row">
+    <div class="wordmark-group">
+      <img src="assets/logo.svg" alt="" class="logo" width="40" height="40">
+      <div>
+        <h1 class="wordmark">Simple News</h1>
+        <p class="byline">by Twin Kites LLC</p>
+      </div>
+    </div>
+    <div class="masthead-right">
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">dark</button>
+      <p class="tagline">archive, browse past daily snapshots</p>
+    </div>
+  </div>
+  <p class="meta-line"><a href="index.html">back to latest</a></p>
+</header>
+
+<main class="board single-column">
+  <section class="column">
+    <h2 class="col-head"><span class="prompt">$</span> archive_dates</h2>
+    <p class="col-sub">one snapshot per day, kept for 90 days</p>
+    <ol class="entries" id="archive-list" aria-live="polite"></ol>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>&copy; <span id="year"></span> Twin Kites LLC</p>
+  <p class="footnote">
+    <a href="index.html">Home</a> ·
+    <a href="methodology.html">Truthiness methodology</a> ·
+    <a href="disclaimer.html">Content disclaimer</a> ·
+    <a href="privacy.html">Privacy</a>
+  </p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script>
+document.getElementById("year").textContent = new Date().getFullYear();
+
+async function main() {
+  const list = document.getElementById("archive-list");
+  try {
+    const res = await fetch("data/archive/index.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`fetch failed: ${res.status}`);
+    const data = await res.json();
+    const dates = data.dates || [];
+
+    if (dates.length === 0) {
+      const p = document.createElement("p");
+      p.className = "empty-state";
+      p.textContent = "no archived snapshots yet";
+      list.parentElement.appendChild(p);
+      return;
+    }
+
+    for (const date of dates) {
+      const li = document.createElement("li");
+      li.className = "entry";
+      const a = document.createElement("a");
+      a.className = "entry-title";
+      a.href = `index.html?date=${encodeURIComponent(date)}`;
+      a.textContent = date;
+      li.appendChild(a);
+      list.appendChild(li);
+    }
+  } catch (err) {
+    const p = document.createElement("p");
+    p.className = "error-state";
+    p.textContent = "could not load archive index";
+    list.parentElement.appendChild(p);
+    console.error(err);
+  }
+}
+
+main();
+</script>
+</body>
+</html>

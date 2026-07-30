@@ -1,0 +1,12 @@
+{
+  "days": [
+    {
+      "date": "2026-07-29",
+      "counts": {
+        "model": 12,
+        "security": 3,
+        "harness": 12
+      }
+    }
+  ]
+}

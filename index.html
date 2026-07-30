@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simple News - local open-weight model intelligence</title>
+<meta name="description" content="A daily digest of local open-weight model news, security research, and inference harness updates, pulled from r/LocalLLaMA, Hacker News, and official project release feeds.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Simple News" href="feed.xml">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+try {
+  if (localStorage.getItem("simplenews:theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+} catch {}
+</script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-row">
+    <div class="wordmark-group">
+      <img src="assets/logo.svg" alt="" class="logo" width="40" height="40">
+      <div>
+        <h1 class="wordmark">Simple News</h1>
+        <p class="byline">by Twin Kites LLC</p>
+      </div>
+    </div>
+    <div class="masthead-right">
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">dark</button>
+      <p class="tagline">local open-weight model intelligence, three feeds, refreshed automatically<br>no tracking, ever.</p>
+    </div>
+  </div>
+  <p class="meta-line" id="updated-line">syncing...</p>
+  <p class="meta-line" id="archive-banner" hidden></p>
+  <div class="legend truth-key">
+    <span class="legend-item"><span class="truth-dot truth-green"></span> truthy</span>
+    <span class="legend-item"><span class="truth-dot truth-yellow"></span> neutral</span>
+    <span class="legend-item"><span class="truth-dot truth-red"></span> untruthy</span>
+    <a class="legend-link" href="methodology.html">how this is scored</a>
+  </div>
+</header>
+
+<main class="board" id="board">
+  <section class="column" data-section="model">
+    <h2 class="col-head"><span class="prompt">$</span> model_news</h2>
+    <p class="col-sub">releases, weights, benchmarks</p>
+    <input class="filter" type="search" placeholder="filter..." aria-label="Filter model news" data-target="model">
+    <ol class="entries" id="model-entries" aria-live="polite"></ol>
+  </section>
+
+  <section class="column" data-section="security">
+    <h2 class="col-head"><span class="prompt">$</span> security_news</h2>
+    <p class="col-sub">vulnerabilities, jailbreaks, patches</p>
+    <input class="filter" type="search" placeholder="filter..." aria-label="Filter security news" data-target="security">
+    <ol class="entries" id="security-entries" aria-live="polite"></ol>
+  </section>
+
+  <section class="column" data-section="harness">
+    <h2 class="col-head"><span class="prompt">$</span> harness_news</h2>
+    <p class="col-sub">llama.cpp, ollama, vLLM, and friends</p>
+    <input class="filter" type="search" placeholder="filter..." aria-label="Filter harness news" data-target="harness">
+    <ol class="entries" id="harness-entries" aria-live="polite"></ol>
+  </section>
+</main>
+
+<section class="history" aria-label="Daily item volume by section">
+  <h2 class="col-head history-head"><span class="prompt">$</span> history <span class="history-sub">last 30 days, by section</span></h2>
+  <div class="history-chart" id="history-chart"></div>
+  <div class="history-labels" id="history-labels"></div>
+</section>
+
+<footer class="site-footer">
+  <p>&copy; <span id="year"></span> Twin Kites LLC</p>
+  <p class="footnote">
+    Sources: r/LocalLLaMA, Hacker News, and project release feeds. Not affiliated with Reddit or Y Combinator.
+    <a href="feed.xml">RSS</a> ·
+    <a href="archive.html">Archive</a> ·
+    <a href="methodology.html">Truthiness methodology</a> ·
+    <a href="disclaimer.html">Content disclaimer</a> ·
+    <a href="privacy.html">Privacy</a>
+  </p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

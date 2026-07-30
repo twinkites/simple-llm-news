@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Simple News</title>
+    <link>https://twinkites.github.io/simple-llm-news/</link>
+    <description>Local open-weight model news, security news, and harness news.</description>
+    <lastBuildDate>Wed, 29 Jul 2026 23:43:24 +0000</lastBuildDate>
+    <item>
+      <title>Our position on open-weights models</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
+      <category>model</category>
+      <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
+      <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
+      <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
+      <category>model</category>
+      <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
+      <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
+      <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
+      <category>model</category>
+      <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Don&#x27;t ask an LLM for a confidence score</title>
+      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
+      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
+      <link>https://github.com/slvDev/esp32-ai</link>
+      <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
+      <category>model</category>
+      <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
+      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
+      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
+      <category>model</category>
+      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</title>
+      <link>https://news.ycombinator.com/item?id=49026810</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49026810</guid>
+      <category>model</category>
+      <pubDate>Thu, 23 Jul 2026 19:26:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLM Usage in Debian: Three Proposals</title>
+      <link>https://www.debian.org/vote/2026/vote_002</link>
+      <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
+      <category>model</category>
+      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>What NPU Tops Doesn&#x27;t Tell You: How Memory Bounds Local LLM Performance</title>
+      <link>https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/</link>
+      <guid isPermaLink="false">https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/</guid>
+      <category>model</category>
+      <pubDate>Wed, 29 Jul 2026 15:34:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Hetzner is working on LLM Inference</title>
+      <link>https://sliplane.io/blog/hetzner-inference</link>
+      <guid isPermaLink="false">https://sliplane.io/blog/hetzner-inference</guid>
+      <category>model</category>
+      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Becoming a Research Engineer at a Big LLM Lab</title>
+      <link>https://www.maxmynter.com/pages/blog/jobhunt</link>
+      <guid isPermaLink="false">https://www.maxmynter.com/pages/blog/jobhunt</guid>
+      <category>model</category>
+      <pubDate>Sat, 25 Jul 2026 21:19:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac</title>
+      <link>https://github.com/scouttyg/writekin</link>
+      <guid isPermaLink="false">https://github.com/scouttyg/writekin</guid>
+      <category>model</category>
+      <pubDate>Tue, 28 Jul 2026 19:05:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>From /Init to Code Execution with Opus 5 – An Indirect Prompt Injection Story</title>
+      <link>https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</link>
+      <guid isPermaLink="false">https://veganmosfet.codeberg.page/posts/2026-07-27-opus5/</guid>
+      <category>security</category>
+      <pubDate>Mon, 27 Jul 2026 15:38:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: An interactive way to exploit an LLM without going to jail</title>
+      <link>https://github.com/joshfischer1108/jailbreak-lab</link>
+      <guid isPermaLink="false">https://github.com/joshfischer1108/jailbreak-lab</guid>
+      <category>security</category>
+      <pubDate>Sun, 26 Jul 2026 18:16:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A Mechanistic Explanation of Prompt Injection (and why you should study roles)</title>
+      <link>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</link>
+      <guid isPermaLink="false">https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</guid>
+      <category>security</category>
+      <pubDate>Wed, 22 Jul 2026 13:40:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
+      <link>https://github.com/DevMando/MandoCode.Desktop</link>
+      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
+      <link>https://github.com/mraza007/minute</link>
+      <guid isPermaLink="false">https://github.com/mraza007/minute</guid>
+      <category>harness</category>
+      <pubDate>Tue, 28 Jul 2026 19:31:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10182</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10182</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10182</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 17:03:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
+      <link>https://github.com/FedericoTs/quantprobe</link>
+      <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10181</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10181</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10181</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 15:11:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10180</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10180</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10180</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 14:35:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
+      <link>https://vllm.ai/blog/2026-07-27-k3</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
+      <category>harness</category>
+      <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
+      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
+      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
+      <category>harness</category>
+      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kimi-K3 on Ollama</title>
+      <link>https://ollama.com/library/kimi-k3</link>
+      <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
+      <category>harness</category>
+      <pubDate>Mon, 27 Jul 2026 17:07:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Self Hosting LLMs with Llama.cpp</title>
+      <link>https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</link>
+      <guid isPermaLink="false">https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</guid>
+      <category>harness</category>
+      <pubDate>Tue, 28 Jul 2026 11:02:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A production-grade OCR pipeline on Kubernetes with vLLM and Rust</title>
+      <link>https://github.com/neural-maze/production-ocr-course</link>
+      <guid isPermaLink="false">https://github.com/neural-maze/production-ocr-course</guid>
+      <category>harness</category>
+      <pubDate>Fri, 24 Jul 2026 15:25:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.26.1rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.26.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.26.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 27 Jul 2026 21:47:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+  </channel>
+</rss>

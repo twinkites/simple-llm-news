@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy - Simple News</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+try {
+  if (localStorage.getItem("simplenews:theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+} catch {}
+</script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-row">
+    <div class="wordmark-group">
+      <img src="assets/logo.svg" alt="" class="logo" width="40" height="40">
+      <div>
+        <h1 class="wordmark">Simple News</h1>
+        <p class="byline">by Twin Kites LLC</p>
+      </div>
+    </div>
+    <div class="masthead-right">
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">dark</button>
+      <p class="tagline">privacy statement</p>
+    </div>
+  </div>
+  <p class="meta-line"><a href="index.html">back to latest</a></p>
+</header>
+
+<main class="board single-column">
+  <section class="column">
+    <h2 class="col-head"><span class="prompt">$</span> privacy</h2>
+    <p class="col-sub">what actually happens when you visit, in full</p>
+
+    <div class="prose">
+      <p>
+        Simple News doesn't have accounts, cookies, analytics, or trackers
+        of any kind that we add ourselves. Here is a complete, specific
+        account of what actually touches your browser or your data, so
+        this holds up to inspection rather than just being a slogan.
+      </p>
+
+      <h3>What we don't do</h3>
+      <ul>
+        <li>No account, sign-up, or login.</li>
+        <li>No cookies set by this site.</li>
+        <li>No analytics, ad trackers, or third-party scripts of any kind.</li>
+        <li>No fonts, images, or scripts loaded from third-party CDNs, everything the page needs (fonts included) is hosted on this same site.</li>
+      </ul>
+
+      <h3>What runs only in your browser, and stays there</h3>
+      <p>
+        Two small preferences are saved with the browser's built-in
+        <code>localStorage</code>, which never leaves your device and is
+        never sent to us or anyone else:
+      </p>
+      <ul>
+        <li><strong>Dark/light mode</strong> - which theme you last picked.</li>
+        <li><strong>Read/unread state</strong> - which headlines you've clicked, so they dim on your next visit.</li>
+      </ul>
+      <p>
+        You can clear both at any time through your browser's site data
+        settings, and clearing them has no effect on anything server-side
+        because there is no server-side record of them to begin with.
+      </p>
+
+      <h3>What's outside our control</h3>
+      <p>
+        This site is hosted on GitHub Pages. Like any web host, GitHub's
+        infrastructure necessarily sees the request that fetches this
+        page (your IP address, browser, and the URL requested) in order
+        to serve it, the same as any website you visit. That's GitHub's
+        server operation, governed by
+        <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub's own privacy statement</a>,
+        not something we configure, add to, or receive a copy of.
+      </p>
+      <p>
+        When you click a headline, you leave this site and land on the
+        original source (Reddit, Hacker News, GitHub, Hugging Face, and
+        so on), each governed by its own privacy policy from that point
+        on.
+      </p>
+
+      <h3>How the site itself is built</h3>
+      <p>
+        The three news lists are generated on a schedule by an automated
+        script that reads public APIs and feeds, no user data is involved
+        in that process at all, it runs independently of anyone visiting
+        the site. The truthiness labels are generated the same way, by a
+        small language model running as part of that same automated
+        build, described in full on the
+        <a href="methodology.html">methodology page</a>.
+      </p>
+
+      <h3>Questions</h3>
+      <p>
+        Contact <a href="mailto:twinkites@proton.me">twinkites@proton.me</a>
+        with any privacy question.
+      </p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>&copy; <span id="year"></span> Twin Kites LLC</p>
+  <p class="footnote">
+    <a href="index.html">Home</a> ·
+    <a href="methodology.html">Truthiness methodology</a> ·
+    <a href="disclaimer.html">Content disclaimer</a>
+  </p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>
