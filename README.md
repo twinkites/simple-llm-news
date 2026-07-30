@@ -9,7 +9,7 @@ feeds, refreshed a few times a day.
 
 No tracking. Trying to provide a simplier platform for updates in the chaos. 
 
-
+<https://twinkites.github.io/simple-llm-news/>
 
 By TwinKites LLC.
 
