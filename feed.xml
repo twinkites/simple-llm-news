@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 30 Jul 2026 14:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:58:02 +0000</lastBuildDate>
     <item>
       <title>LLM Honeypot</title>
       <link>https://llm2human.pages.dev/</link>
@@ -22,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weights AI models have become good enough</title>
-      <link>https://blog.senko.net/open-weights-ai-models-have-become-good-enough</link>
-      <guid isPermaLink="false">https://blog.senko.net/open-weights-ai-models-have-become-good-enough</guid>
+      <title>Show HN: Open-Cowork – an open-source, model-agnostic computer-use agent</title>
+      <link>https://github.com/coasty-ai/open-cowork</link>
+      <guid isPermaLink="false">https://github.com/coasty-ai/open-cowork</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 09:57:16 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 17:54:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)</title>
-      <link>https://github.com/robolamp/smol-llm-proxy</link>
-      <guid isPermaLink="false">https://github.com/robolamp/smol-llm-proxy</guid>
-      <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 10:56:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
       <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
       <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
@@ -54,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Explain This – select text, get an explanation from a local LLM</title>
-      <link>https://github.com/Vishwamitra/explain-this</link>
-      <guid isPermaLink="false">https://github.com/Vishwamitra/explain-this</guid>
+      <title>Open-weights AI models have become good enough</title>
+      <link>https://blog.senko.net/open-weights-ai-models-have-become-good-enough</link>
+      <guid isPermaLink="false">https://blog.senko.net/open-weights-ai-models-have-become-good-enough</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 08:34:46 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 09:57:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Don&#x27;t ask an LLM for a confidence score</title>
-      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
-      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</title>
       <link>https://news.ycombinator.com/item?id=49026810</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49026810</guid>
       <category>model</category>
       <pubDate>Thu, 23 Jul 2026 19:26:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Don&#x27;t ask an LLM for a confidence score</title>
+      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
+      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +86,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)</title>
+      <link>https://github.com/robolamp/smol-llm-proxy</link>
+      <guid isPermaLink="false">https://github.com/robolamp/smol-llm-proxy</guid>
+      <category>model</category>
+      <pubDate>Thu, 30 Jul 2026 10:56:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>LLM Usage in Debian: Three Proposals</title>
       <link>https://www.debian.org/vote/2026/vote_002</link>
       <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
       <category>model</category>
       <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Why prompt injection is still possible in LLM applications</title>
+      <link>https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</link>
+      <guid isPermaLink="false">https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</guid>
+      <category>security</category>
+      <pubDate>Thu, 30 Jul 2026 19:38:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,6 +134,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10198</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10198</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10198</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 19:39:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10197</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10197</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10197</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 19:07:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10196</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10196</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10196</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 18:30:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
       <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</link>
       <guid isPermaLink="false">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</guid>
@@ -134,36 +166,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10192</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10192</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10192</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 13:46:51 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop</title>
       <link>https://github.com/coderredlab/runNburn</link>
       <guid isPermaLink="false">https://github.com/coderredlab/runNburn</guid>
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10189</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10189</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10189</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 09:35:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10188</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10188</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10188</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 08:59:39 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
