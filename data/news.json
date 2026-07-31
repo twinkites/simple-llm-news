@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T03:57:39.699741+00:00",
+  "generated_at": "2026-07-31T09:23:30.649949+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 376,
+        "score": 380,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
-        "score": 1171,
+        "score": 1173,
         "published": "2026-07-27T22:03:49Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Genesis-Science-1, an Open-Weight Model for Scientific Research",
-        "url": "https://www.arcee.ai/science-1",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-07-31T02:15:22Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
         "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
         "source": "hn",
@@ -55,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 659 points)"
+        }
+      },
+      {
+        "title": "Genesis-Science-1, an Open-Weight Model for Scientific Research",
+        "url": "https://www.arcee.ai/science-1",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-31T02:15:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -72,7 +72,7 @@
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "source": "hn",
-        "score": 286,
+        "score": 287,
         "published": "2026-07-25T18:59:50Z",
         "truthiness": {
           "label": "green",
@@ -102,6 +102,17 @@
         }
       },
       {
+        "title": "LLM Usage in Debian: Three Proposals",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "hn",
+        "score": 215,
+        "published": "2026-07-25T19:44:39Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
+        }
+      },
+      {
         "title": "Truth is not a direction: a Tarski attack on LLM probes",
         "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "LLM Usage in Debian: Three Proposals",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "hn",
-        "score": 215,
-        "published": "2026-07-25T19:44:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
         }
       }
     ],
@@ -216,28 +216,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10198",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10198",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T19:39:26+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10197",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10197",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T19:07:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
         "url": "https://github.com/mraza007/minute",
         "source": "hn",
@@ -246,6 +224,28 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10200",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10200",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-30T19:59:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10198",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10198",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-30T19:39:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,17 +260,6 @@
         }
       },
       {
-        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
-        "url": "https://github.com/DevMando/MandoCode.Desktop",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-07-29T16:48:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Kimi K3 on vLLM: Up to 370 Tokens/sec",
         "url": "https://vllm.ai/blog/2026-07-27-k3",
         "source": "hn",
@@ -279,6 +268,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+        "url": "https://github.com/DevMando/MandoCode.Desktop",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-07-29T16:48:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {

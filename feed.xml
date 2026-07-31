@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 31 Jul 2026 03:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:23:30 +0000</lastBuildDate>
     <item>
       <title>LLM Honeypot</title>
       <link>https://llm2human.pages.dev/</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Genesis-Science-1, an Open-Weight Model for Scientific Research</title>
-      <link>https://www.arcee.ai/science-1</link>
-      <guid isPermaLink="false">https://www.arcee.ai/science-1</guid>
-      <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 02:15:22 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
       <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
       <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
       <category>model</category>
       <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Genesis-Science-1, an Open-Weight Model for Scientific Research</title>
+      <link>https://www.arcee.ai/science-1</link>
+      <guid isPermaLink="false">https://www.arcee.ai/science-1</guid>
+      <category>model</category>
+      <pubDate>Fri, 31 Jul 2026 02:15:22 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>LLM Usage in Debian: Three Proposals</title>
+      <link>https://www.debian.org/vote/2026/vote_002</link>
+      <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
+      <category>model</category>
+      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Truth is not a direction: a Tarski attack on LLM probes</title>
       <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
       <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://github.com/coasty-ai/open-cowork</guid>
       <category>model</category>
       <pubDate>Thu, 30 Jul 2026 17:54:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LLM Usage in Debian: Three Proposals</title>
-      <link>https://www.debian.org/vote/2026/vote_002</link>
-      <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
-      <category>model</category>
-      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,28 +158,28 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10198</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10198</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10198</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 19:39:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10197</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10197</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10197</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 19:07:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
       <link>https://github.com/mraza007/minute</link>
       <guid isPermaLink="false">https://github.com/mraza007/minute</guid>
       <category>harness</category>
       <pubDate>Tue, 28 Jul 2026 19:31:17 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10200</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10200</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10200</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 19:59:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10198</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10198</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10198</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 19:39:26 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
@@ -190,19 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
-      <link>https://github.com/DevMando/MandoCode.Desktop</link>
-      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
-      <category>harness</category>
-      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
       <link>https://vllm.ai/blog/2026-07-27-k3</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
       <category>harness</category>
       <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
+      <link>https://github.com/DevMando/MandoCode.Desktop</link>
+      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
