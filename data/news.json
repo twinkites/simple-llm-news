@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-31T09:23:30.649949+00:00",
+  "generated_at": "2026-07-31T14:43:06.512483+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
+        "url": "https://arxiv.org/abs/2607.28165",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-31T14:02:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 380,
+        "score": 382,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
@@ -17,22 +28,11 @@
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
-        "score": 1173,
+        "score": 1175,
         "published": "2026-07-27T22:03:49Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 1168 points)"
-        }
-      },
-      {
-        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
-        "url": "https://twitter.com/arcprize/status/2082925303601459347",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-07-30T23:32:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -47,14 +47,14 @@
         }
       },
       {
-        "title": "Genesis-Science-1, an Open-Weight Model for Scientific Research",
-        "url": "https://www.arcee.ai/science-1",
+        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
+        "url": "https://twitter.com/arcprize/status/2082925303601459347",
         "source": "hn",
-        "score": 2,
-        "published": "2026-07-31T02:15:22Z",
+        "score": 6,
+        "published": "2026-07-30T23:32:23Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -69,17 +69,6 @@
         }
       },
       {
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "hn",
-        "score": 287,
-        "published": "2026-07-25T18:59:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 286 points)"
-        }
-      },
-      {
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "source": "hn",
@@ -91,14 +80,14 @@
         }
       },
       {
-        "title": "Don't ask an LLM for a confidence score",
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://github.com/slvDev/esp32-ai",
         "source": "hn",
-        "score": 90,
-        "published": "2026-07-28T00:06:53Z",
+        "score": 287,
+        "published": "2026-07-25T18:59:50Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 286 points)"
         }
       },
       {
@@ -113,6 +102,17 @@
         }
       },
       {
+        "title": "Don't ask an LLM for a confidence score",
+        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "source": "hn",
+        "score": 90,
+        "published": "2026-07-28T00:06:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
+        }
+      },
+      {
         "title": "Truth is not a direction: a Tarski attack on LLM probes",
         "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Show HN: Open-Cowork – an open-source, model-agnostic computer-use agent",
-        "url": "https://github.com/coasty-ai/open-cowork",
+        "title": "Genesis-Science-1, an Open-Weight Model for Scientific Research",
+        "url": "https://www.arcee.ai/science-1",
         "source": "hn",
         "score": 2,
-        "published": "2026-07-30T17:54:59Z",
+        "published": "2026-07-31T02:15:22Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -183,6 +183,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10206",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10206",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-31T14:26:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10205",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10205",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-31T13:28:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10204",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10204",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-31T12:46:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
         "url": "https://github.com/coderredlab/runNburn",
         "source": "hn",
@@ -205,17 +238,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10199",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10199",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T20:34:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
         "url": "https://github.com/mraza007/minute",
         "source": "hn",
@@ -224,28 +246,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10200",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10200",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T19:59:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10198",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10198",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-30T19:39:26+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
