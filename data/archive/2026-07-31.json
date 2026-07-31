@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-31T14:43:06.512483+00:00",
+  "generated_at": "2026-07-31T20:00:22.692587+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
-        "url": "https://arxiv.org/abs/2607.28165",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-31T14:02:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 382,
+        "score": 383,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
@@ -36,6 +25,28 @@
         }
       },
       {
+        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+        "url": "https://github.com/grafana/ai-sdk",
+        "source": "hn",
+        "score": 58,
+        "published": "2026-07-30T11:55:39Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 58 points)"
+        }
+      },
+      {
+        "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
+        "url": "https://arxiv.org/abs/2607.28165",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-31T14:02:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
         "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
         "source": "hn",
@@ -44,28 +55,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 659 points)"
-        }
-      },
-      {
-        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
-        "url": "https://twitter.com/arcprize/status/2082925303601459347",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-07-30T23:32:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
-        "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
-        "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
-        "source": "hn",
-        "score": 40,
-        "published": "2026-07-29T18:42:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 26 points)"
         }
       },
       {
@@ -80,14 +69,14 @@
         }
       },
       {
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://github.com/slvDev/esp32-ai",
+        "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
+        "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
         "source": "hn",
-        "score": 287,
-        "published": "2026-07-25T18:59:50Z",
+        "score": 40,
+        "published": "2026-07-29T18:42:50Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 286 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 26 points)"
         }
       },
       {
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
+        }
+      },
+      {
+        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
+        "url": "https://twitter.com/arcprize/status/2082925303601459347",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-07-30T23:32:23Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10206",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10206",
+        "title": "llama.cpp: b10212",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10212",
         "source": "rss",
         "score": 0,
-        "published": "2026-07-31T14:26:42+00:00",
+        "published": "2026-07-31T19:27:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10205",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10205",
+        "title": "llama.cpp: b10211",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10211",
         "source": "rss",
         "score": 0,
-        "published": "2026-07-31T13:28:08+00:00",
+        "published": "2026-07-31T18:53:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10204",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10204",
+        "title": "llama.cpp: b10210",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10210",
         "source": "rss",
         "score": 0,
-        "published": "2026-07-31T12:46:45+00:00",
+        "published": "2026-07-31T18:11:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +227,6 @@
         }
       },
       {
-        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
-        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-30T13:00:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
         "url": "https://github.com/mraza007/minute",
         "source": "hn",
@@ -246,6 +235,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
+        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-30T13:00:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
