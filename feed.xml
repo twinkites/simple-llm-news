@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 03:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:39:03 +0000</lastBuildDate>
     <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLM Honeypot</title>
-      <link>https://llm2human.pages.dev/</link>
-      <guid isPermaLink="false">https://llm2human.pages.dev/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
       <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLM Honeypot</title>
+      <link>https://llm2human.pages.dev/</link>
+      <guid isPermaLink="false">https://llm2human.pages.dev/</guid>
+      <category>model</category>
+      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,14 +54,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
-      <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
-      <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>LLM Usage in Debian: Three Proposals</title>
       <link>https://www.debian.org/vote/2026/vote_002</link>
       <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
@@ -70,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
-      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
-      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
+      <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
+      <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
+      <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
       <category>model</category>
-      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
+      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
+      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
+      <category>model</category>
+      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents</title>
       <link>https://arxiv.org/abs/2607.28165</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2607.28165</guid>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize</title>
-      <link>https://twitter.com/arcprize/status/2082925303601459347</link>
-      <guid isPermaLink="false">https://twitter.com/arcprize/status/2082925303601459347</guid>
+      <title>Hetzner is working on LLM Inference</title>
+      <link>https://sliplane.io/blog/hetzner-inference</link>
+      <guid isPermaLink="false">https://sliplane.io/blog/hetzner-inference</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 23:32:23 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,6 +134,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10217</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10217</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10217</guid>
+      <category>harness</category>
+      <pubDate>Sat, 01 Aug 2026 06:52:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10216</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10216</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10216</guid>
@@ -147,14 +155,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10215</guid>
       <category>harness</category>
       <pubDate>Fri, 31 Jul 2026 21:33:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10214</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10214</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10214</guid>
-      <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 20:47:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

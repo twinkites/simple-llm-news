@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-08-01T03:57:08.525697+00:00",
+  "generated_at": "2026-08-01T08:39:03.669193+00:00",
   "sections": {
     "model": [
       {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
-        "score": 105,
+        "score": 118,
         "published": "2026-07-31T18:06:39Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
-        }
-      },
-      {
-        "title": "LLM Honeypot",
-        "url": "https://llm2human.pages.dev/",
-        "source": "hn",
-        "score": 383,
-        "published": "2026-07-29T22:51:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 231 points)"
         }
       },
       {
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 1168 points)"
+        }
+      },
+      {
+        "title": "LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
+        "source": "hn",
+        "score": 384,
+        "published": "2026-07-29T22:51:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 231 points)"
         }
       },
       {
@@ -69,6 +69,17 @@
         }
       },
       {
+        "title": "LLM Usage in Debian: Three Proposals",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "hn",
+        "score": 215,
+        "published": "2026-07-25T19:44:39Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
+        }
+      },
+      {
         "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
         "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
         "source": "hn",
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "LLM Usage in Debian: Three Proposals",
-        "url": "https://www.debian.org/vote/2026/vote_002",
+        "title": "Don't ask an LLM for a confidence score",
+        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
         "source": "hn",
-        "score": 215,
-        "published": "2026-07-25T19:44:39Z",
+        "score": 92,
+        "published": "2026-07-28T00:06:53Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Don't ask an LLM for a confidence score",
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "source": "hn",
-        "score": 90,
-        "published": "2026-07-28T00:06:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
-        }
-      },
-      {
         "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
         "url": "https://arxiv.org/abs/2607.28165",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
-        "url": "https://twitter.com/arcprize/status/2082925303601459347",
+        "title": "Hetzner is working on LLM Inference",
+        "url": "https://sliplane.io/blog/hetzner-inference",
         "source": "hn",
-        "score": 6,
-        "published": "2026-07-30T23:32:23Z",
+        "score": 156,
+        "published": "2026-07-24T09:24:44Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 156 points)"
         }
       }
     ],
@@ -183,6 +183,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10217",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-01T06:52:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10216",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10216",
         "source": "rss",
@@ -199,17 +210,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-07-31T21:33:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10214",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10214",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-31T20:47:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
