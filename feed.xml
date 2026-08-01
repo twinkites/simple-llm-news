@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 08:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 14:01:27 +0000</lastBuildDate>
     <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents</title>
-      <link>https://arxiv.org/abs/2607.28165</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28165</guid>
-      <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 14:02:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Hetzner is working on LLM Inference</title>
       <link>https://sliplane.io/blog/hetzner-inference</link>
       <guid isPermaLink="false">https://sliplane.io/blog/hetzner-inference</guid>
       <category>model</category>
       <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize</title>
+      <link>https://twitter.com/arcprize/status/2082925303601459347</link>
+      <guid isPermaLink="false">https://twitter.com/arcprize/status/2082925303601459347</guid>
+      <category>model</category>
+      <pubDate>Thu, 30 Jul 2026 23:32:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,12 +126,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A Mechanistic Explanation of Prompt Injection (and why you should study roles)</title>
-      <link>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</link>
-      <guid isPermaLink="false">https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</guid>
-      <category>security</category>
-      <pubDate>Wed, 22 Jul 2026 13:40:59 +0000</pubDate>
-      <source>hn</source>
+      <title>llama.cpp: b10218</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10218</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10218</guid>
+      <category>harness</category>
+      <pubDate>Sat, 01 Aug 2026 12:47:32 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.118</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</guid>
+      <category>harness</category>
+      <pubDate>Sat, 01 Aug 2026 11:02:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10217</title>
@@ -142,28 +150,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10216</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10216</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10216</guid>
-      <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 22:06:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10215</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10215</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10215</guid>
-      <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 21:33:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop</title>
       <link>https://github.com/coderredlab/runNburn</link>
       <guid isPermaLink="false">https://github.com/coderredlab/runNburn</guid>
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10216</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10216</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10216</guid>
+      <category>harness</category>
+      <pubDate>Fri, 31 Jul 2026 22:06:43 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
@@ -219,14 +219,6 @@
       <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
       <category>harness</category>
       <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Self Hosting LLMs with Llama.cpp</title>
-      <link>https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</link>
-      <guid isPermaLink="false">https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp</guid>
-      <category>harness</category>
-      <pubDate>Tue, 28 Jul 2026 11:02:26 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

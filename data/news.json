@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T08:39:03.669193+00:00",
+  "generated_at": "2026-08-01T14:01:27.769317+00:00",
   "sections": {
     "model": [
       {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
-        "score": 118,
+        "score": 124,
         "published": "2026-07-31T18:06:39Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
-        "score": 1175,
+        "score": 1176,
         "published": "2026-07-27T22:03:49Z",
         "truthiness": {
           "label": "green",
@@ -61,7 +61,7 @@
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "source": "hn",
-        "score": 288,
+        "score": 289,
         "published": "2026-07-25T18:59:50Z",
         "truthiness": {
           "label": "green",
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
-        "url": "https://arxiv.org/abs/2607.28165",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-31T14:02:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Hetzner is working on LLM Inference",
         "url": "https://sliplane.io/blog/hetzner-inference",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 156 points)"
+        }
+      },
+      {
+        "title": "Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize",
+        "url": "https://twitter.com/arcprize/status/2082925303601459347",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-07-30T23:32:23Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ],
@@ -168,48 +168,37 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
-        "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-07-22T13:40:59Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
+      {
+        "title": "llama.cpp: b10218",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10218",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-01T12:47:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.118",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-01T11:02:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "llama.cpp: b10217",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
         "source": "rss",
         "score": 0,
         "published": "2026-08-01T06:52:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10216",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10216",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-31T22:06:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10215",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10215",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-07-31T21:33:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -224,6 +213,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10216",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10216",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-07-31T22:06:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -298,17 +298,6 @@
         "source": "hn",
         "score": 2,
         "published": "2026-07-28T14:33:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Self Hosting LLMs with Llama.cpp",
-        "url": "https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-28T11:02:26Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
