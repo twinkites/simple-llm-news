@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 31 Jul 2026 20:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 03:57:08 +0000</lastBuildDate>
+    <item>
+      <title>Everyone is building LLM routers, we deprecated ours</title>
+      <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
+      <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
+      <category>model</category>
+      <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM Honeypot</title>
       <link>https://llm2human.pages.dev/</link>
@@ -19,22 +27,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
-      <link>https://github.com/grafana/ai-sdk</link>
-      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
-      <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents</title>
-      <link>https://arxiv.org/abs/2607.28165</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28165</guid>
-      <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 14:02:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
+      <link>https://github.com/slvDev/esp32-ai</link>
+      <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
+      <category>model</category>
+      <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
       <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
       <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
@@ -70,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize</title>
-      <link>https://twitter.com/arcprize/status/2082925303601459347</link>
-      <guid isPermaLink="false">https://twitter.com/arcprize/status/2082925303601459347</guid>
+      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
+      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
+      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 23:32:23 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
-      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
-      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
+      <title>Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents</title>
+      <link>https://arxiv.org/abs/2607.28165</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.28165</guid>
       <category>model</category>
-      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 14:02:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Genesis-Science-1, an Open-Weight Model for Scientific Research</title>
-      <link>https://www.arcee.ai/science-1</link>
-      <guid isPermaLink="false">https://www.arcee.ai/science-1</guid>
+      <title>Inkling Small is the highest-scoring open-weight model evaluated by ARC Prize</title>
+      <link>https://twitter.com/arcprize/status/2082925303601459347</link>
+      <guid isPermaLink="false">https://twitter.com/arcprize/status/2082925303601459347</guid>
       <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 02:15:22 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 23:32:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10212</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10212</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10212</guid>
+      <title>llama.cpp: b10216</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10216</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10216</guid>
       <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 19:27:55 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 22:06:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10211</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10211</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10211</guid>
+      <title>llama.cpp: b10215</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10215</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10215</guid>
       <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 18:53:35 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 21:33:48 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10210</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10210</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10210</guid>
+      <title>llama.cpp: b10214</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10214</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10214</guid>
       <category>harness</category>
-      <pubDate>Fri, 31 Jul 2026 18:11:48 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:47:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,19 +198,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
-      <link>https://github.com/DevMando/MandoCode.Desktop</link>
-      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
-      <category>harness</category>
-      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Kimi-K3 on Ollama</title>
       <link>https://ollama.com/library/kimi-k3</link>
       <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
       <category>harness</category>
       <pubDate>Mon, 27 Jul 2026 17:07:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET</title>
+      <link>https://github.com/DevMando/MandoCode.Desktop</link>
+      <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
