@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 03:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:41:21 +0000</lastBuildDate>
+    <item>
+      <title>Our position on open-weights models</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
+      <category>model</category>
+      <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
@@ -14,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Our position on open-weights models</title>
-      <link>https://www.anthropic.com/news/position-open-weights-models</link>
-      <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
+      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
+      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
+      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
       <category>model</category>
-      <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Goulash – heckler/helper to local-LLM your shell as little as possible</title>
-      <link>https://github.com/chaboud/goulash</link>
-      <guid isPermaLink="false">https://github.com/chaboud/goulash</guid>
-      <category>model</category>
-      <pubDate>Sat, 01 Aug 2026 16:33:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Truth is not a direction: a Tarski attack on LLM probes</title>
       <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
       <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
@@ -126,35 +126,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10223</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10223</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10223</guid>
+      <title>llama.cpp: b10225</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10225</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10225</guid>
       <category>harness</category>
-      <pubDate>Sat, 01 Aug 2026 22:50:00 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 08:32:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10221</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10221</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10221</guid>
+      <title>llama.cpp: b10226</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10226</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10226</guid>
       <category>harness</category>
-      <pubDate>Sat, 01 Aug 2026 19:31:46 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 08:16:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10219</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10219</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10219</guid>
+      <title>llama.cpp: b10224</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10224</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10224</guid>
       <category>harness</category>
-      <pubDate>Sat, 01 Aug 2026 16:48:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 07:06:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.118</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</guid>
+      <title>koboldcpp: koboldcpp-1.118.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
       <category>harness</category>
-      <pubDate>Sat, 01 Aug 2026 11:02:24 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 04:39:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,6 +172,14 @@
       <category>harness</category>
       <pubDate>Tue, 28 Jul 2026 19:31:17 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: v1.118</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</guid>
+      <category>harness</category>
+      <pubDate>Sat, 01 Aug 2026 03:17:16 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/DevMando/MandoCode.Desktop</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 16:48:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
-      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
-      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
-      <category>harness</category>
-      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

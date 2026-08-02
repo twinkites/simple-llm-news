@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-02T03:59:57.569524+00:00",
+  "generated_at": "2026-08-02T08:41:21.403832+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Everyone is building LLM routers, we deprecated ours",
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "source": "hn",
-        "score": 129,
-        "published": "2026-07-31T18:06:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
-        }
-      },
       {
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
@@ -25,10 +14,32 @@
         }
       },
       {
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "source": "hn",
+        "score": 130,
+        "published": "2026-07-31T18:06:39Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
+        }
+      },
+      {
+        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+        "url": "https://github.com/ANIRudH-lab-life/job-radar",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-02T05:30:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 384,
+        "score": 385,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
@@ -88,17 +99,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
-        }
-      },
-      {
-        "title": "Show HN: Goulash – heckler/helper to local-LLM your shell as little as possible",
-        "url": "https://github.com/chaboud/goulash",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-01T16:33:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -172,44 +172,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10223",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10223",
+        "title": "llama.cpp: b10225",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10225",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-01T22:50:00+00:00",
+        "published": "2026-08-02T08:32:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10221",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10221",
+        "title": "llama.cpp: b10226",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10226",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-01T19:31:46+00:00",
+        "published": "2026-08-02T08:16:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10219",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10219",
+        "title": "llama.cpp: b10224",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10224",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-01T16:48:03+00:00",
+        "published": "2026-08-02T07:06:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.118",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
+        "title": "koboldcpp: koboldcpp-1.118.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-01T11:02:24+00:00",
+        "published": "2026-08-02T04:39:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,6 +235,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: v1.118",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-01T03:17:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama",
-        "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-28T14:33:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
