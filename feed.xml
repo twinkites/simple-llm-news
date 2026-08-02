@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 14:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:41:16 +0000</lastBuildDate>
     <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
@@ -43,14 +43,6 @@
       <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
       <category>model</category>
       <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</title>
-      <link>https://news.ycombinator.com/item?id=49026810</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49026810</guid>
-      <category>model</category>
-      <pubDate>Thu, 23 Jul 2026 19:26:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,6 +94,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Hetzner is working on LLM Inference</title>
+      <link>https://sliplane.io/blog/hetzner-inference</link>
+      <guid isPermaLink="false">https://sliplane.io/blog/hetzner-inference</guid>
+      <category>model</category>
+      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anthropic&#x27;s Opus 5 Is Better at Resisting Prompt Injection</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</guid>
+      <category>security</category>
+      <pubDate>Sun, 02 Aug 2026 16:09:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Why prompt injection is still possible in LLM applications</title>
       <link>https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</link>
       <guid isPermaLink="false">https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</guid>
@@ -126,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10228</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10228</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10228</guid>
+      <title>llama.cpp: b10233</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10233</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10233</guid>
       <category>harness</category>
-      <pubDate>Sun, 02 Aug 2026 13:30:27 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 19:40:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10227</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10227</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10227</guid>
+      <title>llama.cpp: b10232</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10232</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10232</guid>
       <category>harness</category>
-      <pubDate>Sun, 02 Aug 2026 09:45:09 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 18:59:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10226</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10226</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10226</guid>
+      <title>llama.cpp: b10231</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10231</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10231</guid>
       <category>harness</category>
-      <pubDate>Sun, 02 Aug 2026 08:16:46 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 18:15:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
