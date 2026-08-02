@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:41:21.403832+00:00",
+  "generated_at": "2026-08-02T14:03:47.632731+00:00",
   "sections": {
     "model": [
       {
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-        "url": "https://github.com/ANIRudH-lab-life/job-radar",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-02T05:30:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
@@ -44,6 +33,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 231 points)"
+        }
+      },
+      {
+        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+        "url": "https://github.com/ANIRudH-lab-life/job-radar",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-02T05:30:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-        "url": "https://github.com/grafana/ai-sdk",
-        "source": "hn",
-        "score": 60,
-        "published": "2026-07-30T11:55:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
-        }
-      },
-      {
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 484 points)"
+        }
+      },
+      {
+        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+        "url": "https://github.com/grafana/ai-sdk",
+        "source": "hn",
+        "score": 60,
+        "published": "2026-07-30T11:55:39Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
         }
       },
       {
@@ -172,11 +172,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10225",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10225",
+        "title": "llama.cpp: b10228",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10228",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-02T08:32:05+00:00",
+        "published": "2026-08-02T13:30:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10227",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10227",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-02T09:45:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -188,17 +199,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-02T08:16:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10224",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10224",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-02T07:06:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
