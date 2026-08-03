@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 15:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 20:04:48 +0000</lastBuildDate>
+    <item>
+      <title>SQLite Critical CVEs or LLM Slop?</title>
+      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
+      <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
+      <category>model</category>
+      <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
@@ -38,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
-      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
-      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
+      <title>Predictive Speculative KV Replication for Bursty LLM Inference</title>
+      <link>https://jwlabs.vercel.app/post/biting-the-bullet</link>
+      <guid isPermaLink="false">https://jwlabs.vercel.app/post/biting-the-bullet</guid>
       <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 19:55:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +67,14 @@
       <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
       <category>model</category>
       <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
+      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
+      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
+      <category>model</category>
+      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Don&#x27;t ask an LLM for a confidence score</title>
-      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
-      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
-      <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
-      <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,6 +142,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10242</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10242</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10242</guid>
+      <category>harness</category>
+      <pubDate>Mon, 03 Aug 2026 17:24:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10241</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10241</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10241</guid>
@@ -155,14 +163,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10240</guid>
       <category>harness</category>
       <pubDate>Mon, 03 Aug 2026 14:32:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10238</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10238</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10238</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 08:59:25 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,6 +198,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
+      <link>https://github.com/FedericoTs/quantprobe</link>
+      <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
+      <category>harness</category>
+      <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
       <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</link>
       <guid isPermaLink="false">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</guid>
@@ -206,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
-      <link>https://github.com/FedericoTs/quantprobe</link>
-      <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
+      <title>Kimi-K3 on Ollama</title>
+      <link>https://ollama.com/library/kimi-k3</link>
+      <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
       <category>harness</category>
-      <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 17:07:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -222,19 +230,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Kimi-K3 on Ollama</title>
-      <link>https://ollama.com/library/kimi-k3</link>
-      <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
+      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
+      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
+      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
       <category>harness</category>
-      <pubDate>Mon, 27 Jul 2026 17:07:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A production-grade OCR pipeline on Kubernetes with vLLM and Rust</title>
-      <link>https://github.com/neural-maze/production-ocr-course</link>
-      <guid isPermaLink="false">https://github.com/neural-maze/production-ocr-course</guid>
-      <category>harness</category>
-      <pubDate>Fri, 24 Jul 2026 15:25:16 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

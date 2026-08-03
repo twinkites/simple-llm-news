@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-03T15:23:58.710911+00:00",
+  "generated_at": "2026-08-03T20:04:48.264350+00:00",
   "sections": {
     "model": [
+      {
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "source": "hn",
+        "score": 674,
+        "published": "2026-08-03T11:28:54Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 674 points)"
+        }
+      },
       {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 241,
+        "score": 319,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
-        "score": 1177,
+        "score": 1178,
         "published": "2026-07-27T22:03:49Z",
         "truthiness": {
           "label": "green",
@@ -47,14 +58,14 @@
         }
       },
       {
-        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+        "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-02T22:36:31Z",
+        "score": 41,
+        "published": "2026-07-31T19:55:41Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
         }
       },
       {
@@ -77,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-02T22:36:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 107 points)"
-        }
-      },
-      {
-        "title": "Don't ask an LLM for a confidence score",
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "source": "hn",
-        "score": 92,
-        "published": "2026-07-28T00:06:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
-        }
-      },
-      {
-        "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
-        "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
-        "source": "hn",
-        "score": 40,
-        "published": "2026-07-29T18:42:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 26 points)"
         }
       }
     ],
@@ -194,6 +194,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10242",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10242",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-03T17:24:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10241",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10241",
         "source": "rss",
@@ -210,17 +221,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-03T14:32:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10238",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10238",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-03T08:59:25+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
-        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-30T13:00:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp",
         "url": "https://github.com/FedericoTs/quantprobe",
         "source": "hn",
@@ -293,14 +282,14 @@
         }
       },
       {
-        "title": "koboldcpp: v1.118",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-01T03:17:16+00:00",
+        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-30T13:00:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -315,14 +304,25 @@
         }
       },
       {
-        "title": "A production-grade OCR pipeline on Kubernetes with vLLM and Rust",
-        "url": "https://github.com/neural-maze/production-ocr-course",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-07-24T15:25:16Z",
+        "title": "koboldcpp: v1.118",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-01T03:17:16+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama",
+        "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-07-28T14:33:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
