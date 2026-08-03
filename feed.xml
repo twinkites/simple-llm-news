@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 10:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:23:58 +0000</lastBuildDate>
+    <item>
+      <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
+      <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
+      <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
+      <category>model</category>
+      <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
@@ -38,27 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
-      <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
-      <guid isPermaLink="false">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
-      <category>model</category>
-      <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
       <link>https://github.com/slvDev/esp32-ai</link>
       <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
       <category>model</category>
       <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
-      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
-      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
-      <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,6 +67,14 @@
       <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
       <category>model</category>
       <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
+      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
+      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
+      <category>model</category>
+      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,6 +142,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10241</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10241</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10241</guid>
+      <category>harness</category>
+      <pubDate>Mon, 03 Aug 2026 15:00:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10240</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10240</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10240</guid>
+      <category>harness</category>
+      <pubDate>Mon, 03 Aug 2026 14:32:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10238</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10238</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10238</guid>
@@ -150,27 +166,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10237</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10237</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10237</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 07:51:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>koboldcpp: koboldcpp-1.118.1</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
       <category>harness</category>
       <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10236</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10236</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10236</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 05:13:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,19 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
-      <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</link>
-      <guid isPermaLink="false">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 13:00:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
       <link>https://vllm.ai/blog/2026-07-27-k3</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
       <category>harness</category>
       <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anthropic&#x27;s new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus</title>
+      <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</link>
+      <guid isPermaLink="false">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30</guid>
+      <category>harness</category>
+      <pubDate>Thu, 30 Jul 2026 13:00:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
