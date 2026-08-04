@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T09:15:45.265087+00:00",
+  "generated_at": "2026-08-04T14:45:54.636082+00:00",
   "sections": {
     "model": [
       {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
-        "score": 710,
+        "score": 715,
         "published": "2026-08-03T11:28:54Z",
         "truthiness": {
           "label": "green",
@@ -17,11 +17,33 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 476,
+        "score": 509,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
+        }
+      },
+      {
+        "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+        "url": "https://github.com/david-g-3654/homebench",
+        "source": "hn",
+        "score": 23,
+        "published": "2026-08-04T09:48:43Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 23 points)"
+        }
+      },
+      {
+        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-04T13:58:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -111,28 +133,6 @@
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 92 points)"
         }
-      },
-      {
-        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-        "url": "https://github.com/ANIRudH-lab-life/job-radar",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-08-02T05:30:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-02T22:36:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
@@ -194,44 +194,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10256",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10256",
+        "title": "vLLM Recipes",
+        "url": "https://recipes.vllm.ai",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-04T13:15:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10262",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10262",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T06:41:04+00:00",
+        "published": "2026-08-04T13:56:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10255",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10255",
+        "title": "llama.cpp: b10261",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10261",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T05:40:54+00:00",
+        "published": "2026-08-04T13:12:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10257",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10257",
+        "title": "llama.cpp: b10259",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10259",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T03:28:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.118.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-03T06:32:27+00:00",
+        "published": "2026-08-04T12:19:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -246,6 +246,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.118.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-03T06:32:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama",
-        "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-28T14:33:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

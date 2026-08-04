@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 09:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:45:54 +0000</lastBuildDate>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
@@ -20,6 +20,22 @@
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
+      <link>https://github.com/david-g-3654/homebench</link>
+      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 13:58:29 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Our position on open-weights models</title>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
-      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
-      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
-      <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
-      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
-      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
-      <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I built a prompt injection detector using only Go&#x27;s standard library</title>
       <link>https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</link>
       <guid isPermaLink="false">https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</guid>
@@ -142,35 +142,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10256</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10256</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10256</guid>
+      <title>vLLM Recipes</title>
+      <link>https://recipes.vllm.ai</link>
+      <guid isPermaLink="false">https://recipes.vllm.ai</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 06:41:04 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10262</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10262</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10262</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 13:56:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10255</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10255</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10255</guid>
+      <title>llama.cpp: b10261</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10261</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10261</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 05:40:54 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:12:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10257</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10257</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10257</guid>
+      <title>llama.cpp: b10259</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10259</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10259</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 03:28:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.118.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 12:19:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -180,6 +180,14 @@
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.118.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
@@ -228,14 +236,6 @@
       <category>harness</category>
       <pubDate>Sat, 01 Aug 2026 03:17:16 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Reply Better AI – browser AI writing that runs on-device or your Ollama</title>
-      <link>https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</link>
-      <guid isPermaLink="false">https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb</guid>
-      <category>harness</category>
-      <pubDate>Tue, 28 Jul 2026 14:33:53 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
