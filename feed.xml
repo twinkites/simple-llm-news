@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 14:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
+      <link>https://mistral.ai/news/shieldstral/</link>
+      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
@@ -30,12 +38,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
+      <title>Jailbreaking an LLM</title>
+      <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
+      <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
       <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 13:58:29 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Our position on open-weights models</title>
@@ -62,20 +70,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
-      <link>https://github.com/slvDev/esp32-ai</link>
-      <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
+      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
       <category>model</category>
-      <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LLM Usage in Debian: Three Proposals</title>
-      <link>https://www.debian.org/vote/2026/vote_002</link>
-      <guid isPermaLink="false">https://www.debian.org/vote/2026/vote_002</guid>
-      <category>model</category>
-      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 04 Aug 2026 13:58:29 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
@@ -142,6 +142,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>The Inference Engine Guide for K3 Deployment</title>
+      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
+      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10271</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10271</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10271</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 18:56:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 18:49:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM Recipes</title>
       <link>https://recipes.vllm.ai</link>
       <guid isPermaLink="false">https://recipes.vllm.ai</guid>
@@ -150,27 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10262</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10262</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10262</guid>
+      <title>llama.cpp: b10270</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10270</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10270</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 13:56:02 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:06:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10261</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10261</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10261</guid>
+      <title>llama.cpp: b10269</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10269</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10269</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 13:12:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10259</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10259</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10259</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 12:19:52 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 17:24:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -220,22 +236,6 @@
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 13:00:18 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Kimi-K3 on Ollama</title>
-      <link>https://ollama.com/library/kimi-k3</link>
-      <guid isPermaLink="false">https://ollama.com/library/kimi-k3</guid>
-      <category>harness</category>
-      <pubDate>Mon, 27 Jul 2026 17:07:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: v1.118</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118</guid>
-      <category>harness</category>
-      <pubDate>Sat, 01 Aug 2026 03:17:16 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>

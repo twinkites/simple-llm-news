@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-04T14:45:54.636082+00:00",
+  "generated_at": "2026-08-04T20:03:13.127808+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "source": "hn",
+        "score": 75,
+        "published": "2026-08-04T16:36:05Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 75 points)"
+        }
+      },
       {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
-        "score": 715,
+        "score": 719,
         "published": "2026-08-03T11:28:54Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 509,
+        "score": 519,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +39,7 @@
         "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
         "url": "https://github.com/david-g-3654/homebench",
         "source": "hn",
-        "score": 23,
+        "score": 56,
         "published": "2026-08-04T09:48:43Z",
         "truthiness": {
           "label": "green",
@@ -36,14 +47,14 @@
         }
       },
       {
-        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-04T13:58:29+00:00",
+        "title": "Jailbreaking an LLM",
+        "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-04T19:32:04Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -72,7 +83,7 @@
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
-        "score": 131,
+        "score": 132,
         "published": "2026-07-31T18:06:39Z",
         "truthiness": {
           "label": "green",
@@ -80,25 +91,14 @@
         }
       },
       {
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "hn",
-        "score": 289,
-        "published": "2026-07-25T18:59:50Z",
+        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-04T13:58:29+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 288 points)"
-        }
-      },
-      {
-        "title": "LLM Usage in Debian: Three Proposals",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "hn",
-        "score": 215,
-        "published": "2026-07-25T19:44:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 215 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -194,6 +194,39 @@
     ],
     "harness": [
       {
+        "title": "The Inference Engine Guide for K3 Deployment",
+        "url": "https://twitter.com/vllm_project/status/2081788542079123939",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-04T16:55:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10271",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10271",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-04T18:56:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-04T18:49:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "vLLM Recipes",
         "url": "https://recipes.vllm.ai",
         "source": "hn",
@@ -205,33 +238,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10262",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10262",
+        "title": "llama.cpp: b10270",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10270",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T13:56:02+00:00",
+        "published": "2026-08-04T18:06:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10261",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10261",
+        "title": "llama.cpp: b10269",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10269",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T13:12:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10259",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10259",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-04T12:19:52+00:00",
+        "published": "2026-08-04T17:24:01+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Kimi-K3 on Ollama",
-        "url": "https://ollama.com/library/kimi-k3",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-07-27T17:07:21Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: v1.118",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-01T03:17:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
