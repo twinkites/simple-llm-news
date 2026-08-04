@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 20:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 03:45:20 +0000</lastBuildDate>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
@@ -46,35 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Predictive Speculative KV Replication for Bursty LLM Inference</title>
-      <link>https://jwlabs.vercel.app/post/biting-the-bullet</link>
-      <guid isPermaLink="false">https://jwlabs.vercel.app/post/biting-the-bullet</guid>
-      <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 19:55:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
       <link>https://github.com/slvDev/esp32-ai</link>
       <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
       <category>model</category>
       <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
-      <link>https://github.com/grafana/ai-sdk</link>
-      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
-      <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
-      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
-      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
-      <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
-      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
-      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
+      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
+      <link>https://github.com/grafana/ai-sdk</link>
+      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
       <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -99,6 +75,30 @@
       <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Don&#x27;t ask an LLM for a confidence score</title>
+      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
+      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
+      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
+      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
+      <category>model</category>
+      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
+      <link>https://github.com/ANIRudH-lab-life/job-radar</link>
+      <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
+      <category>model</category>
+      <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10242</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10242</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10242</guid>
+      <title>llama.cpp: b10251</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10251</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10251</guid>
       <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 17:24:46 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:08:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10241</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10241</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10241</guid>
+      <title>llama.cpp: b10250</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10250</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10250</guid>
       <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 15:00:33 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 02:07:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10240</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10240</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10240</guid>
+      <title>llama.cpp: b10249</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10249</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10249</guid>
       <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 14:32:11 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 01:38:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
