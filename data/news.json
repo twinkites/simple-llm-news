@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T03:45:20.418860+00:00",
+  "generated_at": "2026-08-04T09:15:45.265087+00:00",
   "sections": {
     "model": [
       {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
-        "score": 701,
+        "score": 710,
         "published": "2026-08-03T11:28:54Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 409,
+        "score": 476,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -113,22 +113,22 @@
         }
       },
       {
-        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+        "url": "https://github.com/ANIRudH-lab-life/job-radar",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-02T22:36:31Z",
+        "score": 7,
+        "published": "2026-08-02T05:30:33Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-        "url": "https://github.com/ANIRudH-lab-life/job-radar",
+        "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+        "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
         "source": "hn",
-        "score": 7,
-        "published": "2026-08-02T05:30:33Z",
+        "score": 3,
+        "published": "2026-08-02T22:36:31Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -194,33 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10251",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10251",
+        "title": "llama.cpp: b10256",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10256",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T03:08:26+00:00",
+        "published": "2026-08-04T06:41:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10250",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10250",
+        "title": "llama.cpp: b10255",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10255",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T02:07:50+00:00",
+        "published": "2026-08-04T05:40:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10249",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10249",
+        "title": "llama.cpp: b10257",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10257",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T01:38:41+00:00",
+        "published": "2026-08-04T03:28:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,6 +260,17 @@
         }
       },
       {
+        "title": "Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp",
+        "url": "https://github.com/FedericoTs/quantprobe",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-07-29T03:47:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "Kimi K3 on vLLM: Up to 370 Tokens/sec",
         "url": "https://vllm.ai/blog/2026-07-27-k3",
         "source": "hn",
@@ -268,17 +279,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp",
-        "url": "https://github.com/FedericoTs/quantprobe",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-07-29T03:47:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {

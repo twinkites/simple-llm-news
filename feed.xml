@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 03:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:15:45 +0000</lastBuildDate>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
-      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
-      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
-      <category>model</category>
-      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>JobRadar: Open-source job search agent that scores listings with a local LLM</title>
       <link>https://github.com/ANIRudH-lab-life/job-radar</link>
       <guid isPermaLink="false">https://github.com/ANIRudH-lab-life/job-radar</guid>
       <category>model</category>
       <pubDate>Sun, 02 Aug 2026 05:30:33 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Teaching an AI to know itself: Building a local LLM agent in D</title>
+      <link>https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</link>
+      <guid isPermaLink="false">https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/</guid>
+      <category>model</category>
+      <pubDate>Sun, 02 Aug 2026 22:36:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10251</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10251</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10251</guid>
+      <title>llama.cpp: b10256</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10256</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10256</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 03:08:26 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 06:41:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10250</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10250</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10250</guid>
+      <title>llama.cpp: b10255</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10255</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10255</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 02:07:50 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 05:40:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10249</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10249</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10249</guid>
+      <title>llama.cpp: b10257</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10257</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10257</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 01:38:41 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:28:57 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,19 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
-      <link>https://vllm.ai/blog/2026-07-27-k3</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
-      <category>harness</category>
-      <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
       <link>https://github.com/FedericoTs/quantprobe</link>
       <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
+      <link>https://vllm.ai/blog/2026-07-27-k3</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
+      <category>harness</category>
+      <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
