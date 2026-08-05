@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T03:40:28.672661+00:00",
+  "generated_at": "2026-08-05T09:13:06.088385+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "source": "hn",
+        "score": 62,
+        "published": "2026-08-05T05:52:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 62 points)"
+        }
+      },
       {
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "score": 331,
+        "score": 405,
         "published": "2026-08-04T16:36:05Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +39,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 527,
+        "score": 531,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -61,22 +72,11 @@
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "score": 386,
+        "score": 387,
         "published": "2026-07-29T22:51:03Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 231 points)"
-        }
-      },
-      {
-        "title": "Jailbreaking an LLM",
-        "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-04T19:32:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -88,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
+        }
+      },
+      {
+        "title": "Jailbreaking an LLM",
+        "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-04T19:32:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 107 points)"
-        }
-      },
-      {
-        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-04T13:58:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -194,6 +194,39 @@
     ],
     "harness": [
       {
+        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-05T09:00:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM Recipes",
+        "url": "https://recipes.vllm.ai",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-04T13:15:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "The Inference Engine Guide for K3 Deployment",
+        "url": "https://twitter.com/vllm_project/status/2081788542079123939",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-04T16:55:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b10276",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10276",
         "source": "rss",
@@ -224,28 +257,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM Recipes",
-        "url": "https://recipes.vllm.ai",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-04T13:15:47Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "The Inference Engine Guide for K3 Deployment",
-        "url": "https://twitter.com/vllm_project/status/2081788542079123939",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-04T16:55:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
-        "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-30T13:00:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
