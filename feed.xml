@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 20:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:40:28 +0000</lastBuildDate>
     <item>
       <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
       <link>https://mistral.ai/news/shieldstral/</link>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Jailbreaking an LLM</title>
-      <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
-      <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
       <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
@@ -62,20 +54,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Jailbreaking an LLM</title>
+      <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
+      <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
       <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
       <category>model</category>
       <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 13:58:29 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
@@ -92,6 +84,14 @@
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 13:58:29 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Don&#x27;t ask an LLM for a confidence score</title>
@@ -142,27 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Inference Engine Guide for K3 Deployment</title>
-      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
-      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
+      <title>llama.cpp: b10276</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10276</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10276</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10271</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10271</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10271</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 18:56:37 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 00:23:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.32.6</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
+      <title>llama.cpp: b10275</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10275</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10275</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 18:49:20 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 23:50:55 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10274</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10274</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10274</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 23:14:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,19 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10270</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10270</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10270</guid>
+      <title>The Inference Engine Guide for K3 Deployment</title>
+      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
+      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 18:06:22 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10269</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10269</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10269</guid>
+      <title>ollama: v0.32.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 17:24:01 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 18:49:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.118.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
       <link>https://github.com/mraza007/minute</link>
       <guid isPermaLink="false">https://github.com/mraza007/minute</guid>
       <category>harness</category>
       <pubDate>Tue, 28 Jul 2026 19:31:17 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.118.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
