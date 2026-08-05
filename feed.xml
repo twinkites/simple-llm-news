@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 05 Aug 2026 09:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:40:06 +0000</lastBuildDate>
+    <item>
+      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
+      <link>https://mistral.ai/news/shieldstral/</link>
+      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Rust-lang/rust is adopting an LLM policy</title>
       <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
@@ -14,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
-      <link>https://mistral.ai/news/shieldstral/</link>
-      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
+      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
+      <link>https://arxiv.org/abs/2607.29377</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
       <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,6 +51,14 @@
       <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
       <category>model</category>
       <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: An open-weight background removal model for difficult images</title>
+      <link>https://withoutbg.com/open-model</link>
+      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
-      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
-      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
-      <category>model</category>
-      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Don&#x27;t ask an LLM for a confidence score</title>
-      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
-      <guid isPermaLink="false">https://justinflick.com/2026/07/27/llm-confidence-scores.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I built a prompt injection detector using only Go&#x27;s standard library</title>
       <link>https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</link>
       <guid isPermaLink="false">https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</guid>
@@ -142,12 +142,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10284</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10284</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10284</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 14:39:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10282</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10282</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10282</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 13:51:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
       <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
       <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10280</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10280</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10280</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 11:36:53 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM Recipes</title>
@@ -164,30 +188,6 @@
       <category>harness</category>
       <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10276</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10276</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10276</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 00:23:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10275</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10275</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10275</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 23:50:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10274</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10274</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10274</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 23:14:01 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.32.6</title>
