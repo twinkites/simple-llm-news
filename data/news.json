@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:40:06.570310+00:00",
+  "generated_at": "2026-08-05T20:01:19.519717+00:00",
   "sections": {
     "model": [
       {
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "score": 461,
+        "score": 468,
         "published": "2026-08-04T16:36:05Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Rust-lang/rust is adopting an LLM policy",
         "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
         "source": "hn",
-        "score": 83,
+        "score": 102,
         "published": "2026-08-05T05:52:24Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377",
         "source": "hn",
-        "score": 78,
+        "score": 82,
         "published": "2026-08-05T04:36:44Z",
         "truthiness": {
           "label": "green",
@@ -50,7 +50,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 532,
+        "score": 533,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -69,17 +69,6 @@
         }
       },
       {
-        "title": "Show HN: An open-weight background removal model for difficult images",
-        "url": "https://withoutbg.com/open-model",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-05T10:21:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 1168 points)"
+        }
+      },
+      {
+        "title": "Show HN: An open-weight background removal model for difficult images",
+        "url": "https://withoutbg.com/open-model",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-05T10:21:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -116,7 +116,7 @@
         "title": "Jailbreaking an LLM",
         "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-04T19:32:04Z",
         "truthiness": {
           "label": "red",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-        "url": "https://github.com/grafana/ai-sdk",
+        "title": "Truth is not a direction: a Tarski attack on LLM probes",
+        "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
         "source": "hn",
-        "score": 60,
-        "published": "2026-07-30T11:55:39Z",
+        "score": 110,
+        "published": "2026-07-27T12:56:36Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
         }
       }
     ],
@@ -179,37 +179,48 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Show HN: An interactive way to exploit an LLM without going to jail",
-        "url": "https://github.com/joshfischer1108/jailbreak-lab",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-07-26T18:16:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10284",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10284",
+        "title": "ollama: v0.32.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-05T14:39:36+00:00",
+        "published": "2026-08-05T19:46:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10282",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10282",
+        "title": "llama.cpp: b10288",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10288",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-05T13:51:57+00:00",
+        "published": "2026-08-05T17:42:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10287",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10287",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-05T17:06:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10286",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10286",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-05T16:24:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -219,22 +230,11 @@
         "title": "Building a Rust Inference Engine That Matches Llama.cpp",
         "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-05T09:00:07Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10280",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10280",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-05T11:36:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,11 +260,11 @@
         }
       },
       {
-        "title": "ollama: v0.32.6",
+        "title": "ollama: v0.32.6-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-04T18:49:20+00:00",
+        "published": "2026-08-04T16:51:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Kimi K3 on vLLM: Up to 370 Tokens/sec",
-        "url": "https://vllm.ai/blog/2026-07-27-k3",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-07-27T15:44:32Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       }
     ]

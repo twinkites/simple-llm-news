@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 05 Aug 2026 14:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:01:19 +0000</lastBuildDate>
     <item>
       <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
       <link>https://mistral.ai/news/shieldstral/</link>
@@ -54,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: An open-weight background removal model for difficult images</title>
-      <link>https://withoutbg.com/open-model</link>
-      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
-      <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Our position on open-weights models</title>
       <link>https://www.anthropic.com/news/position-open-weights-models</link>
       <guid isPermaLink="false">https://www.anthropic.com/news/position-open-weights-models</guid>
       <category>model</category>
       <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: An open-weight background removal model for difficult images</title>
+      <link>https://withoutbg.com/open-model</link>
+      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
-      <link>https://github.com/grafana/ai-sdk</link>
-      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
+      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
+      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
+      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
       <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: An interactive way to exploit an LLM without going to jail</title>
-      <link>https://github.com/joshfischer1108/jailbreak-lab</link>
-      <guid isPermaLink="false">https://github.com/joshfischer1108/jailbreak-lab</guid>
-      <category>security</category>
-      <pubDate>Sun, 26 Jul 2026 18:16:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10284</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10284</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10284</guid>
+      <title>ollama: v0.32.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
       <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 14:39:36 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 19:46:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10282</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10282</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10282</guid>
+      <title>llama.cpp: b10288</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10288</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10288</guid>
       <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 13:51:57 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 17:42:08 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10287</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10287</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10287</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 17:06:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10286</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10286</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10286</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 16:24:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -164,14 +172,6 @@
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10280</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10280</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10280</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 11:36:53 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM Recipes</title>
@@ -190,11 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.6</title>
+      <title>ollama: v0.32.6-rc0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 18:49:20 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 16:51:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -227,14 +227,6 @@
       <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
-      <link>https://vllm.ai/blog/2026-07-27-k3</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
-      <category>harness</category>
-      <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
