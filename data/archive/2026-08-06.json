@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T03:46:22.687699+00:00",
+  "generated_at": "2026-08-06T09:12:48.832560+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 161,
+        "score": 254,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "score": 475,
+        "score": 477,
         "published": "2026-08-04T16:36:05Z",
         "truthiness": {
           "label": "green",
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-        "url": "https://arxiv.org/abs/2607.29377",
-        "source": "hn",
-        "score": 93,
-        "published": "2026-08-05T04:36:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
+        }
+      },
+      {
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "url": "https://arxiv.org/abs/2607.29377",
+        "source": "hn",
+        "score": 95,
+        "published": "2026-08-05T04:36:44Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Jailbreaking an LLM",
-        "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
+        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+        "url": "https://usefeyn.com/blog/feynobg/",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-04T19:32:04Z",
+        "score": 121,
+        "published": "2026-07-27T16:59:08Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 121 points)"
         }
       }
     ],
@@ -183,22 +183,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10290",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10290",
+        "title": "llama.cpp: b10291",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10291",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-06T01:35:47+00:00",
+        "published": "2026-08-06T08:03:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10289",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10289",
+        "title": "llama.cpp: b10290",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10290",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-05T20:09:39+00:00",
+        "published": "2026-08-06T01:35:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,22 +216,22 @@
         }
       },
       {
-        "title": "ollama: v0.32.6",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6",
+        "title": "llama.cpp: b10289",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10289",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-05T19:46:52+00:00",
+        "published": "2026-08-05T20:09:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10288",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10288",
+        "title": "ollama: v0.32.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-05T17:42:08+00:00",
+        "published": "2026-08-05T19:46:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,17 +293,6 @@
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.118.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-03T06:32:27+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp",
         "url": "https://github.com/FedericoTs/quantprobe",
         "source": "hn",
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Kimi K3 on vLLM: Up to 370 Tokens/sec",
+        "url": "https://vllm.ai/blog/2026-07-27-k3",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-07-27T15:44:32Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       }
     ]

@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 06 Aug 2026 03:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:12:48 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
-      <link>https://arxiv.org/abs/2607.29377</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
-      <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
+      <link>https://arxiv.org/abs/2607.29377</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Jailbreaking an LLM</title>
-      <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
-      <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
+      <title>Show HN: FeyNoBg – Automatic background removal model and training library</title>
+      <link>https://usefeyn.com/blog/feynobg/</link>
+      <guid isPermaLink="false">https://usefeyn.com/blog/feynobg/</guid>
       <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:59:08 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10291</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10291</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10291</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 08:03:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10290</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10290</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10290</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 01:35:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10289</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10289</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10289</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 20:09:39 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10289</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10289</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10289</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 20:09:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.32.6</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 19:46:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10288</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10288</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10288</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 17:42:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,19 +214,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.118.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.118.1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 03 Aug 2026 06:32:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp</title>
       <link>https://github.com/FedericoTs/quantprobe</link>
       <guid isPermaLink="false">https://github.com/FedericoTs/quantprobe</guid>
       <category>harness</category>
       <pubDate>Wed, 29 Jul 2026 03:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kimi K3 on vLLM: Up to 370 Tokens/sec</title>
+      <link>https://vllm.ai/blog/2026-07-27-k3</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-07-27-k3</guid>
+      <category>harness</category>
+      <pubDate>Mon, 27 Jul 2026 15:44:32 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
