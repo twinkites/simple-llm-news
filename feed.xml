@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 06 Aug 2026 09:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:41:44 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Rust-lang/rust is adopting an LLM policy</title>
-      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
-      <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
-      <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Rust-lang/rust is adopting an LLM policy</title>
+      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
+      <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,6 +102,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>A stranger asked if I&#x27;d tested for prompt injection. They were right to ask</title>
+      <link>https://patch-security.com/notes/prompt-injection/</link>
+      <guid isPermaLink="false">https://patch-security.com/notes/prompt-injection/</guid>
+      <category>security</category>
+      <pubDate>Thu, 06 Aug 2026 13:25:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>I built a prompt injection detector using only Go&#x27;s standard library</title>
       <link>https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</link>
       <guid isPermaLink="false">https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</guid>
@@ -134,19 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10291</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10291</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10291</guid>
+      <title>llama.cpp: b10297</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10297</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10297</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 08:03:21 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:42:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10290</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10290</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10290</guid>
+      <title>llama.cpp: b10295</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10295</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10295</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 01:35:47 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 12:58:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10293</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10293</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10293</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 09:14:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -156,14 +172,6 @@
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10289</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10289</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10289</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 20:09:39 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.32.6</title>
@@ -190,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.6-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 16:51:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop</title>
       <link>https://github.com/coderredlab/runNburn</link>
       <guid isPermaLink="false">https://github.com/coderredlab/runNburn</guid>
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.6-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 04 Aug 2026 16:51:52 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T09:12:48.832560+00:00",
+  "generated_at": "2026-08-06T14:41:44.303052+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 254,
+        "score": 327,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "score": 477,
+        "score": 479,
         "published": "2026-08-04T16:36:05Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Rust-lang/rust is adopting an LLM policy",
-        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "source": "hn",
-        "score": 109,
-        "published": "2026-08-05T05:52:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 62 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -58,10 +47,21 @@
         }
       },
       {
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "source": "hn",
+        "score": 111,
+        "published": "2026-08-05T05:52:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 62 points)"
+        }
+      },
+      {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377",
         "source": "hn",
-        "score": 95,
+        "score": 96,
         "published": "2026-08-05T04:36:44Z",
         "truthiness": {
           "label": "green",
@@ -137,6 +137,17 @@
     ],
     "security": [
       {
+        "title": "A stranger asked if I'd tested for prompt injection. They were right to ask",
+        "url": "https://patch-security.com/notes/prompt-injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-06T13:25:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "I built a prompt injection detector using only Go's standard library",
         "url": "https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154",
         "source": "hn",
@@ -183,22 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10291",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10291",
+        "title": "llama.cpp: b10297",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10297",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-06T08:03:21+00:00",
+        "published": "2026-08-06T13:42:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10290",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10290",
+        "title": "llama.cpp: b10295",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10295",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-06T01:35:47+00:00",
+        "published": "2026-08-06T12:58:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10293",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10293",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-06T09:14:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -213,17 +235,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10289",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10289",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-05T20:09:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.32.6-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-04T16:51:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
         "url": "https://github.com/coderredlab/runNburn",
         "source": "hn",
@@ -279,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.6-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-04T16:51:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
