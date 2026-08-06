@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 05 Aug 2026 20:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 03:46:22 +0000</lastBuildDate>
+    <item>
+      <title>Born Against, or why hobby programming communities are against LLM usage</title>
+      <link>https://blog.fogus.me/llm/born-against.html</link>
+      <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
       <link>https://mistral.ai/news/shieldstral/</link>
       <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
       <category>model</category>
       <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>SQLite Critical CVEs or LLM Slop?</title>
+      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
+      <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
+      <category>model</category>
+      <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,27 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>SQLite Critical CVEs or LLM Slop?</title>
-      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
-      <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
-      <category>model</category>
-      <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
-      <link>https://github.com/david-g-3654/homebench</link>
-      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: An open-weight background removal model for difficult images</title>
-      <link>https://withoutbg.com/open-model</link>
-      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
+      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
+      <link>https://github.com/david-g-3654/homebench</link>
+      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
       <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: An open-weight background removal model for difficult images</title>
+      <link>https://withoutbg.com/open-model</link>
+      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
+      <category>model</category>
+      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Jailbreaking an LLM</title>
       <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
       <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
       <category>model</category>
       <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Truth is not a direction: a Tarski attack on LLM probes</title>
-      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
-      <guid isPermaLink="false">https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</guid>
-      <category>model</category>
-      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,6 +134,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10290</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10290</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10290</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 01:35:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10289</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10289</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10289</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 20:09:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
+      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
+      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.32.6</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
@@ -148,30 +172,6 @@
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 17:42:08 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10287</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10287</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10287</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 17:06:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10286</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10286</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10286</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 16:24:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>vLLM Recipes</title>
