@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T13:45:05.797005+00:00",
+  "generated_at": "2026-08-07T19:22:16.069453+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 421,
+        "score": 424,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "score": 480,
+        "score": 481,
         "published": "2026-08-04T16:36:05Z",
         "truthiness": {
           "label": "green",
@@ -39,11 +39,44 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 537,
+        "score": 538,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
+        }
+      },
+      {
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T17:53:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "source": "hn",
+        "score": 116,
+        "published": "2026-08-05T05:52:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 62 points)"
+        }
+      },
+      {
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "url": "https://arxiv.org/abs/2607.29377",
+        "source": "hn",
+        "score": 101,
+        "published": "2026-08-05T04:36:44Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
         }
       },
       {
@@ -55,28 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Rust-lang/rust is adopting an LLM policy",
-        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "source": "hn",
-        "score": 114,
-        "published": "2026-08-05T05:52:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 62 points)"
-        }
-      },
-      {
-        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-        "url": "https://arxiv.org/abs/2607.29377",
-        "source": "hn",
-        "score": 100,
-        "published": "2026-08-05T04:36:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "How to fine-tune open weights models",
-        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-07T03:47:26Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Show HN: An open-weight background removal model for difficult images",
-        "url": "https://withoutbg.com/open-model",
+        "title": "How to fine-tune open weights models",
+        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-05T10:21:07Z",
+        "score": 1,
+        "published": "2026-08-07T03:47:26Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -197,7 +197,7 @@
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 127,
+        "score": 137,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
@@ -205,33 +205,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10307",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10307",
+        "title": "llama.cpp: b10321",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10321",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-07T13:22:04+00:00",
+        "published": "2026-08-07T19:09:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10306",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10306",
+        "title": "llama.cpp: b10319",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10319",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-07T12:35:23+00:00",
+        "published": "2026-08-07T18:09:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10305",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10305",
+        "title": "llama.cpp: b10318",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10318",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-07T12:05:18+00:00",
+        "published": "2026-08-07T17:37:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
