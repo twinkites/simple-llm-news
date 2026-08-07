@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 07 Aug 2026 00:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:48:37 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -46,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>How to fine-tune open weights models</title>
+      <link>https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</link>
+      <guid isPermaLink="false">https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
       <link>https://arxiv.org/abs/2607.29377</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
@@ -54,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
-      <link>https://github.com/david-g-3654/homebench</link>
-      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>LLM Honeypot</title>
       <link>https://llm2human.pages.dev/</link>
       <guid isPermaLink="false">https://llm2human.pages.dev/</guid>
       <category>model</category>
       <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
+      <link>https://github.com/david-g-3654/homebench</link>
+      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
       <category>model</category>
       <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Jailbreaking an LLM</title>
-      <link>https://www.joshfischer.io/articles/jailbreaking-an-llm/</link>
-      <guid isPermaLink="false">https://www.joshfischer.io/articles/jailbreaking-an-llm/</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 19:32:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10298</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10298</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10298</guid>
+      <title>llama.cpp: b10299</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10299</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10299</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 22:12:17 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 07:19:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>C++ Version of vLLM</title>
+      <link>https://github.com/mudler/vllm.cpp</link>
+      <guid isPermaLink="false">https://github.com/mudler/vllm.cpp</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 17:42:08 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.27.0rc1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</guid>
+      <category>harness</category>
+      <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,12 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>C++ Version of vLLM</title>
-      <link>https://github.com/mudler/vllm.cpp</link>
-      <guid isPermaLink="false">https://github.com/mudler/vllm.cpp</guid>
+      <title>llama.cpp: b10298</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10298</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10298</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 17:42:08 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 06 Aug 2026 22:12:17 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10297</title>
@@ -179,14 +195,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10297</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 13:42:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10295</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10295</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10295</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 12:58:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,14 +214,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.6</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 19:46:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>The Inference Engine Guide for K3 Deployment</title>
       <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
       <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
@@ -222,19 +222,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.32.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 19:46:52 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop</title>
       <link>https://github.com/coderredlab/runNburn</link>
       <guid isPermaLink="false">https://github.com/coderredlab/runNburn</guid>
       <category>harness</category>
       <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp</title>
-      <link>https://github.com/mraza007/minute</link>
-      <guid isPermaLink="false">https://github.com/mraza007/minute</guid>
-      <category>harness</category>
-      <pubDate>Tue, 28 Jul 2026 19:31:17 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
