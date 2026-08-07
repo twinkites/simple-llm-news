@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T07:48:37.596527+00:00",
+  "generated_at": "2026-08-07T13:45:05.797005+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 414,
+        "score": 421,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "Show HN: Benchmark local LLMs fit for your device specs",
+        "url": "https://github.com/SupermodularAI/local_bench",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-07T09:57:40Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Rust-lang/rust is adopting an LLM policy",
         "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
         "source": "hn",
@@ -58,21 +69,10 @@
         }
       },
       {
-        "title": "How to fine-tune open weights models",
-        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-07T03:47:26Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377",
         "source": "hn",
-        "score": 99,
+        "score": 100,
         "published": "2026-08-05T04:36:44Z",
         "truthiness": {
           "label": "green",
@@ -102,6 +102,17 @@
         }
       },
       {
+        "title": "How to fine-tune open weights models",
+        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-07T03:47:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
-        "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
-        "source": "hn",
-        "score": 40,
-        "published": "2026-07-29T18:42:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       }
     ],
@@ -197,7 +197,7 @@
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 92,
+        "score": 127,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
@@ -205,11 +205,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10299",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10299",
+        "title": "llama.cpp: b10307",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10307",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-07T07:19:14+00:00",
+        "published": "2026-08-07T13:22:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10306",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10306",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T12:35:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10305",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10305",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T12:05:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +249,6 @@
         }
       },
       {
-        "title": "vLLM: v0.27.0rc1",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T00:36:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint",
         "url": "https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/",
         "source": "hn",
@@ -249,22 +260,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10298",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10298",
+        "title": "vLLM: v0.27.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-06T22:12:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10297",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10297",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-06T13:42:19+00:00",
+        "published": "2026-08-07T00:36:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

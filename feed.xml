@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:45:05 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Benchmark local LLMs fit for your device specs</title>
+      <link>https://github.com/SupermodularAI/local_bench</link>
+      <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 09:57:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Rust-lang/rust is adopting an LLM policy</title>
       <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
       <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How to fine-tune open weights models</title>
-      <link>https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</link>
-      <guid isPermaLink="false">https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>How to fine-tune open weights models</title>
+      <link>https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</link>
+      <guid isPermaLink="false">https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
       <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anthropic Doesn&#x27;t Want Open Weight Models Banned. Just All That Makes Them Good</title>
-      <link>https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</link>
-      <guid isPermaLink="false">https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 18:42:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10299</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10299</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10299</guid>
+      <title>llama.cpp: b10307</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10307</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10307</guid>
       <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 07:19:14 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:22:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10306</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10306</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10306</guid>
+      <category>harness</category>
+      <pubDate>Fri, 07 Aug 2026 12:35:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10305</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10305</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10305</guid>
+      <category>harness</category>
+      <pubDate>Fri, 07 Aug 2026 12:05:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,14 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.27.0rc1</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint</title>
       <link>https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</link>
       <guid isPermaLink="false">https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</guid>
@@ -182,19 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10298</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10298</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10298</guid>
+      <title>vLLM: v0.27.0rc1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 22:12:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10297</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10297</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10297</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 13:42:19 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
