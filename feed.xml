@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 07 Aug 2026 19:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:26:36 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Rust-lang/rust is adopting an LLM policy</title>
       <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
       <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
@@ -59,14 +51,6 @@
       <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Benchmark local LLMs fit for your device specs</title>
-      <link>https://github.com/SupermodularAI/local_bench</link>
-      <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 09:57:40 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,11 +70,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+      <link>https://huggingface.co/blog/allenai/tutormoments</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
       <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
       <category>model</category>
       <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Benchmark local LLMs fit for your device specs</title>
+      <link>https://github.com/SupermodularAI/local_bench</link>
+      <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 09:57:40 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
+      <link>https://www.salestrics.com/</link>
+      <guid isPermaLink="false">https://www.salestrics.com/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 01:32:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.17</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 01:43:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10326</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10326</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10326</guid>
+      <category>harness</category>
+      <pubDate>Fri, 07 Aug 2026 21:25:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10322</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10322</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10322</guid>
+      <category>harness</category>
+      <pubDate>Fri, 07 Aug 2026 19:53:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10321</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10321</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10321</guid>
       <category>harness</category>
       <pubDate>Fri, 07 Aug 2026 19:09:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10319</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10319</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10319</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 18:09:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10318</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10318</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10318</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 17:37:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -219,22 +235,6 @@
       <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
       <category>harness</category>
       <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.6</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.6</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.6</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 19:46:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop</title>
-      <link>https://github.com/coderredlab/runNburn</link>
-      <guid isPermaLink="false">https://github.com/coderredlab/runNburn</guid>
-      <category>harness</category>
-      <pubDate>Thu, 30 Jul 2026 01:30:13 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
