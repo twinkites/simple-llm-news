@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-08-08T07:21:36.940040+00:00",
+  "generated_at": "2026-08-08T13:17:52.750774+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 428,
+        "score": 432,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 161 points)"
+        }
+      },
+      {
+        "title": "I won't read LLM authored fiction",
+        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+        "source": "hn",
+        "score": 71,
+        "published": "2026-08-07T07:45:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -39,7 +50,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 538,
+        "score": 539,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -50,7 +61,7 @@
         "title": "Rust-lang/rust is adopting an LLM policy",
         "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
         "source": "hn",
-        "score": 117,
+        "score": 118,
         "published": "2026-08-05T05:52:24Z",
         "truthiness": {
           "label": "green",
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "url": "https://huggingface.co/blog/allenai/tutormoments",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T17:53:32+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Benchmark local LLMs fit for your device specs",
         "url": "https://github.com/SupermodularAI/local_bench",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "How to fine-tune open weights models",
-        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-07T03:47:26Z",
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T17:53:32+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -197,7 +197,7 @@
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 143,
+        "score": 144,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
@@ -282,17 +282,6 @@
         }
       },
       {
-        "title": "vLLM: v0.27.0rc1",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T00:36:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Building a Rust Inference Engine That Matches Llama.cpp",
         "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
         "source": "hn",
@@ -301,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.27.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T00:36:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
