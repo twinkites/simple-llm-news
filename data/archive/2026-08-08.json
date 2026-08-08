@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T02:26:36.265286+00:00",
+  "generated_at": "2026-08-08T07:21:36.940040+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 427,
+        "score": 428,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "url": "https://huggingface.co/blog/allenai/tutormoments",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T17:53:32+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "source": "hn",
@@ -110,6 +99,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
+        }
+      },
+      {
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T17:53:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -197,11 +197,22 @@
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 142,
+        "score": 143,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10327",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10327",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-08T06:06:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -243,17 +254,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-07T19:53:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10321",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10321",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T19:09:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

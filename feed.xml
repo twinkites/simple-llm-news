@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 02:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:21:36 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -70,20 +70,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Everyone is building LLM routers, we deprecated ours</title>
       <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
       <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
       <category>model</category>
       <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+      <link>https://huggingface.co/blog/allenai/tutormoments</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Benchmark local LLMs fit for your device specs</title>
@@ -150,6 +150,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10327</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10327</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10327</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 06:06:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
       <link>https://www.salestrics.com/</link>
       <guid isPermaLink="false">https://www.salestrics.com/</guid>
@@ -179,14 +187,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10322</guid>
       <category>harness</category>
       <pubDate>Fri, 07 Aug 2026 19:53:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10321</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10321</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10321</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 19:09:44 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
