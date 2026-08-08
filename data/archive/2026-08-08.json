@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-08-08T13:17:52.750774+00:00",
+  "generated_at": "2026-08-08T19:04:45.782350+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 432,
+        "score": 436,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 161 points)"
-        }
-      },
-      {
-        "title": "I won't read LLM authored fiction",
-        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-        "source": "hn",
-        "score": 71,
-        "published": "2026-08-07T07:45:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -44,6 +33,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 674 points)"
+        }
+      },
+      {
+        "title": "I won't read LLM authored fiction",
+        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-08-07T07:45:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -197,7 +197,7 @@
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 144,
+        "score": 146,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
@@ -205,11 +205,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10327",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10327",
+        "title": "llama.cpp: b10330",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10330",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-08T06:06:21+00:00",
+        "published": "2026-08-08T17:22:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10329",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10329",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-08T16:01:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10328",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10328",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-08T15:23:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,33 +249,22 @@
         }
       },
       {
+        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "source": "hn",
+        "score": 22,
+        "published": "2026-08-05T09:00:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "sglang: v0.5.17",
         "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.17",
         "source": "rss",
         "score": 0,
         "published": "2026-08-08T01:43:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10326",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10326",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T21:25:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10322",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10322",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-07T19:53:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,14 +293,14 @@
         }
       },
       {
-        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
-        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "title": "vLLM Recipes",
+        "url": "https://recipes.vllm.ai",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-05T09:00:07Z",
+        "score": 4,
+        "published": "2026-08-04T13:15:47Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM Recipes",
-        "url": "https://recipes.vllm.ai",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-04T13:15:47Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {

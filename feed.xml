@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 13:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 19:04:45 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
       <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I won&#x27;t read LLM authored fiction</title>
-      <link>https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</link>
-      <guid isPermaLink="false">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 07:45:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -35,6 +27,14 @@
       <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I won&#x27;t read LLM authored fiction</title>
+      <link>https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</link>
+      <guid isPermaLink="false">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 07:45:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10327</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10327</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10327</guid>
+      <title>llama.cpp: b10330</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10330</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10330</guid>
       <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 06:06:21 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 17:22:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10329</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10329</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10329</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 16:01:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10328</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10328</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10328</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 15:23:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,27 +182,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
+      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
+      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>sglang: v0.5.17</title>
       <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
       <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
       <category>harness</category>
       <pubDate>Sat, 08 Aug 2026 01:43:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10326</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10326</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10326</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 21:25:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10322</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10322</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10322</guid>
-      <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 19:53:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
+      <title>vLLM Recipes</title>
+      <link>https://recipes.vllm.ai</link>
+      <guid isPermaLink="false">https://recipes.vllm.ai</guid>
       <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM Recipes</title>
-      <link>https://recipes.vllm.ai</link>
-      <guid isPermaLink="false">https://recipes.vllm.ai</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>The Inference Engine Guide for K3 Deployment</title>
