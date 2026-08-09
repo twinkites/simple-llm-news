@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 19:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 02:34:15 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -62,14 +62,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLM Honeypot</title>
-      <link>https://llm2human.pages.dev/</link>
-      <guid isPermaLink="false">https://llm2human.pages.dev/</guid>
-      <category>model</category>
-      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
       <link>https://github.com/david-g-3654/homebench</link>
       <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
@@ -86,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
+      <link>https://github.com/grafana/ai-sdk</link>
+      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
+      <category>model</category>
+      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Benchmark local LLMs fit for your device specs</title>
       <link>https://github.com/SupermodularAI/local_bench</link>
       <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
+      <title>How to fine-tune open weights models</title>
+      <link>https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</link>
+      <guid isPermaLink="false">https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</guid>
       <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Prompt Injection Vulnerability in Ollama, Gemma4 and HuggingFace&#x27;s Transformers</title>
@@ -150,6 +150,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10331</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10331</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10331</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 23:28:06 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10330</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10330</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10330</guid>
@@ -166,12 +174,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10328</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10328</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10328</guid>
+      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
+      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
+      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
       <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 15:23:54 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
@@ -179,14 +187,6 @@
       <guid isPermaLink="false">https://www.salestrics.com/</guid>
       <category>harness</category>
       <pubDate>Sat, 08 Aug 2026 01:32:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
