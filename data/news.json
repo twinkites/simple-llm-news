@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:34:15.649119+00:00",
+  "generated_at": "2026-08-09T07:22:24.363162+00:00",
   "sections": {
     "model": [
       {
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "I won't read LLM authored fiction",
-        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-08-07T07:45:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -55,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
+        }
+      },
+      {
+        "title": "I won't read LLM authored fiction",
+        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-08-07T07:45:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -137,22 +137,22 @@
     ],
     "security": [
       {
-        "title": "Prompt Injection Vulnerability in Ollama, Gemma4 and HuggingFace's Transformers",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/",
+        "title": "A stranger asked if I'd tested for prompt injection. They were right to ask",
+        "url": "https://patch-security.com/notes/prompt-injection/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-08-06T23:03:10Z",
+        "score": 3,
+        "published": "2026-08-06T13:25:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "A stranger asked if I'd tested for prompt injection. They were right to ask",
-        "url": "https://patch-security.com/notes/prompt-injection/",
+        "title": "Prompt Injection Vulnerability in Ollama, Gemma4 and HuggingFace's Transformers",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-06T13:25:54Z",
+        "score": 2,
+        "published": "2026-08-06T23:03:10Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -227,17 +227,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10329",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10329",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-08T16:01:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Building a Rust Inference Engine That Matches Llama.cpp",
         "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
         "source": "hn",
@@ -246,6 +235,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10329",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10329",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-08T16:01:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
