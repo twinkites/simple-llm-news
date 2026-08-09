@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:21:22 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
-      <link>https://mistral.ai/news/shieldstral/</link>
-      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
       <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
+      <link>https://mistral.ai/news/shieldstral/</link>
+      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
+      <category>model</category>
+      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)</title>
-      <link>https://github.com/grafana/ai-sdk</link>
-      <guid isPermaLink="false">https://github.com/grafana/ai-sdk</guid>
-      <category>model</category>
-      <pubDate>Thu, 30 Jul 2026 11:55:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Benchmark local LLMs fit for your device specs</title>
       <link>https://github.com/SupermodularAI/local_bench</link>
       <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
@@ -100,6 +92,14 @@
       <category>model</category>
       <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+      <link>https://huggingface.co/blog/allenai/tutormoments</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>A stranger asked if I&#x27;d tested for prompt injection. They were right to ask</title>
@@ -142,12 +142,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10333</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10333</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10333</guid>
+      <category>harness</category>
+      <pubDate>Sun, 09 Aug 2026 11:23:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10332</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10332</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10332</guid>
+      <category>harness</category>
+      <pubDate>Sun, 09 Aug 2026 10:50:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.27.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Sun, 09 Aug 2026 09:57:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10331</title>
@@ -158,28 +182,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10330</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10330</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10330</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 17:22:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
       <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
       <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10329</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10329</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10329</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 16:01:51 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
@@ -228,14 +236,6 @@
       <category>harness</category>
       <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>The Inference Engine Guide for K3 Deployment</title>
-      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
-      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

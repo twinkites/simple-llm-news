@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:22:24.363162+00:00",
+  "generated_at": "2026-08-09T13:21:22.816085+00:00",
   "sections": {
     "model": [
       {
@@ -14,17 +14,6 @@
         }
       },
       {
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "url": "https://mistral.ai/news/shieldstral/",
-        "source": "hn",
-        "score": 481,
-        "published": "2026-08-04T16:36:05Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 75 points)"
-        }
-      },
-      {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 674 points)"
+        }
+      },
+      {
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "source": "hn",
+        "score": 481,
+        "published": "2026-08-04T16:36:05Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 75 points)"
         }
       },
       {
@@ -102,17 +102,6 @@
         }
       },
       {
-        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-        "url": "https://github.com/grafana/ai-sdk",
-        "source": "hn",
-        "score": 60,
-        "published": "2026-07-30T11:55:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 60 points)"
-        }
-      },
-      {
         "title": "Show HN: Benchmark local LLMs fit for your device specs",
         "url": "https://github.com/SupermodularAI/local_bench",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-07T17:53:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -194,14 +194,47 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10333",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10333",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-09T11:23:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
-        "score": 148,
+        "score": 149,
         "published": "2026-08-06T21:30:21Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10332",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10332",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-09T10:50:47+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.27.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-09T09:57:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -216,17 +249,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10330",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10330",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-08T17:22:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Building a Rust Inference Engine That Matches Llama.cpp",
         "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
         "source": "hn",
@@ -235,17 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10329",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10329",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-08T16:01:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "The Inference Engine Guide for K3 Deployment",
-        "url": "https://twitter.com/vllm_project/status/2081788542079123939",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-04T16:55:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
