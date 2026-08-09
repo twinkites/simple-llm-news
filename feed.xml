@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 09 Aug 2026 13:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:07:45 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/tutormoments</guid>
+      <title>Show HN: An open-weight background removal model for difficult images</title>
+      <link>https://withoutbg.com/open-model</link>
+      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
       <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>A stranger asked if I&#x27;d tested for prompt injection. They were right to ask</title>
@@ -142,20 +142,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10333</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10333</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10333</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 11:23:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10333</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10333</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10333</guid>
+      <category>harness</category>
+      <pubDate>Sun, 09 Aug 2026 11:23:21 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10332</title>
@@ -174,20 +174,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10331</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10331</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10331</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 23:28:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
       <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
       <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10331</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10331</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10331</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 23:28:06 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
@@ -198,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>sglang: v0.5.17</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 01:43:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>C++ Version of vLLM</title>
       <link>https://github.com/mudler/vllm.cpp</link>
       <guid isPermaLink="false">https://github.com/mudler/vllm.cpp</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 17:42:08 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.17</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
+      <category>harness</category>
+      <pubDate>Sat, 08 Aug 2026 01:43:39 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint</title>
@@ -230,12 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.27.0rc1</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1</guid>
+      <title>The Inference Engine Guide for K3 Deployment</title>
+      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
+      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
       <category>harness</category>
-      <pubDate>Fri, 07 Aug 2026 00:36:54 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
