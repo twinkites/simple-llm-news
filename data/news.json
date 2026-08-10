@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T02:40:25.434367+00:00",
+  "generated_at": "2026-08-10T08:10:49.963248+00:00",
   "sections": {
     "model": [
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 441,
+        "score": 442,
         "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +39,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "score": 539,
+        "score": 540,
         "published": "2026-08-03T09:32:07Z",
         "truthiness": {
           "label": "green",
@@ -194,6 +194,17 @@
     ],
     "harness": [
       {
+        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+        "url": "https://www.aleksagordic.com/blog/vllm",
+        "source": "hn",
+        "score": 149,
+        "published": "2026-08-06T21:30:21Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
         "title": "vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL",
         "url": "https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon",
         "source": "hn",
@@ -205,14 +216,25 @@
         }
       },
       {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "url": "https://www.aleksagordic.com/blog/vllm",
-        "source": "hn",
-        "score": 149,
-        "published": "2026-08-06T21:30:21Z",
+        "title": "llama.cpp: b10335",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10335",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-09T19:20:23+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "source": "hn",
+        "score": 23,
+        "published": "2026-08-05T09:00:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -243,28 +265,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-09T09:57:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
-        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
-        "source": "hn",
-        "score": 23,
-        "published": "2026-08-05T09:00:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10331",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10331",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-08T23:28:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,17 +304,6 @@
         }
       },
       {
-        "title": "LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint",
-        "url": "https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-06T19:45:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "vLLM Recipes",
         "url": "https://recipes.vllm.ai",
         "source": "hn",
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint",
+        "url": "https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-06T19:45:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

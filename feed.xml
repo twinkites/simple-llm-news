@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 02:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:10:49 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -142,6 +142,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL</title>
       <link>https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</link>
       <guid isPermaLink="false">https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</guid>
@@ -150,11 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
+      <title>llama.cpp: b10335</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10335</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10335</guid>
       <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 19:20:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
+      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
+      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -182,22 +198,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10331</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10331</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10331</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 23:28:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
       <link>https://www.salestrics.com/</link>
       <guid isPermaLink="false">https://www.salestrics.com/</guid>
@@ -222,19 +222,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint</title>
-      <link>https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</link>
-      <guid isPermaLink="false">https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 19:45:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>vLLM Recipes</title>
       <link>https://recipes.vllm.ai</link>
       <guid isPermaLink="false">https://recipes.vllm.ai</guid>
       <category>harness</category>
       <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint</title>
+      <link>https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</link>
+      <guid isPermaLink="false">https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 19:45:23 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
