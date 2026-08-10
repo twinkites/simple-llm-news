@@ -4,7 +4,31 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 08:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:51:19 +0000</lastBuildDate>
+    <item>
+      <title>Meta Muse Glimmer – open weights 30B local coding model</title>
+      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:10:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
+      <link>https://twitter.com/finkd/status/2086755195535413696</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -38,6 +62,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Making Knowledge Distillation Cheap Enough to Run at Scale</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:05:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>I won&#x27;t read LLM authored fiction</title>
       <link>https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</link>
       <guid isPermaLink="false">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</guid>
@@ -67,38 +99,6 @@
       <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
       <category>model</category>
       <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Everyone is building LLM routers, we deprecated ours</title>
-      <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
-      <guid isPermaLink="false">https://manifest.build/blog/why-we-deprecated-our-llm-router/</guid>
-      <category>model</category>
-      <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Benchmark local LLMs fit for your device specs</title>
-      <link>https://github.com/SupermodularAI/local_bench</link>
-      <guid isPermaLink="false">https://github.com/SupermodularAI/local_bench</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 09:57:40 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How to fine-tune open weights models</title>
-      <link>https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</link>
-      <guid isPermaLink="false">https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals</guid>
-      <category>model</category>
-      <pubDate>Fri, 07 Aug 2026 03:47:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: An open-weight background removal model for difficult images</title>
-      <link>https://withoutbg.com/open-model</link>
-      <guid isPermaLink="false">https://withoutbg.com/open-model</guid>
-      <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 10:21:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,12 +142,52 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10342</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10342</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10342</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 12:49:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.7</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.7</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.7</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 11:13:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10338</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10338</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10338</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 10:53:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10336</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10336</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10336</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 08:19:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.27.0: [Kimi][MM] disable kimi_vit&#x27;s dynamic torch.compile for TPU (#51196)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 06:30:44 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL</title>
@@ -158,36 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10335</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10335</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10335</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 19:20:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
       <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
       <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
       <category>harness</category>
       <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10333</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10333</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10333</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 11:23:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10332</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10332</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10332</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 10:50:47 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.27.0rc2</title>
@@ -214,27 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>sglang: v0.5.17</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 01:43:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM Recipes</title>
       <link>https://recipes.vllm.ai</link>
       <guid isPermaLink="false">https://recipes.vllm.ai</guid>
       <category>harness</category>
       <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint</title>
-      <link>https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</link>
-      <guid isPermaLink="false">https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 19:45:23 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

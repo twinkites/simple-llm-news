@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-10T08:10:49.963248+00:00",
+  "generated_at": "2026-08-10T13:51:19.572850+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Meta Muse Glimmer – open weights 30B local coding model",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "source": "hn",
+        "score": 367,
+        "published": "2026-08-10T10:10:02Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 367 points)"
+        }
+      },
+      {
+        "title": "Meta's new open-weight model targets local agentic AI",
+        "url": "https://twitter.com/finkd/status/2086754845218726027",
+        "source": "hn",
+        "score": 22,
+        "published": "2026-08-10T10:55:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+        }
+      },
+      {
+        "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
+        "url": "https://twitter.com/finkd/status/2086755195535413696",
+        "source": "hn",
+        "score": 14,
+        "published": "2026-08-10T10:20:42Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
@@ -47,6 +80,17 @@
         }
       },
       {
+        "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T10:05:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
         "source": "hn",
@@ -88,50 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 23 points)"
-        }
-      },
-      {
-        "title": "Everyone is building LLM routers, we deprecated ours",
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "source": "hn",
-        "score": 132,
-        "published": "2026-07-31T18:06:39Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 105 points)"
-        }
-      },
-      {
-        "title": "Show HN: Benchmark local LLMs fit for your device specs",
-        "url": "https://github.com/SupermodularAI/local_bench",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-07T09:57:40Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "How to fine-tune open weights models",
-        "url": "https://fastino.ai/blog/how-to-fine-tune-open-weights-models-model-selection-data-curation-fine-tuning-strategies-and-evals",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-07T03:47:26Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: An open-weight background removal model for difficult images",
-        "url": "https://withoutbg.com/open-model",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-05T10:21:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -194,6 +194,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10342",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10342",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T12:49:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.7",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T11:13:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10338",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10338",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T10:53:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
@@ -202,6 +235,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10336",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10336",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T08:19:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.27.0: [Kimi][MM] disable kimi_vit's dynamic torch.compile for TPU (#51196)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T06:30:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -216,17 +271,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10335",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10335",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-09T19:20:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Building a Rust Inference Engine That Matches Llama.cpp",
         "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
         "source": "hn",
@@ -235,28 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10333",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10333",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-09T11:23:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10332",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10332",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-09T10:50:47+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,17 +315,6 @@
         }
       },
       {
-        "title": "sglang: v0.5.17",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.17",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-08T01:43:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM Recipes",
         "url": "https://recipes.vllm.ai",
         "source": "hn",
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "LettuceDetect v2 in Semantic Router: Gen. Hallucination Detection vLLM Endpoint",
-        "url": "https://vllm-sr.ai/blog/lettucedetect-v2-generative-hallucination-detection/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-06T19:45:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
