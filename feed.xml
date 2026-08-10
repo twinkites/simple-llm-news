@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 09 Aug 2026 19:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:40:25 +0000</lastBuildDate>
     <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
@@ -102,6 +102,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Beyond Prompt Injection: Hacking Apple&#x27;s Private Cloud Compute</title>
+      <link>https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/</link>
+      <guid isPermaLink="false">https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/</guid>
+      <category>security</category>
+      <pubDate>Sun, 09 Aug 2026 23:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>A stranger asked if I&#x27;d tested for prompt injection. They were right to ask</title>
       <link>https://patch-security.com/notes/prompt-injection/</link>
       <guid isPermaLink="false">https://patch-security.com/notes/prompt-injection/</guid>
@@ -134,11 +142,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Why prompt injection is still possible in LLM applications</title>
-      <link>https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</link>
-      <guid isPermaLink="false">https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/</guid>
-      <category>security</category>
-      <pubDate>Thu, 30 Jul 2026 19:38:39 +0000</pubDate>
+      <title>vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL</title>
+      <link>https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</link>
+      <guid isPermaLink="false">https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</guid>
+      <category>harness</category>
+      <pubDate>Sun, 09 Aug 2026 23:27:45 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -227,14 +235,6 @@
       <guid isPermaLink="false">https://recipes.vllm.ai</guid>
       <category>harness</category>
       <pubDate>Tue, 04 Aug 2026 13:15:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The Inference Engine Guide for K3 Deployment</title>
-      <link>https://twitter.com/vllm_project/status/2081788542079123939</link>
-      <guid isPermaLink="false">https://twitter.com/vllm_project/status/2081788542079123939</guid>
-      <category>harness</category>
-      <pubDate>Tue, 04 Aug 2026 16:55:37 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
