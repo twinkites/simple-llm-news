@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 13:51:19 +0000</lastBuildDate>
-    <item>
-      <title>Meta Muse Glimmer – open weights 30B local coding model</title>
-      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
-      <guid isPermaLink="false">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:10:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 19:22:51 +0000</lastBuildDate>
     <item>
       <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
       <link>https://twitter.com/finkd/status/2086754845218726027</link>
@@ -22,11 +14,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>I put a local LLM agent inside a menu-bar Mac monitor (and you can leave it off)</title>
+      <link>https://github.com/raro42/mac-stats</link>
+      <guid isPermaLink="false">https://github.com/raro42/mac-stats</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 18:57:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
       <link>https://twitter.com/finkd/status/2086755195535413696</link>
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud</title>
+      <link>https://github.com/monjurulkarim/privateredact</link>
+      <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-Weight Models Win Tokens, Closed Ones Keep Cash</title>
+      <link>https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic</link>
+      <guid isPermaLink="false">https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 14:14:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,20 +70,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
+      <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 16:25:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Making Knowledge Distillation Cheap Enough to Run at Scale</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:05:36 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>I won&#x27;t read LLM authored fiction</title>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
-      <link>https://arxiv.org/abs/2607.29377</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29377</guid>
-      <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
-      <link>https://github.com/david-g-3654/homebench</link>
-      <guid isPermaLink="false">https://github.com/david-g-3654/homebench</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,6 +142,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10344</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10344</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10344</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 16:25:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10343</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10343</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10343</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 15:25:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10342</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10342</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10342</guid>
@@ -158,35 +182,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10338</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10338</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10338</guid>
-      <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 10:53:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10336</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10336</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10336</guid>
-      <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 08:19:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.27.0: [Kimi][MM] disable kimi_vit&#x27;s dynamic torch.compile for TPU (#51196)</title>
+      <title>vLLM: v0.27.0: [Docs] Fix two docs build warnings (#51014)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0</guid>
       <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 06:30:44 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 10:48:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
