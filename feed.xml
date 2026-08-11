@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 02:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:42:57 +0000</lastBuildDate>
     <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
@@ -46,14 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Zuck rekindles open weights Llama drama with Muse Glimmer</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</link>
-      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 21:56:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
       <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
@@ -70,19 +62,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud</title>
-      <link>https://github.com/monjurulkarim/privateredact</link>
-      <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Zuck rekindles open weights Llama drama with Muse Glimmer</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</link>
+      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 21:56:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud</title>
+      <link>https://github.com/monjurulkarim/privateredact</link>
+      <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-Weight Models Win Tokens, Closed Ones Keep Cash</title>
-      <link>https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic</link>
-      <guid isPermaLink="false">https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic</guid>
+      <title>Rust-lang/rust is adopting an LLM policy</title>
+      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
+      <guid isPermaLink="false">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
       <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -143,26 +143,34 @@
     </item>
     <item>
       <title>ollama: v0.32.8</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.8</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8</guid>
       <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 23:49:29 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 06:39:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10355</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10355</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10355</guid>
+      <title>llama.cpp: b10357</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10357</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10357</guid>
       <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 23:17:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 05:19:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10354</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10354</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10354</guid>
+      <title>llama.cpp: b10362: tests : disable backend sampler hip multi output (#26878)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10362</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10362</guid>
       <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 22:40:24 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 04:21:32 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.17</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.17</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.17</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 03:17:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10353</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10353</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10353</guid>
+      <title>llama.cpp: b10356</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10356</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10356</guid>
       <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 22:02:53 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 02:47:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.8-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 10 Aug 2026 22:48:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -220,22 +236,6 @@
       <category>harness</category>
       <pubDate>Sun, 09 Aug 2026 09:57:05 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams</title>
-      <link>https://www.salestrics.com/</link>
-      <guid isPermaLink="false">https://www.salestrics.com/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 08 Aug 2026 01:32:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>C++ Version of vLLM</title>
-      <link>https://github.com/mudler/vllm.cpp</link>
-      <guid isPermaLink="false">https://github.com/mudler/vllm.cpp</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 17:42:08 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

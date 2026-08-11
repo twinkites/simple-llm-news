@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T02:33:31.443310+00:00",
+  "generated_at": "2026-08-11T07:42:57.376753+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "source": "hn",
-        "score": 190,
+        "score": 300,
         "published": "2026-08-10T17:22:07Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "source": "hn",
-        "score": 162,
+        "score": 198,
         "published": "2026-08-10T13:35:40Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-10T21:56:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
@@ -91,17 +80,6 @@
         }
       },
       {
-        "title": "Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud",
-        "url": "https://github.com/monjurulkarim/privateredact",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-10T15:43:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -110,6 +88,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
+        }
+      },
+      {
+        "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-10T21:56:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud",
+        "url": "https://github.com/monjurulkarim/privateredact",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-10T15:43:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Open-Weight Models Win Tokens, Closed Ones Keep Cash",
-        "url": "https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic",
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-08-10T14:14:48Z",
+        "score": 120,
+        "published": "2026-08-05T05:52:24Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 120 points)"
         }
       }
     ],
@@ -195,32 +195,43 @@
     "harness": [
       {
         "title": "ollama: v0.32.8",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.8",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-10T23:49:29+00:00",
+        "published": "2026-08-11T06:39:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10355",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10355",
+        "title": "llama.cpp: b10357",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10357",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-10T23:17:02+00:00",
+        "published": "2026-08-11T05:19:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10354",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10354",
+        "title": "llama.cpp: b10362: tests : disable backend sampler hip multi output (#26878)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10362",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-10T22:40:24+00:00",
+        "published": "2026-08-11T04:21:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.17",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.17",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-11T03:17:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,11 +249,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10353",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10353",
+        "title": "llama.cpp: b10356",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10356",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-10T22:02:53+00:00",
+        "published": "2026-08-11T02:47:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.8-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-10T22:48:32+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
-        "url": "https://www.salestrics.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-08T01:32:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "C++ Version of vLLM",
-        "url": "https://github.com/mudler/vllm.cpp",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-06T17:42:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
