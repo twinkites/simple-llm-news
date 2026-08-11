@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 07:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:49:25 +0000</lastBuildDate>
     <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
@@ -22,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Thinking of ACE? We Can Do It with Fewer Tokens</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
+      <category>model</category>
+      <pubDate>Tue, 11 Aug 2026 13:37:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
       <link>https://twitter.com/finkd/status/2086754845218726027</link>
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
-      <link>https://twitter.com/finkd/status/2086755195535413696</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,6 +62,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
+      <link>https://twitter.com/finkd/status/2086755195535413696</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
@@ -83,14 +91,6 @@
       <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I put a local LLM agent inside a menu-bar Mac monitor (and you can leave it off)</title>
-      <link>https://github.com/raro42/mac-stats</link>
-      <guid isPermaLink="false">https://github.com/raro42/mac-stats</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 18:57:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,19 +142,67 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: A new chat interface for Ollama</title>
+      <link>https://github.com/bctnry/OpenSyzygy</link>
+      <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.9</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.9</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.9</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 13:24:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10360</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10360</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10360</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 13:19:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Inferact vLLM creators are hiring</title>
+      <link>https://twitter.com/SemiAnalysis_/status/2086815217497849987</link>
+      <guid isPermaLink="false">https://twitter.com/SemiAnalysis_/status/2086815217497849987</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 10:35:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10359</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10359</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10359</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 10:51:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.27.1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.1</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 10:49:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
+      <category>harness</category>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.32.8</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.8</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 06:39:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10357</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10357</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10357</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 05:19:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,22 +222,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10356</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10356</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10356</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 02:47:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ollama: v0.32.8-rc0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8-rc0</guid>
@@ -203,38 +235,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0</guid>
       <category>harness</category>
       <pubDate>Mon, 10 Aug 2026 21:18:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.7</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.7</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.7</guid>
-      <category>harness</category>
-      <pubDate>Mon, 10 Aug 2026 11:13:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL</title>
-      <link>https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</link>
-      <guid isPermaLink="false">https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 23:27:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.27.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2</guid>
-      <category>harness</category>
-      <pubDate>Sun, 09 Aug 2026 09:57:05 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
