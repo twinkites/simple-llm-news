@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T13:54:24.043119+00:00",
+  "generated_at": "2026-08-12T19:32:35.795050+00:00",
   "sections": {
     "model": [
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "source": "hn",
-        "score": 659,
+        "score": 676,
         "published": "2026-08-11T13:22:00Z",
         "truthiness": {
           "label": "green",
@@ -14,21 +14,10 @@
         }
       },
       {
-        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T13:05:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "source": "hn",
-        "score": 523,
+        "score": 524,
         "published": "2026-08-10T17:22:07Z",
         "truthiness": {
           "label": "green",
@@ -36,10 +25,54 @@
         }
       },
       {
+        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-08-12T13:05:52Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Local LLM Hardware Calc",
+        "url": "https://dubir.net/tools/local-llm-hardware-calculator/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-12T15:58:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "I ran the same local LLM on an RTX 5070 laptop and one with an iGPU",
+        "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-12T14:37:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
+        "url": "https://news.ycombinator.com/item?id=49273774",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-12T15:18:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Evaluating Open Weight Models for Software Maintenance",
         "url": "https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-08-12T13:08:51Z",
         "truthiness": {
           "label": "red",
@@ -47,14 +80,14 @@
         }
       },
       {
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "source": "hn",
-        "score": 442,
-        "published": "2026-08-05T18:37:49Z",
+        "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-12T16:14:36+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 161 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,17 +113,6 @@
         }
       },
       {
-        "title": "Meta's new open-weight model targets local agentic AI",
-        "url": "https://twitter.com/finkd/status/2086754845218726027",
-        "source": "hn",
-        "score": 41,
-        "published": "2026-08-10T10:55:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -102,40 +124,40 @@
         }
       },
       {
-        "title": "Show HN: ExtractBench, an open-source schema extraction benchmark",
-        "url": "https://github.com/run-llama/ExtractBench",
+        "title": "Meta's new open-weight model targets local agentic AI",
+        "url": "https://twitter.com/finkd/status/2086754845218726027",
         "source": "hn",
-        "score": 6,
-        "published": "2026-08-11T16:35:23Z",
+        "score": 41,
+        "published": "2026-08-10T10:55:03Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
-        "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
-        "url": "https://twitter.com/finkd/status/2086755195535413696",
-        "source": "hn",
-        "score": 18,
-        "published": "2026-08-10T10:20:42Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
-        }
-      },
-      {
-        "title": "Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud",
-        "url": "https://github.com/monjurulkarim/privateredact",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-10T15:43:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
+        "url": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-12T16:35:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection as Defense",
+        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-12T15:06:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Beyond Prompt Injection: Hacking Apple's Private Cloud Compute",
         "url": "https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/",
@@ -190,17 +212,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Anthropic's Opus 5 Is Better at Resisting Prompt Injection",
-        "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-02T16:09:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
@@ -208,7 +219,7 @@
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
-        "score": 307,
+        "score": 340,
         "published": "2026-08-12T04:51:59Z",
         "truthiness": {
           "label": "green",
@@ -219,11 +230,33 @@
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "hn",
-        "score": 298,
+        "score": 300,
         "published": "2026-08-11T14:50:33Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 245 points)"
+        }
+      },
+      {
+        "title": "Show HN: Visual knowledge graphs using Ollama and Embeddings",
+        "url": "https://github.com/punnerud/Local_Knowledge_Graph",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-12T10:15:21Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+        "url": "https://www.aleksagordic.com/blog/vllm",
+        "source": "hn",
+        "score": 150,
+        "published": "2026-08-06T21:30:21Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
         }
       },
       {
@@ -238,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: Visual knowledge graphs using Ollama and Embeddings",
-        "url": "https://github.com/punnerud/Local_Knowledge_Graph",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-12T10:15:21Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "llama.cpp: b10373",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10373",
         "source": "rss",
@@ -257,17 +279,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "url": "https://www.aleksagordic.com/blog/vllm",
-        "source": "hn",
-        "score": 150,
-        "published": "2026-08-06T21:30:21Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
         }
       },
       {
@@ -304,17 +315,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10380",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-11T20:15:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Inferact vLLM creators are hiring",
         "url": "https://twitter.com/SemiAnalysis_/status/2086815217497849987",
         "source": "hn",
@@ -326,14 +326,25 @@
         }
       },
       {
-        "title": "ollama: v0.32.9",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.9",
+        "title": "llama.cpp: b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10380",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-11T13:24:14+00:00",
+        "published": "2026-08-11T20:15:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "source": "hn",
+        "score": 23,
+        "published": "2026-08-05T09:00:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 23 points)"
         }
       }
     ]

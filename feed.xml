@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 13:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:32:35 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
       <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
       <category>model</category>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
-      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,6 +22,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
+      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local LLM Hardware Calc</title>
+      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
+      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
+      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
+      <link>https://news.ycombinator.com/item?id=49273774</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Evaluating Open Weight Models for Software Maintenance</title>
       <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
       <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
@@ -38,12 +62,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Born Against, or why hobby programming communities are against LLM usage</title>
-      <link>https://blog.fogus.me/llm/born-against.html</link>
-      <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
+      <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-embeddings</guid>
       <category>model</category>
-      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Wed, 12 Aug 2026 16:14:36 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
@@ -62,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
@@ -78,27 +94,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: ExtractBench, an open-source schema extraction benchmark</title>
-      <link>https://github.com/run-llama/ExtractBench</link>
-      <guid isPermaLink="false">https://github.com/run-llama/ExtractBench</guid>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
-      <pubDate>Tue, 11 Aug 2026 16:35:23 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
-      <link>https://twitter.com/finkd/status/2086755195535413696</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <title>Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition</title>
+      <link>https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</link>
+      <guid isPermaLink="false">https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</guid>
+      <category>security</category>
+      <pubDate>Wed, 12 Aug 2026 16:35:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud</title>
-      <link>https://github.com/monjurulkarim/privateredact</link>
-      <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
+      <title>Prompt Injection as Defense</title>
+      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
+      <category>security</category>
+      <pubDate>Wed, 12 Aug 2026 15:06:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,14 +158,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anthropic&#x27;s Opus 5 Is Better at Resisting Prompt Injection</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</guid>
-      <category>security</category>
-      <pubDate>Sun, 02 Aug 2026 16:09:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
@@ -166,14 +174,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10375</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10375</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10375</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 12:20:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
       <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
       <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
@@ -182,20 +182,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10373</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10373</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10373</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 09:24:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10375</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10375</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10375</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 12:20:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10373</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10373</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10373</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 09:24:44 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: A new chat interface for Ollama</title>
@@ -222,14 +230,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10380</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10380</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 20:15:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Inferact vLLM creators are hiring</title>
       <link>https://twitter.com/SemiAnalysis_/status/2086815217497849987</link>
       <guid isPermaLink="false">https://twitter.com/SemiAnalysis_/status/2086815217497849987</guid>
@@ -238,12 +238,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.9</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.9</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.9</guid>
+      <title>llama.cpp: b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10380</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10380</guid>
       <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 13:24:14 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 20:15:20 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
+      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
+      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
