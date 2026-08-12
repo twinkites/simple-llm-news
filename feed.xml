@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 19:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 02:50:56 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
       <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,20 +78,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Thinking of ACE? We Can Do It with Fewer Tokens</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
-      <category>model</category>
-      <pubDate>Tue, 11 Aug 2026 13:37:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud</title>
       <link>https://github.com/monjurulkarim/privateredact</link>
       <guid isPermaLink="false">https://github.com/monjurulkarim/privateredact</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 15:43:27 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Thinking of ACE? We Can Do It with Fewer Tokens</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
+      <category>model</category>
+      <pubDate>Tue, 11 Aug 2026 13:37:10 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Zuck rekindles open weights Llama drama with Muse Glimmer</title>
@@ -107,6 +107,14 @@
       <guid isPermaLink="false">https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/</guid>
       <category>security</category>
       <pubDate>Sun, 09 Aug 2026 23:47:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
+      <link>https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</link>
+      <guid isPermaLink="false">https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</guid>
+      <category>security</category>
+      <pubDate>Sun, 09 Aug 2026 10:34:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10362</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10362</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10362</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 22:59:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ask HN: Are third party gguf/mmproj safe on Llama in production env</title>
       <link>https://news.ycombinator.com/item?id=49261767</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49261767</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 17:41:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
-      <link>https://github.com/Tenosra/Proxima</link>
-      <guid isPermaLink="false">https://github.com/Tenosra/Proxima</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 15:04:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -174,12 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10361</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10361</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10361</guid>
+      <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
+      <link>https://github.com/Tenosra/Proxima</link>
+      <guid isPermaLink="false">https://github.com/Tenosra/Proxima</guid>
       <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 17:14:55 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 11 Aug 2026 15:04:01 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
@@ -188,6 +196,14 @@
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10361</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10361</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10361</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 17:14:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Inferact vLLM creators are hiring</title>
@@ -227,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.8</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 06:39:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10362: tests : disable backend sampler hip multi output (#26878)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10362</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10362</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 04:21:32 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
