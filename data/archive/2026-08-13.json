@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T08:00:20.575583+00:00",
+  "generated_at": "2026-08-13T13:54:54.031270+00:00",
   "sections": {
     "model": [
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "source": "hn",
-        "score": 684,
+        "score": 687,
         "published": "2026-08-11T13:22:00Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
+        "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-13T12:19:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "source": "hn",
-        "score": 526,
+        "score": 527,
         "published": "2026-08-10T17:22:07Z",
         "truthiness": {
           "label": "green",
@@ -25,25 +36,14 @@
         }
       },
       {
-        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "url": "https://blog.fogus.me/llm/born-against.html",
         "source": "hn",
-        "score": 10,
-        "published": "2026-08-12T13:05:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "source": "hn",
-        "score": 727,
-        "published": "2026-08-03T11:28:54Z",
+        "score": 442,
+        "published": "2026-08-05T18:37:49Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 674 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 442 points)"
         }
       },
       {
@@ -58,25 +58,14 @@
         }
       },
       {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
         "source": "hn",
-        "score": 541,
-        "published": "2026-08-03T09:32:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 241 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
-        "url": "https://news.ycombinator.com/item?id=49273774",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T15:18:25Z",
+        "score": 10,
+        "published": "2026-08-12T13:05:52Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
+        "url": "https://news.ycombinator.com/item?id=49273774",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-12T15:18:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,35 +124,35 @@
         }
       },
       {
-        "title": "Local Model Performance on a MacBook Pro M5 Max",
-        "url": "https://blog.gitbutler.com/local-llm-gauntlet",
+        "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
+        "url": "https://twitter.com/finkd/status/2086755195535413696",
         "source": "hn",
-        "score": 1,
-        "published": "2026-08-12T17:24:37Z",
+        "score": 18,
+        "published": "2026-08-10T10:20:42Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 18 points)"
         }
       }
     ],
     "security": [
       {
-        "title": "Prompt Injection as Defense",
-        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+        "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
+        "url": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
         "source": "hn",
         "score": 4,
-        "published": "2026-08-12T15:06:00Z",
+        "published": "2026-08-12T16:35:53Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
-        "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
-        "url": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
+        "title": "Prompt Injection as Defense",
+        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-12T16:35:53Z",
+        "score": 4,
+        "published": "2026-08-12T15:06:00Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
@@ -208,7 +208,7 @@
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
-        "score": 352,
+        "score": 357,
         "published": "2026-08-12T04:51:59Z",
         "truthiness": {
           "label": "green",
@@ -219,22 +219,11 @@
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "hn",
-        "score": 302,
+        "score": 304,
         "published": "2026-08-11T14:50:33Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 245 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10405",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10405",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-13T07:34:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -246,6 +235,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10405",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10405",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-13T07:34:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,6 +271,17 @@
         }
       },
       {
+        "title": "Show HN: Visual knowledge graphs using Ollama and Embeddings",
+        "url": "https://github.com/punnerud/Local_Knowledge_Graph",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-12T10:15:21Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "ollama: v0.32.10",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1",
         "source": "rss",
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Visual knowledge graphs using Ollama and Embeddings",
-        "url": "https://github.com/punnerud/Local_Knowledge_Graph",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-12T10:15:21Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {

@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 08:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:54:54 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
       <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
       <category>model</category>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
+      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
+      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,19 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
-      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
+      <title>Born Against, or why hobby programming communities are against LLM usage</title>
+      <link>https://blog.fogus.me/llm/born-against.html</link>
+      <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
       <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>SQLite Critical CVEs or LLM Slop?</title>
-      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
-      <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
-      <category>model</category>
-      <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
-      <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
-      <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
+      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
+      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
       <category>model</category>
-      <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
-      <link>https://news.ycombinator.com/item?id=49273774</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,6 +59,14 @@
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
+      <link>https://news.ycombinator.com/item?id=49273774</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,19 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local Model Performance on a MacBook Pro M5 Max</title>
-      <link>https://blog.gitbutler.com/local-llm-gauntlet</link>
-      <guid isPermaLink="false">https://blog.gitbutler.com/local-llm-gauntlet</guid>
+      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
+      <link>https://twitter.com/finkd/status/2086755195535413696</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
       <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 17:24:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Prompt Injection as Defense</title>
-      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
-      <category>security</category>
-      <pubDate>Wed, 12 Aug 2026 15:06:00 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -115,6 +107,14 @@
       <guid isPermaLink="false">https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</guid>
       <category>security</category>
       <pubDate>Wed, 12 Aug 2026 16:35:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection as Defense</title>
+      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
+      <category>security</category>
+      <pubDate>Wed, 12 Aug 2026 15:06:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,20 +166,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10405</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10405</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10405</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 07:34:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
       <link>https://github.com/DannyArends/DLLM</link>
       <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10405</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10405</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10405</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 07:34:12 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10400</title>
@@ -198,6 +198,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
+      <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
+      <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 10:15:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.32.10</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
@@ -212,14 +220,6 @@
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:02:27 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
-      <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
-      <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 10:15:21 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models</title>
