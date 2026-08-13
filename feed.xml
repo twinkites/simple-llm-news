@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 03:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:00:20 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
-      <link>https://news.ycombinator.com/item?id=49273774</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
       <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
       <guid isPermaLink="false">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
@@ -54,27 +46,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
-      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM Hardware Calc</title>
-      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
-      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
+      <link>https://news.ycombinator.com/item?id=49273774</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
+      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Local LLM Hardware Calc</title>
+      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
+      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Local Model Performance on a MacBook Pro M5 Max</title>
       <link>https://blog.gitbutler.com/local-llm-gauntlet</link>
       <guid isPermaLink="false">https://blog.gitbutler.com/local-llm-gauntlet</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 17:24:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,6 +166,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10405</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10405</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10405</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 07:34:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
       <link>https://github.com/DannyArends/DLLM</link>
       <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
@@ -174,19 +182,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
+      <title>llama.cpp: b10400</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10400</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10400</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 22:36:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 20:25:33 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 06:05:51 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,11 +198,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</guid>
+      <title>ollama: v0.32.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 19:27:48 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 22:36:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10398: common: add system-level config file (#26118)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10398</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10398</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 22:02:27 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,35 +222,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 20:25:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 19:27:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: A new chat interface for Ollama</title>
       <link>https://github.com/bctnry/OpenSyzygy</link>
       <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10375</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10375</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10375</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 12:20:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
-      <link>https://github.com/Tenosra/Proxima</link>
-      <guid isPermaLink="false">https://github.com/Tenosra/Proxima</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 15:04:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Are third party gguf/mmproj safe on Llama in production env</title>
-      <link>https://news.ycombinator.com/item?id=49261767</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49261767</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 17:41:45 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

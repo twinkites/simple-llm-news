@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:05:33.414369+00:00",
+  "generated_at": "2026-08-13T08:00:20.575583+00:00",
   "sections": {
     "model": [
       {
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
-        "url": "https://news.ycombinator.com/item?id=49273774",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T15:18:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "hn",
@@ -69,28 +58,6 @@
         }
       },
       {
-        "title": "I ran the same local LLM on an RTX 5070 laptop and one with an iGPU",
-        "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-12T14:37:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Local LLM Hardware Calc",
-        "url": "https://dubir.net/tools/local-llm-hardware-calculator/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-12T15:58:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
@@ -102,22 +69,11 @@
         }
       },
       {
-        "title": "Evaluating Open Weight Models for Software Maintenance",
-        "url": "https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/",
+        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
+        "url": "https://news.ycombinator.com/item?id=49273774",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-12T13:08:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local Model Performance on a MacBook Pro M5 Max",
-        "url": "https://blog.gitbutler.com/local-llm-gauntlet",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-12T17:24:37Z",
+        "score": 4,
+        "published": "2026-08-12T15:18:25Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -132,6 +88,50 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+        }
+      },
+      {
+        "title": "I ran the same local LLM on an RTX 5070 laptop and one with an iGPU",
+        "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-12T14:37:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Evaluating Open Weight Models for Software Maintenance",
+        "url": "https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-12T13:08:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Local LLM Hardware Calc",
+        "url": "https://dubir.net/tools/local-llm-hardware-calculator/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-12T15:58:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Local Model Performance on a MacBook Pro M5 Max",
+        "url": "https://blog.gitbutler.com/local-llm-gauntlet",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-12T17:24:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -208,7 +208,7 @@
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
-        "score": 351,
+        "score": 352,
         "published": "2026-08-12T04:51:59Z",
         "truthiness": {
           "label": "green",
@@ -227,10 +227,21 @@
         }
       },
       {
+        "title": "llama.cpp: b10405",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10405",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-13T07:34:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
         "url": "https://github.com/DannyArends/DLLM",
         "source": "hn",
-        "score": 8,
+        "score": 9,
         "published": "2026-08-12T22:34:15Z",
         "truthiness": {
           "label": "yellow",
@@ -238,22 +249,11 @@
         }
       },
       {
-        "title": "ollama: v0.32.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1",
+        "title": "llama.cpp: b10400",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10400",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-12T22:36:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-12T20:25:33+00:00",
+        "published": "2026-08-13T06:05:51+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,11 +271,22 @@
         }
       },
       {
-        "title": "vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0",
+        "title": "ollama: v0.32.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-12T19:27:48+00:00",
+        "published": "2026-08-12T22:36:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10398: common: add system-level config file (#26118)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10398",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-12T22:02:27+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,6 +304,28 @@
         }
       },
       {
+        "title": "ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-12T20:25:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-12T19:27:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: A new chat interface for Ollama",
         "url": "https://github.com/bctnry/OpenSyzygy",
         "source": "hn",
@@ -301,39 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10375",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10375",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-12T12:20:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Proxima serves 4x more requests with no hardware change on vLLM",
-        "url": "https://github.com/Tenosra/Proxima",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-11T15:04:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Are third party gguf/mmproj safe on Llama in production env",
-        "url": "https://news.ycombinator.com/item?id=49261767",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-11T17:41:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
