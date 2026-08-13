@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 19:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 03:05:33 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -30,44 +30,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local LLM Hardware Calc</title>
-      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
-      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
-      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
       <link>https://news.ycombinator.com/item?id=49273774</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Evaluating Open Weight Models for Software Maintenance</title>
-      <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
-      <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:08:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-embeddings</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 16:14:36 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>SQLite Critical CVEs or LLM Slop?</title>
@@ -86,11 +54,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
+      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local LLM Hardware Calc</title>
+      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
+      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
       <guid isPermaLink="false">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</guid>
       <category>model</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Evaluating Open Weight Models for Software Maintenance</title>
+      <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
+      <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 13:08:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local Model Performance on a MacBook Pro M5 Max</title>
+      <link>https://blog.gitbutler.com/local-llm-gauntlet</link>
+      <guid isPermaLink="false">https://blog.gitbutler.com/local-llm-gauntlet</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 17:24:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,19 +102,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition</title>
-      <link>https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</link>
-      <guid isPermaLink="false">https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</guid>
-      <category>security</category>
-      <pubDate>Wed, 12 Aug 2026 16:35:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt Injection as Defense</title>
       <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
       <category>security</category>
       <pubDate>Wed, 12 Aug 2026 15:06:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition</title>
+      <link>https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</link>
+      <guid isPermaLink="false">https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</guid>
+      <category>security</category>
+      <pubDate>Wed, 12 Aug 2026 16:35:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,14 +150,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I built a prompt injection detector using only Go&#x27;s standard library</title>
-      <link>https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</link>
-      <guid isPermaLink="false">https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154</guid>
-      <category>security</category>
-      <pubDate>Sun, 02 Aug 2026 21:13:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
@@ -174,12 +166,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
-      <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
-      <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
+      <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
+      <link>https://github.com/DannyArends/DLLM</link>
+      <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 10:15:21 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 22:36:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 20:25:33 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
@@ -190,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10375</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10375</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10375</guid>
+      <title>vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 12:20:20 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 19:27:48 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10373</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10373</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10373</guid>
+      <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
+      <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
+      <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 09:24:44 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 12 Aug 2026 10:15:21 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: A new chat interface for Ollama</title>
@@ -212,6 +220,14 @@
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10375</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10375</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10375</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 12:20:20 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
@@ -227,30 +243,6 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49261767</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 17:41:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Inferact vLLM creators are hiring</title>
-      <link>https://twitter.com/SemiAnalysis_/status/2086815217497849987</link>
-      <guid isPermaLink="false">https://twitter.com/SemiAnalysis_/status/2086815217497849987</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 10:35:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10380</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10380</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 20:15:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Building a Rust Inference Engine That Matches Llama.cpp</title>
-      <link>https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</link>
-      <guid isPermaLink="false">https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 05 Aug 2026 09:00:07 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
