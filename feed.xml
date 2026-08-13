@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 13:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:31:49 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -14,19 +14,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
-      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
-      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
+      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
+      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +102,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
-      <link>https://twitter.com/finkd/status/2086755195535413696</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <title>Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them</title>
+      <link>https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/</link>
+      <guid isPermaLink="false">https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/</guid>
+      <category>security</category>
+      <pubDate>Thu, 13 Aug 2026 19:04:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +166,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10415</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10415</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10415</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 19:30:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
       <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
       <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
@@ -166,28 +182,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10414</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10414</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10414</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 18:42:18 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10413</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10413</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10413</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 18:00:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
       <link>https://github.com/DannyArends/DLLM</link>
       <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10405</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10405</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10405</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 07:34:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10400</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10400</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10400</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 06:05:51 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
@@ -206,19 +230,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.10</title>
+      <title>Show HN: A new chat interface for Ollama</title>
+      <link>https://github.com/bctnry/OpenSyzygy</link>
+      <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
+      <category>harness</category>
+      <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10-rc1: mlx: avoid pulling MLX models when MLX is missing (#17710)</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 22:36:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10398: common: add system-level config file (#26118)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10398</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10398</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 22:02:27 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:42:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -228,22 +252,6 @@
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 20:25:33 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.27.2rc0: [Spec Decode] DSpark confidence-scheduled verification (#47808)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.27.2rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 19:27:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: A new chat interface for Ollama</title>
-      <link>https://github.com/bctnry/OpenSyzygy</link>
-      <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
