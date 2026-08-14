@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 19:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:52:20 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -14,27 +14,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
+      <link>https://news.ycombinator.com/item?id=49293943</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
-      <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
-      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
-      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
+      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
+      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
       <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
@@ -70,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
       <link>https://news.ycombinator.com/item?id=49273774</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
@@ -78,27 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
+      <link>https://twitter.com/finkd/status/2086755195535413696</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
       <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
       <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Evaluating Open Weight Models for Software Maintenance</title>
-      <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
-      <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:08:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM Hardware Calc</title>
-      <link>https://dubir.net/tools/local-llm-hardware-calculator/</link>
-      <guid isPermaLink="false">https://dubir.net/tools/local-llm-hardware-calculator/</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:58:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,14 +166,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10415</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10415</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10415</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 19:30:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
       <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
       <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
@@ -182,27 +174,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10414</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10414</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10414</guid>
+      <title>ollama: v0.32.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.11</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.11</guid>
       <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 18:42:18 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:22:12 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.32.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
+      <title>llama.cpp: b10423</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10423</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10423</guid>
       <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 22:45:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10413</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10413</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10413</guid>
+      <title>llama.cpp: b10419</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10419</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10419</guid>
       <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 18:00:56 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 22:13:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10418</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10418</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10418</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 21:38:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -212,6 +212,14 @@
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
@@ -238,20 +246,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.10-rc1: mlx: avoid pulling MLX models when MLX is missing (#17710)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1</guid>
+      <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
+      <link>https://github.com/Tenosra/Proxima</link>
+      <guid isPermaLink="false">https://github.com/Tenosra/Proxima</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 21:42:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.10-rc0: nn: speed up prefill on double-scale nvfp4 models</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 20:25:33 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 11 Aug 2026 15:04:01 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
