@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 13:49:36 +0000</lastBuildDate>
-    <item>
-      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
-      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
-      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 19:20:09 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -30,27 +22,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
+      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
+      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Humanising LLM Outputs Is Dumb</title>
+      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
+      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
       <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</title>
-      <link>https://mistral.ai/news/shieldstral/</link>
-      <guid isPermaLink="false">https://mistral.ai/news/shieldstral/</guid>
-      <category>model</category>
-      <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
-      <link>https://news.ycombinator.com/item?id=49293943</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
-      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
-      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
+      <link>https://news.ycombinator.com/item?id=49293943</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
       <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,6 +67,14 @@
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
+      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
+      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
+      <title>State of Open Models: Summer 2026 Observations</title>
+      <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/state-of-open-models-summer-2026</guid>
       <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,6 +158,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.32.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
@@ -166,11 +174,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10430</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10430</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10430</guid>
+      <title>llama.cpp: b10433</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10433</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10433</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 12:59:40 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 18:21:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,27 +190,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10429</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10429</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10429</guid>
+      <title>llama.cpp: b10431</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10431</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10431</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 12:15:20 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:44:57 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10428</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10428</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10428</guid>
+      <title>ollama: v0.32.12</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.12</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.12</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 09:08:06 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 16:49:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.32.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.11</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.11</guid>
+      <title>llama.cpp: b10430</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10430</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10430</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 06:37:49 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:59:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -222,11 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
+      <title>ollama: v0.32.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.11</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.11</guid>
       <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:37:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -243,14 +251,6 @@
       <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Proxima serves 4x more requests with no hardware change on vLLM</title>
-      <link>https://github.com/Tenosra/Proxima</link>
-      <guid isPermaLink="false">https://github.com/Tenosra/Proxima</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 15:04:01 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
