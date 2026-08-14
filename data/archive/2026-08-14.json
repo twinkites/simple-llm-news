@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:52:20.231796+00:00",
+  "generated_at": "2026-08-14T07:56:27.717728+00:00",
   "sections": {
     "model": [
       {
@@ -14,17 +14,6 @@
         }
       },
       {
-        "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
-        "url": "https://news.ycombinator.com/item?id=49293943",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-14T01:56:38Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "source": "hn",
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
+        }
+      },
+      {
+        "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
+        "url": "https://news.ycombinator.com/item?id=49293943",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-14T01:56:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,17 +69,6 @@
         }
       },
       {
-        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-12T13:05:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Meta's new open-weight model targets local agentic AI",
         "url": "https://twitter.com/finkd/status/2086754845218726027",
         "source": "hn",
@@ -91,14 +80,14 @@
         }
       },
       {
-        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-13T17:16:04+00:00",
+        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-08-12T13:05:52Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -110,6 +99,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-13T17:16:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -140,7 +140,7 @@
         "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
         "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
         "source": "hn",
-        "score": 45,
+        "score": 51,
         "published": "2026-08-13T19:04:52Z",
         "truthiness": {
           "label": "yellow",
@@ -219,11 +219,22 @@
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
-        "score": 360,
+        "score": 361,
         "published": "2026-08-12T04:51:59Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10426",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10426",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-14T07:30:47+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -238,44 +249,33 @@
         }
       },
       {
+        "title": "llama.cpp: b10425",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10425",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-14T06:52:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.32.11",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-14T01:22:12+00:00",
+        "published": "2026-08-14T06:37:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10423",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10423",
+        "title": "llama.cpp: b10424",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10424",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-13T22:45:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10419",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10419",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-13T22:13:09+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10418",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10418",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-13T21:38:17+00:00",
+        "published": "2026-08-14T05:46:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.32.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-13T18:32:55+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "source": "hn",
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-13T18:32:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

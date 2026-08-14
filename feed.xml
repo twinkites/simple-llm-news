@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 02:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:56:27 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
-      <link>https://news.ycombinator.com/item?id=49293943</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
+      <link>https://news.ycombinator.com/item?id=49293943</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,6 +54,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
       <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
@@ -62,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
+      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
+      <link>https://news.ycombinator.com/item?id=49273774</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
       <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -76,14 +84,6 @@
       <category>model</category>
       <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
-      <link>https://news.ycombinator.com/item?id=49273774</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
@@ -166,6 +166,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10426</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10426</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10426</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 07:30:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
       <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
       <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
@@ -174,35 +182,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10425</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10425</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10425</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 06:52:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.32.11</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.11</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.11</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 01:22:12 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:37:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10423</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10423</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10423</guid>
+      <title>llama.cpp: b10424</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10424</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10424</guid>
       <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 22:45:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10419</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10419</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10419</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 22:13:09 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10418</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10418</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10418</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 21:38:17 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 05:46:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
-      <category>harness</category>
-      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.10</guid>
+      <category>harness</category>
+      <pubDate>Thu, 13 Aug 2026 18:32:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
