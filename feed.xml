@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:49:36 +0000</lastBuildDate>
+    <item>
+      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
+      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
+      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -19,14 +27,6 @@
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
-      <link>https://news.ycombinator.com/item?id=49293943</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
-      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
-      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
+      <link>https://news.ycombinator.com/item?id=49293943</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
       <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +59,14 @@
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Banning Open-Weight AI Models Could Cost America the AI Race</title>
+      <link>https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</link>
+      <guid isPermaLink="false">https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 13 Aug 2026 12:19:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
-      <category>model</category>
-      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
       <link>https://twitter.com/finkd/status/2086755195535413696</link>
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I ran the same local LLM on an RTX 5070 laptop and one with an iGPU</title>
-      <link>https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/</guid>
+      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
       <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 14:37:33 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them</title>
@@ -166,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10426</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10426</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10426</guid>
+      <title>llama.cpp: b10430</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10430</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10430</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 07:30:47 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:59:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,11 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10425</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10425</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10425</guid>
+      <title>llama.cpp: b10429</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10429</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10429</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 06:52:58 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:15:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10428</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10428</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10428</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 09:08:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,12 +206,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10424</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10424</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10424</guid>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 05:46:10 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
