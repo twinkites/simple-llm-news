@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 07:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:04:49 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Humanising LLM Outputs Is Dumb</title>
+      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
+      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
-      <link>https://news.ycombinator.com/item?id=49273774</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
       <link>https://twitter.com/finkd/status/2086755195535413696</link>
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Evaluating Open Weight Models for Software Maintenance</title>
-      <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
-      <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
+      <title>Ask HN: Are there any production LLM pipeline setups to learn from?</title>
+      <link>https://news.ycombinator.com/item?id=49273774</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49273774</guid>
       <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:08:51 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 15:18:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
-      <link>https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</link>
-      <guid isPermaLink="false">https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</guid>
-      <category>security</category>
-      <pubDate>Sun, 09 Aug 2026 10:34:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>A stranger asked if I&#x27;d tested for prompt injection. They were right to ask</title>
       <link>https://patch-security.com/notes/prompt-injection/</link>
       <guid isPermaLink="false">https://patch-security.com/notes/prompt-injection/</guid>
       <category>security</category>
       <pubDate>Thu, 06 Aug 2026 13:25:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
+      <link>https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</link>
+      <guid isPermaLink="false">https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</guid>
+      <category>security</category>
+      <pubDate>Sun, 09 Aug 2026 10:34:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10437</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10437</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10437</guid>
+      <title>llama.cpp: b10441</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10441</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10441</guid>
       <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 05:26:10 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 11:26:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,22 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.12</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.12</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.12</guid>
-      <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 04:30:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10436</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10436</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10436</guid>
-      <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 04:14:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
       <link>https://github.com/brian-mwirigi/kvcachescope</link>
       <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
@@ -206,11 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10438</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10438</guid>
+      <title>llama.cpp: b10437</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10437</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10437</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 22:25:26 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:26:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.12</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.12</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.12</guid>
+      <category>harness</category>
+      <pubDate>Sat, 15 Aug 2026 04:30:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -222,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.13</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <title>llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10438</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10438</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 22:25:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -236,6 +228,14 @@
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.32.11</title>

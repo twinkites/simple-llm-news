@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:03:35.982641+00:00",
+  "generated_at": "2026-08-15T13:04:49.544785+00:00",
   "sections": {
     "model": [
       {
@@ -22,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
+        }
+      },
+      {
+        "title": "Humanising LLM Outputs Is Dumb",
+        "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+        "source": "hn",
+        "score": 228,
+        "published": "2026-08-10T13:35:40Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 228 points)"
         }
       },
       {
@@ -72,7 +83,7 @@
         "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
         "url": "https://news.ycombinator.com/item?id=49293943",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-14T01:56:38Z",
         "truthiness": {
           "label": "red",
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
-        "url": "https://news.ycombinator.com/item?id=49273774",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-08-12T15:18:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
         "url": "https://twitter.com/finkd/status/2086755195535413696",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Evaluating Open Weight Models for Software Maintenance",
-        "url": "https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/",
+        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
+        "url": "https://news.ycombinator.com/item?id=49273774",
         "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T13:08:51Z",
+        "score": 6,
+        "published": "2026-08-12T15:18:25Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -140,7 +140,7 @@
         "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
         "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
         "source": "hn",
-        "score": 56,
+        "score": 57,
         "published": "2026-08-13T19:04:52Z",
         "truthiness": {
           "label": "yellow",
@@ -181,17 +181,6 @@
         }
       },
       {
-        "title": "Prompt Injection in VirusTotal's Code Insights API",
-        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-09T10:34:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "A stranger asked if I'd tested for prompt injection. They were right to ask",
         "url": "https://patch-security.com/notes/prompt-injection/",
         "source": "hn",
@@ -200,6 +189,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection in VirusTotal's Code Insights API",
+        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-09T10:34:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -227,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10437",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
+        "title": "llama.cpp: b10441",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10441",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-15T05:26:10+00:00",
+        "published": "2026-08-15T11:26:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,28 +249,6 @@
         }
       },
       {
-        "title": "ollama: v0.32.12",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-15T04:30:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10436",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10436",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-15T04:14:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
         "url": "https://github.com/brian-mwirigi/kvcachescope",
         "source": "hn",
@@ -282,11 +260,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10438",
+        "title": "llama.cpp: b10437",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-14T22:25:26+00:00",
+        "published": "2026-08-15T05:26:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.12",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T04:30:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,11 +293,11 @@
         }
       },
       {
-        "title": "ollama: v0.32.13",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+        "title": "llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10438",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-14T19:18:00+00:00",
+        "published": "2026-08-14T22:25:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.13",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-14T19:18:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
