@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-15T13:04:49.544785+00:00",
+  "generated_at": "2026-08-15T18:52:07.598215+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://chenxiachan.github.io/thoughtdag/",
+        "source": "hn",
+        "score": 93,
+        "published": "2026-08-15T04:42:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 93 points)"
+        }
+      },
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
@@ -47,25 +58,14 @@
         }
       },
       {
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "url": "https://blog.fogus.me/llm/born-against.html",
+        "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+        "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
         "source": "hn",
-        "score": 442,
-        "published": "2026-08-05T18:37:49Z",
+        "score": 79,
+        "published": "2026-08-10T11:52:07Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 442 points)"
-        }
-      },
-      {
-        "title": "The War Between Open Source, Open Weight, and Closed AI Models",
-        "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-14T13:30:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 79 points)"
         }
       },
       {
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+        }
+      },
+      {
+        "title": "The War Between Open Source, Open Weight, and Closed AI Models",
+        "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-14T13:30:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
-        "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-13T12:19:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
         "url": "https://twitter.com/finkd/status/2086755195535413696",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
-        "url": "https://news.ycombinator.com/item?id=49273774",
+        "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
+        "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
         "source": "hn",
-        "score": 6,
-        "published": "2026-08-12T15:18:25Z",
+        "score": 3,
+        "published": "2026-08-13T12:19:02Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -216,6 +216,28 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10444",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10444",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T18:43:40+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10443",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10443",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T18:05:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
@@ -224,17 +246,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10441",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10441",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-15T11:26:08+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,36 +260,25 @@
         }
       },
       {
+        "title": "llama.cpp: b10442",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10442",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T14:59:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
         "url": "https://github.com/brian-mwirigi/kvcachescope",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-14T23:11:14Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10437",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-15T05:26:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.32.12",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-15T04:30:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,11 +293,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10438",
+        "title": "ollama: v0.32.12",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-14T22:25:26+00:00",
+        "published": "2026-08-15T04:30:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
