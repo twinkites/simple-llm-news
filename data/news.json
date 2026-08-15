@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-15T01:55:33.674337+00:00",
+  "generated_at": "2026-08-15T07:03:35.982641+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-        "url": "https://github.com/AntoineChatry/Dictata",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-15T00:58:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "source": "hn",
-        "score": 694,
+        "score": 695,
         "published": "2026-08-11T13:22:00Z",
         "truthiness": {
           "label": "green",
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
+        }
+      },
+      {
+        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+        "url": "https://github.com/AntoineChatry/Dictata",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-15T00:58:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -69,6 +69,17 @@
         }
       },
       {
+        "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
+        "url": "https://news.ycombinator.com/item?id=49293943",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-14T01:56:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
         "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
         "source": "hn",
@@ -77,17 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
-        "url": "https://news.ycombinator.com/item?id=49293943",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-14T01:56:38Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -140,7 +140,7 @@
         "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
         "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
         "source": "hn",
-        "score": 55,
+        "score": 56,
         "published": "2026-08-13T19:04:52Z",
         "truthiness": {
           "label": "yellow",
@@ -216,17 +216,6 @@
     ],
     "harness": [
       {
-        "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
-        "url": "https://github.com/brian-mwirigi/kvcachescope",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-14T23:11:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
@@ -235,6 +224,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10437",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T05:26:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,55 +249,44 @@
         }
       },
       {
-        "title": "llama.cpp: b10435",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10435",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-14T22:29:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10434",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10434",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-14T19:24:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.32.13",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-14T19:18:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10433",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10433",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-14T18:21:55+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "ollama: v0.32.12",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-14T16:49:45+00:00",
+        "published": "2026-08-15T04:30:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10436",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10436",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-15T04:14:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
+        "url": "https://github.com/brian-mwirigi/kvcachescope",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-14T23:11:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10438",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-14T22:25:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 44 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.13",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-14T19:18:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

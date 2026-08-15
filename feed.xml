@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 01:55:33 +0000</lastBuildDate>
-    <item>
-      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
-      <link>https://github.com/AntoineChatry/Dictata</link>
-      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 00:58:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 07:03:35 +0000</lastBuildDate>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -27,6 +19,14 @@
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
+      <link>https://github.com/AntoineChatry/Dictata</link>
+      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
+      <category>model</category>
+      <pubDate>Sat, 15 Aug 2026 00:58:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
-      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
-      <category>model</category>
-      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
       <link>https://news.ycombinator.com/item?id=49293943</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
       <category>model</category>
       <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
+      <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
+      <category>model</category>
+      <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,20 +158,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
-      <link>https://github.com/brian-mwirigi/kvcachescope</link>
-      <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10437</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10437</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10437</guid>
+      <category>harness</category>
+      <pubDate>Sat, 15 Aug 2026 05:26:10 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
@@ -182,43 +182,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10435</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10435</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10435</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 22:29:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10434</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10434</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10434</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 19:24:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.13</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10433</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10433</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10433</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 18:21:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ollama: v0.32.12</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.12</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.12</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 16:49:45 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 04:30:53 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10436</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10436</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10436</guid>
+      <category>harness</category>
+      <pubDate>Sat, 15 Aug 2026 04:14:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
+      <link>https://github.com/brian-mwirigi/kvcachescope</link>
+      <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10438: mtmd: fix Granite4 Vision image sequence assembly (#26653)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10438</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10438</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 22:25:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -228,6 +220,14 @@
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
