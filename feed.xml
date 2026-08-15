@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 19:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
+      <link>https://github.com/AntoineChatry/Dictata</link>
+      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
+      <category>model</category>
+      <pubDate>Sat, 15 Aug 2026 00:58:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
@@ -22,27 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
-      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
-      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Humanising LLM Outputs Is Dumb</title>
-      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
-      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
       <guid isPermaLink="false">https://blog.fogus.me/llm/born-against.html</guid>
       <category>model</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
+      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
+      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
-      <link>https://news.ycombinator.com/item?id=49293943</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
       <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
+      <link>https://news.ycombinator.com/item?id=49293943</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
+      <category>model</category>
+      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>State of Open Models: Summer 2026 Observations</title>
-      <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/state-of-open-models-summer-2026</guid>
+      <title>Evaluating Open Weight Models for Software Maintenance</title>
+      <link>https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</link>
+      <guid isPermaLink="false">https://blog.bosun.ai/software-maintenance-with-open-weight-models-part-1/</guid>
       <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 12 Aug 2026 13:08:51 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them</title>
@@ -158,12 +158,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.13</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
+      <link>https://github.com/brian-mwirigi/kvcachescope</link>
+      <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>llama.cpp</title>
@@ -174,14 +174,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10433</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10433</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10433</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 18:21:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
       <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
       <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
@@ -190,11 +182,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10431</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10431</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10431</guid>
+      <title>llama.cpp: b10435</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10435</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10435</guid>
       <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 17:44:57 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 22:29:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10434</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10434</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10434</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 19:24:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.13</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.13</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 19:18:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10433</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10433</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10433</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 18:21:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -203,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.12</guid>
       <category>harness</category>
       <pubDate>Fri, 14 Aug 2026 16:49:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10430</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10430</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10430</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 12:59:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -236,14 +244,6 @@
       <category>harness</category>
       <pubDate>Fri, 14 Aug 2026 06:37:49 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Visual knowledge graphs using Ollama and Embeddings</title>
-      <link>https://github.com/punnerud/Local_Knowledge_Graph</link>
-      <guid isPermaLink="false">https://github.com/punnerud/Local_Knowledge_Graph</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 10:15:21 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Show HN: A new chat interface for Ollama</title>
