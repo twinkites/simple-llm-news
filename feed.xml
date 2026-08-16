@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:06:24 +0000</lastBuildDate>
+    <item>
+      <title>What happens when an LLM never sees material beyond fifth grade?</title>
+      <link>https://littlelearner-ll.github.io/</link>
+      <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
+      <category>model</category>
+      <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
       <link>https://chenxiachan.github.io/thoughtdag/</link>
@@ -35,14 +43,6 @@
       <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)</title>
-      <link>https://www.mikeayles.com/blog/on-chip-llm-kv260/</link>
-      <guid isPermaLink="false">https://www.mikeayles.com/blog/on-chip-llm-kv260/</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 11:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,19 +158,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10453</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10453</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10453</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 12:55:52 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10452</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10452</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10452</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 11:23:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
-      <link>https://github.com/alainnothere/privibe/tree/main</link>
-      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -182,36 +190,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10450</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10450</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10450</guid>
+      <title>llama.cpp: b10451</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10451</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10451</guid>
       <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 20:52:55 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 07:26:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10448</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10448</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10448</guid>
+      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
+      <link>https://github.com/alainnothere/privibe/tree/main</link>
+      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
       <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 20:50:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10447</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10447</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10447</guid>
-      <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 20:15:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.14</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 19:41:23 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
@@ -228,6 +220,14 @@
       <category>harness</category>
       <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.14</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</guid>
+      <category>harness</category>
+      <pubDate>Sat, 15 Aug 2026 19:41:23 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
