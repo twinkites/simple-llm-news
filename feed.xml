@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 02:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:05:42 +0000</lastBuildDate>
     <item>
       <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
       <link>https://chenxiachan.github.io/thoughtdag/</link>
@@ -158,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
-      <link>https://github.com/alainnothere/privibe/tree/main</link>
-      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
+      <link>https://github.com/alainnothere/privibe/tree/main</link>
+      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -180,6 +180,14 @@
       <category>harness</category>
       <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10450</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10450</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10450</guid>
+      <category>harness</category>
+      <pubDate>Sat, 15 Aug 2026 20:52:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10448</title>
@@ -198,14 +206,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10446</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10446</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10446</guid>
-      <category>harness</category>
-      <pubDate>Sat, 15 Aug 2026 19:45:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ollama: v0.32.14</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0</guid>
@@ -214,19 +214,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
-      <link>https://github.com/brian-mwirigi/kvcachescope</link>
-      <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
-      <category>harness</category>
-      <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
       <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
+      <link>https://github.com/brian-mwirigi/kvcachescope</link>
+      <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
+      <category>harness</category>
+      <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
