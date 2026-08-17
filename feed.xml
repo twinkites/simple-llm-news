@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 02:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:21:56 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
       <category>model</category>
       <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The LLM Freedom Manifesto: Open-Weight Models and User Responsibility</title>
+      <link>https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</link>
+      <guid isPermaLink="false">https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</guid>
+      <category>model</category>
+      <pubDate>Mon, 17 Aug 2026 06:22:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,14 +94,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The War Between Open Source, Open Weight, and Closed AI Models</title>
-      <link>https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</link>
-      <guid isPermaLink="false">https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 13:30:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The future is for billionaires – the rest of us will get open weight AI, maybe</title>
       <link>https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</link>
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
@@ -142,6 +142,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: tmp-testing-0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/tmp-testing-0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/tmp-testing-0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 17 Aug 2026 06:58:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10456</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10456</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10456</guid>
+      <category>harness</category>
+      <pubDate>Mon, 17 Aug 2026 06:31:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10455</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10455</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10455</guid>
+      <category>harness</category>
+      <pubDate>Mon, 17 Aug 2026 05:49:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
@@ -166,14 +190,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.119</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
       <link>https://github.com/alainnothere/privibe/tree/main</link>
       <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
@@ -182,27 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10453</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10453</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10453</guid>
+      <title>koboldcpp: koboldcpp-1.119</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
       <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 12:55:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10452</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10452</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10452</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 11:23:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10451</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10451</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10451</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 07:26:01 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
