@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 18:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:00:33 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
@@ -27,6 +27,14 @@
       <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
       <category>model</category>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Debian has begun voting on the future of AI/LLM contributions</title>
+      <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
+      <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
+      <category>model</category>
+      <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>I won&#x27;t read LLM authored fiction</title>
+      <link>https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</link>
+      <guid isPermaLink="false">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</guid>
+      <category>model</category>
+      <pubDate>Fri, 07 Aug 2026 07:45:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
       <link>https://github.com/AntoineChatry/Dictata</link>
       <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690</guid>
       <category>model</category>
       <pubDate>Wed, 12 Aug 2026 13:05:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Meta releases Muse Glimmer, 30B parameter open-weight edge model</title>
-      <link>https://twitter.com/finkd/status/2086755195535413696</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086755195535413696</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:20:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: How do you develop more deterministic LLM pipelines?</title>
-      <link>https://news.ycombinator.com/item?id=49293943</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49293943</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 01:56:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,22 +142,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Vulnerability in Ollama, Gemma4 and HuggingFace&#x27;s Transformers</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/</guid>
-      <category>security</category>
-      <pubDate>Thu, 06 Aug 2026 23:03:10 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.14</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 17:41:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
@@ -174,12 +158,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.32.14</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 17:41:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>koboldcpp: koboldcpp-1.119</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
       <category>harness</category>
       <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
+      <link>https://github.com/alainnothere/privibe/tree/main</link>
+      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>llama.cpp: b10453</title>
@@ -198,14 +198,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
-      <link>https://github.com/alainnothere/privibe/tree/main</link>
-      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp: b10451</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10451</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10451</guid>
@@ -214,19 +206,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">https://www.aleksagordic.com/blog/vllm</guid>
-      <category>harness</category>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
       <link>https://github.com/brian-mwirigi/kvcachescope</link>
       <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
       <category>harness</category>
       <pubDate>Fri, 14 Aug 2026 23:11:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
+      <link>https://github.com/DannyArends/DLLM</link>
+      <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -238,11 +230,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
-      <link>https://github.com/DannyArends/DLLM</link>
-      <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
+      <title>Show HN: A new chat interface for Ollama</title>
+      <link>https://github.com/bctnry/OpenSyzygy</link>
+      <guid isPermaLink="false">https://github.com/bctnry/OpenSyzygy</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:29:55 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
