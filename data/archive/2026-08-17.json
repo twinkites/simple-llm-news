@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T13:12:02.114236+00:00",
+  "generated_at": "2026-08-17T19:03:18.467106+00:00",
   "sections": {
     "model": [
       {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "source": "hn",
-        "score": 241,
+        "score": 243,
         "published": "2026-08-16T07:37:53Z",
         "truthiness": {
           "label": "green",
@@ -14,14 +14,14 @@
         }
       },
       {
-        "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
-        "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
+        "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
+        "url": "https://loganbolton.github.io/blog/vlm-verification/",
         "source": "hn",
-        "score": 4,
-        "published": "2026-08-17T06:22:34Z",
+        "score": 2,
+        "published": "2026-08-17T17:34:05Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -36,10 +36,21 @@
         }
       },
       {
+        "title": "Show HN: Stressing LLMs – Complexity Benchmark",
+        "url": "https://alexander-hanel.github.io/StressingLLMs/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-17T13:39:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
-        "score": 132,
+        "score": 134,
         "published": "2026-08-15T04:42:07Z",
         "truthiness": {
           "label": "green",
@@ -69,6 +80,17 @@
         }
       },
       {
+        "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
+        "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-17T06:22:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "source": "hn",
@@ -77,17 +99,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 228 points)"
-        }
-      },
-      {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "url": "https://arxiv.org/abs/2608.12700",
-        "source": "hn",
-        "score": 46,
-        "published": "2026-08-14T16:57:14Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-12T13:05:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -194,10 +194,21 @@
     ],
     "harness": [
       {
+        "title": "Llama.cpp v0.1.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+        "source": "hn",
+        "score": 13,
+        "published": "2026-08-17T17:56:06Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp",
         "url": "https://github.com/ggml-org/Llama-macOS",
         "source": "hn",
-        "score": 4,
+        "score": 6,
         "published": "2026-08-17T08:49:31Z",
         "truthiness": {
           "label": "red",
@@ -227,11 +238,11 @@
         }
       },
       {
-        "title": "llama.cpp: v0.1.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+        "title": "llama.cpp: v0.1.1",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-17T09:08:00+00:00",
+        "published": "2026-08-17T14:08:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -243,17 +254,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-17T06:58:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10456",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10456",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-17T06:31:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,17 +282,6 @@
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.119",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.119",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-16T13:23:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
         "url": "https://github.com/brian-mwirigi/kvcachescope",
         "source": "hn",
@@ -301,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.119",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.119",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-16T13:23:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
