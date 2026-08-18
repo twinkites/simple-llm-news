@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 19:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:55:57 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
@@ -14,27 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Best Way to Make Your (Small) Vision Language Model Smarter</title>
-      <link>https://loganbolton.github.io/blog/vlm-verification/</link>
-      <guid isPermaLink="false">https://loganbolton.github.io/blog/vlm-verification/</guid>
-      <category>model</category>
-      <pubDate>Mon, 17 Aug 2026 17:34:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
       <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
       <category>model</category>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Stressing LLMs – Complexity Benchmark</title>
-      <link>https://alexander-hanel.github.io/StressingLLMs/</link>
-      <guid isPermaLink="false">https://alexander-hanel.github.io/StressingLLMs/</guid>
-      <category>model</category>
-      <pubDate>Mon, 17 Aug 2026 13:39:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,12 +38,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>The Best Way to Make Your (Small) Vision Language Model Smarter</title>
+      <link>https://loganbolton.github.io/blog/vlm-verification/</link>
+      <guid isPermaLink="false">https://loganbolton.github.io/blog/vlm-verification/</guid>
+      <category>model</category>
+      <pubDate>Mon, 17 Aug 2026 17:34:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Debian has begun voting on the future of AI/LLM contributions</title>
       <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
       <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Stressing LLMs – Complexity Benchmark</title>
+      <link>https://alexander-hanel.github.io/StressingLLMs/</link>
+      <guid isPermaLink="false">https://alexander-hanel.github.io/StressingLLMs/</guid>
+      <category>model</category>
+      <pubDate>Mon, 17 Aug 2026 13:39:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
+      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</guid>
+      <category>model</category>
+      <pubDate>Mon, 17 Aug 2026 19:46:21 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>The LLM Freedom Manifesto: Open-Weight Models and User Responsibility</title>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
-      <link>https://github.com/AntoineChatry/Dictata</link>
-      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 00:58:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,19 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp</title>
-      <link>https://github.com/ggml-org/Llama-macOS</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/Llama-macOS</guid>
-      <category>harness</category>
-      <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp</title>
       <link>https://llama.app</link>
       <guid isPermaLink="false">https://llama.app</guid>
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp</title>
+      <link>https://github.com/ggml-org/Llama-macOS</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/Llama-macOS</guid>
+      <category>harness</category>
+      <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,14 +198,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.14</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 17:41:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks</title>
       <link>https://github.com/brian-mwirigi/kvcachescope</link>
       <guid isPermaLink="false">https://github.com/brian-mwirigi/kvcachescope</guid>
@@ -214,11 +206,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.119</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
+      <title>ollama: v0.32.14</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.14</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14</guid>
       <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 17:41:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -228,6 +220,14 @@
       <category>harness</category>
       <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.119</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
+      <category>harness</category>
+      <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.32.14-rc0</title>
