@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:10:55.793045+00:00",
+  "generated_at": "2026-08-18T13:14:50.155421+00:00",
   "sections": {
     "model": [
       {
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "GenOffice fork that works with any local LLM instead of a cloud account",
+        "url": "https://github.com/douglas168/open-genoffice",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-18T09:03:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "source": "hn",
-        "score": 696,
+        "score": 697,
         "published": "2026-08-11T13:22:00Z",
         "truthiness": {
           "label": "green",
@@ -25,10 +36,21 @@
         }
       },
       {
+        "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
+        "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-18T07:26:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
-        "score": 134,
+        "score": 136,
         "published": "2026-08-15T04:42:07Z",
         "truthiness": {
           "label": "green",
@@ -47,28 +69,6 @@
         }
       },
       {
-        "title": "Debian has begun voting on the future of AI/LLM contributions",
-        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "source": "hn",
-        "score": 66,
-        "published": "2026-08-15T09:20:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 66 points)"
-        }
-      },
-      {
-        "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
-        "url": "https://loganbolton.github.io/blog/vlm-verification/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-17T17:34:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "source": "hn",
@@ -80,11 +80,11 @@
         }
       },
       {
-        "title": "Show HN: Stressing LLMs – Complexity Benchmark",
-        "url": "https://alexander-hanel.github.io/StressingLLMs/",
+        "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
+        "url": "https://loganbolton.github.io/blog/vlm-verification/",
         "source": "hn",
         "score": 2,
-        "published": "2026-08-17T13:39:07Z",
+        "published": "2026-08-17T17:34:05Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -102,14 +102,14 @@
         }
       },
       {
-        "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-17T19:46:21+00:00",
+        "title": "Show HN: Stressing LLMs – Complexity Benchmark",
+        "url": "https://alexander-hanel.github.io/StressingLLMs/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-17T13:39:07Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -124,23 +124,34 @@
         }
       },
       {
-        "title": "Meta's new open-weight model targets local agentic AI",
-        "url": "https://twitter.com/finkd/status/2086754845218726027",
-        "source": "hn",
-        "score": 42,
-        "published": "2026-08-10T10:55:03Z",
+        "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-17T19:46:21+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
     "security": [
       {
+        "title": "Prompt Injection in VirusTotal's Code Insights API",
+        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-18T11:29:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Blocking prompt injection deterministically costs 40% false positives",
         "url": "https://github.com/vineetpant/customhouse/blob/main/docs/false-positives.md",
         "source": "hn",
-        "score": 1,
+        "score": 3,
         "published": "2026-08-18T06:50:55Z",
         "truthiness": {
           "label": "red",
@@ -190,26 +201,48 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "Prompt Injection in VirusTotal's Code Insights API",
-        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-09T10:34:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "Llama.cpp v0.1.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+        "title": "Native vLLM and ROCm 7.15 for RX 6000 (RDNA2) on Windows 11 – 26 Tflops FP16",
+        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
         "source": "hn",
-        "score": 42,
-        "published": "2026-08-17T17:56:06Z",
+        "score": 2,
+        "published": "2026-08-18T10:11:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10488",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10488",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T11:07:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10486",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10486",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T10:45:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.1.2",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T10:23:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -224,17 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10481: CUDA: MMVQ nwarps=8 for bs=1 for dense models on DGX Spark (#26843)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10481",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T04:15:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -268,17 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.1.1",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-17T14:08:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -320,17 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-16T17:41:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.119",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.119",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-16T13:23:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

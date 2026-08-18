@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 07:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:14:50 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
@@ -14,11 +14,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>GenOffice fork that works with any local LLM instead of a cloud account</title>
+      <link>https://github.com/douglas168/open-genoffice</link>
+      <guid isPermaLink="false">https://github.com/douglas168/open-genoffice</guid>
+      <category>model</category>
+      <pubDate>Tue, 18 Aug 2026 09:03:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
       <link>https://stolen-thoughts.com/</link>
       <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
       <category>model</category>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>PurgeHound – Use the power of local LLM to declutter a Maildir folder</title>
+      <link>https://git.cerberusgames.ca/Starstreak/PurgeHound/</link>
+      <guid isPermaLink="false">https://git.cerberusgames.ca/Starstreak/PurgeHound/</guid>
+      <category>model</category>
+      <pubDate>Tue, 18 Aug 2026 07:26:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Debian has begun voting on the future of AI/LLM contributions</title>
-      <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
-      <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
+      <title>Humanising LLM Outputs Is Dumb</title>
+      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
+      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
       <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Humanising LLM Outputs Is Dumb</title>
-      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
-      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
+      <title>The LLM Freedom Manifesto: Open-Weight Models and User Responsibility</title>
+      <link>https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</link>
+      <guid isPermaLink="false">https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</guid>
       <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 06:22:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +86,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The LLM Freedom Manifesto: Open-Weight Models and User Responsibility</title>
-      <link>https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</link>
-      <guid isPermaLink="false">https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</guid>
+      <title>Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)</title>
+      <link>https://www.mikeayles.com/blog/on-chip-llm-kv260/</link>
+      <guid isPermaLink="false">https://www.mikeayles.com/blog/on-chip-llm-kv260/</guid>
       <category>model</category>
-      <pubDate>Mon, 17 Aug 2026 06:22:34 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +102,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)</title>
-      <link>https://www.mikeayles.com/blog/on-chip-llm-kv260/</link>
-      <guid isPermaLink="false">https://www.mikeayles.com/blog/on-chip-llm-kv260/</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 11:52:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
+      <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
+      <link>https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</link>
+      <guid isPermaLink="false">https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</guid>
+      <category>security</category>
+      <pubDate>Tue, 18 Aug 2026 11:29:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,20 +150,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
-      <link>https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</link>
-      <guid isPermaLink="false">https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api</guid>
-      <category>security</category>
-      <pubDate>Sun, 09 Aug 2026 10:34:00 +0000</pubDate>
+      <title>Native vLLM and ROCm 7.15 for RX 6000 (RDNA2) on Windows 11 – 26 Tflops FP16</title>
+      <link>https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</link>
+      <guid isPermaLink="false">https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</guid>
+      <category>harness</category>
+      <pubDate>Tue, 18 Aug 2026 10:11:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Llama.cpp v0.1.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0</guid>
+      <title>llama.cpp: b10488</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10488</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10488</guid>
       <category>harness</category>
-      <pubDate>Mon, 17 Aug 2026 17:56:06 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 18 Aug 2026 11:07:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10486</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10486</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10486</guid>
+      <category>harness</category>
+      <pubDate>Tue, 18 Aug 2026 10:45:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.1.2</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2</guid>
+      <category>harness</category>
+      <pubDate>Tue, 18 Aug 2026 10:23:10 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL</title>
@@ -164,14 +188,6 @@
       <category>harness</category>
       <pubDate>Tue, 18 Aug 2026 04:26:08 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10481: CUDA: MMVQ nwarps=8 for bs=1 for dense models on DGX Spark (#26843)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10481</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10481</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 04:15:53 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp</title>
@@ -196,14 +212,6 @@
       <category>harness</category>
       <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: v0.1.1</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.1</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 17 Aug 2026 14:08:29 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.14</guid>
       <category>harness</category>
       <pubDate>Sun, 16 Aug 2026 17:41:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.119</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.119</guid>
-      <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 13:23:10 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
