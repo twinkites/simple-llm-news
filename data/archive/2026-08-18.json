@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:14:50.155421+00:00",
+  "generated_at": "2026-08-18T19:03:22.327577+00:00",
   "sections": {
     "model": [
       {
@@ -14,14 +14,25 @@
         }
       },
       {
-        "title": "GenOffice fork that works with any local LLM instead of a cloud account",
-        "url": "https://github.com/douglas168/open-genoffice",
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T18:09:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
+        "url": "https://github.com/garagehq/Minus-streaming-stick",
         "source": "hn",
-        "score": 2,
-        "published": "2026-08-18T09:03:41Z",
+        "score": 1,
+        "published": "2026-08-18T16:19:00Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -33,17 +44,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 319 points)"
-        }
-      },
-      {
-        "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
-        "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-18T07:26:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -66,6 +66,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
+        }
+      },
+      {
+        "title": "GenOffice fork that works with any local LLM instead of a cloud account",
+        "url": "https://github.com/douglas168/open-genoffice",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-18T09:03:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
+        "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-18T07:26:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-        "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
-        "source": "hn",
-        "score": 79,
-        "published": "2026-08-10T11:52:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 79 points)"
-        }
-      },
-      {
-        "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-17T19:46:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -216,6 +216,39 @@
         }
       },
       {
+        "title": "llama.cpp",
+        "url": "https://llama.app",
+        "source": "hn",
+        "score": 364,
+        "published": "2026-08-12T04:51:59Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
+        }
+      },
+      {
+        "title": "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL",
+        "url": "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-18T04:26:08Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "source": "hn",
+        "score": 306,
+        "published": "2026-08-11T14:50:33Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 245 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b10488",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10488",
         "source": "rss",
@@ -246,39 +279,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL",
-        "url": "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-18T04:26:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp",
-        "url": "https://llama.app",
-        "source": "hn",
-        "score": 364,
-        "published": "2026-08-12T04:51:59Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
-        }
-      },
-      {
-        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "hn",
-        "score": 306,
-        "published": "2026-08-11T14:50:33Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 245 points)"
         }
       },
       {
