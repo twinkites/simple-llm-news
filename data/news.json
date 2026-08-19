@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-19T13:16:13.872868+00:00",
+  "generated_at": "2026-08-19T18:59:45.625283+00:00",
   "sections": {
     "model": [
       {
-        "title": "Show HN: Building a full agentic harness around a 4B model is hard",
-        "url": "https://orvena.app/",
+        "title": "S1-mini, Superwhisper's first open-weights language model",
+        "url": "https://huggingface.co/superwhisper/s1-mini",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-19T10:03:46Z",
+        "score": 8,
+        "published": "2026-08-19T17:17:30Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -22,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
+        }
+      },
+      {
+        "title": "Show HN: Building a full agentic harness around a 4B model is hard",
+        "url": "https://orvena.app/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-19T10:03:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -47,14 +58,14 @@
         }
       },
       {
-        "title": "Humanising LLM Outputs Is Dumb",
-        "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-        "source": "hn",
-        "score": 229,
-        "published": "2026-08-10T13:35:40Z",
+        "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "url": "https://huggingface.co/blog/LiquidAI/qad",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-19T13:48:49+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 228 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,17 +91,6 @@
         }
       },
       {
-        "title": "How Much Memory Does Your Agent Actually Need?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T18:09:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
         "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
         "source": "hn",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T18:09:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
         "url": "https://loganbolton.github.io/blog/vlm-verification/",
         "source": "hn",
@@ -122,31 +133,9 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Show HN: Stressing LLMs – Complexity Benchmark",
-        "url": "https://alexander-hanel.github.io/StressingLLMs/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-17T13:39:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
-      {
-        "title": "Prompt Injection in VirusTotal's Code Insights API",
-        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-18T11:29:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
       {
         "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
         "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
@@ -156,6 +145,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 9 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection in VirusTotal's Code Insights API",
+        "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-18T11:29:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -205,6 +205,28 @@
     ],
     "harness": [
       {
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-19T15:35:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-19T17:25:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
         "url": "https://news.ycombinator.com/item?id=49360318",
         "source": "hn",
@@ -213,6 +235,28 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10502",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10502",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-19T14:22:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.15-rc0: mlx update (#17850)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-19T14:15:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-18T20:42:19Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "hn",
@@ -249,6 +282,17 @@
         }
       },
       {
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-08-18T20:42:19Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
         "title": "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL",
         "url": "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i",
         "source": "hn",
@@ -257,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10499",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10499",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T23:45:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,47 +326,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10488",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10488",
+        "title": "llama.cpp: b10499",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10499",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-18T11:07:28+00:00",
+        "published": "2026-08-18T23:45:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.1.2",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T10:23:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
-        "url": "https://github.com/DannyArends/DLLM",
-        "source": "hn",
-        "score": 9,
-        "published": "2026-08-12T22:34:15Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
-        "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
-        "url": "https://github.com/brian-mwirigi/kvcachescope",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-14T23:11:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
