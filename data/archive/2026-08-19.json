@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-19T07:11:45.566652+00:00",
+  "generated_at": "2026-08-19T13:16:13.872868+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: Building a full agentic harness around a 4B model is hard",
+        "url": "https://orvena.app/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-19T10:03:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
@@ -33,17 +44,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
-        }
-      },
-      {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "url": "https://chenxiachan.github.io/thoughtdag/",
-        "source": "hn",
-        "score": 136,
-        "published": "2026-08-15T04:42:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 93 points)"
         }
       },
       {
@@ -148,17 +148,6 @@
         }
       },
       {
-        "title": "Blocking prompt injection deterministically costs 40% false positives",
-        "url": "https://github.com/vineetpant/customhouse/blob/main/docs/false-positives.md",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-18T06:50:55Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
         "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
         "source": "hn",
@@ -167,6 +156,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 9 points)"
+        }
+      },
+      {
+        "title": "Blocking prompt injection deterministically costs 40% false positives",
+        "url": "https://github.com/vineetpant/customhouse/blob/main/docs/false-positives.md",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-18T06:50:55Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -205,14 +205,14 @@
     ],
     "harness": [
       {
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
+        "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
+        "url": "https://news.ycombinator.com/item?id=49360318",
         "source": "hn",
-        "score": 5,
-        "published": "2026-08-18T20:42:19Z",
+        "score": 2,
+        "published": "2026-08-19T11:56:55Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -227,6 +227,17 @@
         }
       },
       {
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-18T20:42:19Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "hn",
@@ -238,17 +249,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10499",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10499",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T23:45:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL",
         "url": "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i",
         "source": "hn",
@@ -257,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10499",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10499",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T23:45:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -320,17 +331,6 @@
         "source": "hn",
         "score": 4,
         "published": "2026-08-14T23:11:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
-        "url": "https://github.com/alainnothere/privibe/tree/main",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-16T00:53:38Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
