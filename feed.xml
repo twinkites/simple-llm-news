@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 01:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:11:45 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
@@ -38,27 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Minus HDMI hardware ad-blocker with local vision model</title>
-      <link>https://github.com/garagehq/Minus-streaming-stick</link>
-      <guid isPermaLink="false">https://github.com/garagehq/Minus-streaming-stick</guid>
-      <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 16:19:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How Much Memory Does Your Agent Actually Need?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
-      <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 18:09:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Humanising LLM Outputs Is Dumb</title>
       <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
       <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Minus HDMI hardware ad-blocker with local vision model</title>
+      <link>https://github.com/garagehq/Minus-streaming-stick</link>
+      <guid isPermaLink="false">https://github.com/garagehq/Minus-streaming-stick</guid>
+      <category>model</category>
+      <pubDate>Tue, 18 Aug 2026 16:19:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -68,6 +60,14 @@
       <category>model</category>
       <pubDate>Tue, 18 Aug 2026 09:03:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>How Much Memory Does Your Agent Actually Need?</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
+      <category>model</category>
+      <pubDate>Tue, 18 Aug 2026 18:09:38 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>PurgeHound – Use the power of local LLM to declutter a Maildir folder</title>
@@ -174,6 +174,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10499</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10499</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10499</guid>
+      <category>harness</category>
+      <pubDate>Tue, 18 Aug 2026 23:45:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL</title>
       <link>https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i</link>
       <guid isPermaLink="false">https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i</guid>
@@ -206,14 +214,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10486</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10486</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10486</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 10:45:14 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>llama.cpp: v0.1.2</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2</guid>
@@ -222,11 +222,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
-      <link>https://github.com/alainnothere/privibe/tree/main</link>
-      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
+      <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
+      <link>https://github.com/DannyArends/DLLM</link>
+      <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
       <category>harness</category>
-      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -238,11 +238,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead</title>
-      <link>https://github.com/DannyArends/DLLM</link>
-      <guid isPermaLink="false">https://github.com/DannyArends/DLLM</guid>
+      <title>Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x</title>
+      <link>https://github.com/alainnothere/privibe/tree/main</link>
+      <guid isPermaLink="false">https://github.com/alainnothere/privibe/tree/main</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 22:34:15 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 00:53:38 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:58:22.416102+00:00",
+  "generated_at": "2026-08-19T07:11:45.566652+00:00",
   "sections": {
     "model": [
       {
@@ -47,28 +47,6 @@
         }
       },
       {
-        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
-        "url": "https://github.com/garagehq/Minus-streaming-stick",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-18T16:19:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "How Much Memory Does Your Agent Actually Need?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T18:09:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "source": "hn",
@@ -80,6 +58,17 @@
         }
       },
       {
+        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
+        "url": "https://github.com/garagehq/Minus-streaming-stick",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-18T16:19:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "GenOffice fork that works with any local LLM instead of a cloud account",
         "url": "https://github.com/douglas168/open-genoffice",
         "source": "hn",
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T18:09:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -238,6 +238,17 @@
         }
       },
       {
+        "title": "llama.cpp: b10499",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10499",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-18T23:45:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL",
         "url": "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i",
         "source": "hn",
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10486",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10486",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-18T10:45:14+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "llama.cpp: v0.1.2",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2",
         "source": "rss",
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
-        "url": "https://github.com/alainnothere/privibe/tree/main",
+        "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
+        "url": "https://github.com/DannyArends/DLLM",
         "source": "hn",
-        "score": 2,
-        "published": "2026-08-16T00:53:38Z",
+        "score": 9,
+        "published": "2026-08-12T22:34:15Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -326,14 +326,14 @@
         }
       },
       {
-        "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
-        "url": "https://github.com/DannyArends/DLLM",
+        "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+        "url": "https://github.com/alainnothere/privibe/tree/main",
         "source": "hn",
-        "score": 9,
-        "published": "2026-08-12T22:34:15Z",
+        "score": 2,
+        "published": "2026-08-16T00:53:38Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
