@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:12:29 +0000</lastBuildDate>
-    <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 13:17:43 +0000</lastBuildDate>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
@@ -30,6 +22,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
+      <link>https://huggingface.co/superwhisper/s1-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
+      <category>model</category>
+      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
       <guid isPermaLink="false">https://cactuscompute.com/needle</guid>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Building a full agentic harness around a 4B model is hard</title>
-      <link>https://orvena.app/</link>
-      <guid isPermaLink="false">https://orvena.app/</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 10:03:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Humanising LLM Outputs Is Dumb</title>
       <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
       <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
       <category>model</category>
       <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Building a full agentic harness around a 4B model is hard</title>
+      <link>https://orvena.app/</link>
+      <guid isPermaLink="false">https://orvena.app/</guid>
+      <category>model</category>
+      <pubDate>Wed, 19 Aug 2026 10:03:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,19 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
-      <link>https://twitter.com/finkd/status/2086754845218726027</link>
-      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
-      <category>model</category>
-      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The LLM Freedom Manifesto: Open-Weight Models and User Responsibility</title>
       <link>https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</link>
       <guid isPermaLink="false">https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</guid>
       <category>model</category>
       <pubDate>Mon, 17 Aug 2026 06:22:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Best Way to Make Your (Small) Vision Language Model Smarter</title>
+      <link>https://loganbolton.github.io/blog/vlm-verification/</link>
+      <guid isPermaLink="false">https://loganbolton.github.io/blog/vlm-verification/</guid>
+      <category>model</category>
+      <pubDate>Mon, 17 Aug 2026 17:34:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10514</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10514</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10514</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 11:19:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Ollama served my 40k-context model at 4k, silently</title>
+      <link>https://github.com/Bigbonus/ollama-context-window-check</link>
+      <guid isPermaLink="false">https://github.com/Bigbonus/ollama-context-window-check</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 09:16:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.28.0rc1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 09:30:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp</title>
+      <link>https://llama.app</link>
+      <guid isPermaLink="false">https://llama.app</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b10509</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10509</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10509</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 06:54:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10524</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10524</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10524</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 03:40:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10507</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10507</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10507</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 03:23:25 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,22 +190,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp</title>
-      <link>https://llama.app</link>
-      <guid isPermaLink="false">https://llama.app</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 00:49:25 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
       <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
       <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
@@ -198,11 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.15-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</guid>
+      <title>llama.cpp: b10524</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10524</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10524</guid>
       <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 22:40:16 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 03:40:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,6 +214,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.32.15</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 00:49:25 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?</title>
       <link>https://news.ycombinator.com/item?id=49360318</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49360318</guid>
@@ -222,20 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.15-rc1: ci: plumb temporary MLX patch through to docker stages (#17874)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</guid>
+      <title>ollama: v0.32.15-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</guid>
       <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 15:33:53 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 22:40:16 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL</title>
-      <link>https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i</link>
-      <guid isPermaLink="false">https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 04:26:08 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
