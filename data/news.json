@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:57:54.914537+00:00",
+  "generated_at": "2026-08-20T07:12:29.716529+00:00",
   "sections": {
     "model": [
       {
@@ -39,22 +39,11 @@
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "source": "hn",
-        "score": 533,
+        "score": 534,
         "published": "2026-08-10T17:22:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
-        }
-      },
-      {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "url": "https://chenxiachan.github.io/thoughtdag/",
-        "source": "hn",
-        "score": 136,
-        "published": "2026-08-15T04:42:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
         }
       },
       {
@@ -113,6 +102,17 @@
         }
       },
       {
+        "title": "Meta's new open-weight model targets local agentic AI",
+        "url": "https://twitter.com/finkd/status/2086754845218726027",
+        "source": "hn",
+        "score": 42,
+        "published": "2026-08-10T10:55:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+        }
+      },
+      {
         "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
         "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Meta's new open-weight model targets local agentic AI",
-        "url": "https://twitter.com/finkd/status/2086754845218726027",
+        "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
+        "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
         "source": "hn",
-        "score": 42,
-        "published": "2026-08-10T10:55:03Z",
+        "score": 1,
+        "published": "2026-08-18T07:26:25Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -194,11 +194,33 @@
     ],
     "harness": [
       {
-        "title": "ollama: v0.32.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+        "title": "llama.cpp: b10509",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10509",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-20T00:49:25+00:00",
+        "published": "2026-08-20T06:54:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10524",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10524",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-20T03:40:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10507",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10507",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-20T03:23:25+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,17 +238,6 @@
         }
       },
       {
-        "title": "ollama: v0.32.15-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-19T22:40:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "llama.cpp",
         "url": "https://llama.app",
         "source": "hn",
@@ -235,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-20T00:49:25+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,14 +271,14 @@
         }
       },
       {
-        "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
-        "url": "https://news.ycombinator.com/item?id=49360318",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-19T11:56:55Z",
+        "title": "ollama: v0.32.15-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-19T22:40:16+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,22 +293,22 @@
         }
       },
       {
+        "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
+        "url": "https://news.ycombinator.com/item?id=49360318",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-19T11:56:55Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "ollama: v0.32.15-rc1: ci: plumb temporary MLX patch through to docker stages (#17874)",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1",
         "source": "rss",
         "score": 0,
         "published": "2026-08-19T15:33:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10502",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10502",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-19T14:22:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Native vLLM and ROCm 7.15 for RX 6000 (RDNA2) on Windows 11 – 26 Tflops FP16",
-        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-18T10:11:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp",
-        "url": "https://github.com/ggml-org/Llama-macOS",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-08-17T08:49:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
