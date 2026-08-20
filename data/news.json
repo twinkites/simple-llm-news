@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-20T13:17:43.301304+00:00",
+  "generated_at": "2026-08-20T19:06:59.108604+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-20T16:52:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "source": "hn",
-        "score": 244,
+        "score": 245,
         "published": "2026-08-16T07:37:53Z",
         "truthiness": {
           "label": "green",
@@ -36,47 +47,25 @@
         }
       },
       {
-        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-        "url": "https://cactuscompute.com/needle",
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
-        "score": 534,
-        "published": "2026-08-10T17:22:07Z",
+        "score": 136,
+        "published": "2026-08-15T04:42:07Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 190 points)"
-        }
-      },
-      {
-        "title": "Humanising LLM Outputs Is Dumb",
-        "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-        "source": "hn",
-        "score": 229,
-        "published": "2026-08-10T13:35:40Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 229 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
         }
       },
       {
         "title": "Show HN: Building a full agentic harness around a 4B model is hard",
         "url": "https://orvena.app/",
         "source": "hn",
-        "score": 3,
+        "score": 5,
         "published": "2026-08-19T10:03:46Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-        "url": "https://huggingface.co/blog/LiquidAI/qad",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-19T13:48:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -91,17 +80,6 @@
         }
       },
       {
-        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
-        "url": "https://github.com/garagehq/Minus-streaming-stick",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-18T16:19:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
         "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
         "source": "hn",
@@ -110,6 +88,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
+        "url": "https://github.com/garagehq/Minus-streaming-stick",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-18T16:19:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Stressing LLMs – Complexity Benchmark",
+        "url": "https://alexander-hanel.github.io/StressingLLMs/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-17T13:39:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -194,33 +194,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10514",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10514",
+        "title": "vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)",
+        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-20T17:46:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.32.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-20T11:19:34+00:00",
+        "published": "2026-08-20T18:47:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Show HN: Ollama served my 40k-context model at 4k, silently",
-        "url": "https://github.com/Bigbonus/ollama-context-window-check",
+        "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
+        "url": "https://github.com/AsharFatmi/ollama-usage-widget",
         "source": "hn",
-        "score": 1,
-        "published": "2026-08-20T09:16:23Z",
+        "score": 2,
+        "published": "2026-08-20T15:34:37Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "vLLM: v0.28.0rc1",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc1",
+        "title": "llama.cpp: b10517",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10517",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-20T09:30:39+00:00",
+        "published": "2026-08-20T17:45:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10516",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10516",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-20T13:22:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,25 +260,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10509",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10509",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-20T06:54:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-        "url": "https://github.com/inxm-ai/inxm-local",
+        "title": "Show HN: Ollama served my 40k-context model at 4k, silently",
+        "url": "https://github.com/Bigbonus/ollama-context-window-check",
         "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T15:35:29Z",
+        "score": 1,
+        "published": "2026-08-20T09:16:23Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -271,11 +282,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10524",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10524",
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-19T15:35:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.28.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-20T03:40:19+00:00",
+        "published": "2026-08-20T09:30:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,33 +315,11 @@
         }
       },
       {
-        "title": "ollama: v0.32.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+        "title": "llama.cpp: b10524",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10524",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-20T00:49:25+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
-        "url": "https://news.ycombinator.com/item?id=49360318",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-19T11:56:55Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.32.15-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-19T22:40:16+00:00",
+        "published": "2026-08-20T03:40:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
