@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 18:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:57:54 +0000</lastBuildDate>
     <item>
       <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
       <link>https://huggingface.co/superwhisper/s1-mini</link>
@@ -19,14 +19,6 @@
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
       <category>model</category>
       <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Building a full agentic harness around a 4B model is hard</title>
-      <link>https://orvena.app/</link>
-      <guid isPermaLink="false">https://orvena.app/</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 10:03:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,20 +38,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
+      <link>https://chenxiachan.github.io/thoughtdag/</link>
+      <guid isPermaLink="false">https://chenxiachan.github.io/thoughtdag/</guid>
+      <category>model</category>
+      <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Building a full agentic harness around a 4B model is hard</title>
+      <link>https://orvena.app/</link>
+      <guid isPermaLink="false">https://orvena.app/</guid>
+      <category>model</category>
+      <pubDate>Wed, 19 Aug 2026 10:03:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Humanising LLM Outputs Is Dumb</title>
+      <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
+      <guid isPermaLink="false">https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</guid>
+      <category>model</category>
+      <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation</title>
       <link>https://huggingface.co/blog/LiquidAI/qad</link>
       <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/qad</guid>
       <category>model</category>
       <pubDate>Wed, 19 Aug 2026 13:48:49 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Minus HDMI hardware ad-blocker with local vision model</title>
-      <link>https://github.com/garagehq/Minus-streaming-stick</link>
-      <guid isPermaLink="false">https://github.com/garagehq/Minus-streaming-stick</guid>
-      <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 16:19:00 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>GenOffice fork that works with any local LLM instead of a cloud account</title>
@@ -70,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>PurgeHound – Use the power of local LLM to declutter a Maildir folder</title>
-      <link>https://git.cerberusgames.ca/Starstreak/PurgeHound/</link>
-      <guid isPermaLink="false">https://git.cerberusgames.ca/Starstreak/PurgeHound/</guid>
+      <title>Show HN: Minus HDMI hardware ad-blocker with local vision model</title>
+      <link>https://github.com/garagehq/Minus-streaming-stick</link>
+      <guid isPermaLink="false">https://github.com/garagehq/Minus-streaming-stick</guid>
       <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 07:26:25 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 16:19:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>How Much Memory Does Your Agent Actually Need?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
+      <title>Meta&#x27;s new open-weight model targets local agentic AI</title>
+      <link>https://twitter.com/finkd/status/2086754845218726027</link>
+      <guid isPermaLink="false">https://twitter.com/finkd/status/2086754845218726027</guid>
       <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 18:09:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>The Best Way to Make Your (Small) Vision Language Model Smarter</title>
-      <link>https://loganbolton.github.io/blog/vlm-verification/</link>
-      <guid isPermaLink="false">https://loganbolton.github.io/blog/vlm-verification/</guid>
-      <category>model</category>
-      <pubDate>Mon, 17 Aug 2026 17:34:05 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 10:55:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,12 +142,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Beyond Prompt Injection: Hacking Apple&#x27;s Private Cloud Compute</title>
-      <link>https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/</link>
-      <guid isPermaLink="false">https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/</guid>
-      <category>security</category>
-      <pubDate>Sun, 09 Aug 2026 23:47:58 +0000</pubDate>
-      <source>hn</source>
+      <title>ollama: v0.32.15</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 00:49:25 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
@@ -158,35 +158,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.32.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</guid>
+      <title>ollama: v0.32.15-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc2</guid>
       <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 17:25:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?</title>
-      <link>https://news.ycombinator.com/item?id=49360318</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49360318</guid>
-      <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 11:56:55 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10502</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10502</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10502</guid>
-      <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 14:22:09 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.15-rc0: mlx update (#17850)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 14:15:11 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 22:40:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,12 +182,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?</title>
+      <link>https://news.ycombinator.com/item?id=49360318</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49360318</guid>
+      <category>harness</category>
+      <pubDate>Wed, 19 Aug 2026 11:56:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
       <link>https://chatoss.ai</link>
       <guid isPermaLink="false">https://chatoss.ai</guid>
       <category>harness</category>
       <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.32.15-rc1: ci: plumb temporary MLX patch through to docker stages (#17874)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 19 Aug 2026 15:33:53 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10502</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10502</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10502</guid>
+      <category>harness</category>
+      <pubDate>Wed, 19 Aug 2026 14:22:09 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL</title>
@@ -236,14 +236,6 @@
       <category>harness</category>
       <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10499</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10499</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10499</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 23:45:56 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
