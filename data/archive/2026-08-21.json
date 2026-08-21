@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-08-21T13:17:24.353746+00:00",
+  "generated_at": "2026-08-21T19:02:51.893222+00:00",
   "sections": {
     "model": [
       {
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "source": "hn",
-        "score": 272,
+        "score": 293,
         "published": "2026-08-20T15:26:02Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
+        }
+      },
+      {
+        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+        "url": "https://github.com/marcsnid/steganeur",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-21T16:33:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -36,17 +47,6 @@
         }
       },
       {
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "url": "https://stolen-thoughts.com/",
-        "source": "hn",
-        "score": 697,
-        "published": "2026-08-11T13:22:00Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 319 points)"
-        }
-      },
-      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
@@ -69,6 +69,39 @@
         }
       },
       {
+        "title": "Debian has begun voting on the future of AI/LLM contributions",
+        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+        "source": "hn",
+        "score": 67,
+        "published": "2026-08-15T09:20:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "A simple fix for LLM tail latency",
+        "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+        "source": "hn",
+        "score": 53,
+        "published": "2026-08-14T05:58:16Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 53 points)"
+        }
+      },
+      {
+        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "url": "https://arxiv.org/abs/2608.12700",
+        "source": "hn",
+        "score": 46,
+        "published": "2026-08-14T16:57:14Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
+        }
+      },
+      {
         "title": "Measuring benchmark optimization in speech recognition",
         "url": "https://huggingface.co/blog/asr-benchmark-optimization",
         "source": "rss",
@@ -80,6 +113,17 @@
         }
       },
       {
+        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+        "source": "hn",
+        "score": 33,
+        "published": "2026-08-15T12:56:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
         "title": "Show HN: Building a full agentic harness around a 4B model is hard",
         "url": "https://orvena.app/",
         "source": "hn",
@@ -88,50 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-20T16:52:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "GenOffice fork that works with any local LLM instead of a cloud account",
-        "url": "https://github.com/douglas168/open-genoffice",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-18T09:03:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
-        "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-17T06:22:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Minus HDMI hardware ad-blocker with local vision model",
-        "url": "https://github.com/garagehq/Minus-streaming-stick",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-18T16:19:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -194,22 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10549",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10549",
+        "title": "llama.cpp: b10567",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10567",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-21T09:24:41+00:00",
+        "published": "2026-08-21T19:00:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
+        "title": "llama.cpp: v0.2.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-21T06:47:39+00:00",
+        "published": "2026-08-21T18:38:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10566",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10566",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-21T18:27:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +238,6 @@
         }
       },
       {
-        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "hn",
-        "score": 307,
-        "published": "2026-08-11T14:50:33Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 245 points)"
-        }
-      },
-      {
         "title": "A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx >4096",
         "url": "https://github.com/yasuoiwakura/openai-ollama-api-bridge",
         "source": "hn",
@@ -249,22 +249,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10548",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10548",
+        "title": "vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-21T04:36:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10545",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10545",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T03:50:44+00:00",
+        "published": "2026-08-21T06:47:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-08-18T20:42:19Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
