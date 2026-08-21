@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 02:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:13:47 +0000</lastBuildDate>
     <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>PurgeHound – Use the power of local LLM to declutter a Maildir folder</title>
-      <link>https://git.cerberusgames.ca/Starstreak/PurgeHound/</link>
-      <guid isPermaLink="false">https://git.cerberusgames.ca/Starstreak/PurgeHound/</guid>
+      <title>Show HN: Stressing LLMs – Complexity Benchmark</title>
+      <link>https://alexander-hanel.github.io/StressingLLMs/</link>
+      <guid isPermaLink="false">https://alexander-hanel.github.io/StressingLLMs/</guid>
       <category>model</category>
-      <pubDate>Tue, 18 Aug 2026 07:26:25 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:39:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10536</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10536</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10536</guid>
+      <title>vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 02:03:26 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 06:47:39 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10534</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10534</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10534</guid>
+      <title>llama.cpp: b10548</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10548</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10548</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 01:43:16 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 04:36:59 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10533</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10533</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10533</guid>
+      <title>llama.cpp: b10545</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10545</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10545</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 01:08:30 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 03:50:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10541</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10541</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10541</guid>
+      <category>harness</category>
+      <pubDate>Fri, 21 Aug 2026 03:29:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -171,6 +179,14 @@
       <guid isPermaLink="false">https://github.com/yasuoiwakura/openai-ollama-api-bridge</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 19:40:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp</title>
+      <link>https://llama.app</link>
+      <guid isPermaLink="false">https://llama.app</guid>
+      <category>harness</category>
+      <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,11 +206,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp</title>
-      <link>https://llama.app</link>
-      <guid isPermaLink="false">https://llama.app</guid>
+      <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
+      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
+      <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
       <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -206,22 +222,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
-      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
-      <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
-      <category>harness</category>
-      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Ollama served my 40k-context model at 4k, silently</title>
-      <link>https://github.com/Bigbonus/ollama-context-window-check</link>
-      <guid isPermaLink="false">https://github.com/Bigbonus/ollama-context-window-check</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 09:16:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
       <link>https://github.com/inxm-ai/inxm-local</link>
       <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
@@ -230,11 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
-      <link>https://chatoss.ai</link>
-      <guid isPermaLink="false">https://chatoss.ai</guid>
+      <title>Show HN: Ollama served my 40k-context model at 4k, silently</title>
+      <link>https://github.com/Bigbonus/ollama-context-window-check</link>
+      <guid isPermaLink="false">https://github.com/Bigbonus/ollama-context-window-check</guid>
       <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 09:16:23 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
