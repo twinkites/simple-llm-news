@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 19:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:56:29 +0000</lastBuildDate>
     <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
@@ -78,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Measuring benchmark optimization in speech recognition</title>
-      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
-      <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
       <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
       <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
@@ -100,6 +92,14 @@
       <category>model</category>
       <pubDate>Wed, 19 Aug 2026 10:03:46 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Measuring benchmark optimization in speech recognition</title>
+      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
+      <category>model</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them</title>
@@ -142,27 +142,51 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10567</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10567</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10567</guid>
+      <title>Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux</title>
+      <link>https://www.chickenbutt.dev/</link>
+      <guid isPermaLink="false">https://www.chickenbutt.dev/</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 19:00:47 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 23:12:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10569</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10569</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10569</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 01:19:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: v0.2.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 18:38:55 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 00:58:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10566</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10566</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10566</guid>
+      <title>sglang: v0.5.18</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.18</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.18</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 18:27:46 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 00:09:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10568</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10568</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10568</guid>
+      <category>harness</category>
+      <pubDate>Fri, 21 Aug 2026 22:58:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 21 Aug 2026 22:04:58 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: v0.2.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 21 Aug 2026 18:38:55 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx &gt;4096</title>
       <link>https://github.com/yasuoiwakura/openai-ollama-api-bridge</link>
       <guid isPermaLink="false">https://github.com/yasuoiwakura/openai-ollama-api-bridge</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 19:40:00 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</guid>
-      <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 06:47:39 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)</title>
@@ -206,35 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
-      <link>https://github.com/inxm-ai/inxm-local</link>
-      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
+      <title>vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</guid>
       <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
-      <link>https://chatoss.ai</link>
-      <guid isPermaLink="false">https://chatoss.ai</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Ollama served my 40k-context model at 4k, silently</title>
-      <link>https://github.com/Bigbonus/ollama-context-window-check</link>
-      <guid isPermaLink="false">https://github.com/Bigbonus/ollama-context-window-check</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 09:16:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.32.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 18:47:06 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 06:47:39 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
