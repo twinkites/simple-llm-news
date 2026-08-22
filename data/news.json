@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-08-22T01:56:29.736671+00:00",
+  "generated_at": "2026-08-22T07:06:06.342243+00:00",
   "sections": {
     "model": [
       {
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "source": "hn",
-        "score": 295,
+        "score": 297,
         "published": "2026-08-20T15:26:02Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
-        }
-      },
-      {
-        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-        "url": "https://github.com/marcsnid/steganeur",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-21T16:33:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -36,11 +25,11 @@
         }
       },
       {
-        "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
-        "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+        "url": "https://github.com/marcsnid/steganeur",
         "source": "hn",
-        "score": 6,
-        "published": "2026-08-20T20:52:00Z",
+        "score": 3,
+        "published": "2026-08-21T16:33:37Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
@@ -58,14 +47,14 @@
         }
       },
       {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
+        "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
+        "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
         "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
+        "score": 6,
+        "published": "2026-08-20T20:52:00Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "S1-mini, Superwhisper's first open-weights language model",
+        "url": "https://huggingface.co/superwhisper/s1-mini",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-08-19T17:17:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -194,6 +194,28 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: v0.2.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T06:54:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10573",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10573",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T05:40:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
         "url": "https://www.chickenbutt.dev/",
         "source": "hn",
@@ -202,6 +224,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T03:19:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -216,11 +249,11 @@
         }
       },
       {
-        "title": "ollama: v0.33.0",
+        "title": "ollama: v0.33.0-rc1",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T00:58:43+00:00",
+        "published": "2026-08-22T00:21:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,44 +271,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10568",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10568",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T22:58:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "ollama: v0.33.0-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0",
         "source": "rss",
         "score": 0,
         "published": "2026-08-21T22:04:58+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp",
-        "url": "https://llama.app",
-        "source": "hn",
-        "score": 364,
-        "published": "2026-08-12T04:51:59Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 151 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.2.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T18:38:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T06:47:39+00:00",
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-19T15:35:29Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ]

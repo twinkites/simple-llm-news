@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 01:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:06:06 +0000</lastBuildDate>
     <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
       <guid isPermaLink="false">https://github.com/zachahn/vomit</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
-      <link>https://github.com/marcsnid/steganeur</link>
-      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
-      <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
-      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
-      <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
+      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
+      <link>https://github.com/marcsnid/steganeur</link>
+      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
       <category>model</category>
-      <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
+      <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
+      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
+      <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
       <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +51,14 @@
       <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
+      <link>https://huggingface.co/superwhisper/s1-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
+      <category>model</category>
+      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,12 +142,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: v0.2.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 06:54:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10573</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10573</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10573</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 05:40:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux</title>
       <link>https://www.chickenbutt.dev/</link>
       <guid isPermaLink="false">https://www.chickenbutt.dev/</guid>
       <category>harness</category>
       <pubDate>Fri, 21 Aug 2026 23:12:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 03:19:59 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10569</title>
@@ -158,11 +182,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.33.0</title>
+      <title>ollama: v0.33.0-rc1</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 00:58:43 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 00:21:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,35 +198,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10568</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10568</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10568</guid>
-      <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 22:58:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ollama: v0.33.0-rc0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</guid>
       <category>harness</category>
       <pubDate>Fri, 21 Aug 2026 22:04:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp</title>
-      <link>https://llama.app</link>
-      <guid isPermaLink="false">https://llama.app</guid>
-      <category>harness</category>
-      <pubDate>Wed, 12 Aug 2026 04:51:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: v0.2.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 18:38:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -230,12 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2</guid>
+      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
+      <link>https://github.com/inxm-ai/inxm-local</link>
+      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 06:47:39 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
