@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T07:06:06.342243+00:00",
+  "generated_at": "2026-08-22T13:07:11.184891+00:00",
   "sections": {
     "model": [
       {
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "source": "hn",
-        "score": 297,
+        "score": 300,
         "published": "2026-08-20T15:26:02Z",
         "truthiness": {
           "label": "green",
@@ -194,22 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: v0.2.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "title": "llama.cpp: b10582",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10582",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T06:54:09+00:00",
+        "published": "2026-08-22T12:59:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10573",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10573",
+        "title": "llama.cpp: b10581",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10581",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T05:40:42+00:00",
+        "published": "2026-08-22T10:14:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10580",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10580",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T09:35:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -232,17 +243,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-22T03:19:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10569",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10569",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T01:19:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

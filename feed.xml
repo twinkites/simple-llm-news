@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:07:11 +0000</lastBuildDate>
     <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
@@ -142,19 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: v0.2.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
+      <title>llama.cpp: b10582</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10582</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10582</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 06:54:09 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 12:59:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10573</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10573</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10573</guid>
+      <title>llama.cpp: b10581</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10581</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10581</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 05:40:42 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 10:14:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10580</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10580</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10580</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 09:35:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -171,14 +179,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
       <category>harness</category>
       <pubDate>Sat, 22 Aug 2026 03:19:59 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10569</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10569</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10569</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 01:19:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
