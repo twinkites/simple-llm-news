@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-22T13:07:11.184891+00:00",
+  "generated_at": "2026-08-22T18:54:44.707517+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-22T18:14:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "source": "hn",
-        "score": 300,
+        "score": 302,
         "published": "2026-08-20T15:26:02Z",
         "truthiness": {
           "label": "green",
@@ -25,17 +36,6 @@
         }
       },
       {
-        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-        "url": "https://github.com/marcsnid/steganeur",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-21T16:33:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
@@ -44,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
+        }
+      },
+      {
+        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+        "url": "https://github.com/marcsnid/steganeur",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-21T16:33:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Measuring benchmark optimization in speech recognition",
-        "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
       }
     ],
     "security": [
@@ -168,59 +168,48 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
-        "url": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T16:35:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Prompt Injection as Defense",
-        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-12T15:06:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10582",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10582",
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T12:59:19+00:00",
+        "published": "2026-08-22T18:51:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10581",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10581",
+        "title": "llama.cpp: b10586",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10586",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T10:14:49+00:00",
+        "published": "2026-08-22T16:05:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10580",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10580",
+        "title": "llama.cpp: b10585",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10585",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T09:35:10+00:00",
+        "published": "2026-08-22T15:42:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10584",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10584",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T15:07:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,17 +224,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T03:19:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -304,17 +282,6 @@
         }
       },
       {
-        "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
-        "url": "https://github.com/AsharFatmi/ollama-usage-widget",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T15:34:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
         "url": "https://github.com/inxm-ai/inxm-local",
         "source": "hn",
@@ -323,6 +290,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
+        "url": "https://github.com/AsharFatmi/ollama-usage-widget",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-20T15:34:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

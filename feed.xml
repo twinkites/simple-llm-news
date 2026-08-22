@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 13:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:54:44 +0000</lastBuildDate>
+    <item>
+      <title>Why your local LLM feels dumber than it is</title>
+      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
+      <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
+      <category>model</category>
+      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
@@ -22,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
-      <link>https://github.com/marcsnid/steganeur</link>
-      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
-      <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
       <link>https://chenxiachan.github.io/thoughtdag/</link>
       <guid isPermaLink="false">https://chenxiachan.github.io/thoughtdag/</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
+      <link>https://github.com/marcsnid/steganeur</link>
+      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
+      <category>model</category>
+      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Measuring benchmark optimization in speech recognition</title>
-      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/asr-benchmark-optimization</guid>
-      <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them</title>
       <link>https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/</link>
       <guid isPermaLink="false">https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/</guid>
@@ -126,43 +126,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition</title>
-      <link>https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</link>
-      <guid isPermaLink="false">https://itmeetsot.eu/posts/2026-08-12-opus5_automode/</guid>
-      <category>security</category>
-      <pubDate>Wed, 12 Aug 2026 16:35:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Prompt Injection as Defense</title>
-      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
-      <category>security</category>
-      <pubDate>Wed, 12 Aug 2026 15:06:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10582</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10582</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10582</guid>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 12:59:19 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 18:51:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10581</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10581</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10581</guid>
+      <title>llama.cpp: b10586</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10586</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10586</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 10:14:49 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 16:05:44 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10580</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10580</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10580</guid>
+      <title>llama.cpp: b10585</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10585</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10585</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 09:35:10 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 15:42:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10584</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10584</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10584</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 15:07:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,14 +164,6 @@
       <category>harness</category>
       <pubDate>Fri, 21 Aug 2026 23:12:23 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 03:19:59 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.33.0-rc1</title>
@@ -222,19 +206,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Menu bar widget for Ollama Cloud usage (macOS, open source)</title>
-      <link>https://github.com/AsharFatmi/ollama-usage-widget</link>
-      <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
       <link>https://github.com/inxm-ai/inxm-local</link>
       <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
       <category>harness</category>
       <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Menu bar widget for Ollama Cloud usage (macOS, open source)</title>
+      <link>https://github.com/AsharFatmi/ollama-usage-widget</link>
+      <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
+      <category>harness</category>
+      <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
