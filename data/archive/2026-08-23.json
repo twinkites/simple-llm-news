@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T13:08:11.031875+00:00",
+  "generated_at": "2026-08-23T18:53:54.015667+00:00",
   "sections": {
     "model": [
       {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 393,
+        "score": 417,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -25,6 +25,28 @@
         }
       },
       {
+        "title": "Daimon – Local Privacy LLM",
+        "url": "https://github.com/ar0per0/Daimon",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-23T13:26:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Guess which of these LLM outputs is watermarked",
+        "url": "https://sgoedecke.github.io/watermark-quiz/",
+        "source": "hn",
+        "score": 67,
+        "published": "2026-08-20T14:03:58Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
+        }
+      },
+      {
         "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
         "url": "https://github.com/AntoineChatry/Dictata",
         "source": "hn",
@@ -33,17 +55,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "source": "hn",
-        "score": 66,
-        "published": "2026-08-20T14:03:58Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
         }
       },
       {
@@ -113,17 +124,6 @@
         }
       },
       {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
         "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
         "url": "https://arxiv.org/abs/2608.12700",
         "source": "hn",
@@ -172,44 +172,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10593",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10593",
+        "title": "llama.cpp: b10603",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-23T11:41:45+00:00",
+        "published": "2026-08-23T18:47:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10590",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10590",
+        "title": "llama.cpp: b10599",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10599",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-23T08:22:24+00:00",
+        "published": "2026-08-23T17:41:07+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10589",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10589",
+        "title": "llama.cpp: b10598",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-23T08:00:34+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T18:51:19+00:00",
+        "published": "2026-08-23T17:18:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -224,6 +213,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T18:51:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.0-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T00:21:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
         "url": "https://github.com/AsharFatmi/ollama-usage-widget",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.0-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-22T00:21:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

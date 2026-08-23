@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:53:54 +0000</lastBuildDate>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -22,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
-      <link>https://github.com/AntoineChatry/Dictata</link>
-      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
+      <title>Daimon – Local Privacy LLM</title>
+      <link>https://github.com/ar0per0/Daimon</link>
+      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
       <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -35,6 +35,14 @@
       <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
+      <link>https://github.com/AntoineChatry/Dictata</link>
+      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,14 +94,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>A Contract-Grade Verifier for LLM-Generated GPU Kernels</title>
       <link>https://arxiv.org/abs/2608.12700</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2608.12700</guid>
@@ -126,35 +126,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10593</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10593</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10593</guid>
+      <title>llama.cpp: b10603</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10603</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10603</guid>
       <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 11:41:45 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 18:47:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10590</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10590</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10590</guid>
+      <title>llama.cpp: b10599</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10599</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10599</guid>
       <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 08:22:24 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 17:41:07 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10589</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10589</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10589</guid>
+      <title>llama.cpp: b10598</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10598</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10598</guid>
       <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 08:00:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 18:51:19 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 17:18:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -164,6 +156,14 @@
       <category>harness</category>
       <pubDate>Fri, 21 Aug 2026 23:12:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 18:51:19 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
@@ -198,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.33.0-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 00:21:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Menu bar widget for Ollama Cloud usage (macOS, open source)</title>
       <link>https://github.com/AsharFatmi/ollama-usage-widget</link>
       <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 00:21:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>sglang: v0.5.18</title>
