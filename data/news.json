@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T07:07:52.538071+00:00",
+  "generated_at": "2026-08-23T13:08:11.031875+00:00",
   "sections": {
     "model": [
       {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 283,
+        "score": 393,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -17,7 +17,7 @@
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "source": "hn",
-        "score": 302,
+        "score": 303,
         "published": "2026-08-20T15:26:02Z",
         "truthiness": {
           "label": "green",
@@ -25,10 +25,21 @@
         }
       },
       {
+        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+        "url": "https://github.com/AntoineChatry/Dictata",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-23T03:50:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Guess which of these LLM outputs is watermarked",
         "url": "https://sgoedecke.github.io/watermark-quiz/",
         "source": "hn",
-        "score": 65,
+        "score": 66,
         "published": "2026-08-20T14:03:58Z",
         "truthiness": {
           "label": "green",
@@ -91,17 +102,6 @@
         }
       },
       {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
         "title": "A simple fix for LLM tail latency",
         "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
         "source": "hn",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "S1-mini, Superwhisper's first open-weights language model",
+        "url": "https://huggingface.co/superwhisper/s1-mini",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-08-19T17:17:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
         "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
         "url": "https://arxiv.org/abs/2608.12700",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
-        }
-      },
-      {
-        "title": "Show HN: Building a full agentic harness around a 4B model is hard",
-        "url": "https://orvena.app/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T10:03:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -172,22 +172,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10588",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10588",
+        "title": "llama.cpp: b10593",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10593",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T23:42:17+00:00",
+        "published": "2026-08-23T11:41:45+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10587",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10587",
+        "title": "llama.cpp: b10590",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10590",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-22T20:13:41+00:00",
+        "published": "2026-08-23T08:22:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10589",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10589",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-23T08:00:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,22 +216,55 @@
         }
       },
       {
-        "title": "llama.cpp: b10586",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10586",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T16:05:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
         "url": "https://www.chickenbutt.dev/",
         "source": "hn",
         "score": 2,
         "published": "2026-08-21T23:12:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-19T15:35:29Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-08-18T20:42:19Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx >4096",
+        "url": "https://github.com/yasuoiwakura/openai-ollama-api-bridge",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-20T19:40:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)",
+        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-20T17:46:42Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -238,66 +282,22 @@
         }
       },
       {
+        "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
+        "url": "https://github.com/AsharFatmi/ollama-usage-widget",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-20T15:34:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "sglang: v0.5.18",
         "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.18",
         "source": "rss",
         "score": 0,
         "published": "2026-08-22T00:09:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-        "url": "https://github.com/inxm-ai/inxm-local",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T15:35:29Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx >4096",
-        "url": "https://github.com/yasuoiwakura/openai-ollama-api-bridge",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T19:40:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-08-18T20:42:19Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)",
-        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T17:46:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T22:04:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
