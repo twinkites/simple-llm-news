@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T02:05:11.189611+00:00",
+  "generated_at": "2026-08-23T07:07:52.538071+00:00",
   "sections": {
     "model": [
       {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 185,
+        "score": 283,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -28,7 +28,7 @@
         "title": "Guess which of these LLM outputs is watermarked",
         "url": "https://sgoedecke.github.io/watermark-quiz/",
         "source": "hn",
-        "score": 64,
+        "score": 65,
         "published": "2026-08-20T14:03:58Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-        "url": "https://github.com/marcsnid/steganeur",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-21T16:33:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
         "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+        "url": "https://github.com/marcsnid/steganeur",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-21T16:33:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -249,14 +249,14 @@
         }
       },
       {
-        "title": "ollama: v0.33.0-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T22:04:58+00:00",
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-19T15:35:29Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -271,14 +271,14 @@
         }
       },
       {
-        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-        "url": "https://github.com/inxm-ai/inxm-local",
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
         "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T15:35:29Z",
+        "score": 7,
+        "published": "2026-08-18T20:42:19Z",
         "truthiness": {
           "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
@@ -293,14 +293,14 @@
         }
       },
       {
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-08-18T20:42:19Z",
+        "title": "ollama: v0.33.0-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-21T22:04:58+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

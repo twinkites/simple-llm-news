@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 02:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:07:52 +0000</lastBuildDate>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -46,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
-      <link>https://github.com/marcsnid/steganeur</link>
-      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
-      <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Debian has begun voting on the future of AI/LLM contributions</title>
       <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
       <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
+      <link>https://github.com/marcsnid/steganeur</link>
+      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
+      <category>model</category>
+      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -182,12 +182,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.33.0-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</guid>
+      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
+      <link>https://github.com/inxm-ai/inxm-local</link>
+      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
       <category>harness</category>
-      <pubDate>Fri, 21 Aug 2026 22:04:58 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx &gt;4096</title>
@@ -198,11 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
-      <link>https://github.com/inxm-ai/inxm-local</link>
-      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
+      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
+      <link>https://chatoss.ai</link>
+      <guid isPermaLink="false">https://chatoss.ai</guid>
       <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -214,12 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
-      <link>https://chatoss.ai</link>
-      <guid isPermaLink="false">https://chatoss.ai</guid>
+      <title>ollama: v0.33.0-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 21 Aug 2026 22:04:58 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
