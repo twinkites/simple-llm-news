@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 18:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 02:05:11 +0000</lastBuildDate>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://github.com/zachahn/vomit</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Guess which of these LLM outputs is watermarked</title>
+      <link>https://sgoedecke.github.io/watermark-quiz/</link>
+      <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
+      <category>model</category>
+      <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
-      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
-      <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
-      <category>model</category>
-      <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Debian has begun voting on the future of AI/LLM contributions</title>
       <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
       <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
+      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
+      <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
+      <category>model</category>
+      <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,14 +91,6 @@
       <guid isPermaLink="false">https://arxiv.org/abs/2608.12700</guid>
       <category>model</category>
       <pubDate>Fri, 14 Aug 2026 16:57:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
-      <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
-      <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 12:56:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,6 +126,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10588</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10588</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10588</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 23:42:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10587</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10587</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10587</guid>
+      <category>harness</category>
+      <pubDate>Sat, 22 Aug 2026 20:13:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.33.0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
@@ -139,22 +155,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10586</guid>
       <category>harness</category>
       <pubDate>Sat, 22 Aug 2026 16:05:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10585</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10585</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10585</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 15:42:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10584</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10584</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10584</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 15:07:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,14 +198,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)</title>
-      <link>https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</link>
-      <guid isPermaLink="false">https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 17:46:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
       <link>https://github.com/inxm-ai/inxm-local</link>
       <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
@@ -214,11 +206,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Menu bar widget for Ollama Cloud usage (macOS, open source)</title>
-      <link>https://github.com/AsharFatmi/ollama-usage-widget</link>
-      <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
+      <title>vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)</title>
+      <link>https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</link>
+      <guid isPermaLink="false">https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</guid>
       <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 17:46:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
+      <link>https://chatoss.ai</link>
+      <guid isPermaLink="false">https://chatoss.ai</guid>
+      <category>harness</category>
+      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
