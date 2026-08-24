@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-24T13:19:30.201933+00:00",
+  "generated_at": "2026-08-24T19:06:19.852218+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+        "url": "https://arxiv.org/abs/2608.16603",
+        "source": "hn",
+        "score": 53,
+        "published": "2026-08-24T16:30:21Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 53 points)"
+        }
+      },
+      {
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "source": "hn",
+        "score": 390,
+        "published": "2026-08-23T17:59:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 390 points)"
+        }
+      },
+      {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-08-24T06:25:31Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
       {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 417,
+        "score": 498,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -25,17 +58,6 @@
         }
       },
       {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "source": "hn",
-        "score": 67,
-        "published": "2026-08-20T14:03:58Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
-        }
-      },
-      {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "source": "hn",
@@ -47,14 +69,14 @@
         }
       },
       {
-        "title": "Daimon – Local Privacy LLM",
-        "url": "https://github.com/ar0per0/Daimon",
+        "title": "Guess which of these LLM outputs is watermarked",
+        "url": "https://sgoedecke.github.io/watermark-quiz/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-08-23T13:26:02Z",
+        "score": 69,
+        "published": "2026-08-20T14:03:58Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
         }
       },
       {
@@ -66,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
+        }
+      },
+      {
+        "title": "Daimon – Local Privacy LLM",
+        "url": "https://github.com/ar0per0/Daimon",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-23T13:26:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -91,17 +124,6 @@
         }
       },
       {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "url": "https://arxiv.org/abs/2608.12700",
-        "source": "hn",
-        "score": 46,
-        "published": "2026-08-14T16:57:14Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
-        }
-      },
-      {
         "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
         "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
         "source": "hn",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "source": "hn",
-        "score": 33,
-        "published": "2026-08-15T12:56:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
-        }
-      },
-      {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
         }
       }
     ],
@@ -161,6 +161,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10612",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10612",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-24T13:43:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10610",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10610",
         "source": "rss",
@@ -177,17 +188,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-24T12:56:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10606",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10606",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-24T12:33:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

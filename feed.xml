@@ -4,7 +4,31 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 13:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:06:19 +0000</lastBuildDate>
+    <item>
+      <title>Public services are increasingly strained by LLM-written appeals for benefits</title>
+      <link>https://arxiv.org/abs/2608.16603</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.16603</guid>
+      <category>model</category>
+      <pubDate>Mon, 24 Aug 2026 16:30:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>My agent.md to improve LLM-assisted code quality</title>
+      <link>https://fabiensanglard.net/agent.md/index.html</link>
+      <guid isPermaLink="false">https://fabiensanglard.net/agent.md/index.html</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 17:59:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
+      <link>https://github.com/thiagotigaz/ocr-it</link>
+      <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
+      <category>model</category>
+      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -22,14 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Guess which of these LLM outputs is watermarked</title>
-      <link>https://sgoedecke.github.io/watermark-quiz/</link>
-      <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
-      <category>model</category>
-      <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
@@ -38,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Daimon – Local Privacy LLM</title>
-      <link>https://github.com/ar0per0/Daimon</link>
-      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
+      <title>Guess which of these LLM outputs is watermarked</title>
+      <link>https://sgoedecke.github.io/watermark-quiz/</link>
+      <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
       <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -51,6 +67,14 @@
       <guid isPermaLink="false">https://chenxiachan.github.io/thoughtdag/</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Daimon – Local Privacy LLM</title>
+      <link>https://github.com/ar0per0/Daimon</link>
+      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,35 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A Contract-Grade Verifier for LLM-Generated GPU Kernels</title>
-      <link>https://arxiv.org/abs/2608.12700</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.12700</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 16:57:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
       <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
       <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
-      <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
-      <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 12:56:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,6 +118,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10612</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10612</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10612</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 13:43:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10610</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10610</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10610</guid>
@@ -131,14 +139,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10608</guid>
       <category>harness</category>
       <pubDate>Mon, 24 Aug 2026 12:56:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10606</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10606</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10606</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 12:33:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
