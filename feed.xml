@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 07:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:19:30 +0000</lastBuildDate>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -46,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
-      <link>https://github.com/AntoineChatry/Dictata</link>
-      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
-      <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
       <link>https://chenxiachan.github.io/thoughtdag/</link>
       <guid isPermaLink="false">https://chenxiachan.github.io/thoughtdag/</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
+      <link>https://github.com/AntoineChatry/Dictata</link>
+      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
       <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
       <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
       <category>model</category>
       <pubDate>Sat, 15 Aug 2026 12:56:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
+      <link>https://huggingface.co/superwhisper/s1-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
+      <category>model</category>
+      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,11 +118,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10604</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10604</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10604</guid>
+      <title>llama.cpp: b10610</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10610</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10610</guid>
       <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 07:18:55 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 13:18:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10608</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10608</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10608</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 12:56:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10606</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10606</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10606</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 12:33:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.18</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.18</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.18</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 07:42:37 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -131,22 +155,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
       <category>harness</category>
       <pubDate>Sun, 23 Aug 2026 19:19:20 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10603</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10603</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10603</guid>
-      <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 18:47:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10599</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10599</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10599</guid>
-      <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 17:41:07 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -196,14 +204,6 @@
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 00:21:00 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp</title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:34:47.416708+00:00",
+  "generated_at": "2026-08-24T13:19:30.201933+00:00",
   "sections": {
     "model": [
       {
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-        "url": "https://github.com/AntoineChatry/Dictata",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-23T03:50:15Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
+        }
+      },
+      {
+        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+        "url": "https://github.com/AntoineChatry/Dictata",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-23T03:50:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
-        }
-      },
-      {
         "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "S1-mini, Superwhisper's first open-weights language model",
+        "url": "https://huggingface.co/superwhisper/s1-mini",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-08-19T17:17:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
         }
       }
     ],
@@ -161,11 +161,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10604",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10604",
+        "title": "llama.cpp: b10610",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10610",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-24T07:18:55+00:00",
+        "published": "2026-08-24T13:18:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10608",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10608",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-24T12:56:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10606",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10606",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-24T12:33:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.18",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.18",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-24T07:42:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -177,28 +210,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-23T19:19:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10603",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-23T18:47:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10599",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10599",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-23T17:41:07+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,17 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T00:21:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
