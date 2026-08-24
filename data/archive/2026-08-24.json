@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:03:19.058231+00:00",
+  "generated_at": "2026-08-24T07:34:47.416708+00:00",
   "sections": {
     "model": [
       {
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "Daimon – Local Privacy LLM",
-        "url": "https://github.com/ar0per0/Daimon",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-23T13:26:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Guess which of these LLM outputs is watermarked",
         "url": "https://sgoedecke.github.io/watermark-quiz/",
         "source": "hn",
@@ -55,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
+        }
+      },
+      {
+        "title": "Daimon – Local Privacy LLM",
+        "url": "https://github.com/ar0per0/Daimon",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-23T13:26:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "A simple fix for LLM tail latency",
-        "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-        "source": "hn",
-        "score": 53,
-        "published": "2026-08-14T05:58:16Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 53 points)"
-        }
-      },
-      {
         "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
         "url": "https://arxiv.org/abs/2608.12700",
         "source": "hn",
@@ -124,14 +113,25 @@
         }
       },
       {
-        "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-        "url": "https://github.com/marcsnid/steganeur",
+        "title": "S1-mini, Superwhisper's first open-weights language model",
+        "url": "https://huggingface.co/superwhisper/s1-mini",
         "source": "hn",
-        "score": 3,
-        "published": "2026-08-21T16:33:37Z",
+        "score": 10,
+        "published": "2026-08-19T17:17:30Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
+        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+        "source": "hn",
+        "score": 33,
+        "published": "2026-08-15T12:56:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
         }
       }
     ],
@@ -160,6 +160,17 @@
       }
     ],
     "harness": [
+      {
+        "title": "llama.cpp: b10604",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10604",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-24T07:18:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "ollama: v0.33.0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
@@ -194,17 +205,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10598",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-23T17:18:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
         "url": "https://www.chickenbutt.dev/",
         "source": "hn",
@@ -216,17 +216,6 @@
         }
       },
       {
-        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-        "url": "https://github.com/inxm-ai/inxm-local",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T15:35:29Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
         "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
         "url": "https://chatoss.ai",
         "source": "hn",
@@ -235,6 +224,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+        "url": "https://github.com/inxm-ai/inxm-local",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-19T15:35:29Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -282,14 +282,14 @@
         }
       },
       {
-        "title": "sglang: v0.5.18",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.18",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-22T00:09:15+00:00",
+        "title": "Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp",
+        "url": "https://github.com/ggml-org/Llama-macOS",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-08-17T08:49:31Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]

@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 02:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:34:47 +0000</lastBuildDate>
     <item>
       <title>Why your local LLM feels dumber than it is</title>
       <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
@@ -22,14 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Daimon – Local Privacy LLM</title>
-      <link>https://github.com/ar0per0/Daimon</link>
-      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
-      <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Guess which of these LLM outputs is watermarked</title>
       <link>https://sgoedecke.github.io/watermark-quiz/</link>
       <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
@@ -43,6 +35,14 @@
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
       <category>model</category>
       <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Daimon – Local Privacy LLM</title>
+      <link>https://github.com/ar0per0/Daimon</link>
+      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A simple fix for LLM tail latency</title>
-      <link>https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/</link>
-      <guid isPermaLink="false">https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/</guid>
-      <category>model</category>
-      <pubDate>Fri, 14 Aug 2026 05:58:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>A Contract-Grade Verifier for LLM-Generated GPU Kernels</title>
       <link>https://arxiv.org/abs/2608.12700</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2608.12700</guid>
@@ -94,11 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)</title>
-      <link>https://github.com/marcsnid/steganeur</link>
-      <guid isPermaLink="false">https://github.com/marcsnid/steganeur</guid>
+      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
+      <link>https://huggingface.co/superwhisper/s1-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
       <category>model</category>
-      <pubDate>Fri, 21 Aug 2026 16:33:37 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>GenRec: Towards LLM-Native Recommendation at Netflix</title>
+      <link>https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</link>
+      <guid isPermaLink="false">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</guid>
+      <category>model</category>
+      <pubDate>Sat, 15 Aug 2026 12:56:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -116,6 +116,14 @@
       <category>security</category>
       <pubDate>Tue, 18 Aug 2026 06:50:55 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10604</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10604</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10604</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 07:18:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.33.0</title>
@@ -142,14 +150,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10598</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10598</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10598</guid>
-      <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 17:18:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux</title>
       <link>https://www.chickenbutt.dev/</link>
       <guid isPermaLink="false">https://www.chickenbutt.dev/</guid>
@@ -158,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
-      <link>https://github.com/inxm-ai/inxm-local</link>
-      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
-      <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
       <link>https://chatoss.ai</link>
       <guid isPermaLink="false">https://chatoss.ai</guid>
       <category>harness</category>
       <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
+      <link>https://github.com/inxm-ai/inxm-local</link>
+      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
+      <category>harness</category>
+      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -206,12 +206,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>sglang: v0.5.18</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.18</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.18</guid>
+      <title>Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp</title>
+      <link>https://github.com/ggml-org/Llama-macOS</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/Llama-macOS</guid>
       <category>harness</category>
-      <pubDate>Sat, 22 Aug 2026 00:09:15 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
