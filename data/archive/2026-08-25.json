@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T07:14:40.332017+00:00",
+  "generated_at": "2026-08-25T13:17:56.236513+00:00",
   "sections": {
     "model": [
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "source": "hn",
-        "score": 400,
+        "score": 407,
         "published": "2026-08-23T17:59:52Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
-        "score": 125,
+        "score": 134,
         "published": "2026-08-24T06:25:31Z",
         "truthiness": {
           "label": "green",
@@ -25,10 +25,21 @@
         }
       },
       {
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "hn",
+        "score": 505,
+        "published": "2026-08-22T18:14:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
         "url": "https://reinvently.co.uk/tools/ed-o-meter/",
         "source": "hn",
-        "score": 238,
+        "score": 239,
         "published": "2026-08-23T16:24:21Z",
         "truthiness": {
           "label": "green",
@@ -36,14 +47,58 @@
         }
       },
       {
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
+        "url": "https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF",
         "source": "hn",
-        "score": 504,
-        "published": "2026-08-22T18:14:16Z",
+        "score": 1,
+        "published": "2026-08-25T10:35:52Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-25T09:08:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
+        "url": "https://github.com/Ventrova/sentinel-scan-cli",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T09:56:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T11:39:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+        "url": "https://www.abbysteele.com",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T09:10:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -55,17 +110,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
-        }
-      },
-      {
-        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "url": "https://huggingface.co/blog/gradio-workflow-guide",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -88,50 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
-        }
-      },
-      {
-        "title": "Debian has begun voting on the future of AI/LLM contributions",
-        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "source": "hn",
-        "score": 67,
-        "published": "2026-08-15T09:20:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
-        }
-      },
-      {
-        "title": "Daimon – Local Privacy LLM",
-        "url": "https://github.com/ar0per0/Daimon",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-23T13:26:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-        "url": "https://github.com/AntoineChatry/Dictata",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-23T03:50:15Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "S1-mini, Superwhisper's first open-weights language model",
-        "url": "https://huggingface.co/superwhisper/s1-mini",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-08-19T17:17:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
         }
       }
     ],
@@ -161,11 +161,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10618",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10618",
+        "title": "llama.cpp: b10622",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10622",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-25T07:09:00+00:00",
+        "published": "2026-08-25T12:19:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.3.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T10:29:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10621",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10621",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T10:18:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -180,17 +202,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10617",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10617",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T06:47:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -232,17 +243,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-24T23:08:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10615",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10615",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-24T21:54:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

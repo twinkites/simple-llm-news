@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 07:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:17:56 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -22,6 +22,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Why your local LLM feels dumber than it is</title>
+      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
+      <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
+      <category>model</category>
+      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
       <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
       <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
@@ -30,11 +38,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Why your local LLM feels dumber than it is</title>
-      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
-      <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
+      <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
+      <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
+      <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
       <category>model</category>
-      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:35:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse</title>
+      <link>https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</link>
+      <guid isPermaLink="false">https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:08:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM</title>
+      <link>https://github.com/Ventrova/sentinel-scan-cli</link>
+      <guid isPermaLink="false">https://github.com/Ventrova/sentinel-scan-cli</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:56:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine</title>
+      <link>https://www.abbysteele.com</link>
+      <guid isPermaLink="false">https://www.abbysteele.com</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:10:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -44,14 +84,6 @@
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
-      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
@@ -67,38 +99,6 @@
       <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Debian has begun voting on the future of AI/LLM contributions</title>
-      <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
-      <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Daimon – Local Privacy LLM</title>
-      <link>https://github.com/ar0per0/Daimon</link>
-      <guid isPermaLink="false">https://github.com/ar0per0/Daimon</guid>
-      <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 13:26:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Dictata – Local Whisper dictation with LLM cleanup</title>
-      <link>https://github.com/AntoineChatry/Dictata</link>
-      <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
-      <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
-      <link>https://huggingface.co/superwhisper/s1-mini</link>
-      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
-      <category>model</category>
-      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,11 +118,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10618</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10618</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10618</guid>
+      <title>llama.cpp: b10622</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10622</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10622</guid>
       <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 07:09:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:19:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.3.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 10:29:52 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10621</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10621</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10621</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 10:18:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -132,14 +148,6 @@
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 05:40:47 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10617</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10617</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10617</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 06:47:16 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Aquifer – Admission control for bursty vLLM traffic</title>
@@ -171,14 +179,6 @@
       <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.18</guid>
       <category>harness</category>
       <pubDate>Mon, 24 Aug 2026 23:08:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10615</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10615</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10615</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 21:54:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
