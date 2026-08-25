@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T01:58:01.930645+00:00",
+  "generated_at": "2026-08-25T07:14:40.332017+00:00",
   "sections": {
     "model": [
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "source": "hn",
-        "score": 394,
+        "score": 400,
         "published": "2026-08-23T17:59:52Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
-        "score": 118,
+        "score": 125,
         "published": "2026-08-24T06:25:31Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +39,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 501,
+        "score": 504,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -55,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
+        }
+      },
+      {
+        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "url": "https://chenxiachan.github.io/thoughtdag/",
+        "title": "Debian has begun voting on the future of AI/LLM contributions",
+        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
         "source": "hn",
-        "score": 136,
-        "published": "2026-08-15T04:42:07Z",
+        "score": 67,
+        "published": "2026-08-15T09:20:07Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 136 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
         }
       },
       {
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Debian has begun voting on the future of AI/LLM contributions",
-        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "source": "hn",
-        "score": 67,
-        "published": "2026-08-15T09:20:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
         }
       },
       {
@@ -161,6 +161,61 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10618",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10618",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T07:09:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
+        "url": "https://llmpanel.io",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T05:40:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10617",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10617",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T06:47:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Aquifer – Admission control for bursty vLLM traffic",
+        "url": "https://github.com/rjpruitt16/aquifer",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T02:44:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T04:01:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "vLLM: v0.28.0: [CI/Build] Pin Cython below 3.3 for arm64 tilelang sdist (#53358)",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "rss",
@@ -188,39 +243,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-24T21:54:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10614",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10614",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-24T21:25:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10612",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10612",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-24T13:43:27+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-23T19:19:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -265,28 +287,6 @@
         "source": "hn",
         "score": 2,
         "published": "2026-08-20T19:40:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)",
-        "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T17:46:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Menu bar widget for Ollama Cloud usage (macOS, open source)",
-        "url": "https://github.com/AsharFatmi/ollama-usage-widget",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T15:34:37Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"

@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:58:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:14:40 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -46,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
+      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
@@ -62,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
-      <link>https://chenxiachan.github.io/thoughtdag/</link>
-      <guid isPermaLink="false">https://chenxiachan.github.io/thoughtdag/</guid>
+      <title>Debian has begun voting on the future of AI/LLM contributions</title>
+      <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
+      <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
       <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,14 +91,6 @@
       <guid isPermaLink="false">https://github.com/AntoineChatry/Dictata</guid>
       <category>model</category>
       <pubDate>Sun, 23 Aug 2026 03:50:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Debian has begun voting on the future of AI/LLM contributions</title>
-      <link>https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</link>
-      <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</guid>
-      <category>model</category>
-      <pubDate>Sat, 15 Aug 2026 09:20:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,6 +118,46 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10618</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10618</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10618</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 07:09:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes</title>
+      <link>https://llmpanel.io</link>
+      <guid isPermaLink="false">https://llmpanel.io</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 05:40:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10617</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10617</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10617</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 06:47:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Aquifer – Admission control for bursty vLLM traffic</title>
+      <link>https://github.com/rjpruitt16/aquifer</link>
+      <guid isPermaLink="false">https://github.com/rjpruitt16/aquifer</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 02:44:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 04:01:31 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM: v0.28.0: [CI/Build] Pin Cython below 3.3 for arm64 tilelang sdist (#53358)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
@@ -139,30 +179,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10615</guid>
       <category>harness</category>
       <pubDate>Mon, 24 Aug 2026 21:54:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10614</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10614</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10614</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 21:25:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10612</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10612</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10612</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 13:43:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2</guid>
-      <category>harness</category>
-      <pubDate>Sun, 23 Aug 2026 19:19:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -195,22 +211,6 @@
       <guid isPermaLink="false">https://github.com/yasuoiwakura/openai-ollama-api-bridge</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 19:40:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)</title>
-      <link>https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</link>
-      <guid isPermaLink="false">https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 17:46:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Menu bar widget for Ollama Cloud usage (macOS, open source)</title>
-      <link>https://github.com/AsharFatmi/ollama-usage-widget</link>
-      <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
