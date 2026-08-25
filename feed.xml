@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 19:06:19 +0000</lastBuildDate>
-    <item>
-      <title>Public services are increasingly strained by LLM-written appeals for benefits</title>
-      <link>https://arxiv.org/abs/2608.16603</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.16603</guid>
-      <category>model</category>
-      <pubDate>Mon, 24 Aug 2026 16:30:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 01:58:01 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -27,6 +19,14 @@
       <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
       <category>model</category>
       <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
+      <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
+      <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Teaching a local LLM to reason about a new domain through continued pretraining</title>
-      <link>https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</link>
-      <guid isPermaLink="false">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</guid>
+      <title>S1-mini, Superwhisper&#x27;s first open-weights language model</title>
+      <link>https://huggingface.co/superwhisper/s1-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/superwhisper/s1-mini</guid>
       <category>model</category>
-      <pubDate>Thu, 20 Aug 2026 20:52:00 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 17:17:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,27 +118,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10612</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10612</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10612</guid>
+      <title>vLLM: v0.28.0: [CI/Build] Pin Cython below 3.3 for arm64 tilelang sdist (#53358)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 13:43:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10610</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10610</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10610</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 13:18:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10608</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10608</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10608</guid>
-      <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 12:56:57 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 23:42:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -146,7 +130,31 @@
       <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.18</link>
       <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.18</guid>
       <category>harness</category>
-      <pubDate>Mon, 24 Aug 2026 07:42:37 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 23:08:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10615</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10615</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10615</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 21:54:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10614</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10614</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10614</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 21:25:13 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10612</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10612</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10612</guid>
+      <category>harness</category>
+      <pubDate>Mon, 24 Aug 2026 13:43:27 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -203,14 +211,6 @@
       <guid isPermaLink="false">https://github.com/AsharFatmi/ollama-usage-widget</guid>
       <category>harness</category>
       <pubDate>Thu, 20 Aug 2026 15:34:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp</title>
-      <link>https://github.com/ggml-org/Llama-macOS</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/Llama-macOS</guid>
-      <category>harness</category>
-      <pubDate>Mon, 17 Aug 2026 08:49:31 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
