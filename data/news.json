@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:17:56.236513+00:00",
+  "generated_at": "2026-08-25T19:03:13.877349+00:00",
   "sections": {
     "model": [
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "source": "hn",
-        "score": 407,
+        "score": 410,
         "published": "2026-08-23T17:59:52Z",
         "truthiness": {
           "label": "green",
@@ -14,21 +14,10 @@
         }
       },
       {
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "hn",
-        "score": 134,
-        "published": "2026-08-24T06:25:31Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
-        }
-      },
-      {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 505,
+        "score": 506,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -47,14 +36,36 @@
         }
       },
       {
-        "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
-        "url": "https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF",
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T10:35:52Z",
+        "score": 136,
+        "published": "2026-08-24T06:25:31Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://github.com/zachahn/vomit",
+        "source": "hn",
+        "score": 305,
+        "published": "2026-08-20T15:26:02Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
+        }
+      },
+      {
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T15:14:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -69,11 +80,33 @@
         }
       },
       {
+        "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
+        "url": "https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T10:35:52Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
         "url": "https://github.com/Ventrova/sentinel-scan-cli",
         "source": "hn",
         "score": 1,
         "published": "2026-08-25T09:56:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+        "url": "https://www.abbysteele.com",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-25T09:10:19Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -91,28 +124,6 @@
         }
       },
       {
-        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
-        "url": "https://www.abbysteele.com",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T09:10:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-        "url": "https://github.com/zachahn/vomit",
-        "source": "hn",
-        "score": 305,
-        "published": "2026-08-20T15:26:02Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
-        }
-      },
-      {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "source": "hn",
@@ -122,20 +133,20 @@
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
         }
-      },
-      {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "source": "hn",
-        "score": 69,
-        "published": "2026-08-20T14:03:58Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:20:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
       {
         "title": "Prompt Injection in VirusTotal's Code Insights API",
         "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
@@ -161,36 +172,58 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10622",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10622",
+        "title": "PowerAI – A zero-dependency local terminal AI harness using Ollama",
+        "url": "https://github.com/Luizhcrs/powerai",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-25T15:52:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10628",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10628",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-25T12:19:17+00:00",
+        "published": "2026-08-25T18:08:25+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: v0.3.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0",
+        "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
+        "url": "https://github.com/labscommunity/yeschef",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-25T14:37:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10625",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10625",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-25T10:29:52+00:00",
+        "published": "2026-08-25T17:28:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10621",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10621",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T10:18:47+00:00",
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-25T14:09:02Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -202,6 +235,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.3.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T10:29:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -254,39 +298,6 @@
         "source": "hn",
         "score": 2,
         "published": "2026-08-21T23:12:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-08-18T20:42:19Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-        "url": "https://github.com/inxm-ai/inxm-local",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-19T15:35:29Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx >4096",
-        "url": "https://github.com/yasuoiwakura/openai-ollama-api-bridge",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-20T19:40:00Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"

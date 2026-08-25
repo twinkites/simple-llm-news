@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 13:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:03:13 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
       <guid isPermaLink="false">https://fabiensanglard.net/agent.md/index.html</guid>
       <category>model</category>
       <pubDate>Sun, 23 Aug 2026 17:59:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
-      <link>https://github.com/thiagotigaz/ocr-it</link>
-      <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
-      <category>model</category>
-      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,43 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
-      <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
-      <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
+      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
+      <link>https://github.com/thiagotigaz/ocr-it</link>
+      <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
       <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 10:35:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse</title>
-      <link>https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</link>
-      <guid isPermaLink="false">https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 09:08:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM</title>
-      <link>https://github.com/Ventrova/sentinel-scan-cli</link>
-      <guid isPermaLink="false">https://github.com/Ventrova/sentinel-scan-cli</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 09:56:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine</title>
-      <link>https://www.abbysteele.com</link>
-      <guid isPermaLink="false">https://www.abbysteele.com</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 09:10:19 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,6 +46,54 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Granite 4.2 LLMs: How They&#x27;re Built</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse</title>
+      <link>https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</link>
+      <guid isPermaLink="false">https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:08:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
+      <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
+      <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 10:35:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM</title>
+      <link>https://github.com/Ventrova/sentinel-scan-cli</link>
+      <guid isPermaLink="false">https://github.com/Ventrova/sentinel-scan-cli</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:56:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine</title>
+      <link>https://www.abbysteele.com</link>
+      <guid isPermaLink="false">https://www.abbysteele.com</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:10:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
       <link>https://littlelearner-ll.github.io/</link>
       <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
@@ -94,11 +102,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Guess which of these LLM outputs is watermarked</title>
-      <link>https://sgoedecke.github.io/watermark-quiz/</link>
-      <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
-      <category>model</category>
-      <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
+      <title>Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)</title>
+      <link>https://github.com/rudrasatani13/cot-redteam-agent</link>
+      <guid isPermaLink="false">https://github.com/rudrasatani13/cot-redteam-agent</guid>
+      <category>security</category>
+      <pubDate>Tue, 25 Aug 2026 14:20:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,28 +126,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10622</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10622</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10622</guid>
+      <title>PowerAI – A zero-dependency local terminal AI harness using Ollama</title>
+      <link>https://github.com/Luizhcrs/powerai</link>
+      <guid isPermaLink="false">https://github.com/Luizhcrs/powerai</guid>
       <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 12:19:17 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 15:52:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10628</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10628</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10628</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 18:08:25 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: v0.3.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</guid>
+      <title>Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)</title>
+      <link>https://github.com/labscommunity/yeschef</link>
+      <guid isPermaLink="false">https://github.com/labscommunity/yeschef</guid>
       <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 10:29:52 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 14:37:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10625</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10625</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10625</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 17:28:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10621</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10621</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10621</guid>
+      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
       <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 10:18:47 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes</title>
@@ -148,6 +172,14 @@
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 05:40:47 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.3.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 10:29:52 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Aquifer – Admission control for bursty vLLM traffic</title>
@@ -187,30 +219,6 @@
       <guid isPermaLink="false">https://www.chickenbutt.dev/</guid>
       <category>harness</category>
       <pubDate>Fri, 21 Aug 2026 23:12:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama</title>
-      <link>https://chatoss.ai</link>
-      <guid isPermaLink="false">https://chatoss.ai</guid>
-      <category>harness</category>
-      <pubDate>Tue, 18 Aug 2026 20:42:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: INXM // local` OSS for using LLM as compiler and not as runtime</title>
-      <link>https://github.com/inxm-ai/inxm-local</link>
-      <guid isPermaLink="false">https://github.com/inxm-ai/inxm-local</guid>
-      <category>harness</category>
-      <pubDate>Wed, 19 Aug 2026 15:35:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx &gt;4096</title>
-      <link>https://github.com/yasuoiwakura/openai-ollama-api-bridge</link>
-      <guid isPermaLink="false">https://github.com/yasuoiwakura/openai-ollama-api-bridge</guid>
-      <category>harness</category>
-      <pubDate>Thu, 20 Aug 2026 19:40:00 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
