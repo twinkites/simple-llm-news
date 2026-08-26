@@ -4,23 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 13:23:31 +0000</lastBuildDate>
-    <item>
-      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
-      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
-      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Code Stitcher – Apply any LLM output to your local codebase</title>
-      <link>https://news.ycombinator.com/item?id=49446964</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49446964</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 11:14:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 20:09:26 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -46,11 +30,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
+      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
+      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>OCR It – pull text out of un-copyable documents for your LLM</title>
       <link>https://github.com/thiagotigaz/ocr-it</link>
       <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
       <category>model</category>
       <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Code Stitcher – Apply any LLM output to your local codebase</title>
+      <link>https://news.ycombinator.com/item?id=49446964</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49446964</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 11:14:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
+      <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/train-multi-vector-encoder</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
       <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
       <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
@@ -91,22 +99,6 @@
       <guid isPermaLink="false">https://github.com/Ventrova/sentinel-scan-cli</guid>
       <category>model</category>
       <pubDate>Tue, 25 Aug 2026 09:56:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine</title>
-      <link>https://www.abbysteele.com</link>
-      <guid isPermaLink="false">https://www.abbysteele.com</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 09:10:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)</title>
-      <link>https://github.com/rudrasatani13/cot-redteam-agent</link>
-      <guid isPermaLink="false">https://github.com/rudrasatani13/cot-redteam-agent</guid>
-      <category>security</category>
-      <pubDate>Tue, 25 Aug 2026 14:20:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,35 +118,51 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Gguf: Harden loader against malformed tensor dims and metadata types</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/25596</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 16:12:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 18:09:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10639</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10639</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10639</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 16:53:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10638</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10638</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10638</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 16:11:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.1-rc0: MLX: Qwen3.8 Flash Next support (#18032)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 15:05:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10636</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10636</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10636</guid>
       <category>harness</category>
       <pubDate>Wed, 26 Aug 2026 12:46:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10635</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10635</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10635</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 11:34:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 10:17:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10632</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10632</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10632</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 09:31:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,12 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)</title>
-      <link>https://github.com/labscommunity/yeschef</link>
-      <guid isPermaLink="false">https://github.com/labscommunity/yeschef</guid>
+      <title>vLLM: v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:37:32 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Wed, 26 Aug 2026 10:17:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Release v0.2.0 · ggml-org/llama.cpp</title>
@@ -179,6 +187,14 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)</title>
+      <link>https://github.com/labscommunity/yeschef</link>
+      <guid isPermaLink="false">https://github.com/labscommunity/yeschef</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 14:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -196,30 +212,6 @@
       <category>harness</category>
       <pubDate>Wed, 26 Aug 2026 02:09:34 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0-rc4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 22:03:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes</title>
-      <link>https://llmpanel.io</link>
-      <guid isPermaLink="false">https://llmpanel.io</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 05:40:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Aquifer – Admission control for bursty vLLM traffic</title>
-      <link>https://github.com/rjpruitt16/aquifer</link>
-      <guid isPermaLink="false">https://github.com/rjpruitt16/aquifer</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 02:44:31 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

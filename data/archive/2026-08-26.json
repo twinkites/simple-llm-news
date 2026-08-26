@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-08-26T13:23:31.623845+00:00",
+  "generated_at": "2026-08-26T20:09:26.873402+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
-        "url": "https://github.com/muhammadmahadazher/ModelMRI",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-26T12:26:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
-        "url": "https://news.ycombinator.com/item?id=49446964",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-26T11:14:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
@@ -58,6 +36,17 @@
         }
       },
       {
+        "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
+        "url": "https://github.com/muhammadmahadazher/ModelMRI",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-26T12:26:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
+        "url": "https://news.ycombinator.com/item?id=49446964",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-26T11:14:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -102,6 +102,17 @@
         }
       },
       {
+        "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
         "url": "https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF",
         "source": "hn",
@@ -122,31 +133,9 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
-        "url": "https://www.abbysteele.com",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T09:10:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
-      {
-        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
-        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-25T14:20:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
       {
         "title": "Prompt Injection in VirusTotal's Code Insights API",
         "url": "https://exploiting.systems/posts/2026-08-08-prompt-injection-in-virustotals-code-insights-api",
@@ -172,44 +161,66 @@
     ],
     "harness": [
       {
+        "title": "Gguf: Harden loader against malformed tensor dims and metadata types",
+        "url": "https://github.com/ggml-org/llama.cpp/pull/25596",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-26T16:12:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T18:09:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10639",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10639",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T16:53:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10638",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10638",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T16:11:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.1-rc0: MLX: Qwen3.8 Flash Next support (#18032)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.1-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T15:05:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10636",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10636",
         "source": "rss",
         "score": 0,
         "published": "2026-08-26T12:46:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10635",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10635",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T11:34:34+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.28.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T10:17:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10632",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10632",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T09:31:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,6 +238,28 @@
         }
       },
       {
+        "title": "vLLM: v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T10:17:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:09:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
         "url": "https://github.com/labscommunity/yeschef",
         "source": "hn",
@@ -235,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Release v0.2.0 · ggml-org/llama.cpp",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-25T14:09:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -268,39 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0-rc4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T22:03:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
-        "url": "https://llmpanel.io",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T05:40:47Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Aquifer – Admission control for bursty vLLM traffic",
-        "url": "https://github.com/rjpruitt16/aquifer",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T02:44:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
