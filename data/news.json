@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T02:04:01.699467+00:00",
+  "generated_at": "2026-08-26T07:15:23.078629+00:00",
   "sections": {
     "model": [
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "source": "hn",
-        "score": 413,
+        "score": 414,
         "published": "2026-08-23T17:59:52Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-25T09:08:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "source": "hn",
@@ -77,6 +66,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
+        }
+      },
+      {
+        "title": "Guess which of these LLM outputs is watermarked",
+        "url": "https://sgoedecke.github.io/watermark-quiz/",
+        "source": "hn",
+        "score": 71,
+        "published": "2026-08-20T14:03:58Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 70 points)"
+        }
+      },
+      {
+        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-25T09:08:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -102,14 +113,14 @@
         }
       },
       {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
+        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+        "url": "https://www.abbysteele.com",
         "source": "hn",
-        "score": 70,
-        "published": "2026-08-20T14:03:58Z",
+        "score": 1,
+        "published": "2026-08-25T09:10:19Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 70 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
-        "url": "https://www.abbysteele.com",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T09:10:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -172,11 +172,11 @@
     ],
     "harness": [
       {
-        "title": "ollama: v0.33.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0",
+        "title": "llama.cpp: b10631",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10631",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-26T01:32:23+00:00",
+        "published": "2026-08-26T06:06:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -194,11 +194,11 @@
         }
       },
       {
-        "title": "ollama: v0.33.0-rc4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4",
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-25T22:03:57+00:00",
+        "published": "2026-08-26T02:09:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -213,17 +213,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10630",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10630",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T21:38:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,11 +238,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10629",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10629",
+        "title": "ollama: v0.33.0-rc4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-25T20:26:12+00:00",
+        "published": "2026-08-25T22:03:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10630",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10630",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-25T21:38:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
