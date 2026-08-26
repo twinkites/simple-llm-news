@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-26T07:15:23.078629+00:00",
+  "generated_at": "2026-08-26T13:23:31.623845+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
+        "url": "https://github.com/muhammadmahadazher/ModelMRI",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-26T12:26:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
+        "url": "https://news.ycombinator.com/item?id=49446964",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-26T11:14:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
@@ -17,7 +39,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 506,
+        "score": 507,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -58,17 +80,6 @@
         }
       },
       {
-        "title": "What happens when an LLM never sees material beyond fifth grade?",
-        "url": "https://littlelearner-ll.github.io/",
-        "source": "hn",
-        "score": 245,
-        "published": "2026-08-16T07:37:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
-        }
-      },
-      {
         "title": "Guess which of these LLM outputs is watermarked",
         "url": "https://sgoedecke.github.io/watermark-quiz/",
         "source": "hn",
@@ -83,7 +94,7 @@
         "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
         "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-25T09:08:32Z",
         "truthiness": {
           "label": "red",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Granite 4.2 LLMs: How They're Built",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T15:14:14+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -172,11 +172,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10631",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10631",
+        "title": "llama.cpp: b10636",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10636",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-26T06:06:46+00:00",
+        "published": "2026-08-26T12:46:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10635",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10635",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T11:34:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T10:17:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10632",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10632",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T09:31:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -194,17 +227,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T02:09:34+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
         "url": "https://github.com/labscommunity/yeschef",
         "source": "hn",
@@ -213,6 +235,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-25T14:09:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -227,14 +260,14 @@
         }
       },
       {
-        "title": "Release v0.2.0 · ggml-org/llama.cpp",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-25T14:09:02Z",
+        "title": "ollama: v0.33.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-26T02:09:34+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -243,17 +276,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-25T22:03:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10630",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10630",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T21:38:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -279,28 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.3.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T10:29:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.0-rc3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-25T02:43:47+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

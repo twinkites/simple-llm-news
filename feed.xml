@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:23:31 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
+      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
+      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Code Stitcher – Apply any LLM output to your local codebase</title>
+      <link>https://news.ycombinator.com/item?id=49446964</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49446964</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 11:14:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -43,14 +59,6 @@
       <guid isPermaLink="false">https://github.com/zachahn/vomit</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>What happens when an LLM never sees material beyond fifth grade?</title>
-      <link>https://littlelearner-ll.github.io/</link>
-      <guid isPermaLink="false">https://littlelearner-ll.github.io/</guid>
-      <category>model</category>
-      <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Granite 4.2 LLMs: How They&#x27;re Built</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)</title>
       <link>https://github.com/rudrasatani13/cot-redteam-agent</link>
       <guid isPermaLink="false">https://github.com/rudrasatani13/cot-redteam-agent</guid>
@@ -126,11 +126,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10631</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10631</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10631</guid>
+      <title>llama.cpp: b10636</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10636</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10636</guid>
       <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 06:06:46 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:46:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10635</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10635</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10635</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 11:34:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 10:17:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10632</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10632</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10632</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 09:31:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -142,27 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.33.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 02:09:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)</title>
       <link>https://github.com/labscommunity/yeschef</link>
       <guid isPermaLink="false">https://github.com/labscommunity/yeschef</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 14:37:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>PowerAI – A zero-dependency local terminal AI harness using Ollama</title>
-      <link>https://github.com/Luizhcrs/powerai</link>
-      <guid isPermaLink="false">https://github.com/Luizhcrs/powerai</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 15:52:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -174,19 +182,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>PowerAI – A zero-dependency local terminal AI harness using Ollama</title>
+      <link>https://github.com/Luizhcrs/powerai</link>
+      <guid isPermaLink="false">https://github.com/Luizhcrs/powerai</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 15:52:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 26 Aug 2026 02:09:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.33.0-rc4</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 22:03:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10630</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10630</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10630</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 21:38:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -204,22 +220,6 @@
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 02:44:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: v0.3.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 10:29:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0-rc3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 02:43:47 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
