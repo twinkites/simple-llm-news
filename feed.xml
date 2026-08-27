@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 20:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:58:17 +0000</lastBuildDate>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
-      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
-      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>OCR It – pull text out of un-copyable documents for your LLM</title>
       <link>https://github.com/thiagotigaz/ocr-it</link>
       <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
@@ -46,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Code Stitcher – Apply any LLM output to your local codebase</title>
-      <link>https://news.ycombinator.com/item?id=49446964</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49446964</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 11:14:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Vomit: Clean up Claude 5&#x27;s token output with a separate LLM</title>
       <link>https://github.com/zachahn/vomit</link>
       <guid isPermaLink="false">https://github.com/zachahn/vomit</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
+      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
+      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
-      <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/train-multi-vector-encoder</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
       <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
       <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
@@ -100,6 +84,22 @@
       <category>model</category>
       <pubDate>Tue, 25 Aug 2026 09:56:49 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine</title>
+      <link>https://www.abbysteele.com</link>
+      <guid isPermaLink="false">https://www.abbysteele.com</guid>
+      <category>model</category>
+      <pubDate>Tue, 25 Aug 2026 09:10:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
+      <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/train-multi-vector-encoder</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Prompt Injection in VirusTotal&#x27;s Code Insights API</title>
@@ -118,6 +118,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.28.1rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 27 Aug 2026 06:58:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.2-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.2-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.2-rc0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 27 Aug 2026 06:15:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10644</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10644</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10644</guid>
+      <category>harness</category>
+      <pubDate>Thu, 27 Aug 2026 05:24:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Gguf: Harden loader against malformed tensor dims and metadata types</title>
       <link>https://github.com/ggml-org/llama.cpp/pull/25596</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
@@ -126,43 +150,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10643</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10643</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10643</guid>
+      <category>harness</category>
+      <pubDate>Thu, 27 Aug 2026 02:16:19 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.33.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1</guid>
       <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 18:09:57 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 23:54:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10639</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10639</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10639</guid>
+      <title>llama.cpp: b10642</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10642</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10642</guid>
       <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 16:53:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10638</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10638</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10638</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 16:11:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.1-rc0: MLX: Qwen3.8 Flash Next support (#18032)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 15:05:59 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10636</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10636</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10636</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 12:46:38 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 22:02:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +182,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <title>ollama: v0.33.1-rc1: linux: fix llama.cpp docker build (#18040)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.1-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 10:17:05 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 17:21:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -204,14 +212,6 @@
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 15:52:23 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 02:09:34 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
