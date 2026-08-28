@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-28T11:32:39.026723+00:00",
+  "generated_at": "2026-08-28T22:29:09.647934+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Ask HN: Best open source way to run local open-weight LLMs in 2026?",
-        "url": "https://news.ycombinator.com/item?id=49477063",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-28T11:26:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
       {
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Best open source way to run local open-weight LLMs in 2026?",
+        "url": "https://news.ycombinator.com/item?id=49477063",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-28T11:26:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,6 +69,17 @@
         }
       },
       {
+        "title": "Guess which of these LLM outputs is watermarked",
+        "url": "https://sgoedecke.github.io/watermark-quiz/",
+        "source": "hn",
+        "score": 71,
+        "published": "2026-08-20T14:03:58Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+        }
+      },
+      {
         "title": "What the Model – Local LLM Inventory for macOS",
         "url": "https://github.com/powtac/wtm",
         "source": "hn",
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "source": "hn",
-        "score": 71,
-        "published": "2026-08-20T14:03:58Z",
+        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T00:00:00+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
-        "url": "https://github.com/Ventrova/sentinel-scan-cli",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-25T09:56:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -161,6 +161,61 @@
     ],
     "harness": [
       {
+        "title": "ollama: v0.33.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T20:58:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Release v0.32.15 · Ollama/Ollama",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-28T15:35:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10679",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10679",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T19:24:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10678",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10678",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T18:53:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10677",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10677",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T18:29:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Fuzzy terminal manager to pick, configure, and run local GGUF models",
         "url": "https://github.com/skorotkiewicz/run-model",
         "source": "hn",
@@ -172,17 +227,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10666",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10666",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T07:15:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Four reproducible vLLM parser failures that return 200 with the wrong tool call",
         "url": "https://ingot.tools/reports/parser-silent-failure",
         "source": "hn",
@@ -191,39 +235,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10665",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10665",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T00:19:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10664",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10664",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T22:49:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T21:09:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,6 +260,17 @@
         }
       },
       {
+        "title": "ollama: v0.33.2-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-27T20:22:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Release v0.2.0 · ggml-org/llama.cpp",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "hn",
@@ -257,28 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.28.1rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T06:58:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.2-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T06:15:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
