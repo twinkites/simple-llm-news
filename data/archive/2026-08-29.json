@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T16:49:22.420652+00:00",
+  "generated_at": "2026-08-29T21:01:03.909853+00:00",
   "sections": {
     "model": [
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
-        "score": 233,
+        "score": 263,
         "published": "2026-08-28T23:27:45Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 507,
+        "score": 508,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -183,6 +183,28 @@
     ],
     "harness": [
       {
+        "title": "vLLM v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "hn",
+        "score": 33,
+        "published": "2026-08-29T18:22:00Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10687",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10687",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-29T18:24:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10686",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10686",
         "source": "rss",
@@ -199,17 +221,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-29T16:25:32+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10684",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10684",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-29T15:59:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +282,6 @@
         }
       },
       {
-        "title": "Gguf: Harden loader against malformed tensor dims and metadata types",
-        "url": "https://github.com/ggml-org/llama.cpp/pull/25596",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-26T16:12:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
         "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
         "source": "hn",
@@ -293,6 +293,17 @@
         }
       },
       {
+        "title": "Gguf: Harden loader against malformed tensor dims and metadata types",
+        "url": "https://github.com/ggml-org/llama.cpp/pull/25596",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-26T16:12:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Release v0.2.0 · ggml-org/llama.cpp",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "hn",
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
-        "url": "https://github.com/labscommunity/yeschef",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-25T14:37:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]
