@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 22:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:12:27 +0000</lastBuildDate>
+    <item>
+      <title>I accidentally turned LLM memory into program analysis</title>
+      <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
+      <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
+      <category>model</category>
+      <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -19,14 +27,6 @@
       <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
       <category>model</category>
       <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Best open source way to run local open-weight LLMs in 2026?</title>
-      <link>https://news.ycombinator.com/item?id=49477063</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49477063</guid>
-      <category>model</category>
-      <pubDate>Fri, 28 Aug 2026 11:26:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +54,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: Best open source way to run local open-weight LLMs in 2026?</title>
+      <link>https://news.ycombinator.com/item?id=49477063</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49477063</guid>
+      <category>model</category>
+      <pubDate>Fri, 28 Aug 2026 11:26:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Guess which of these LLM outputs is watermarked</title>
       <link>https://sgoedecke.github.io/watermark-quiz/</link>
       <guid isPermaLink="false">https://sgoedecke.github.io/watermark-quiz/</guid>
       <category>model</category>
       <pubDate>Thu, 20 Aug 2026 14:03:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
+      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
+      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
+      <category>model</category>
+      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +94,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs</title>
-      <link>https://github.com/muhammadmahadazher/ModelMRI</link>
-      <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse</title>
       <link>https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</link>
       <guid isPermaLink="false">https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</guid>
       <category>model</category>
       <pubDate>Tue, 25 Aug 2026 09:08:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Lightning-Omni: I gave NVIDIA&#x27;s agent model eyes and ears</title>
-      <link>https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</link>
-      <guid isPermaLink="false">https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 10:35:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,11 +118,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.33.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.2</guid>
+      <title>koboldcpp: koboldcpp-1.120</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</guid>
       <category>harness</category>
-      <pubDate>Fri, 28 Aug 2026 20:58:12 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 03:22:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -132,6 +132,22 @@
       <category>harness</category>
       <pubDate>Fri, 28 Aug 2026 15:35:45 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10680: snapdragon: python SDK setup (Windows) (#27903)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10680</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10680</guid>
+      <category>harness</category>
+      <pubDate>Fri, 28 Aug 2026 21:01:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 28 Aug 2026 20:58:12 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10679</title>
@@ -147,14 +163,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10678</guid>
       <category>harness</category>
       <pubDate>Fri, 28 Aug 2026 18:53:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10677</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10677</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10677</guid>
-      <category>harness</category>
-      <pubDate>Fri, 28 Aug 2026 18:29:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -203,14 +211,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)</title>
-      <link>https://github.com/labscommunity/yeschef</link>
-      <guid isPermaLink="false">https://github.com/labscommunity/yeschef</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
