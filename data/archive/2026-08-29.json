@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T07:12:27.949683+00:00",
+  "generated_at": "2026-08-29T16:49:22.420652+00:00",
   "sections": {
     "model": [
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
-        "score": 106,
+        "score": 233,
         "published": "2026-08-28T23:27:45Z",
         "truthiness": {
           "label": "green",
@@ -102,6 +102,17 @@
         }
       },
       {
+        "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
+        "url": "https://news.ycombinator.com/item?id=49446964",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-26T11:14:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "What the Model – Local LLM Inventory for macOS",
         "url": "https://github.com/powtac/wtm",
         "source": "hn",
@@ -122,20 +133,31 @@
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
-      },
-      {
-        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-25T09:08:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "80% Prompt Injection Success Rate Against Claude Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T15:23:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Data Exfiltration from Amazon Kiro via Prompt Injection",
+        "url": "https://mindgard.ai/blog/amazon-kiro-data-exfiltration",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T14:19:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
         "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
@@ -161,11 +183,33 @@
     ],
     "harness": [
       {
-        "title": "koboldcpp: koboldcpp-1.120",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
+        "title": "llama.cpp: b10686",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10686",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-29T03:22:33+00:00",
+        "published": "2026-08-29T16:47:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10685",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10685",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-29T16:25:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10684",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10684",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-29T15:59:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -183,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10680: snapdragon: python SDK setup (Windows) (#27903)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10680",
+        "title": "koboldcpp: koboldcpp-1.120",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-28T21:01:59+00:00",
+        "published": "2026-08-29T03:22:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -199,28 +243,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-08-28T20:58:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10679",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10679",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T19:24:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10678",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10678",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T18:53:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.2-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T20:22:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Release v0.2.0 · ggml-org/llama.cpp",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "hn",
@@ -290,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
+        "url": "https://github.com/labscommunity/yeschef",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-25T14:37:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]
