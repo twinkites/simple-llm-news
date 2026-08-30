@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-08-30T12:02:34.286611+00:00",
+  "generated_at": "2026-08-30T16:48:15.803920+00:00",
   "sections": {
     "model": [
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
-        "score": 295,
+        "score": 298,
         "published": "2026-08-28T23:27:45Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
+        "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-30T13:33:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -28,7 +39,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
-        "score": 508,
+        "score": 509,
         "published": "2026-08-22T18:14:16Z",
         "truthiness": {
           "label": "red",
@@ -39,7 +50,7 @@
         "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
         "url": "https://reinvently.co.uk/tools/ed-o-meter/",
         "source": "hn",
-        "score": 239,
+        "score": 240,
         "published": "2026-08-23T16:24:21Z",
         "truthiness": {
           "label": "green",
@@ -50,7 +61,7 @@
         "title": "By Opening a Model, a Chinese A.I. Lab May Test the World's Cybersecurity",
         "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-08-29T23:00:20Z",
         "truthiness": {
           "label": "red",
@@ -61,22 +72,11 @@
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
-        "score": 139,
+        "score": 140,
         "published": "2026-08-24T06:25:31Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
-        }
-      },
-      {
-        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-        "url": "https://github.com/zachahn/vomit",
-        "source": "hn",
-        "score": 305,
-        "published": "2026-08-20T15:26:02Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 193 points)"
         }
       },
       {
@@ -88,17 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Guess which of these LLM outputs is watermarked",
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "source": "hn",
-        "score": 71,
-        "published": "2026-08-20T14:03:58Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-25T09:08:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -179,17 +179,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
-        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-25T14:20:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "harness": [
@@ -197,7 +186,7 @@
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
-        "score": 106,
+        "score": 107,
         "published": "2026-08-29T18:22:00Z",
         "truthiness": {
           "label": "green",
@@ -205,33 +194,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10691",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10691",
+        "title": "llama.cpp: b10698",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10698",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T12:00:23+00:00",
+        "published": "2026-08-30T14:49:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10690",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10690",
+        "title": "llama.cpp: b10697",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10697",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T07:46:47+00:00",
+        "published": "2026-08-30T14:26:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10689",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10689",
+        "title": "llama.cpp: b10696",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10696",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T04:04:30+00:00",
+        "published": "2026-08-30T14:01:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T20:58:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
         "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
         "source": "hn",
@@ -312,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T20:58:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
