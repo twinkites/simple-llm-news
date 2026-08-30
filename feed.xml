@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 21:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:33:22 +0000</lastBuildDate>
     <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
@@ -27,6 +27,14 @@
       <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
       <category>model</category>
       <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>By Opening a Model, a Chinese A.I. Lab May Test the World&#x27;s Cybersecurity</title>
+      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
+      <guid isPermaLink="false">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
+      <category>model</category>
+      <pubDate>Sat, 29 Aug 2026 23:00:20 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Open ASR Leaderboard Adds Its First Global South Language</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/open-asr-leaderboard-global-south</guid>
-      <category>model</category>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>80% Prompt Injection Success Rate Against Claude Auto Mode</title>
       <link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
       <guid isPermaLink="false">https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</guid>
@@ -134,6 +134,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)</title>
+      <link>https://github.com/rudrasatani13/cot-redteam-agent</link>
+      <guid isPermaLink="false">https://github.com/rudrasatani13/cot-redteam-agent</guid>
+      <category>security</category>
+      <pubDate>Tue, 25 Aug 2026 14:20:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
@@ -142,27 +150,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10689</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10689</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10689</guid>
+      <category>harness</category>
+      <pubDate>Sun, 30 Aug 2026 04:04:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Efficient Decode Context Parallelism with vLLM for Long Context Workloads</title>
+      <link>https://vllm.ai/blog/2026-08-07-decode-context-parallelism</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-07-decode-context-parallelism</guid>
+      <category>harness</category>
+      <pubDate>Sat, 29 Aug 2026 22:18:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10688</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10688</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10688</guid>
+      <category>harness</category>
+      <pubDate>Sun, 30 Aug 2026 00:13:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10687</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10687</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10687</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:24:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10686</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10686</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10686</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 16:47:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10685</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10685</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10685</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 16:25:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,20 +198,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.33.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.2</guid>
-      <category>harness</category>
-      <pubDate>Fri, 28 Aug 2026 20:58:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Fuzzy terminal manager to pick, configure, and run local GGUF models</title>
       <link>https://github.com/skorotkiewicz/run-model</link>
       <guid isPermaLink="false">https://github.com/skorotkiewicz/run-model</guid>
       <category>harness</category>
       <pubDate>Fri, 28 Aug 2026 07:01:39 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 28 Aug 2026 20:58:12 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Four reproducible vLLM parser failures that return 200 with the wrong tool call</title>
@@ -219,14 +235,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
       <category>harness</category>
       <pubDate>Wed, 26 Aug 2026 16:12:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
