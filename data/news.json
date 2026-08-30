@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T16:48:15.803920+00:00",
+  "generated_at": "2026-08-30T21:15:06.010299+00:00",
   "sections": {
     "model": [
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
-        "score": 298,
+        "score": 299,
         "published": "2026-08-28T23:27:45Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "By Opening a Model, a Chinese A.I. Lab May Test the World's Cybersecurity",
-        "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-29T23:00:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "By Opening a Model, a Chinese A.I. Lab May Test the World's Cybersecurity",
+        "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T23:00:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -179,6 +179,17 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
+      },
+      {
+        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:20:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
       }
     ],
     "harness": [
@@ -194,33 +205,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10698",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10698",
+        "title": "llama.cpp: b10701",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10701",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T14:49:16+00:00",
+        "published": "2026-08-30T18:58:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10697",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10697",
+        "title": "llama.cpp: b10700",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10700",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T14:26:17+00:00",
+        "published": "2026-08-30T18:35:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10696",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10696",
+        "title": "llama.cpp: b10699",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10699",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-30T14:01:13+00:00",
+        "published": "2026-08-30T18:09:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.120",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-29T03:22:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Fuzzy terminal manager to pick, configure, and run local GGUF models",
         "url": "https://github.com/skorotkiewicz/run-model",
         "source": "hn",
@@ -268,6 +268,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.120",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-29T03:22:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T20:58:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Four reproducible vLLM parser failures that return 200 with the wrong tool call",
         "url": "https://ingot.tools/reports/parser-silent-failure",
         "source": "hn",
@@ -312,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-28T20:58:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
