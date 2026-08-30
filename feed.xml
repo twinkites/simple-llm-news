@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 05:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:02:34 +0000</lastBuildDate>
     <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>By Opening a Model, a Chinese A.I. Lab May Test the World&#x27;s Cybersecurity</title>
-      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
-      <guid isPermaLink="false">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
-      <category>model</category>
-      <pubDate>Sat, 29 Aug 2026 23:00:20 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
       <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
       <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
       <category>model</category>
       <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>By Opening a Model, a Chinese A.I. Lab May Test the World&#x27;s Cybersecurity</title>
+      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
+      <guid isPermaLink="false">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
+      <category>model</category>
+      <pubDate>Sat, 29 Aug 2026 23:00:20 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,6 +150,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10691</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10691</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10691</guid>
+      <category>harness</category>
+      <pubDate>Sun, 30 Aug 2026 12:00:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10690</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10690</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10690</guid>
+      <category>harness</category>
+      <pubDate>Sun, 30 Aug 2026 07:46:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10689</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10689</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10689</guid>
@@ -164,22 +180,6 @@
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 22:18:42 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10688</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10688</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10688</guid>
-      <category>harness</category>
-      <pubDate>Sun, 30 Aug 2026 00:13:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10687</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10687</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10687</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 18:24:45 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Release v0.32.15 · Ollama/Ollama</title>
@@ -214,14 +214,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Four reproducible vLLM parser failures that return 200 with the wrong tool call</title>
-      <link>https://ingot.tools/reports/parser-silent-failure</link>
-      <guid isPermaLink="false">https://ingot.tools/reports/parser-silent-failure</guid>
-      <category>harness</category>
-      <pubDate>Thu, 27 Aug 2026 21:41:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>vLLM-iOS: 88% Faster Multi-Agent Inference on iOS</title>
       <link>https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html</link>
       <guid isPermaLink="false">https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html</guid>
@@ -235,6 +227,14 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
       <category>harness</category>
       <pubDate>Wed, 26 Aug 2026 16:12:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Four reproducible vLLM parser failures that return 200 with the wrong tool call</title>
+      <link>https://ingot.tools/reports/parser-silent-failure</link>
+      <guid isPermaLink="false">https://ingot.tools/reports/parser-silent-failure</guid>
+      <category>harness</category>
+      <pubDate>Thu, 27 Aug 2026 21:41:59 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
