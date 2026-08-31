@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 05:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:02:54 +0000</lastBuildDate>
     <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Running an LLM in the Browser: Verifying WebGPU, and Local Inference</title>
-      <link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
-      <guid isPermaLink="false">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
-      <category>model</category>
-      <pubDate>Sun, 30 Aug 2026 13:33:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>OCR It – pull text out of un-copyable documents for your LLM</title>
       <link>https://github.com/thiagotigaz/ocr-it</link>
       <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
@@ -54,11 +46,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Running an LLM in the Browser: Verifying WebGPU, and Local Inference</title>
+      <link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
+      <guid isPermaLink="false">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
+      <category>model</category>
+      <pubDate>Sun, 30 Aug 2026 13:33:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>By Opening a Model, a Chinese A.I. Lab May Test the World&#x27;s Cybersecurity</title>
       <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
       <guid isPermaLink="false">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
       <category>model</category>
       <pubDate>Sat, 29 Aug 2026 23:00:20 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A local scrubber for text you&#x27;re about to send to an LLM</title>
+      <link>https://github.com/Sushmey/Redact/tree/main</link>
+      <guid isPermaLink="false">https://github.com/Sushmey/Redact/tree/main</guid>
+      <category>model</category>
+      <pubDate>Sat, 29 Aug 2026 17:29:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +102,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse</title>
-      <link>https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</link>
-      <guid isPermaLink="false">https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs</guid>
-      <category>model</category>
-      <pubDate>Tue, 25 Aug 2026 09:08:32 +0000</pubDate>
+      <title>Ask HN: Are Prompt Injections &quot;Malware&quot;?</title>
+      <link>https://news.ycombinator.com/item?id=49506998</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49506998</guid>
+      <category>security</category>
+      <pubDate>Mon, 31 Aug 2026 08:16:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,14 +150,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10712</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10712</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10712</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 05:41:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
@@ -158,19 +158,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10711</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10711</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10711</guid>
+      <title>llama.cpp: b10717</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10717</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10717</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 04:47:38 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 11:21:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10710</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10710</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10710</guid>
+      <title>llama.cpp: b10715</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10715</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10715</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 04:20:39 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 10:13:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10714</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10714</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10714</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 09:41:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,6 +222,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>koboldcpp: koboldcpp-1.120</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</guid>
@@ -227,14 +243,6 @@
       <guid isPermaLink="false">https://ingot.tools/reports/parser-silent-failure</guid>
       <category>harness</category>
       <pubDate>Thu, 27 Aug 2026 21:41:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

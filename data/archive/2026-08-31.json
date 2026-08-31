@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T05:45:44.272639+00:00",
+  "generated_at": "2026-08-31T14:02:54.130586+00:00",
   "sections": {
     "model": [
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
-        "score": 300,
+        "score": 302,
         "published": "2026-08-28T23:27:45Z",
         "truthiness": {
           "label": "green",
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
-        "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-30T13:33:35Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "source": "hn",
@@ -69,6 +58,17 @@
         }
       },
       {
+        "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
+        "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-30T13:33:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "By Opening a Model, a Chinese A.I. Lab May Test the World's Cybersecurity",
         "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
         "source": "hn",
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "A local scrubber for text you're about to send to an LLM",
+        "url": "https://github.com/Sushmey/Redact/tree/main",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-29T17:29:10Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -122,20 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-        "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-25T09:08:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Ask HN: Are Prompt Injections \"Malware\"?",
+        "url": "https://news.ycombinator.com/item?id=49506998",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-31T08:16:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "80% Prompt Injection Success Rate Against Claude Auto Mode",
         "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
@@ -194,17 +205,6 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10712",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10712",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-31T05:41:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -216,22 +216,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10711",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10711",
+        "title": "llama.cpp: b10717",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10717",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-31T04:47:38+00:00",
+        "published": "2026-08-31T11:21:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10710",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10710",
+        "title": "llama.cpp: b10715",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10715",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-31T04:20:39+00:00",
+        "published": "2026-08-31T10:13:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10714",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10714",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-31T09:41:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,6 +304,17 @@
         }
       },
       {
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:09:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "koboldcpp: koboldcpp-1.120",
         "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
         "source": "rss",
@@ -312,17 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Release v0.2.0 · ggml-org/llama.cpp",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-25T14:09:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
