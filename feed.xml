@@ -4,13 +4,37 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 14:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:57:29 +0000</lastBuildDate>
+    <item>
+      <title>Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model</title>
+      <link>https://twitter.com/perceptroninc/status/2092678357775442103</link>
+      <guid isPermaLink="false">https://twitter.com/perceptroninc/status/2092678357775442103</guid>
+      <category>model</category>
+      <pubDate>Mon, 31 Aug 2026 19:18:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
       <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
       <category>model</category>
       <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: I benchmark local LLMs on real bugs from my own repo&#x27;s Git history</title>
+      <link>https://informant.reiners.io/gauntlet</link>
+      <guid isPermaLink="false">https://informant.reiners.io/gauntlet</guid>
+      <category>model</category>
+      <pubDate>Mon, 31 Aug 2026 16:08:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Why your local LLM feels dumber than it is</title>
+      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
+      <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
+      <category>model</category>
+      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Why your local LLM feels dumber than it is</title>
-      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
-      <guid isPermaLink="false">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</guid>
+      <title>Defensive Deception Against Safety-Removal Attacks on Open-Weight Models</title>
+      <link>https://markrussinovich.github.io/fools-gold/</link>
+      <guid isPermaLink="false">https://markrussinovich.github.io/fools-gold/</guid>
       <category>model</category>
-      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 14:31:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A local scrubber for text you&#x27;re about to send to an LLM</title>
-      <link>https://github.com/Sushmey/Redact/tree/main</link>
-      <guid isPermaLink="false">https://github.com/Sushmey/Redact/tree/main</guid>
-      <category>model</category>
-      <pubDate>Sat, 29 Aug 2026 17:29:10 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: Best open source way to run local open-weight LLMs in 2026?</title>
       <link>https://news.ycombinator.com/item?id=49477063</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49477063</guid>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://github.com/muhammadmahadazher/ModelMRI</guid>
       <category>model</category>
       <pubDate>Wed, 26 Aug 2026 12:26:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Code Stitcher – Apply any LLM output to your local codebase</title>
-      <link>https://news.ycombinator.com/item?id=49446964</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49446964</guid>
-      <category>model</category>
-      <pubDate>Wed, 26 Aug 2026 11:14:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>What the Model – Local LLM Inventory for macOS</title>
-      <link>https://github.com/powtac/wtm</link>
-      <guid isPermaLink="false">https://github.com/powtac/wtm</guid>
-      <category>model</category>
-      <pubDate>Thu, 27 Aug 2026 12:38:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,36 +150,52 @@
       <source>hn</source>
     </item>
     <item>
+      <title>18 month survey of unsecured Ollama servers and an unsolved mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10729</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10729</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10729</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 22:24:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10728</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10728</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10728</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 21:48:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU</title>
+      <link>https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming</link>
+      <guid isPermaLink="false">https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 16:49:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10727</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10727</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10727</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 20:56:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10717</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10717</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10717</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 11:21:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10715</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10715</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10715</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 10:13:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10714</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10714</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10714</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 09:41:43 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Efficient Decode Context Parallelism with vLLM for Long Context Workloads</title>
@@ -206,14 +222,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fuzzy terminal manager to pick, configure, and run local GGUF models</title>
-      <link>https://github.com/skorotkiewicz/run-model</link>
-      <guid isPermaLink="false">https://github.com/skorotkiewicz/run-model</guid>
-      <category>harness</category>
-      <pubDate>Fri, 28 Aug 2026 07:01:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Gguf: Harden loader against malformed tensor dims and metadata types</title>
       <link>https://github.com/ggml-org/llama.cpp/pull/25596</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
@@ -222,27 +230,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Fuzzy terminal manager to pick, configure, and run local GGUF models</title>
+      <link>https://github.com/skorotkiewicz/run-model</link>
+      <guid isPermaLink="false">https://github.com/skorotkiewicz/run-model</guid>
+      <category>harness</category>
+      <pubDate>Fri, 28 Aug 2026 07:01:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Release v0.2.0 · ggml-org/llama.cpp</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.120</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.120</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 03:22:33 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Four reproducible vLLM parser failures that return 200 with the wrong tool call</title>
-      <link>https://ingot.tools/reports/parser-silent-failure</link>
-      <guid isPermaLink="false">https://ingot.tools/reports/parser-silent-failure</guid>
-      <category>harness</category>
-      <pubDate>Thu, 27 Aug 2026 21:41:59 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

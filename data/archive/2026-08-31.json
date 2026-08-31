@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-31T14:02:54.130586+00:00",
+  "generated_at": "2026-08-31T22:57:29.670371+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-31T19:18:49Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -11,6 +22,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
+        "url": "https://informant.reiners.io/gauntlet",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-31T16:08:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "hn",
+        "score": 509,
+        "published": "2026-08-22T18:14:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -25,14 +58,14 @@
         }
       },
       {
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "title": "Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+        "url": "https://markrussinovich.github.io/fools-gold/",
         "source": "hn",
-        "score": 509,
-        "published": "2026-08-22T18:14:16Z",
+        "score": 1,
+        "published": "2026-08-31T14:31:09Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -80,17 +113,6 @@
         }
       },
       {
-        "title": "A local scrubber for text you're about to send to an LLM",
-        "url": "https://github.com/Sushmey/Redact/tree/main",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-29T17:29:10Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Ask HN: Best open source way to run local open-weight LLMs in 2026?",
         "url": "https://news.ycombinator.com/item?id=49477063",
         "source": "hn",
@@ -107,28 +129,6 @@
         "source": "hn",
         "score": 4,
         "published": "2026-08-26T12:26:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
-        "url": "https://news.ycombinator.com/item?id=49446964",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-26T11:14:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "What the Model – Local LLM Inventory for macOS",
-        "url": "https://github.com/powtac/wtm",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-27T12:38:23Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -205,6 +205,61 @@
     ],
     "harness": [
       {
+        "title": "18 month survey of unsecured Ollama servers and an unsolved mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-08-31T21:52:49Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10729",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10729",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-31T22:24:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10728",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10728",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-31T21:48:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
+        "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-31T16:49:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10727",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10727",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-08-31T20:56:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -213,39 +268,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10717",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10717",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-31T11:21:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10715",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10715",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-31T10:13:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10714",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10714",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-31T09:41:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,17 +304,6 @@
         }
       },
       {
-        "title": "Fuzzy terminal manager to pick, configure, and run local GGUF models",
-        "url": "https://github.com/skorotkiewicz/run-model",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-28T07:01:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Gguf: Harden loader against malformed tensor dims and metadata types",
         "url": "https://github.com/ggml-org/llama.cpp/pull/25596",
         "source": "hn",
@@ -304,6 +315,17 @@
         }
       },
       {
+        "title": "Fuzzy terminal manager to pick, configure, and run local GGUF models",
+        "url": "https://github.com/skorotkiewicz/run-model",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-28T07:01:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Release v0.2.0 · ggml-org/llama.cpp",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "hn",
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.120",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-29T03:22:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Four reproducible vLLM parser failures that return 200 with the wrong tool call",
-        "url": "https://ingot.tools/reports/parser-silent-failure",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-27T21:41:59Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
