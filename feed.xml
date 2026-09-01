@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 22:57:29 +0000</lastBuildDate>
-    <item>
-      <title>Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model</title>
-      <link>https://twitter.com/perceptroninc/status/2092678357775442103</link>
-      <guid isPermaLink="false">https://twitter.com/perceptroninc/status/2092678357775442103</guid>
-      <category>model</category>
-      <pubDate>Mon, 31 Aug 2026 19:18:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 05:19:48 +0000</lastBuildDate>
     <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
@@ -22,11 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I benchmark local LLMs on real bugs from my own repo&#x27;s Git history</title>
-      <link>https://informant.reiners.io/gauntlet</link>
-      <guid isPermaLink="false">https://informant.reiners.io/gauntlet</guid>
+      <title>Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model</title>
+      <link>https://twitter.com/perceptroninc/status/2092678357775442103</link>
+      <guid isPermaLink="false">https://twitter.com/perceptroninc/status/2092678357775442103</guid>
       <category>model</category>
-      <pubDate>Mon, 31 Aug 2026 16:08:09 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 19:18:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +38,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Defensive Deception Against Safety-Removal Attacks on Open-Weight Models</title>
-      <link>https://markrussinovich.github.io/fools-gold/</link>
-      <guid isPermaLink="false">https://markrussinovich.github.io/fools-gold/</guid>
-      <category>model</category>
-      <pubDate>Mon, 31 Aug 2026 14:31:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
       <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
       <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
       <category>model</category>
       <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: I benchmark local LLMs on real bugs from my own repo&#x27;s Git history</title>
+      <link>https://informant.reiners.io/gauntlet</link>
+      <guid isPermaLink="false">https://informant.reiners.io/gauntlet</guid>
+      <category>model</category>
+      <pubDate>Mon, 31 Aug 2026 16:08:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Defensive Deception Against Safety-Removal Attacks on Open-Weight Models</title>
+      <link>https://markrussinovich.github.io/fools-gold/</link>
+      <guid isPermaLink="false">https://markrussinovich.github.io/fools-gold/</guid>
+      <category>model</category>
+      <pubDate>Mon, 31 Aug 2026 14:31:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,7 +150,23 @@
       <source>hn</source>
     </item>
     <item>
-      <title>18 month survey of unsecured Ollama servers and an unsolved mystery</title>
+      <title>Ollama&#x27;s Transparent Pricing</title>
+      <link>https://ollama.com/blog/transparent-pricing</link>
+      <guid isPermaLink="false">https://ollama.com/blog/transparent-pricing</guid>
+      <category>harness</category>
+      <pubDate>Tue, 01 Sep 2026 04:41:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10730</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10730</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10730</guid>
+      <category>harness</category>
+      <pubDate>Tue, 01 Sep 2026 05:10:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
       <link>https://day50.dev/woahllama/</link>
       <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
       <category>harness</category>
@@ -158,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10729</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10729</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10729</guid>
+      <title>llama.cpp: b10731: qwen4exp: support recurrent state rollback (#28123)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10731</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10731</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 22:24:15 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 04:24:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10728</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10728</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10728</guid>
+      <title>vLLM v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:48:01 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU</title>
@@ -182,20 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10727</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10727</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10727</guid>
+      <title>llama.cpp: b10729</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10729</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10729</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 20:56:43 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 22:24:15 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Efficient Decode Context Parallelism with vLLM for Long Context Workloads</title>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/skorotkiewicz/run-model</guid>
       <category>harness</category>
       <pubDate>Fri, 28 Aug 2026 07:01:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
