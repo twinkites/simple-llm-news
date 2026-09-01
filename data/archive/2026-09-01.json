@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-01T05:19:48.888466+00:00",
+  "generated_at": "2026-09-01T11:47:40.882539+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing",
+        "url": "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-01T08:33:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -58,6 +69,17 @@
         }
       },
       {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "hn",
+        "score": 140,
+        "published": "2026-08-24T06:25:31Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
         "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
         "url": "https://informant.reiners.io/gauntlet",
         "source": "hn",
@@ -77,17 +99,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "hn",
-        "score": 140,
-        "published": "2026-08-24T06:25:31Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
         }
       },
       {
@@ -118,17 +129,6 @@
         "source": "hn",
         "score": 4,
         "published": "2026-08-28T11:26:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
-        "url": "https://github.com/muhammadmahadazher/ModelMRI",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-26T12:26:31Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -190,37 +190,15 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
-        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-25T14:20:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "Ollama's Transparent Pricing",
-        "url": "https://ollama.com/blog/transparent-pricing",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-01T04:41:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10730",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10730",
+        "title": "llama.cpp: b10733",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10733",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T05:10:34+00:00",
+        "published": "2026-09-01T10:02:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,14 +216,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10731: qwen4exp: support recurrent state rollback (#28123)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10731",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-01T04:24:49+00:00",
+        "title": "Ollama's Transparent Pricing",
+        "url": "https://ollama.com/blog/transparent-pricing",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-01T04:41:44Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -263,7 +241,7 @@
         "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
         "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
         "source": "hn",
-        "score": 4,
+        "score": 5,
         "published": "2026-08-31T16:49:59Z",
         "truthiness": {
           "label": "red",
@@ -271,11 +249,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10729",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10729",
+        "title": "llama.cpp: b10731",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10731",
         "source": "rss",
         "score": 0,
-        "published": "2026-08-31T22:24:15+00:00",
+        "published": "2026-09-01T05:36:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10730",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10730",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-01T05:10:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -326,14 +315,14 @@
         }
       },
       {
-        "title": "Fuzzy terminal manager to pick, configure, and run local GGUF models",
-        "url": "https://github.com/skorotkiewicz/run-model",
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
         "source": "hn",
-        "score": 1,
-        "published": "2026-08-28T07:01:39Z",
+        "score": 4,
+        "published": "2026-08-25T14:09:02Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
