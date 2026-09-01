@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-09-01T16:47:55.449608+00:00",
+  "generated_at": "2026-09-01T21:09:37.587088+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+        "url": "https://github.com/axem-solutions/shaide",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-01T13:40:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "I accidentally turned LLM memory into program analysis",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "source": "hn",
+        "score": 302,
+        "published": "2026-08-28T23:27:45Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
+        }
+      },
+      {
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "source": "hn",
+        "score": 415,
+        "published": "2026-08-23T17:59:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 415 points)"
+        }
+      },
+      {
+        "title": "Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing",
+        "url": "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-01T08:33:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-31T19:18:49Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+        "source": "hn",
+        "score": 240,
+        "published": "2026-08-23T16:24:21Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 240 points)"
+        }
+      },
+      {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "hn",
+        "score": 140,
+        "published": "2026-08-24T06:25:31Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+        }
+      },
+      {
+        "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
+        "url": "https://informant.reiners.io/gauntlet",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-31T16:08:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+        "url": "https://markrussinovich.github.io/fools-gold/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-31T14:31:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
         "url": "https://huggingface.co/blog/webgpu-kernels",
@@ -14,160 +113,238 @@
         }
       },
       {
-        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T00:00:00+00:00",
+        "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
+        "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-30T13:33:35Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-        "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T00:00:00+00:00",
+        "title": "By Opening a Model, a Chinese A.I. Lab May Test the World's Cybersecurity",
+        "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T23:00:20Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
-    "security": [],
+    "security": [
+      {
+        "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
+        "url": "https://semantic-overlays.vercel.app/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-01T17:40:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Are Prompt Injections \"Malware\"?",
+        "url": "https://news.ycombinator.com/item?id=49506998",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-31T08:16:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "80% Prompt Injection Success Rate Against Claude Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T15:23:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Data Exfiltration from Amazon Kiro via Prompt Injection",
+        "url": "https://mindgard.ai/blog/amazon-kiro-data-exfiltration",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-29T14:19:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
+        "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-27T17:19:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Shieldprompt – test your LLM against prompt injection – no dependencies",
+        "url": "https://github.com/Jograph17/shieldprompt",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-27T13:07:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:20:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      }
+    ],
     "harness": [
       {
-        "title": "llama.cpp: b10741",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10741",
+        "title": "llama.cpp: b10751",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10751",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T16:37:28+00:00",
+        "published": "2026-09-01T20:16:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10740",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10740",
+        "title": "llama.cpp: b10750",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10750",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T15:43:21+00:00",
+        "published": "2026-09-01T19:23:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10739",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10739",
+        "title": "llama.cpp: b10749",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10749",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T15:17:18+00:00",
+        "published": "2026-09-01T18:59:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.120",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.120",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-29T03:22:33+00:00",
+        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-08-31T21:52:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
-        "title": "ollama: v0.33.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-28T20:58:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.2-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T20:22:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.28.1rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T06:58:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.2-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-27T06:15:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.28.0",
+        "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-26T10:17:05+00:00",
+        "source": "hn",
+        "score": 107,
+        "published": "2026-08-29T18:22:00Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
         }
       },
       {
-        "title": "sglang: v0.5.18",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.18",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-24T23:08:04+00:00",
+        "title": "Ollama's Transparent Pricing",
+        "url": "https://ollama.com/blog/transparent-pricing",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-01T04:41:44Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
-        "title": "vLLM: v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-21T06:47:39+00:00",
+        "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
+        "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-31T16:49:59Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.119",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.119",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-08-16T13:23:10+00:00",
+        "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
+        "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-29T22:18:42Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Release v0.32.15 · Ollama/Ollama",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-08-28T15:35:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
+        "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-25T20:47:00Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Gguf: Harden loader against malformed tensor dims and metadata types",
+        "url": "https://github.com/ggml-org/llama.cpp/pull/25596",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-08-26T16:12:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Release v0.2.0 · ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-08-25T14:09:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
