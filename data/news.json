@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T11:28:33.791300+00:00",
+  "generated_at": "2026-09-02T16:42:15.862419+00:00",
   "sections": {
     "model": [
       {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
-        "score": 129,
+        "score": 145,
         "published": "2026-09-01T23:48:05Z",
         "truthiness": {
           "label": "green",
@@ -25,14 +25,14 @@
         }
       },
       {
-        "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
-        "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-02T01:36:28Z",
+        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T13:49:14+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
+        "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-02T01:36:28Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
         "url": "https://github.com/axem-solutions/shaide",
         "source": "hn",
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-        "source": "hn",
-        "score": 240,
-        "published": "2026-08-23T16:24:21Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 240 points)"
         }
       },
       {
@@ -140,7 +140,7 @@
         "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
         "url": "https://semantic-overlays.vercel.app/",
         "source": "hn",
-        "score": 5,
+        "score": 6,
         "published": "2026-09-01T17:40:13Z",
         "truthiness": {
           "label": "red",
@@ -216,6 +216,28 @@
     ],
     "harness": [
       {
+        "title": "Ollama Plans Changed",
+        "url": "https://ollama.com/pricing",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-02T07:35:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "hn",
+        "score": 107,
+        "published": "2026-08-29T18:22:00Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b10760",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10760",
         "source": "rss",
@@ -249,28 +271,6 @@
         }
       },
       {
-        "title": "Ollama Plans Changed",
-        "url": "https://ollama.com/pricing",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-02T07:35:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM v0.28.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "hn",
-        "score": 107,
-        "published": "2026-08-29T18:22:00Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
-        }
-      },
-      {
         "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
         "url": "https://day50.dev/woahllama/",
         "source": "hn",
@@ -287,17 +287,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-02T02:11:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T00:11:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T00:11:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
