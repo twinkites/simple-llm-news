@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-02T16:42:15.862419+00:00",
+  "generated_at": "2026-09-02T21:10:34.274179+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
+        "url": "https://github.com/0xhsn/proxy-llms",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-02T20:47:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
-        "score": 145,
+        "score": 146,
         "published": "2026-09-01T23:48:05Z",
         "truthiness": {
           "label": "green",
@@ -36,14 +47,14 @@
         }
       },
       {
-        "title": "My agent.md to improve LLM-assisted code quality",
-        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+        "url": "https://github.com/axem-solutions/shaide",
         "source": "hn",
-        "score": 415,
-        "published": "2026-08-23T17:59:52Z",
+        "score": 4,
+        "published": "2026-09-01T13:40:24Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 415 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
-        "url": "https://github.com/axem-solutions/shaide",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-01T13:40:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -216,6 +216,61 @@
     ],
     "harness": [
       {
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm",
+        "source": "hn",
+        "score": 67,
+        "published": "2026-09-02T14:02:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10766",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10766",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T20:35:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10764",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10764",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T19:59:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10763",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10763",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T19:04:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T17:27:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Ollama Plans Changed",
         "url": "https://ollama.com/pricing",
         "source": "hn",
@@ -238,39 +293,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10760",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10760",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T11:16:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10759",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10759",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T10:23:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10758",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10758",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T09:31:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
         "url": "https://day50.dev/woahllama/",
         "source": "hn",
@@ -279,17 +301,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T02:11:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,36 +326,25 @@
         }
       },
       {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
+        "title": "vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-02T00:11:33+00:00",
+        "published": "2026-09-02T02:11:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
-        "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-29T22:18:42Z",
+        "title": "ollama: v0.33.3-rc0: llama.cpp: version bump b10729 (#18160)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-01T23:24:15+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Release v0.32.15 · Ollama/Ollama",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-28T15:35:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

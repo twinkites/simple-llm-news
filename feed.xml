@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Run any LLM in t3&#x27;s Codex and Claude tabs through a local gateway</title>
+      <link>https://github.com/0xhsn/proxy-llms</link>
+      <guid isPermaLink="false">https://github.com/0xhsn/proxy-llms</guid>
+      <category>model</category>
+      <pubDate>Wed, 02 Sep 2026 20:47:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
@@ -30,11 +38,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>My agent.md to improve LLM-assisted code quality</title>
-      <link>https://fabiensanglard.net/agent.md/index.html</link>
-      <guid isPermaLink="false">https://fabiensanglard.net/agent.md/index.html</guid>
+      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
+      <link>https://github.com/axem-solutions/shaide</link>
+      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
       <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 17:59:52 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,14 +51,6 @@
       <guid isPermaLink="false">https://github.com/SimranKoul2026/HybridInfer-Python-tool</guid>
       <category>model</category>
       <pubDate>Wed, 02 Sep 2026 01:36:28 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
-      <link>https://github.com/axem-solutions/shaide</link>
-      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
-      <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +158,46 @@
       <source>hn</source>
     </item>
     <item>
+      <title>WebLLM: high-performance in-browser LLM inference engine</title>
+      <link>https://github.com/mlc-ai/web-llm</link>
+      <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10766</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10766</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10766</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 20:35:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10764</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10764</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10764</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 19:59:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10763</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10763</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10763</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 19:04:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 17:27:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ollama Plans Changed</title>
       <link>https://ollama.com/pricing</link>
       <guid isPermaLink="false">https://ollama.com/pricing</guid>
@@ -174,44 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10760</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10760</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10760</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 11:16:40 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10759</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10759</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10759</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 10:23:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10758</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10758</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10758</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 09:31:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
       <link>https://day50.dev/woahllama/</link>
       <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
       <category>harness</category>
       <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 02:11:30 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Ollama&#x27;s Transparent Pricing</title>
@@ -230,28 +238,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.33.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</guid>
+      <title>vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 00:11:33 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 02:11:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Efficient Decode Context Parallelism with vLLM for Long Context Workloads</title>
-      <link>https://vllm.ai/blog/2026-08-07-decode-context-parallelism</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-07-decode-context-parallelism</guid>
+      <title>ollama: v0.33.3-rc0: llama.cpp: version bump b10729 (#18160)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</guid>
       <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 22:18:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Release v0.32.15 · Ollama/Ollama</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.32.15</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.32.15</guid>
-      <category>harness</category>
-      <pubDate>Fri, 28 Aug 2026 15:35:45 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 01 Sep 2026 23:24:15 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
