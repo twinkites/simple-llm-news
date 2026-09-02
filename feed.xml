@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 21:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:44:24 +0000</lastBuildDate>
     <item>
-      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
-      <link>https://github.com/axem-solutions/shaide</link>
-      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
+      <title>The efficient frontier of LLM inference</title>
+      <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
+      <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
       <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>HybridInfer: Local-first LLM router that falls back to cloud on failure</title>
+      <link>https://github.com/SimranKoul2026/HybridInfer-Python-tool</link>
+      <guid isPermaLink="false">https://github.com/SimranKoul2026/HybridInfer-Python-tool</guid>
+      <category>model</category>
+      <pubDate>Wed, 02 Sep 2026 01:36:28 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Stanisław Lem foretold the current LLM mania in 1964</title>
+      <link>https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html</link>
+      <guid isPermaLink="false">https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 01 Sep 2026 08:50:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
+      <link>https://github.com/axem-solutions/shaide</link>
+      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
+      <category>model</category>
+      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
       <guid isPermaLink="false">https://fabiensanglard.net/agent.md/index.html</guid>
@@ -30,11 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing</title>
-      <link>https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser</link>
-      <guid isPermaLink="false">https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser</guid>
+      <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+      <link>https://huggingface.co/blog/allenai/benchmirt</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
       <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 08:33:50 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
+      <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
+      <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
+      <category>model</category>
+      <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
-      <link>https://reinvently.co.uk/tools/ed-o-meter/</link>
-      <guid isPermaLink="false">https://reinvently.co.uk/tools/ed-o-meter/</guid>
+      <title>Debian developer resigns after corporate LLM use without disclosure wins vote</title>
+      <link>https://lists.debian.org/debian-devel/2026/08/msg00318.html</link>
+      <guid isPermaLink="false">https://lists.debian.org/debian-devel/2026/08/msg00318.html</guid>
       <category>model</category>
-      <pubDate>Sun, 23 Aug 2026 16:24:21 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 23:57:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
-      <link>https://github.com/thiagotigaz/ocr-it</link>
-      <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
+      <title>Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing</title>
+      <link>https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser</link>
+      <guid isPermaLink="false">https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser</guid>
       <category>model</category>
-      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:33:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,38 +99,6 @@
       <guid isPermaLink="false">https://informant.reiners.io/gauntlet</guid>
       <category>model</category>
       <pubDate>Mon, 31 Aug 2026 16:08:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Defensive Deception Against Safety-Removal Attacks on Open-Weight Models</title>
-      <link>https://markrussinovich.github.io/fools-gold/</link>
-      <guid isPermaLink="false">https://markrussinovich.github.io/fools-gold/</guid>
-      <category>model</category>
-      <pubDate>Mon, 31 Aug 2026 14:31:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
-      <link>https://huggingface.co/blog/webgpu-kernels</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/webgpu-kernels</guid>
-      <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Running an LLM in the Browser: Verifying WebGPU, and Local Inference</title>
-      <link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
-      <guid isPermaLink="false">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
-      <category>model</category>
-      <pubDate>Sun, 30 Aug 2026 13:33:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>By Opening a Model, a Chinese A.I. Lab May Test the World&#x27;s Cybersecurity</title>
-      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
-      <guid isPermaLink="false">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
-      <category>model</category>
-      <pubDate>Sat, 29 Aug 2026 23:00:20 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +158,46 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 02:11:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <category>harness</category>
+      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10752</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10752</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10752</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 00:15:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.33.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 00:11:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b10751</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10751</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10751</guid>
@@ -172,30 +212,6 @@
       <category>harness</category>
       <pubDate>Tue, 01 Sep 2026 19:23:39 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10749</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10749</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10749</guid>
-      <category>harness</category>
-      <pubDate>Tue, 01 Sep 2026 18:59:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Ollama&#x27;s Transparent Pricing</title>
@@ -235,22 +251,6 @@
       <guid isPermaLink="false">https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html</guid>
       <category>harness</category>
       <pubDate>Tue, 25 Aug 2026 20:47:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Gguf: Harden loader against malformed tensor dims and metadata types</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/25596</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/pull/25596</guid>
-      <category>harness</category>
-      <pubDate>Wed, 26 Aug 2026 16:12:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Release v0.2.0 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 25 Aug 2026 14:09:02 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
