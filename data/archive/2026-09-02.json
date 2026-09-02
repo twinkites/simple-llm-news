@@ -1,38 +1,16 @@
 {
-  "generated_at": "2026-09-02T04:44:24.473939+00:00",
+  "generated_at": "2026-09-02T11:28:33.791300+00:00",
   "sections": {
     "model": [
       {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
-        "score": 69,
+        "score": 129,
         "published": "2026-09-01T23:48:05Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
-        }
-      },
-      {
-        "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
-        "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-02T01:36:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Stanisław Lem foretold the current LLM mania in 1964",
-        "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
-        "source": "hn",
-        "score": 25,
-        "published": "2026-09-01T08:50:57Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
         }
       },
       {
@@ -47,14 +25,14 @@
         }
       },
       {
-        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
-        "url": "https://github.com/axem-solutions/shaide",
+        "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
+        "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
         "source": "hn",
-        "score": 4,
-        "published": "2026-09-01T13:40:24Z",
+        "score": 1,
+        "published": "2026-09-02T01:36:28Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,14 +47,14 @@
         }
       },
       {
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-01T21:39:07+00:00",
+        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+        "url": "https://github.com/axem-solutions/shaide",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-01T13:40:24Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -91,6 +69,17 @@
         }
       },
       {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "hn",
+        "score": 140,
+        "published": "2026-08-24T06:25:31Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+        }
+      },
+      {
         "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
         "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
         "source": "hn",
@@ -102,14 +91,14 @@
         }
       },
       {
-        "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
-        "url": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
-        "source": "hn",
-        "score": 11,
-        "published": "2026-08-30T23:57:37Z",
+        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "url": "https://huggingface.co/blog/allenai/benchmirt",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-01T21:39:07+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -129,6 +118,17 @@
         "source": "hn",
         "score": 1,
         "published": "2026-08-31T16:08:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+        "url": "https://markrussinovich.github.io/fools-gold/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-08-31T14:31:09Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -216,14 +216,47 @@
     ],
     "harness": [
       {
-        "title": "vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
+        "title": "llama.cpp: b10760",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10760",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-02T02:11:30+00:00",
+        "published": "2026-09-02T11:16:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10759",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10759",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T10:23:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10758",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10758",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T09:31:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Ollama Plans Changed",
+        "url": "https://ollama.com/pricing",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-02T07:35:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -238,28 +271,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10752",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10752",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T00:15:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T00:11:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
         "url": "https://day50.dev/woahllama/",
         "source": "hn",
@@ -271,22 +282,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10751",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10751",
+        "title": "vLLM: v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T20:16:09+00:00",
+        "published": "2026-09-02T02:11:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10750",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10750",
+        "title": "ollama: v0.33.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-01T19:23:39+00:00",
+        "published": "2026-09-02T00:11:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -334,17 +345,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
-        "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-25T20:47:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ]
