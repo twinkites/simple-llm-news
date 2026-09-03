@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T04:41:13.405660+00:00",
+  "generated_at": "2026-09-03T11:24:55.132341+00:00",
   "sections": {
     "model": [
       {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
-        "score": 149,
+        "score": 153,
         "published": "2026-09-01T23:48:05Z",
         "truthiness": {
           "label": "green",
@@ -36,14 +36,25 @@
         }
       },
       {
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "hn",
-        "score": 140,
-        "published": "2026-08-24T06:25:31Z",
+        "title": "Give Your Coding Agents a Memory You Own",
+        "url": "https://huggingface.co/blog/funes",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T00:00:00+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -99,17 +110,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-01T21:39:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -219,11 +219,55 @@
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "url": "https://github.com/mlc-ai/web-llm",
         "source": "hn",
-        "score": 96,
+        "score": 129,
         "published": "2026-09-02T14:02:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10783",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10783",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T11:18:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10782",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10782",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T10:28:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10781",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10781",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T09:59:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T09:41:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -238,50 +282,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10775",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10775",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T02:18:25+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10774",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10774",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T01:54:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10773",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10773",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T01:27:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T23:01:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -290,6 +290,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-08-31T21:52:49Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
@@ -304,14 +315,14 @@
         }
       },
       {
-        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
-        "url": "https://day50.dev/woahllama/",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-08-31T21:52:49Z",
+        "title": "ollama: v0.33.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T23:01:17+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -334,17 +345,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Ollama's Transparent Pricing",
-        "url": "https://ollama.com/blog/transparent-pricing",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-01T04:41:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]

@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 04:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:24:55 +0000</lastBuildDate>
     <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
@@ -30,12 +30,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
-      <link>https://github.com/thiagotigaz/ocr-it</link>
-      <guid isPermaLink="false">https://github.com/thiagotigaz/ocr-it</guid>
+      <title>Give Your Coding Agents a Memory You Own</title>
+      <link>https://huggingface.co/blog/funes</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/funes</guid>
       <category>model</category>
-      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
+      <link>https://huggingface.co/blog/train-to-paint-with-code</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/train-to-paint-with-code</guid>
+      <category>model</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
@@ -76,14 +84,6 @@
       <category>model</category>
       <pubDate>Tue, 01 Sep 2026 08:33:50 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-      <link>https://huggingface.co/blog/allenai/benchmirt</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
-      <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: I benchmark local LLMs on real bugs from my own repo&#x27;s Git history</title>
@@ -166,6 +166,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10783</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10783</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10783</guid>
+      <category>harness</category>
+      <pubDate>Thu, 03 Sep 2026 11:18:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10782</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10782</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10782</guid>
+      <category>harness</category>
+      <pubDate>Thu, 03 Sep 2026 10:28:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10781</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10781</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10781</guid>
+      <category>harness</category>
+      <pubDate>Thu, 03 Sep 2026 09:59:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.29.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 03 Sep 2026 09:41:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Hot reload vLLM and sglang configs</title>
       <link>https://github.com/numinous-technology/trimtab</link>
       <guid isPermaLink="false">https://github.com/numinous-technology/trimtab</guid>
@@ -174,43 +206,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10775</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10775</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10775</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 02:18:25 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10774</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10774</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10774</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 01:54:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10773</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10773</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10773</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 01:27:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.33.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 23:01:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -222,12 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
+      <title>ollama: v0.33.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2</guid>
       <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Wed, 02 Sep 2026 23:01:17 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.33.3-rc1</title>
@@ -243,14 +251,6 @@
       <guid isPermaLink="false">https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming</guid>
       <category>harness</category>
       <pubDate>Mon, 31 Aug 2026 16:49:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ollama&#x27;s Transparent Pricing</title>
-      <link>https://ollama.com/blog/transparent-pricing</link>
-      <guid isPermaLink="false">https://ollama.com/blog/transparent-pricing</guid>
-      <category>harness</category>
-      <pubDate>Tue, 01 Sep 2026 04:41:44 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
