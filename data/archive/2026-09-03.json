@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-03T11:24:55.132341+00:00",
+  "generated_at": "2026-09-03T16:33:12.682962+00:00",
   "sections": {
     "model": [
+      {
+        "title": "A Local Open-Weight Model Builds Its First Web App from a GitHub Issue",
+        "url": "https://joeldare.com/a-local-open-weight-model-builds-its-first-web-app",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-03T15:03:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
@@ -11,6 +22,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
+        }
+      },
+      {
+        "title": "On-Prem LLM Inference",
+        "url": "https://wirt.ee/logbook/vllm-serving/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-03T12:30:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T13:13:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -36,8 +69,8 @@
         }
       },
       {
-        "title": "Give Your Coding Agents a Memory You Own",
-        "url": "https://huggingface.co/blog/funes",
+        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
         "source": "rss",
         "score": 0,
         "published": "2026-09-03T00:00:00+00:00",
@@ -47,8 +80,8 @@
         }
       },
       {
-        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "title": "Give Your Coding Agents a Memory You Own",
+        "url": "https://huggingface.co/blog/funes",
         "source": "rss",
         "score": 0,
         "published": "2026-09-03T00:00:00+00:00",
@@ -69,14 +102,14 @@
         }
       },
       {
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-02T13:49:14+00:00",
+        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-31T19:18:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -91,44 +124,11 @@
         }
       },
       {
-        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
-        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-31T19:18:49Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
         "title": "Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing",
         "url": "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser",
         "source": "hn",
         "score": 1,
         "published": "2026-09-01T08:33:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
-        "url": "https://informant.reiners.io/gauntlet",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-31T16:08:09Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
-        "url": "https://markrussinovich.github.io/fools-gold/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-08-31T14:31:09Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -219,7 +219,7 @@
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "url": "https://github.com/mlc-ai/web-llm",
         "source": "hn",
-        "score": 129,
+        "score": 138,
         "published": "2026-09-02T14:02:35Z",
         "truthiness": {
           "label": "green",
@@ -227,33 +227,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10783",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10783",
+        "title": "llama.cpp: b10786",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10786",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T11:18:58+00:00",
+        "published": "2026-09-03T12:45:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10782",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10782",
+        "title": "llama.cpp: b10785",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10785",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T10:28:01+00:00",
+        "published": "2026-09-03T12:21:27+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10781",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10781",
+        "title": "llama.cpp: b10784",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10784",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T09:59:27+00:00",
+        "published": "2026-09-03T11:54:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "Hot reload vLLM and sglang configs",
-        "url": "https://github.com/numinous-technology/trimtab",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-03T00:46:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "Hot reload vLLM and sglang configs",
+        "url": "https://github.com/numinous-technology/trimtab",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-03T00:46:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -326,6 +326,17 @@
         }
       },
       {
+        "title": "ollama: v0.33.3: gemma4: image and audio input support",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-02T22:07:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.33.3-rc1",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1",
         "source": "rss",
@@ -334,17 +345,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
-        "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-31T16:49:59Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ]
