@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-09-04T16:29:33.093832+00:00",
+  "generated_at": "2026-09-04T20:52:26.025550+00:00",
   "sections": {
     "model": [
       {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 343,
+        "score": 364,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
+        "url": "https://www.vlmrun.com/gateway",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-09-04T18:31:25Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-04T18:54:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -25,17 +47,6 @@
         }
       },
       {
-        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
-        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-04T06:53:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
@@ -44,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
+        }
+      },
+      {
+        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
+        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-04T06:53:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -91,17 +113,6 @@
         }
       },
       {
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T13:13:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
         "url": "https://github.com/axem-solutions/shaide",
         "source": "hn",
@@ -113,22 +124,11 @@
         }
       },
       {
-        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
-        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-31T19:18:49Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T00:00:00+00:00",
+        "published": "2026-09-03T13:13:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,36 +205,80 @@
     ],
     "harness": [
       {
+        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+        "source": "hn",
+        "score": 59,
+        "published": "2026-09-04T17:12:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
+        "url": "https://myhandler.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-04T19:07:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10816",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10816",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T20:00:40+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.4.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T19:57:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.19",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.19",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T19:40:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10814",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10814",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T19:32:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "url": "https://github.com/mlc-ai/web-llm",
         "source": "hn",
-        "score": 144,
+        "score": 145,
         "published": "2026-09-02T14:02:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10798",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10798",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T15:05:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10797",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10797",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T08:38:58+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,14 +293,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10796",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T05:33:44+00:00",
+        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-08-31T21:52:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
@@ -271,17 +315,6 @@
         }
       },
       {
-        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
-        "url": "https://day50.dev/woahllama/",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-08-31T21:52:49Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
-        }
-      },
-      {
         "title": "Hot reload vLLM and sglang configs",
         "url": "https://github.com/numinous-technology/trimtab",
         "source": "hn",
@@ -293,17 +326,6 @@
         }
       },
       {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T17:24:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ollama Plans Changed",
         "url": "https://ollama.com/pricing",
         "source": "hn",
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.29.0rc2",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T09:41:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
-        "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-31T16:49:59Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ]

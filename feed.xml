@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 16:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:52:26 +0000</lastBuildDate>
     <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
       <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
       <category>model</category>
       <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Run open-weight OCR, VLM and vision models behind one API</title>
+      <link>https://www.vlmrun.com/gateway</link>
+      <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local Multi-Agent Swarm: An ant farm for local LLM agents</title>
+      <link>https://github.com/franciscocarloserra/local-multi-agent-swarm</link>
+      <guid isPermaLink="false">https://github.com/franciscocarloserra/local-multi-agent-swarm</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 18:54:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline</title>
-      <link>https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
       <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
       <category>model</category>
       <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline</title>
+      <link>https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
-      <link>https://huggingface.co/blog/Hcompany/neomme</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/neomme</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
       <link>https://github.com/axem-solutions/shaide</link>
       <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
@@ -86,19 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model</title>
-      <link>https://twitter.com/perceptroninc/status/2092678357775442103</link>
-      <guid isPermaLink="false">https://twitter.com/perceptroninc/status/2092678357775442103</guid>
+      <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
+      <link>https://huggingface.co/blog/Hcompany/neomme</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/neomme</guid>
       <category>model</category>
-      <pubDate>Mon, 31 Aug 2026 19:18:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
-      <link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,28 +150,60 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
+      <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
+      <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
+      <link>https://myhandler.ai/</link>
+      <guid isPermaLink="false">https://myhandler.ai/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 19:07:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10816</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10816</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10816</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 20:00:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.4.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 19:57:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.19</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.19</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.19</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 19:40:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10814</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10814</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10814</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 19:32:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>WebLLM: high-performance in-browser LLM inference engine</title>
       <link>https://github.com/mlc-ai/web-llm</link>
       <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10798</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10798</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10798</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 15:05:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10797</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10797</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10797</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 08:38:58 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM v0.28.0</title>
@@ -182,12 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10796</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10796</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10796</guid>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
       <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 05:33:44 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>vLLM: v0.29.0rc3</title>
@@ -198,14 +230,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Hot reload vLLM and sglang configs</title>
       <link>https://github.com/numinous-technology/trimtab</link>
       <guid isPermaLink="false">https://github.com/numinous-technology/trimtab</guid>
@@ -214,35 +238,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.33.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.33.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.33.3</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 17:24:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Ollama Plans Changed</title>
       <link>https://ollama.com/pricing</link>
       <guid isPermaLink="false">https://ollama.com/pricing</guid>
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 07:35:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.29.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 09:41:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU</title>
-      <link>https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming</link>
-      <guid isPermaLink="false">https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 16:49:59 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
