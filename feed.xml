@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 11:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:29:33 +0000</lastBuildDate>
     <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
       <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
       <category>model</category>
       <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline</title>
-      <link>https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +22,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline</title>
+      <link>https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
       <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
       <category>model</category>
       <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: We built open OpenRouter that turns usage into a better model</title>
+      <link>https://github.com/experientiallabs/experiential</link>
+      <guid isPermaLink="false">https://github.com/experientiallabs/experiential</guid>
+      <category>model</category>
+      <pubDate>Thu, 27 Aug 2026 21:18:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Give Your Coding Agents a Memory You Own</title>
-      <link>https://huggingface.co/blog/funes</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/funes</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)</title>
       <link>https://semantic-overlays.vercel.app/</link>
       <guid isPermaLink="false">https://semantic-overlays.vercel.app/</guid>
@@ -150,20 +150,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)</title>
-      <link>https://github.com/rudrasatani13/cot-redteam-agent</link>
-      <guid isPermaLink="false">https://github.com/rudrasatani13/cot-redteam-agent</guid>
-      <category>security</category>
-      <pubDate>Tue, 25 Aug 2026 14:20:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>WebLLM: high-performance in-browser LLM inference engine</title>
       <link>https://github.com/mlc-ai/web-llm</link>
       <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10798</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10798</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10798</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 15:05:15 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10797</title>
@@ -174,28 +174,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10796</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10796</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10796</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 05:33:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10795</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10795</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10795</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 04:32:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10796</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10796</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10796</guid>
+      <category>harness</category>
+      <pubDate>Fri, 04 Sep 2026 05:33:44 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.29.0rc3</title>

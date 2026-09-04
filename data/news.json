@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-09-04T11:28:05.913284+00:00",
+  "generated_at": "2026-09-04T16:29:33.093832+00:00",
   "sections": {
     "model": [
       {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 306,
+        "score": 343,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
-        }
-      },
-      {
-        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
-        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-04T06:53:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -36,6 +25,17 @@
         }
       },
       {
+        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
+        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-04T06:53:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
@@ -44,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
+        }
+      },
+      {
+        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+        "url": "https://github.com/experientiallabs/experiential",
+        "source": "hn",
+        "score": 221,
+        "published": "2026-08-27T21:18:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
-      },
-      {
-        "title": "Give Your Coding Agents a Memory You Own",
-        "url": "https://huggingface.co/blog/funes",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
       }
     ],
     "security": [
@@ -201,17 +201,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
-        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-25T14:20:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "harness": [
@@ -227,33 +216,22 @@
         }
       },
       {
+        "title": "llama.cpp: b10798",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10798",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T15:05:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b10797",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10797",
         "source": "rss",
         "score": 0,
         "published": "2026-09-04T08:38:58+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10796",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T05:33:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10795",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T04:32:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10796",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T05:33:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
