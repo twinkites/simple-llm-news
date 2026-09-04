@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T04:43:39.538964+00:00",
+  "generated_at": "2026-09-04T11:28:05.913284+00:00",
   "sections": {
     "model": [
       {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 228,
+        "score": 306,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
+        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-04T06:53:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
-        "score": 153,
+        "score": 154,
         "published": "2026-09-01T23:48:05Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +69,6 @@
         }
       },
       {
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-03T13:13:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
         "url": "https://github.com/0xhsn/proxy-llms",
         "source": "hn",
@@ -80,6 +80,17 @@
         }
       },
       {
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T13:13:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
         "url": "https://github.com/axem-solutions/shaide",
         "source": "hn",
@@ -88,6 +99,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-08-31T19:18:49Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
-        "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-08-31T19:18:49Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
-        "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-02T01:36:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -216,21 +216,10 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10795",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T04:32:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "url": "https://github.com/mlc-ai/web-llm",
         "source": "hn",
-        "score": 142,
+        "score": 144,
         "published": "2026-09-02T14:02:35Z",
         "truthiness": {
           "label": "green",
@@ -238,33 +227,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10794",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+        "title": "llama.cpp: b10797",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10797",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-04T03:22:00+00:00",
+        "published": "2026-09-04T08:38:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "vLLM: v0.29.0rc3",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc3",
+        "title": "llama.cpp: b10796",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-04T00:52:54+00:00",
+        "published": "2026-09-04T05:33:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10793",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+        "title": "llama.cpp: b10795",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T22:19:43+00:00",
+        "published": "2026-09-04T04:32:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,25 +271,14 @@
         }
       },
       {
-        "title": "ollama: v0.33.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3",
+        "title": "vLLM: v0.29.0rc3",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc3",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T17:24:07+00:00",
+        "published": "2026-09-04T00:52:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Hot reload vLLM and sglang configs",
-        "url": "https://github.com/numinous-technology/trimtab",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-03T00:46:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -315,11 +293,22 @@
         }
       },
       {
-        "title": "vLLM: v0.29.0rc2",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2",
+        "title": "Hot reload vLLM and sglang configs",
+        "url": "https://github.com/numinous-technology/trimtab",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-03T00:46:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.33.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-03T09:41:12+00:00",
+        "published": "2026-09-03T17:24:07+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -334,6 +323,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-03T09:41:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
