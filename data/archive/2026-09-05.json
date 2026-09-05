@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T04:39:40.399520+00:00",
+  "generated_at": "2026-09-05T10:44:45.945392+00:00",
   "sections": {
     "model": [
       {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 96,
+        "score": 115,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -17,22 +17,11 @@
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 367,
+        "score": 373,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
-        }
-      },
-      {
-        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
-        "url": "https://www.vlmrun.com/gateway",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-04T18:31:25Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -47,14 +36,14 @@
         }
       },
       {
-        "title": "End-to-end infrastructure for training and inferencing open weight models",
-        "url": "https://docs.appliedcompute.com",
+        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
+        "url": "https://www.vlmrun.com/gateway",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-04T21:25:49Z",
+        "score": 5,
+        "published": "2026-09-04T18:31:25Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -69,14 +58,14 @@
         }
       },
       {
-        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
-        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+        "title": "End-to-end infrastructure for training and inferencing open weight models",
+        "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 1,
-        "published": "2026-09-04T18:54:15Z",
+        "score": 2,
+        "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-04T18:54:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -208,11 +208,44 @@
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
-        "score": 72,
+        "score": 75,
         "published": "2026-09-04T17:12:22Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10819",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T10:38:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10818",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10818",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T09:58:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10817",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T09:28:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,17 +282,6 @@
         }
       },
       {
-        "title": "vLLM: v0.29.0rc4: [Bugfix] Avoid sync in TRT-LLM ragged prefill",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T22:58:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
         "url": "https://myhandler.ai/",
         "source": "hn",
@@ -271,50 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.0-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T21:04:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10816",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10816",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T20:00:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.4.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T19:57:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10814",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10814",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T19:32:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -323,6 +301,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.0rc4: [Bugfix] Avoid sync in TRT-LLM ragged prefill",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T22:58:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.0-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-04T21:04:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
