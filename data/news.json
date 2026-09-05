@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T15:21:43.813487+00:00",
+  "generated_at": "2026-09-05T20:30:33.229068+00:00",
   "sections": {
     "model": [
       {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 129,
+        "score": 139,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 374,
+        "score": 376,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
@@ -80,17 +80,6 @@
         }
       },
       {
-        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
-        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-04T18:54:15Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
         "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
         "source": "hn",
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-04T18:54:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -205,10 +205,21 @@
     ],
     "harness": [
       {
+        "title": "Anyone using llama.cpp willing to test LlamaRack?",
+        "url": "https://github.com/brantje/LlamaRack",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-05T19:24:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
-        "score": 75,
+        "score": 76,
         "published": "2026-09-04T17:12:22Z",
         "truthiness": {
           "label": "green",
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10817",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T09:28:37+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -271,11 +271,11 @@
         }
       },
       {
-        "title": "sglang: v0.5.19",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.19",
+        "title": "llama.cpp: b10817",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-05T02:27:42+00:00",
+        "published": "2026-09-05T09:28:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -290,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.19",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.19",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T02:27:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -309,17 +320,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-04T22:58:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-04T21:04:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
