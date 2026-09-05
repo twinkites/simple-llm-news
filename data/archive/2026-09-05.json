@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T10:44:45.945392+00:00",
+  "generated_at": "2026-09-05T15:21:43.813487+00:00",
   "sections": {
     "model": [
       {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 115,
+        "score": 129,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 373,
+        "score": 374,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
-        "url": "https://www.vlmrun.com/gateway",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-04T18:31:25Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
@@ -58,14 +47,14 @@
         }
       },
       {
-        "title": "End-to-end infrastructure for training and inferencing open weight models",
-        "url": "https://docs.appliedcompute.com",
+        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
+        "url": "https://www.vlmrun.com/gateway",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-04T21:25:49Z",
+        "score": 5,
+        "published": "2026-09-04T18:31:25Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "End-to-end infrastructure for training and inferencing open weight models",
+        "url": "https://docs.appliedcompute.com",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-04T21:25:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -216,6 +216,17 @@
         }
       },
       {
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-02T14:02:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b10819",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
         "source": "rss",
@@ -249,14 +260,14 @@
         }
       },
       {
-        "title": "WebLLM: high-performance in-browser LLM inference engine",
-        "url": "https://github.com/mlc-ai/web-llm",
+        "title": "vLLM v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
-        "score": 145,
-        "published": "2026-09-02T14:02:35Z",
+        "score": 107,
+        "published": "2026-08-29T18:22:00Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
         }
       },
       {
@@ -265,17 +276,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-05T02:27:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T00:48:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,14 +293,14 @@
         }
       },
       {
-        "title": "vLLM v0.28.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "hn",
-        "score": 107,
-        "published": "2026-08-29T18:22:00Z",
+        "title": "ollama: v0.34.0-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T00:48:55+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

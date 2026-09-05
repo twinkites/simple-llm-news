@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 10:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:21:43 +0000</lastBuildDate>
     <item>
       <title>“Next-token predictor” is the wrong mental model for LLMs</title>
       <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Run open-weight OCR, VLM and vision models behind one API</title>
-      <link>https://www.vlmrun.com/gateway</link>
-      <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I accidentally turned LLM memory into program analysis</title>
       <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
       <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
@@ -46,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>End-to-end infrastructure for training and inferencing open weight models</title>
-      <link>https://docs.appliedcompute.com</link>
-      <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
+      <title>Show HN: Run open-weight OCR, VLM and vision models behind one API</title>
+      <link>https://www.vlmrun.com/gateway</link>
+      <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
       <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +51,14 @@
       <guid isPermaLink="false">https://github.com/experientiallabs/experiential</guid>
       <category>model</category>
       <pubDate>Thu, 27 Aug 2026 21:18:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>End-to-end infrastructure for training and inferencing open weight models</title>
+      <link>https://docs.appliedcompute.com</link>
+      <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +158,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>WebLLM: high-performance in-browser LLM inference engine</title>
+      <link>https://github.com/mlc-ai/web-llm</link>
+      <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
+      <category>harness</category>
+      <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b10819</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10819</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10819</guid>
@@ -182,11 +190,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>WebLLM: high-performance in-browser LLM inference engine</title>
-      <link>https://github.com/mlc-ai/web-llm</link>
-      <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
+      <title>vLLM v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,14 +206,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.34.0-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 00:48:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
       <link>https://myhandler.ai/</link>
       <guid isPermaLink="false">https://myhandler.ai/</guid>
@@ -214,12 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <title>ollama: v0.34.0-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
       <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sat, 05 Sep 2026 00:48:55 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.29.0rc4: [Bugfix] Avoid sync in TRT-LLM ragged prefill</title>
