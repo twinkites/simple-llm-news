@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-06T11:06:35.449729+00:00",
+  "generated_at": "2026-09-06T15:34:01.601515+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
+        "url": "https://github.com/franciscocarloserra/llm-sandbox/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-06T14:28:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
+        "url": "https://news.ycombinator.com/item?id=49586810",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-06T14:23:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
@@ -17,7 +39,7 @@
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 155,
+        "score": 157,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -33,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
+        }
+      },
+      {
+        "title": "I accidentally turned LLM memory into program analysis",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "source": "hn",
+        "score": 302,
+        "published": "2026-08-28T23:27:45Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
         }
       },
       {
@@ -61,7 +94,7 @@
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
@@ -91,17 +124,6 @@
         }
       },
       {
-        "title": "A Local Open-Weight Model Builds Its First Web App from a GitHub Issue",
-        "url": "https://joeldare.com/a-local-open-weight-model-builds-its-first-web-app",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-03T15:03:35Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
         "url": "https://github.com/0xhsn/proxy-llms",
         "source": "hn",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
-        "url": "https://github.com/axem-solutions/shaide",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-01T13:40:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "On-Prem LLM Inference",
-        "url": "https://wirt.ee/logbook/vllm-serving/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-03T12:30:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -190,26 +190,15 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "Shieldprompt – test your LLM against prompt injection – no dependencies",
-        "url": "https://github.com/Jograph17/shieldprompt",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-27T13:07:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10821",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10821",
+        "title": "llama.cpp: b10825",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10825",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-06T10:01:04+00:00",
+        "published": "2026-09-06T13:24:07+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -224,6 +213,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10823",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10823",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-06T11:59:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10822",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10822",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-06T11:32:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T23:59:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -271,22 +271,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10820",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10820",
+        "title": "ollama: v0.34.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-05T20:42:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10819",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T10:38:50+00:00",
+        "published": "2026-09-05T23:59:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

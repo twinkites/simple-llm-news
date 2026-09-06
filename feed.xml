@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 11:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:34:01 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude</title>
+      <link>https://github.com/franciscocarloserra/llm-sandbox/</link>
+      <guid isPermaLink="false">https://github.com/franciscocarloserra/llm-sandbox/</guid>
+      <category>model</category>
+      <pubDate>Sun, 06 Sep 2026 14:28:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I track LLM API prices daily, found a 33x cost gap in the same model</title>
+      <link>https://news.ycombinator.com/item?id=49586810</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49586810</guid>
+      <category>model</category>
+      <pubDate>Sun, 06 Sep 2026 14:23:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
@@ -27,6 +43,14 @@
       <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
       <category>model</category>
       <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I accidentally turned LLM memory into program analysis</title>
+      <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
+      <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
+      <category>model</category>
+      <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,35 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A Local Open-Weight Model Builds Its First Web App from a GitHub Issue</title>
-      <link>https://joeldare.com/a-local-open-weight-model-builds-its-first-web-app</link>
-      <guid isPermaLink="false">https://joeldare.com/a-local-open-weight-model-builds-its-first-web-app</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 15:03:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Run any LLM in t3&#x27;s Codex and Claude tabs through a local gateway</title>
       <link>https://github.com/0xhsn/proxy-llms</link>
       <guid isPermaLink="false">https://github.com/0xhsn/proxy-llms</guid>
       <category>model</category>
       <pubDate>Wed, 02 Sep 2026 20:47:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
-      <link>https://github.com/axem-solutions/shaide</link>
-      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
-      <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>On-Prem LLM Inference</title>
-      <link>https://wirt.ee/logbook/vllm-serving/</link>
-      <guid isPermaLink="false">https://wirt.ee/logbook/vllm-serving/</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 12:30:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,19 +142,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Shieldprompt – test your LLM against prompt injection – no dependencies</title>
-      <link>https://github.com/Jograph17/shieldprompt</link>
-      <guid isPermaLink="false">https://github.com/Jograph17/shieldprompt</guid>
-      <category>security</category>
-      <pubDate>Thu, 27 Aug 2026 13:07:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10821</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10821</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10821</guid>
+      <title>llama.cpp: b10825</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10825</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10825</guid>
       <category>harness</category>
-      <pubDate>Sun, 06 Sep 2026 10:01:04 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 13:24:07 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -164,6 +156,22 @@
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10823</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10823</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10823</guid>
+      <category>harness</category>
+      <pubDate>Sun, 06 Sep 2026 11:59:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10822</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10822</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10822</guid>
+      <category>harness</category>
+      <pubDate>Sun, 06 Sep 2026 11:32:49 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>WebLLM: high-performance in-browser LLM inference engine</title>
@@ -182,14 +190,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 23:59:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
@@ -198,19 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10820</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10820</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10820</guid>
+      <title>ollama: v0.34.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
       <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 20:42:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10819</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10819</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10819</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 10:38:50 +0000</pubDate>
+      <pubDate>Sat, 05 Sep 2026 23:59:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
