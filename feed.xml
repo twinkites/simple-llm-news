@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 20:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 04:48:51 +0000</lastBuildDate>
     <item>
       <title>“Next-token predictor” is the wrong mental model for LLMs</title>
       <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Run open-weight OCR, VLM and vision models behind one API</title>
-      <link>https://www.vlmrun.com/gateway</link>
-      <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: We built open OpenRouter that turns usage into a better model</title>
       <link>https://github.com/experientiallabs/experiential</link>
       <guid isPermaLink="false">https://github.com/experientiallabs/experiential</guid>
       <category>model</category>
       <pubDate>Thu, 27 Aug 2026 21:18:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Run open-weight OCR, VLM and vision models behind one API</title>
+      <link>https://www.vlmrun.com/gateway</link>
+      <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>On-Prem LLM Inference</title>
-      <link>https://wirt.ee/logbook/vllm-serving/</link>
-      <guid isPermaLink="false">https://wirt.ee/logbook/vllm-serving/</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 12:30:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Run any LLM in t3&#x27;s Codex and Claude tabs through a local gateway</title>
       <link>https://github.com/0xhsn/proxy-llms</link>
       <guid isPermaLink="false">https://github.com/0xhsn/proxy-llms</guid>
       <category>model</category>
       <pubDate>Wed, 02 Sep 2026 20:47:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>On-Prem LLM Inference</title>
+      <link>https://wirt.ee/logbook/vllm-serving/</link>
+      <guid isPermaLink="false">https://wirt.ee/logbook/vllm-serving/</guid>
+      <category>model</category>
+      <pubDate>Thu, 03 Sep 2026 12:30:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,14 +150,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anyone using llama.cpp willing to test LlamaRack?</title>
-      <link>https://github.com/brantje/LlamaRack</link>
-      <guid isPermaLink="false">https://github.com/brantje/LlamaRack</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 19:24:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
@@ -171,6 +163,38 @@
       <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anyone using llama.cpp willing to test LlamaRack?</title>
+      <link>https://github.com/brantje/LlamaRack</link>
+      <guid isPermaLink="false">https://github.com/brantje/LlamaRack</guid>
+      <category>harness</category>
+      <pubDate>Sat, 05 Sep 2026 19:24:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sat, 05 Sep 2026 23:59:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10820</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10820</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10820</guid>
+      <category>harness</category>
+      <pubDate>Sat, 05 Sep 2026 20:42:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <category>harness</category>
+      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,27 +214,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>vLLM v0.28.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10817</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10817</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10817</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 09:28:37 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
       <link>https://myhandler.ai/</link>
       <guid isPermaLink="false">https://myhandler.ai/</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 19:07:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -222,28 +238,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.34.0-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 00:48:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM: v0.29.0rc4: [Bugfix] Avoid sync in TRT-LLM ragged prefill</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 22:58:29 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
