@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-06T15:34:01.601515+00:00",
+  "generated_at": "2026-09-06T20:30:57.457679+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "source": "hn",
+        "score": 377,
+        "published": "2026-09-03T14:28:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "“Next-token predictor” is the wrong mental model for LLMs",
+        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+        "source": "hn",
+        "score": 159,
+        "published": "2026-09-04T17:09:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
+        }
+      },
       {
         "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
         "url": "https://github.com/franciscocarloserra/llm-sandbox/",
@@ -22,28 +44,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-        "source": "hn",
-        "score": 377,
-        "published": "2026-09-03T14:28:18Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
-        }
-      },
-      {
-        "title": "“Next-token predictor” is the wrong mental model for LLMs",
-        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "source": "hn",
-        "score": 157,
-        "published": "2026-09-04T17:09:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
         }
       },
       {
@@ -94,7 +94,7 @@
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 3,
+        "score": 4,
         "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
@@ -124,18 +124,29 @@
         }
       },
       {
-        "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
-        "url": "https://github.com/0xhsn/proxy-llms",
+        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+        "url": "https://github.com/axem-solutions/shaide",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-02T20:47:12Z",
+        "score": 4,
+        "published": "2026-09-01T13:40:24Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+        "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-06T16:17:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
       {
         "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
         "url": "https://semantic-overlays.vercel.app/",
@@ -179,31 +190,9 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
-        "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-08-27T17:19:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "harness": [
-      {
-        "title": "llama.cpp: b10825",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10825",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-06T13:24:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
       {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
@@ -216,22 +205,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10823",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10823",
+        "title": "llama.cpp: b10826",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10826",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-06T11:59:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10822",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10822",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-06T11:32:49+00:00",
+        "published": "2026-09-06T16:42:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,14 +227,25 @@
         }
       },
       {
-        "title": "Anyone using llama.cpp willing to test LlamaRack?",
-        "url": "https://github.com/brantje/LlamaRack",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-05T19:24:17Z",
+        "title": "llama.cpp: b10825",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10825",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-06T13:24:07+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10823",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10823",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-06T11:59:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -268,6 +257,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "Anyone using llama.cpp willing to test LlamaRack?",
+        "url": "https://github.com/brantje/LlamaRack",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-05T19:24:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {

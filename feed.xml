@@ -4,23 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:34:01 +0000</lastBuildDate>
-    <item>
-      <title>Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude</title>
-      <link>https://github.com/franciscocarloserra/llm-sandbox/</link>
-      <guid isPermaLink="false">https://github.com/franciscocarloserra/llm-sandbox/</guid>
-      <category>model</category>
-      <pubDate>Sun, 06 Sep 2026 14:28:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I track LLM API prices daily, found a 33x cost gap in the same model</title>
-      <link>https://news.ycombinator.com/item?id=49586810</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49586810</guid>
-      <category>model</category>
-      <pubDate>Sun, 06 Sep 2026 14:23:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 20:30:57 +0000</lastBuildDate>
     <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
@@ -35,6 +19,22 @@
       <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude</title>
+      <link>https://github.com/franciscocarloserra/llm-sandbox/</link>
+      <guid isPermaLink="false">https://github.com/franciscocarloserra/llm-sandbox/</guid>
+      <category>model</category>
+      <pubDate>Sun, 06 Sep 2026 14:28:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I track LLM API prices daily, found a 33x cost gap in the same model</title>
+      <link>https://news.ycombinator.com/item?id=49586810</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49586810</guid>
+      <category>model</category>
+      <pubDate>Sun, 06 Sep 2026 14:23:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Run any LLM in t3&#x27;s Codex and Claude tabs through a local gateway</title>
-      <link>https://github.com/0xhsn/proxy-llms</link>
-      <guid isPermaLink="false">https://github.com/0xhsn/proxy-llms</guid>
+      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
+      <link>https://github.com/axem-solutions/shaide</link>
+      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
       <category>model</category>
-      <pubDate>Wed, 02 Sep 2026 20:47:12 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>AI agents aren&#x27;t safe from prompt injection, and spreadsheets prove it</title>
+      <link>https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</link>
+      <guid isPermaLink="false">https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</guid>
+      <category>security</category>
+      <pubDate>Sun, 06 Sep 2026 16:17:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,22 +142,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Walkthrough of a prompt injection attack on a modern office-work AI agent</title>
-      <link>https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</link>
-      <guid isPermaLink="false">https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</guid>
-      <category>security</category>
-      <pubDate>Thu, 27 Aug 2026 17:19:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10825</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10825</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10825</guid>
-      <category>harness</category>
-      <pubDate>Sun, 06 Sep 2026 13:24:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
@@ -158,19 +150,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10823</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10823</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10823</guid>
+      <title>llama.cpp: b10826</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10826</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10826</guid>
       <category>harness</category>
-      <pubDate>Sun, 06 Sep 2026 11:59:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10822</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10822</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10822</guid>
-      <category>harness</category>
-      <pubDate>Sun, 06 Sep 2026 11:32:49 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 16:42:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,12 +166,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anyone using llama.cpp willing to test LlamaRack?</title>
-      <link>https://github.com/brantje/LlamaRack</link>
-      <guid isPermaLink="false">https://github.com/brantje/LlamaRack</guid>
+      <title>llama.cpp: b10825</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10825</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10825</guid>
       <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 19:24:17 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 06 Sep 2026 13:24:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10823</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10823</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10823</guid>
+      <category>harness</category>
+      <pubDate>Sun, 06 Sep 2026 11:59:46 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM v0.28.0</title>
@@ -195,6 +187,14 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anyone using llama.cpp willing to test LlamaRack?</title>
+      <link>https://github.com/brantje/LlamaRack</link>
+      <guid isPermaLink="false">https://github.com/brantje/LlamaRack</guid>
+      <category>harness</category>
+      <pubDate>Sat, 05 Sep 2026 19:24:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
