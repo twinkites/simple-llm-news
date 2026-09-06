@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 04:48:51 +0000</lastBuildDate>
-    <item>
-      <title>“Next-token predictor” is the wrong mental model for LLMs</title>
-      <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
-      <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 11:06:35 +0000</lastBuildDate>
     <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
@@ -22,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>“Next-token predictor” is the wrong mental model for LLMs</title>
+      <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
+      <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
       <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
       <category>model</category>
       <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I accidentally turned LLM memory into program analysis</title>
-      <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
-      <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
-      <category>model</category>
-      <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,6 +86,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: OSS, K8s-native AI platform for distributed multi-model inference</title>
+      <link>https://github.com/axem-solutions/shaide</link>
+      <guid isPermaLink="false">https://github.com/axem-solutions/shaide</guid>
+      <category>model</category>
+      <pubDate>Tue, 01 Sep 2026 13:40:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>On-Prem LLM Inference</title>
       <link>https://wirt.ee/logbook/vllm-serving/</link>
       <guid isPermaLink="false">https://wirt.ee/logbook/vllm-serving/</guid>
@@ -150,6 +150,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10821</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10821</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10821</guid>
+      <category>harness</category>
+      <pubDate>Sun, 06 Sep 2026 10:01:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
@@ -182,20 +190,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10820</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10820</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10820</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 20:42:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM v0.28.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
       <category>harness</category>
       <pubDate>Sat, 29 Aug 2026 18:22:00 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10820</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10820</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10820</guid>
+      <category>harness</category>
+      <pubDate>Sat, 05 Sep 2026 20:42:35 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10819</title>
@@ -206,12 +214,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10818</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10818</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10818</guid>
+      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
+      <link>https://day50.dev/woahllama/</link>
+      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
       <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 09:58:04 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
@@ -219,14 +227,6 @@
       <guid isPermaLink="false">https://myhandler.ai/</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 19:07:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>

@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-06T04:48:51.026652+00:00",
+  "generated_at": "2026-09-06T11:06:35.449729+00:00",
   "sections": {
     "model": [
-      {
-        "title": "“Next-token predictor” is the wrong mental model for LLMs",
-        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "source": "hn",
-        "score": 148,
-        "published": "2026-09-04T17:09:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
-        }
-      },
       {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 376,
+        "score": 377,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "“Next-token predictor” is the wrong mental model for LLMs",
+        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+        "source": "hn",
+        "score": 155,
+        "published": "2026-09-04T17:09:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
         }
       },
       {
@@ -33,17 +33,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
-        }
-      },
-      {
-        "title": "I accidentally turned LLM memory into program analysis",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-        "source": "hn",
-        "score": 302,
-        "published": "2026-08-28T23:27:45Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
         }
       },
       {
@@ -121,6 +110,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+        "url": "https://github.com/axem-solutions/shaide",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-01T13:40:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -205,6 +205,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10821",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10821",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-06T10:01:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10820",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10820",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T20:42:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM v0.28.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
         "source": "hn",
@@ -268,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 33 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10820",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10820",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T20:42:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,14 +293,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10818",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10818",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T09:58:04+00:00",
+        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-08-31T21:52:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
-        "url": "https://day50.dev/woahllama/",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-08-31T21:52:49Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
