@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T04:52:46.695599+00:00",
+  "generated_at": "2026-09-07T12:45:29.959418+00:00",
   "sections": {
     "model": [
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "hn",
-        "score": 602,
+        "score": 668,
         "published": "2026-09-06T11:56:43Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 160,
+        "score": 161,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +39,7 @@
         "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
         "url": "https://github.com/daniele110199/bobbin",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-09-06T21:11:56Z",
         "truthiness": {
           "label": "red",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
-        "url": "https://news.ycombinator.com/item?id=49586810",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-06T14:23:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
+        }
+      },
+      {
+        "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
+        "url": "https://news.ycombinator.com/item?id=49586810",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-06T14:23:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -194,6 +194,39 @@
     ],
     "harness": [
       {
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "hn",
+        "score": 40,
+        "published": "2026-09-07T09:26:41Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10839",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10839",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-07T11:16:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10837",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10837",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-07T08:37:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
@@ -205,44 +238,11 @@
         }
       },
       {
-        "title": "WebLLM: high-performance in-browser LLM inference engine",
-        "url": "https://github.com/mlc-ai/web-llm",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-02T14:02:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10830",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10830",
+        "title": "llama.cpp: b10835",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10835",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-06T23:30:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10829",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10829",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-06T23:06:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10828",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10828",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-06T22:11:01+00:00",
+        "published": "2026-09-07T08:11:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T23:59:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
         "url": "https://day50.dev/woahllama/",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-05T23:59:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -304,17 +304,6 @@
         }
       },
       {
-        "title": "sglang: v0.5.19",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.19",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T02:27:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ollama Plans Changed",
         "url": "https://ollama.com/pricing",
         "source": "hn",
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Hot reload vLLM and sglang configs",
+        "url": "https://github.com/numinous-technology/trimtab",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-03T00:46:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
