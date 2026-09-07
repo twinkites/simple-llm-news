@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-09-07T12:45:29.959418+00:00",
+  "generated_at": "2026-09-07T21:37:39.763367+00:00",
   "sections": {
     "model": [
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "hn",
-        "score": 668,
+        "score": 703,
         "published": "2026-09-06T11:56:43Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
+        }
+      },
+      {
+        "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+        "url": "https://www.doodleiq.com/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-07T21:25:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -28,22 +39,11 @@
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 161,
+        "score": 162,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
-        }
-      },
-      {
-        "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
-        "url": "https://github.com/daniele110199/bobbin",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-06T21:11:56Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -66,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 302 points)"
+        }
+      },
+      {
+        "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
+        "url": "https://github.com/daniele110199/bobbin",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-06T21:11:56Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
-        "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-04T18:54:15Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -197,7 +197,7 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
-        "score": 40,
+        "score": 125,
         "published": "2026-09-07T09:26:41Z",
         "truthiness": {
           "label": "green",
@@ -205,22 +205,44 @@
         }
       },
       {
-        "title": "llama.cpp: b10839",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10839",
+        "title": "Ollama replacement 2-4x faster for no extra compute cost",
+        "url": "https://github.com/omgitsbase/llmash",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-07T20:46:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10850",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10850",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-07T11:16:13+00:00",
+        "published": "2026-09-07T20:05:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10837",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10837",
+        "title": "llama.cpp: b10844",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10844",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-07T08:37:27+00:00",
+        "published": "2026-09-07T19:30:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10842",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10842",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-07T18:16:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,17 +257,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10835",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10835",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-07T08:11:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Hot reload vLLM and sglang configs",
-        "url": "https://github.com/numinous-technology/trimtab",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-03T00:46:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

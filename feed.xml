@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 12:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:37:39 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>DoodleIQ – Rent your idle local-LLM machine to others by the second</title>
+      <link>https://www.doodleiq.com/</link>
+      <guid isPermaLink="false">https://www.doodleiq.com/</guid>
+      <category>model</category>
+      <pubDate>Mon, 07 Sep 2026 21:25:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Bobbin: Pentest with a local LLM, so target data never leaves your machine</title>
-      <link>https://github.com/daniele110199/bobbin</link>
-      <guid isPermaLink="false">https://github.com/daniele110199/bobbin</guid>
-      <category>model</category>
-      <pubDate>Sun, 06 Sep 2026 21:11:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
       <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
@@ -51,6 +51,14 @@
       <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
       <category>model</category>
       <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Bobbin: Pentest with a local LLM, so target data never leaves your machine</title>
+      <link>https://github.com/daniele110199/bobbin</link>
+      <guid isPermaLink="false">https://github.com/daniele110199/bobbin</guid>
+      <category>model</category>
+      <pubDate>Sun, 06 Sep 2026 21:11:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local Multi-Agent Swarm: An ant farm for local LLM agents</title>
-      <link>https://github.com/franciscocarloserra/local-multi-agent-swarm</link>
-      <guid isPermaLink="false">https://github.com/franciscocarloserra/local-multi-agent-swarm</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 18:54:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,19 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10839</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10839</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10839</guid>
+      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
+      <link>https://github.com/omgitsbase/llmash</link>
+      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
       <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 11:16:13 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10850</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10850</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10850</guid>
+      <category>harness</category>
+      <pubDate>Mon, 07 Sep 2026 20:05:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10837</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10837</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10837</guid>
+      <title>llama.cpp: b10844</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10844</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10844</guid>
       <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 08:37:27 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 19:30:19 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10842</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10842</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10842</guid>
+      <category>harness</category>
+      <pubDate>Mon, 07 Sep 2026 18:16:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,14 +188,6 @@
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10835</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10835</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10835</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 08:11:15 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM v0.28.0</title>
@@ -227,14 +235,6 @@
       <guid isPermaLink="false">https://ollama.com/pricing</guid>
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 07:35:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Hot reload vLLM and sglang configs</title>
-      <link>https://github.com/numinous-technology/trimtab</link>
-      <guid isPermaLink="false">https://github.com/numinous-technology/trimtab</guid>
-      <category>harness</category>
-      <pubDate>Thu, 03 Sep 2026 00:46:04 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
