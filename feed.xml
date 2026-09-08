@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 04:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:28:43 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>What Can You Do with a Local LLM?</title>
+      <link>https://grigio.org/what-can-you-actually-do-with-a-local-llm/</link>
+      <guid isPermaLink="false">https://grigio.org/what-can-you-actually-do-with-a-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 10:14:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,14 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>DoodleIQ – Rent your idle local-LLM machine to others by the second</title>
-      <link>https://www.doodleiq.com/</link>
-      <guid isPermaLink="false">https://www.doodleiq.com/</guid>
-      <category>model</category>
-      <pubDate>Mon, 07 Sep 2026 21:25:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
       <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
@@ -54,11 +54,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>DoodleIQ – Rent your idle local-LLM machine to others by the second</title>
+      <link>https://www.doodleiq.com/</link>
+      <guid isPermaLink="false">https://www.doodleiq.com/</guid>
+      <category>model</category>
+      <pubDate>Mon, 07 Sep 2026 21:25:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Bobbin: Pentest with a local LLM, so target data never leaves your machine</title>
       <link>https://github.com/daniele110199/bobbin</link>
       <guid isPermaLink="false">https://github.com/daniele110199/bobbin</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 21:11:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>End-to-end infrastructure for training and inferencing open weight models</title>
+      <link>https://docs.appliedcompute.com</link>
+      <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://www.vlmrun.com/gateway</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 18:31:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>End-to-end infrastructure for training and inferencing open weight models</title>
-      <link>https://docs.appliedcompute.com</link>
-      <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline</title>
-      <link>https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 06:53:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,11 +158,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10853</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10853</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10853</guid>
+      <title>llama.cpp: b10856</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10856</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10856</guid>
       <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 04:00:33 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 10:50:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10855</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10855</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10855</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 10:06:03 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.29.0rc6</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc6</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc6</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 08:34:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.29.0rc5</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc5</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc5</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 08:20:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,14 +196,6 @@
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10852</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10852</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10852</guid>
-      <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 00:42:25 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
@@ -198,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10850</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10850</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10850</guid>
+      <title>llama.cpp: b10853</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10853</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10853</guid>
       <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 20:05:53 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 04:00:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -227,22 +243,6 @@
       <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
       <category>harness</category>
       <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 23:59:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
-      <link>https://myhandler.ai/</link>
-      <guid isPermaLink="false">https://myhandler.ai/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 19:07:43 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

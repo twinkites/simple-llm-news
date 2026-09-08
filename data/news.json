@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T04:48:25.854438+00:00",
+  "generated_at": "2026-09-08T11:28:43.299889+00:00",
   "sections": {
     "model": [
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "hn",
-        "score": 716,
+        "score": 723,
         "published": "2026-09-06T11:56:43Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "What Can You Do with a Local LLM?",
+        "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-08T10:14:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
         "url": "https://arxiv.org/abs/2609.05241",
         "source": "hn",
-        "score": 1,
+        "score": 3,
         "published": "2026-09-08T04:07:07Z",
         "truthiness": {
           "label": "red",
@@ -47,17 +58,6 @@
         }
       },
       {
-        "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
-        "url": "https://www.doodleiq.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-07T21:25:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
@@ -69,11 +69,33 @@
         }
       },
       {
+        "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+        "url": "https://www.doodleiq.com/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-07T21:25:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
         "url": "https://github.com/daniele110199/bobbin",
         "source": "hn",
         "score": 3,
         "published": "2026-09-06T21:11:56Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "End-to-end infrastructure for training and inferencing open weight models",
+        "url": "https://docs.appliedcompute.com",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "End-to-end infrastructure for training and inferencing open weight models",
-        "url": "https://docs.appliedcompute.com",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-04T21:25:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
-        "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-04T06:53:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -208,7 +208,7 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
-        "score": 135,
+        "score": 137,
         "published": "2026-09-07T09:26:41Z",
         "truthiness": {
           "label": "green",
@@ -216,11 +216,44 @@
         }
       },
       {
-        "title": "llama.cpp: b10853",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10853",
+        "title": "llama.cpp: b10856",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10856",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-08T04:00:33+00:00",
+        "published": "2026-09-08T10:50:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10855",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10855",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T10:06:03+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.0rc6",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc6",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T08:34:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.0rc5",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc5",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T08:20:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10852",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10852",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T00:42:25+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,11 +293,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10850",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10850",
+        "title": "llama.cpp: b10853",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10853",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-07T20:05:53+00:00",
+        "published": "2026-09-08T04:00:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-05T23:59:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
-        "url": "https://myhandler.ai/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-04T19:07:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
