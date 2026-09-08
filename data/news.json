@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:28:43.299889+00:00",
+  "generated_at": "2026-09-08T16:45:37.959359+00:00",
   "sections": {
     "model": [
       {
@@ -14,22 +14,22 @@
         }
       },
       {
-        "title": "What Can You Do with a Local LLM?",
-        "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-08T10:14:27Z",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T14:23:07+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
-        "url": "https://arxiv.org/abs/2609.05241",
+        "title": "Show HN: Self-Hosted Code Review Agent for Local LLM",
+        "url": "https://github.com/seoes/proval",
         "source": "hn",
-        "score": 3,
-        "published": "2026-09-08T04:07:07Z",
+        "score": 1,
+        "published": "2026-09-08T12:02:26Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "What Can You Do with a Local LLM?",
+        "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-08T10:14:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
@@ -55,6 +66,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
+        }
+      },
+      {
+        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
+        "url": "https://arxiv.org/abs/2609.05241",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-08T04:07:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "End-to-end infrastructure for training and inferencing open weight models",
+        "url": "https://docs.appliedcompute.com",
+        "source": "hn",
+        "score": 61,
+        "published": "2026-09-04T21:25:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -91,17 +124,6 @@
         }
       },
       {
-        "title": "End-to-end infrastructure for training and inferencing open weight models",
-        "url": "https://docs.appliedcompute.com",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-09-04T21:25:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
         "url": "https://news.ycombinator.com/item?id=49586810",
         "source": "hn",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
-        "url": "https://github.com/franciscocarloserra/llm-sandbox/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-06T14:28:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
-        "url": "https://www.vlmrun.com/gateway",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-04T18:31:25Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ],
@@ -179,28 +179,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "80% Prompt Injection Success Rate Against Claude Auto Mode",
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-29T15:23:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Data Exfiltration from Amazon Kiro via Prompt Injection",
-        "url": "https://mindgard.ai/blog/amazon-kiro-data-exfiltration",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-08-29T14:19:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "harness": [
@@ -208,7 +186,7 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
-        "score": 137,
+        "score": 141,
         "published": "2026-09-07T09:26:41Z",
         "truthiness": {
           "label": "green",
@@ -216,25 +194,69 @@
         }
       },
       {
-        "title": "llama.cpp: b10856",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10856",
+        "title": "llama.cpp: b10865",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10865",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-08T10:50:51+00:00",
+        "published": "2026-09-08T15:14:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10855",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10855",
+        "title": "llama.cpp: b10864",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10864",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-08T10:06:03+00:00",
+        "published": "2026-09-08T14:33:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10863",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10863",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T14:01:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+        "source": "hn",
+        "score": 76,
+        "published": "2026-09-04T17:12:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "Ollama replacement 2-4x faster for no extra compute cost",
+        "url": "https://github.com/omgitsbase/llmash",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-07T20:46:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-02T14:02:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
         }
       },
       {
@@ -254,50 +276,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-08T08:20:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama replacement 2-4x faster for no extra compute cost",
-        "url": "https://github.com/omgitsbase/llmash",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-07T20:46:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-        "source": "hn",
-        "score": 76,
-        "published": "2026-09-04T17:12:22Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
-        }
-      },
-      {
-        "title": "WebLLM: high-performance in-browser LLM inference engine",
-        "url": "https://github.com/mlc-ai/web-llm",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-02T14:02:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10853",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10853",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T04:00:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
