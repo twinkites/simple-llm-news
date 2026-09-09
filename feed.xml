@@ -4,13 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 21:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:52:34 +0000</lastBuildDate>
     <item>
-      <title>Multi-Agents LLM Financial Trading Framework</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
+      <title>Show HN: LLM Attention Visualization</title>
+      <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
+      <guid isPermaLink="false">https://ishamf.dev/p/llm-attention-visualizer/</guid>
       <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs</title>
-      <link>https://github.com/aminueza/Keyfence</link>
-      <guid isPermaLink="false">https://github.com/aminueza/Keyfence</guid>
+      <title>Multi-Agents LLM Financial Trading Framework</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 19:16:46 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,36 +46,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>What Can You Do with a Local LLM?</title>
-      <link>https://grigio.org/what-can-you-actually-do-with-a-local-llm/</link>
-      <guid isPermaLink="false">https://grigio.org/what-can-you-actually-do-with-a-local-llm/</guid>
+      <title>Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs</title>
+      <link>https://github.com/aminueza/Keyfence</link>
+      <guid isPermaLink="false">https://github.com/aminueza/Keyfence</guid>
       <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 10:14:27 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:46 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Self-Hosted Code Review Agent for Local LLM</title>
-      <link>https://github.com/seoes/proval</link>
-      <guid isPermaLink="false">https://github.com/seoes/proval</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 12:02:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
-      <link>https://arxiv.org/abs/2609.05241</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 14:23:07 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>End-to-end infrastructure for training and inferencing open weight models</title>
@@ -94,11 +70,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>DoodleIQ – Rent your idle local-LLM machine to others by the second</title>
-      <link>https://www.doodleiq.com/</link>
-      <guid isPermaLink="false">https://www.doodleiq.com/</guid>
+      <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
+      <link>https://arxiv.org/abs/2609.05241</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
       <category>model</category>
-      <pubDate>Mon, 07 Sep 2026 21:25:19 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>What Can You Do with a Local LLM?</title>
+      <link>https://grigio.org/what-can-you-actually-do-with-a-local-llm/</link>
+      <guid isPermaLink="false">https://grigio.org/what-can-you-actually-do-with-a-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 10:14:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Self-Hosted Code Review Agent for Local LLM</title>
+      <link>https://github.com/seoes/proval</link>
+      <guid isPermaLink="false">https://github.com/seoes/proval</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 12:02:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 14:23:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Prompt Injection Through Tool Output Is Two Events (Your Screens Read One)</title>
+      <link>https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/</link>
+      <guid isPermaLink="false">https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/</guid>
+      <category>security</category>
+      <pubDate>Tue, 08 Sep 2026 23:26:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10867</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10867</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10867</guid>
+      <title>llama.cpp: b10868</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10868</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10868</guid>
       <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 17:33:23 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 02:03:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10865</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10865</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10865</guid>
+      <title>ollama: v0.34.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3</guid>
       <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 15:14:21 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 00:45:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10864</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10864</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10864</guid>
+      <title>ollama: v0.34.0-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2</guid>
       <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 14:33:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 23:27:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,12 +190,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10867</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10867</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10867</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 17:33:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ollama replacement 2-4x faster for no extra compute cost</title>
       <link>https://github.com/omgitsbase/llmash</link>
       <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10865</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10865</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10865</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 15:14:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.29.0: [Bugfix][Core] Remove misleading Mamba prefix cache warning (#55863)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 08 Sep 2026 08:50:34 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.29.0rc6</title>
@@ -204,30 +236,6 @@
       <category>harness</category>
       <pubDate>Tue, 08 Sep 2026 08:20:33 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anyone using llama.cpp willing to test LlamaRack?</title>
-      <link>https://github.com/brantje/LlamaRack</link>
-      <guid isPermaLink="false">https://github.com/brantje/LlamaRack</guid>
-      <category>harness</category>
-      <pubDate>Sat, 05 Sep 2026 19:24:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan</title>
-      <link>https://myhandler.ai/</link>
-      <guid isPermaLink="false">https://myhandler.ai/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 19:07:43 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
