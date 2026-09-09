@@ -1,16 +1,49 @@
 {
-  "generated_at": "2026-09-09T11:33:51.267618+00:00",
+  "generated_at": "2026-09-09T16:45:23.615342+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 156,
+        "score": 160,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "source": "hn",
+        "score": 728,
+        "published": "2026-09-06T11:56:43Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
+        }
+      },
+      {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "hn",
+        "score": 119,
+        "published": "2026-09-08T05:20:23Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 112 points)"
+        }
+      },
+      {
+        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T15:36:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -22,28 +55,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "source": "hn",
-        "score": 727,
-        "published": "2026-09-06T11:56:43Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
-        }
-      },
-      {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "source": "hn",
-        "score": 117,
-        "published": "2026-09-08T05:20:23Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 112 points)"
         }
       },
       {
@@ -72,7 +83,7 @@
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 75,
+        "score": 76,
         "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
@@ -91,22 +102,22 @@
         }
       },
       {
-        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-        "url": "https://github.com/aminueza/Keyfence",
+        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
+        "url": "https://arxiv.org/abs/2609.05241",
         "source": "hn",
-        "score": 1,
-        "published": "2026-09-08T19:16:46Z",
+        "score": 4,
+        "published": "2026-09-08T04:07:07Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
-        "url": "https://arxiv.org/abs/2609.05241",
+        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
+        "url": "https://github.com/aminueza/Keyfence",
         "source": "hn",
-        "score": 4,
-        "published": "2026-09-08T04:07:07Z",
+        "score": 1,
+        "published": "2026-09-08T19:16:46Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -122,20 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Show HN: Self-Hosted Code Review Agent for Local LLM",
-        "url": "https://github.com/seoes/proval",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-08T12:02:26Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Google: Attackers are using prompt injection against coding agents",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-09-09T15:19:57Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
       {
         "title": "Prompt Injection Through Tool Output Is Two Events (Your Screens Read One)",
         "url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/",
@@ -194,11 +205,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10875",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10875",
+        "title": "llama.cpp: b10881",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10881",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T11:17:45+00:00",
+        "published": "2026-09-09T15:34:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM 0.29.0: Model Runner V2 is now the default",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-09T12:48:11Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,47 +238,25 @@
         }
       },
       {
-        "title": "llama.cpp: b10874",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10874",
+        "title": "llama.cpp: b10878",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10878",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T09:56:51+00:00",
+        "published": "2026-09-09T13:25:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "vLLM: v0.29.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+        "title": "llama.cpp: b10877",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10877",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T09:40:07+00:00",
+        "published": "2026-09-09T12:55:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10873",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10873",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T09:24:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-        "source": "hn",
-        "score": 76,
-        "published": "2026-09-04T17:12:22Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
         }
       },
       {
@@ -271,22 +271,22 @@
         }
       },
       {
+        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+        "source": "hn",
+        "score": 76,
+        "published": "2026-09-04T17:12:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
         "title": "ollama: v0.34.0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
         "source": "rss",
         "score": 0,
         "published": "2026-09-09T00:45:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T23:27:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.0-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T23:27:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
