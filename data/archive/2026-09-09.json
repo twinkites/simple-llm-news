@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-09-09T04:52:34.924358+00:00",
+  "generated_at": "2026-09-09T11:33:51.267618+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 146,
+        "score": 156,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
+        "url": "https://eris-system.dev/blog/tool-routing",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-09T10:49:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -28,7 +39,7 @@
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "source": "hn",
-        "score": 114,
+        "score": 117,
         "published": "2026-09-08T05:20:23Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +50,7 @@
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 377,
+        "score": 378,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
@@ -58,21 +69,10 @@
         }
       },
       {
-        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-        "url": "https://github.com/aminueza/Keyfence",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-08T19:16:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 71,
+        "score": 75,
         "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
@@ -88,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
+        }
+      },
+      {
+        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
+        "url": "https://github.com/aminueza/Keyfence",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-08T19:16:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T14:23:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -194,6 +194,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10875",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10875",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T11:17:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
@@ -205,33 +216,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10868",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10868",
+        "title": "llama.cpp: b10874",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10874",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T02:03:08+00:00",
+        "published": "2026-09-09T09:56:51+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
+        "title": "vLLM: v0.29.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T00:45:53+00:00",
+        "published": "2026-09-09T09:40:07+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.34.0-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2",
+        "title": "llama.cpp: b10873",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10873",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-08T23:27:20+00:00",
+        "published": "2026-09-09T09:24:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,11 +271,22 @@
         }
       },
       {
-        "title": "llama.cpp: b10867",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10867",
+        "title": "ollama: v0.34.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-08T17:33:23+00:00",
+        "published": "2026-09-09T00:45:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.0-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-08T23:27:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -279,28 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10865",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10865",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T15:14:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.29.0: [Bugfix][Core] Remove misleading Mamba prefix cache warning (#55863)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T08:50:34+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
