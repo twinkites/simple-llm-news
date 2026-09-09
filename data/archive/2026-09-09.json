@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T16:45:23.615342+00:00",
+  "generated_at": "2026-09-09T21:02:44.019308+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 160,
+        "score": 162,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
@@ -36,28 +36,6 @@
         }
       },
       {
-        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T15:36:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
-        "url": "https://eris-system.dev/blog/tool-routing",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-09T10:49:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
@@ -80,10 +58,32 @@
         }
       },
       {
+        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T15:36:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
+        "url": "https://eris-system.dev/blog/tool-routing",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-09T10:49:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
-        "score": 76,
+        "score": 77,
         "published": "2026-09-04T21:25:49Z",
         "truthiness": {
           "label": "red",
@@ -205,28 +205,6 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10881",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10881",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T15:34:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM 0.29.0: Model Runner V2 is now the default",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-09T12:48:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
@@ -238,22 +216,55 @@
         }
       },
       {
-        "title": "llama.cpp: b10878",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10878",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T13:25:50+00:00",
+        "title": "vLLM 0.29.0: Model Runner V2 is now the default",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-09T12:48:11Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10877",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10877",
+        "title": "ollama: v0.34.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T12:55:22+00:00",
+        "published": "2026-09-09T17:57:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10883",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10883",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T17:32:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10881",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10881",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T15:34:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10878",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10878",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T13:25:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T00:45:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ollama replacement 2-4x faster for no extra compute cost",
         "url": "https://github.com/omgitsbase/llmash",
         "source": "hn",
@@ -301,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.0-rc3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-09T00:09:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -320,17 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-08T08:34:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.29.0rc5",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T08:20:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
