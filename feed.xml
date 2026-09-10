@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 10 Sep 2026 11:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:32:24 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
@@ -70,20 +70,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
-      <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
       <link>https://arxiv.org/abs/2609.05241</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
+      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>What Can You Do with a Local LLM?</title>
@@ -118,19 +118,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
-      <category>security</category>
-      <pubDate>Mon, 07 Sep 2026 23:27:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>AI agents aren&#x27;t safe from prompt injection, and spreadsheets prove it</title>
       <link>https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</link>
       <guid isPermaLink="false">https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</guid>
       <category>security</category>
       <pubDate>Sun, 06 Sep 2026 16:17:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
+      <category>security</category>
+      <pubDate>Mon, 07 Sep 2026 23:27:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10891</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10891</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10891</guid>
+      <title>llama.cpp: b10896</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10896</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10896</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 11:27:49 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 15:45:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10889</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10889</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10889</guid>
+      <title>Glq a port trellis quantization of large language models as a vLLM plugin</title>
+      <link>https://github.com/cnygaard/glq</link>
+      <guid isPermaLink="false">https://github.com/cnygaard/glq</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 10:06:30 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 10 Sep 2026 14:12:52 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10888</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10888</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10888</guid>
+      <title>llama.cpp: b10894</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10894</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10894</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 09:41:30 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 13:54:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10893</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10893</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10893</guid>
+      <category>harness</category>
+      <pubDate>Thu, 10 Sep 2026 12:43:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.34.0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.34.0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0</guid>
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 06:18:35 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM 0.29.0: Model Runner V2 is now the default</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 12:48:11 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>WebLLM: high-performance in-browser LLM inference engine</title>
@@ -203,6 +203,14 @@
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM 0.29.0: Model Runner V2 is now the default</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 09 Sep 2026 12:48:11 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -227,14 +235,6 @@
       <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>29,787 Open Ollama Servers and an Unsolved Mystery</title>
-      <link>https://day50.dev/woahllama/</link>
-      <guid isPermaLink="false">https://day50.dev/woahllama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 31 Aug 2026 21:52:49 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
