@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 21:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:52:51 +0000</lastBuildDate>
     <item>
       <title>Show HN: LLM Attention Visualization</title>
       <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
@@ -46,22 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
-      <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Tool routing for a local LLM agent: grep to embeddings to GBNF grammar</title>
-      <link>https://eris-system.dev/blog/tool-routing</link>
-      <guid isPermaLink="false">https://eris-system.dev/blog/tool-routing</guid>
-      <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 10:49:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>End-to-end infrastructure for training and inferencing open weight models</title>
       <link>https://docs.appliedcompute.com</link>
       <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
@@ -76,6 +60,22 @@
       <category>model</category>
       <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Tool routing for a local LLM agent: grep to embeddings to GBNF grammar</title>
+      <link>https://eris-system.dev/blog/tool-routing</link>
+      <guid isPermaLink="false">https://eris-system.dev/blog/tool-routing</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 10:49:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
+      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
@@ -158,6 +158,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.34.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 09 Sep 2026 23:51:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM 0.29.0: Model Runner V2 is now the default</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
@@ -166,35 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4</guid>
+      <title>ollama: v0.34.0-rc5</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5</guid>
       <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 17:57:53 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 21:51:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10883</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10883</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10883</guid>
+      <title>llama.cpp: b10884</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10884</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10884</guid>
       <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 17:32:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10881</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10881</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10881</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 15:34:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10878</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10878</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10878</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 13:25:50 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 19:46:28 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,28 +206,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10883</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10883</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10883</guid>
+      <category>harness</category>
+      <pubDate>Wed, 09 Sep 2026 17:32:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.0-rc4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4</guid>
+      <category>harness</category>
+      <pubDate>Wed, 09 Sep 2026 17:20:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10881</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10881</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10881</guid>
+      <category>harness</category>
+      <pubDate>Wed, 09 Sep 2026 15:34:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ollama replacement 2-4x faster for no extra compute cost</title>
       <link>https://github.com/omgitsbase/llmash</link>
       <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.0-rc3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 00:09:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.0-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2</guid>
-      <category>harness</category>
-      <pubDate>Tue, 08 Sep 2026 23:27:20 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.29.0rc6</title>
