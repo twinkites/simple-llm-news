@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-10T04:52:51.152915+00:00",
+  "generated_at": "2026-09-10T11:30:24.418256+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: LLM Attention Visualization",
-        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "source": "hn",
-        "score": 164,
-        "published": "2026-09-08T16:59:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
-        }
-      },
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
@@ -25,14 +14,14 @@
         }
       },
       {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
+        "title": "Show HN: LLM Attention Visualization",
+        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 119,
-        "published": "2026-09-08T05:20:23Z",
+        "score": 168,
+        "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 112 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
         }
       },
       {
@@ -80,6 +69,17 @@
         }
       },
       {
+        "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "url": "https://huggingface.co/blog/gradio-workflow-1111",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-10T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
         "url": "https://eris-system.dev/blog/tool-routing",
         "source": "hn",
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-        "url": "https://github.com/aminueza/Keyfence",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-08T19:16:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "What Can You Do with a Local LLM?",
         "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
+        "url": "https://github.com/aminueza/Keyfence",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-08T19:16:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -190,20 +190,42 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "Ask HN: Are Prompt Injections \"Malware\"?",
-        "url": "https://news.ycombinator.com/item?id=49506998",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-08-31T08:16:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
+      {
+        "title": "llama.cpp: b10891",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10891",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-10T11:27:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10889",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10889",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-10T10:06:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10888",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10888",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-10T09:41:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
@@ -220,7 +242,7 @@
         "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T23:51:59+00:00",
+        "published": "2026-09-10T06:18:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -232,28 +254,6 @@
         "source": "hn",
         "score": 3,
         "published": "2026-09-09T12:48:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0-rc5",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T21:51:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10884",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10884",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T19:46:28+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,11 +282,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10883",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10883",
+        "title": "ollama: v0.34.0-rc5",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-09T17:32:34+00:00",
+        "published": "2026-09-09T21:51:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,17 +304,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10881",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10881",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T15:34:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ollama replacement 2-4x faster for no extra compute cost",
         "url": "https://github.com/omgitsbase/llmash",
         "source": "hn",
@@ -326,14 +315,14 @@
         }
       },
       {
-        "title": "vLLM: v0.29.0rc6",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc6",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-08T08:34:20+00:00",
+        "title": "29,787 Open Ollama Servers and an Unsolved Mystery",
+        "url": "https://day50.dev/woahllama/",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-08-31T21:52:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       }
     ]
