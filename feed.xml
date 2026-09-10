@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 10 Sep 2026 16:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:58:28 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>North Small Translate: a sovereign open-weight translation model</title>
+      <link>https://cohere.com/blog/north-small-translate</link>
+      <guid isPermaLink="false">https://cohere.com/blog/north-small-translate</guid>
+      <category>model</category>
+      <pubDate>Thu, 10 Sep 2026 18:43:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs</title>
-      <link>https://github.com/aminueza/Keyfence</link>
-      <guid isPermaLink="false">https://github.com/aminueza/Keyfence</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 19:16:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Google: Attackers are using prompt injection against coding agents</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</link>
       <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</guid>
@@ -142,11 +142,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10896</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10896</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10896</guid>
+      <title>llama.cpp: b10900</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10900</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10900</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 15:45:03 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 19:02:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10899</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10899</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10899</guid>
+      <category>harness</category>
+      <pubDate>Thu, 10 Sep 2026 18:35:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10894</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10894</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10894</guid>
+      <title>llama.cpp: b10897</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10897</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10897</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 13:54:30 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 18:01:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,22 +180,6 @@
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10893</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10893</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10893</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 12:43:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 06:18:35 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>WebLLM: high-performance in-browser LLM inference engine</title>
@@ -212,6 +204,14 @@
       <category>harness</category>
       <pubDate>Wed, 09 Sep 2026 12:48:11 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 10 Sep 2026 06:18:35 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.34.0-rc5</title>
