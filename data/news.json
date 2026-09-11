@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:31:28.760972+00:00",
+  "generated_at": "2026-09-11T16:36:39.667985+00:00",
   "sections": {
     "model": [
       {
@@ -17,11 +17,33 @@
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 169,
+        "score": 172,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "hn",
+        "score": 119,
+        "published": "2026-09-08T05:20:23Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "source": "hn",
+        "score": 378,
+        "published": "2026-09-03T14:28:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
         }
       },
       {
@@ -47,17 +69,6 @@
         }
       },
       {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-        "source": "hn",
-        "score": 378,
-        "published": "2026-09-03T14:28:18Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
-        }
-      },
-      {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
@@ -66,17 +77,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
-        }
-      },
-      {
-        "title": "North Small Translate: a sovereign open-weight translation model",
-        "url": "https://cohere.com/blog/north-small-translate",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-10T18:43:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -102,6 +102,17 @@
         }
       },
       {
+        "title": "North Small Translate: a sovereign open-weight translation model",
+        "url": "https://cohere.com/blog/north-small-translate",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-10T18:43:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
         "url": "https://arxiv.org/abs/2609.05241",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-        "url": "https://huggingface.co/blog/gradio-workflow-1111",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-10T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -197,22 +197,11 @@
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
-        "score": 27,
+        "score": 28,
         "published": "2026-09-11T00:45:26Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10907",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10907",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T11:12:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,33 +216,11 @@
         }
       },
       {
-        "title": "llama.cpp: b10906",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10906",
+        "title": "llama.cpp: b10909",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10909",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-11T10:41:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10905",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10905",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T09:40:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: proto-v0.1.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T08:30:05+00:00",
+        "published": "2026-09-11T12:15:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,6 +238,39 @@
         }
       },
       {
+        "title": "llama.cpp: b10908",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10908",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T11:46:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10907",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10907",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T11:12:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.1.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T08:30:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
         "url": "https://codingsahayi.github.io/",
         "source": "hn",
@@ -282,14 +282,14 @@
         }
       },
       {
-        "title": "Glq a port trellis quantization of large language models as a vLLM plugin",
-        "url": "https://github.com/cnygaard/glq",
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-10T14:12:52Z",
+        "score": 145,
+        "published": "2026-09-02T14:02:35Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
         }
       },
       {
@@ -304,22 +304,22 @@
         }
       },
       {
+        "title": "Glq a port trellis quantization of large language models as a vLLM plugin",
+        "url": "https://github.com/cnygaard/glq",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-10T14:12:52Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "vLLM 0.29.0: Model Runner V2 is now the default",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
         "source": "hn",
         "score": 3,
         "published": "2026-09-09T12:48:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-10T06:18:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
