@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:50:49.132739+00:00",
+  "generated_at": "2026-09-11T11:31:28.760972+00:00",
   "sections": {
     "model": [
       {
@@ -14,6 +14,28 @@
         }
       },
       {
+        "title": "Show HN: LLM Attention Visualization",
+        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+        "source": "hn",
+        "score": 169,
+        "published": "2026-09-08T16:59:41Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Best practices for low-cost open-weight model hosting?",
+        "url": "https://news.ycombinator.com/item?id=49654850",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-11T07:41:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "A $537 Local LLM Machine (2025)",
         "url": "https://blog.lewman.com/a-537-local-llm-machine.html",
         "source": "hn",
@@ -22,17 +44,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: LLM Attention Visualization",
-        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "source": "hn",
-        "score": 168,
-        "published": "2026-09-08T16:59:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
         }
       },
       {
@@ -47,17 +58,6 @@
         }
       },
       {
-        "title": "North Small Translate: a sovereign open-weight translation model",
-        "url": "https://cohere.com/blog/north-small-translate",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-10T18:43:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
@@ -66,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
+        }
+      },
+      {
+        "title": "North Small Translate: a sovereign open-weight translation model",
+        "url": "https://cohere.com/blog/north-small-translate",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-10T18:43:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,22 +102,22 @@
         }
       },
       {
-        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
-        "url": "https://eris-system.dev/blog/tool-routing",
+        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
+        "url": "https://arxiv.org/abs/2609.05241",
         "source": "hn",
-        "score": 1,
-        "published": "2026-09-09T10:49:12Z",
+        "score": 4,
+        "published": "2026-09-08T04:07:07Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
-        "url": "https://arxiv.org/abs/2609.05241",
+        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
+        "url": "https://eris-system.dev/blog/tool-routing",
         "source": "hn",
-        "score": 4,
-        "published": "2026-09-08T04:07:07Z",
+        "score": 1,
+        "published": "2026-09-09T10:49:12Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "What Can You Do with a Local LLM?",
-        "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-08T10:14:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -197,7 +197,7 @@
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
-        "score": 20,
+        "score": 27,
         "published": "2026-09-11T00:45:26Z",
         "truthiness": {
           "label": "green",
@@ -205,14 +205,58 @@
         }
       },
       {
-        "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
-        "url": "https://codingsahayi.github.io/",
+        "title": "llama.cpp: b10907",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10907",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T11:12:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+        "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-10T21:47:37Z",
+        "score": 1,
+        "published": "2026-09-11T09:35:19Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10906",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10906",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T10:41:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10905",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10905",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T09:40:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.1.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T08:30:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,14 +271,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10901",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10901",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-10T22:42:42+00:00",
+        "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
+        "url": "https://codingsahayi.github.io/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-10T21:47:37Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -246,28 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10900",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10900",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-10T19:02:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10902",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10902",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-10T18:25:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.0-rc5",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-09T21:51:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama replacement 2-4x faster for no extra compute cost",
-        "url": "https://github.com/omgitsbase/llmash",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-07T20:46:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

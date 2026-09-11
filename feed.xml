@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 04:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:31:28 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A $537 Local LLM Machine (2025)</title>
-      <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
-      <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,6 +22,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: Best practices for low-cost open-weight model hosting?</title>
+      <link>https://news.ycombinator.com/item?id=49654850</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 07:41:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A $537 Local LLM Machine (2025)</title>
+      <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
+      <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
       <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
       <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
@@ -38,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>North Small Translate: a sovereign open-weight translation model</title>
-      <link>https://cohere.com/blog/north-small-translate</link>
-      <guid isPermaLink="false">https://cohere.com/blog/north-small-translate</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 18:43:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>“Next-token predictor” is the wrong mental model for LLMs</title>
       <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
       <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>North Small Translate: a sovereign open-weight translation model</title>
+      <link>https://cohere.com/blog/north-small-translate</link>
+      <guid isPermaLink="false">https://cohere.com/blog/north-small-translate</guid>
+      <category>model</category>
+      <pubDate>Thu, 10 Sep 2026 18:43:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Tool routing for a local LLM agent: grep to embeddings to GBNF grammar</title>
-      <link>https://eris-system.dev/blog/tool-routing</link>
-      <guid isPermaLink="false">https://eris-system.dev/blog/tool-routing</guid>
-      <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 10:49:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
       <link>https://arxiv.org/abs/2609.05241</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Tool routing for a local LLM agent: grep to embeddings to GBNF grammar</title>
+      <link>https://eris-system.dev/blog/tool-routing</link>
+      <guid isPermaLink="false">https://eris-system.dev/blog/tool-routing</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 10:49:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -92,14 +100,6 @@
       <category>model</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>What Can You Do with a Local LLM?</title>
-      <link>https://grigio.org/what-can-you-actually-do-with-a-local-llm/</link>
-      <guid isPermaLink="false">https://grigio.org/what-can-you-actually-do-with-a-local-llm/</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 10:14:27 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Google: Attackers are using prompt injection against coding agents</title>
@@ -150,12 +150,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
-      <link>https://codingsahayi.github.io/</link>
-      <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
+      <title>llama.cpp: b10907</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10907</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10907</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 11:12:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
+      <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10906</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10906</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10906</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 10:41:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10905</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10905</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10905</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 09:40:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: proto-v0.1.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
@@ -166,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10901</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10901</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10901</guid>
+      <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
+      <link>https://codingsahayi.github.io/</link>
+      <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
       <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 22:42:42 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Glq a port trellis quantization of large language models as a vLLM plugin</title>
@@ -180,22 +212,6 @@
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 14:12:52 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10900</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10900</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10900</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 19:02:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10902</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10902</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10902</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 18:25:40 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
@@ -220,22 +236,6 @@
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 06:18:35 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.0-rc5</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 21:51:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
-      <link>https://github.com/omgitsbase/llmash</link>
-      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
