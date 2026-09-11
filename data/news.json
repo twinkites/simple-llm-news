@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-11T16:36:39.667985+00:00",
+  "generated_at": "2026-09-11T21:04:40.265690+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-09-11T18:09:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
@@ -28,7 +39,7 @@
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "source": "hn",
-        "score": 119,
+        "score": 120,
         "published": "2026-09-08T05:20:23Z",
         "truthiness": {
           "label": "green",
@@ -44,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+        }
+      },
+      {
+        "title": "“Next-token predictor” is the wrong mental model for LLMs",
+        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+        "source": "hn",
+        "score": 163,
+        "published": "2026-09-04T17:09:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
         }
       },
       {
@@ -66,17 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "“Next-token predictor” is the wrong mental model for LLMs",
-        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "source": "hn",
-        "score": 163,
-        "published": "2026-09-04T17:09:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 96 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
-        "url": "https://eris-system.dev/blog/tool-routing",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-09T10:49:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "Google: Attackers are using prompt injection against coding agents",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
         "source": "hn",
-        "score": 11,
+        "score": 12,
         "published": "2026-09-09T15:19:57Z",
         "truthiness": {
           "label": "yellow",
@@ -179,29 +179,40 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
-        "url": "https://semantic-overlays.vercel.app/",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-09-01T17:40:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "harness": [
       {
+        "title": "llama.cpp: b10917",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10917",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T20:32:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
-        "score": 28,
+        "score": 30,
         "published": "2026-09-11T00:45:26Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
+        }
+      },
+      {
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "hn",
+        "score": 143,
+        "published": "2026-09-07T09:26:41Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       },
       {
@@ -227,44 +238,11 @@
         }
       },
       {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "hn",
-        "score": 143,
-        "published": "2026-09-07T09:26:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
-        }
-      },
-      {
         "title": "llama.cpp: b10908",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10908",
         "source": "rss",
         "score": 0,
         "published": "2026-09-11T11:46:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10907",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10907",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T11:12:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: proto-v0.1.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T08:30:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -290,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.1.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-11T08:30:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

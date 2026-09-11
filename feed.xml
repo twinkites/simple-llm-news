@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 16:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:04:40 +0000</lastBuildDate>
+    <item>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
@@ -38,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>“Next-token predictor” is the wrong mental model for LLMs</title>
+      <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
+      <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
+      <category>model</category>
+      <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Ask HN: Best practices for low-cost open-weight model hosting?</title>
       <link>https://news.ycombinator.com/item?id=49654850</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
@@ -51,14 +67,6 @@
       <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
       <category>model</category>
       <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>“Next-token predictor” is the wrong mental model for LLMs</title>
-      <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
-      <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
-      <category>model</category>
-      <pubDate>Fri, 04 Sep 2026 17:09:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Tool routing for a local LLM agent: grep to embeddings to GBNF grammar</title>
-      <link>https://eris-system.dev/blog/tool-routing</link>
-      <guid isPermaLink="false">https://eris-system.dev/blog/tool-routing</guid>
-      <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 10:49:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Google: Attackers are using prompt injection against coding agents</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</link>
       <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</guid>
@@ -134,12 +134,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)</title>
-      <link>https://semantic-overlays.vercel.app/</link>
-      <guid isPermaLink="false">https://semantic-overlays.vercel.app/</guid>
-      <category>security</category>
-      <pubDate>Tue, 01 Sep 2026 17:40:13 +0000</pubDate>
-      <source>hn</source>
+      <title>llama.cpp: b10917</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10917</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10917</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 20:32:18 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Setting up OpenCode with Ollama and sbx on Mac</title>
@@ -147,6 +147,14 @@
       <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Speculative Decoding in vLLM on AMD GPUs</title>
+      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
+      <category>harness</category>
+      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,35 +174,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Speculative Decoding in vLLM on AMD GPUs</title>
-      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>llama.cpp: b10908</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10908</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10908</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 11:46:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10907</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10907</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10907</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 11:12:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: proto-v0.1.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -212,6 +196,14 @@
       <category>harness</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: proto-v0.1.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
