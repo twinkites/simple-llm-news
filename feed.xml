@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 21:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:45:03 +0000</lastBuildDate>
     <item>
       <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
       <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Training a 3.8B LLM to 0.384 CORE for $998</title>
+      <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
+      <guid isPermaLink="false">https://hugovergnes.github.io/little-lm-3-8b/</guid>
+      <category>model</category>
+      <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,14 +62,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Best practices for low-cost open-weight model hosting?</title>
-      <link>https://news.ycombinator.com/item?id=49654850</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 07:41:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>A $537 Local LLM Machine (2025)</title>
       <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
       <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
@@ -70,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The efficient frontier of LLM inference</title>
-      <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
-      <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
-      <category>model</category>
-      <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>End-to-end infrastructure for training and inferencing open weight models</title>
       <link>https://docs.appliedcompute.com</link>
       <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Best practices for low-cost open-weight model hosting?</title>
+      <link>https://news.ycombinator.com/item?id=49654850</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 07:41:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,11 +134,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10917</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10917</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10917</guid>
+      <title>llama.cpp: b10919</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10919</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10919</guid>
       <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 20:32:18 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 02:20:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,35 +158,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10917</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10917</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10917</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 20:32:18 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
       <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10909</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10909</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10909</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 12:15:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10908</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10908</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10908</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 11:46:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
-      <link>https://codingsahayi.github.io/</link>
-      <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,14 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: proto-v0.1.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
@@ -214,12 +190,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
+      <link>https://codingsahayi.github.io/</link>
+      <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10909</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10909</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10909</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 12:15:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Glq a port trellis quantization of large language models as a vLLM plugin</title>
       <link>https://github.com/cnygaard/glq</link>
       <guid isPermaLink="false">https://github.com/cnygaard/glq</guid>
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 14:12:52 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: proto-v0.1.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM 0.29.0: Model Runner V2 is now the default</title>
