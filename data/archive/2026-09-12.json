@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:56:05.456771+00:00",
+  "generated_at": "2026-09-12T15:39:20.667889+00:00",
   "sections": {
     "model": [
       {
@@ -14,17 +14,6 @@
         }
       },
       {
-        "title": "Open-weights world models' parameter size doubles every ~6 months",
-        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
-        "source": "hn",
-        "score": 14,
-        "published": "2026-09-11T18:09:18Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
         "title": "Training a 3.8B LLM to 0.384 CORE for $998",
         "url": "https://hugovergnes.github.io/little-lm-3-8b/",
         "source": "hn",
@@ -36,10 +25,21 @@
         }
       },
       {
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-09-11T18:09:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 172,
+        "score": 173,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
@@ -55,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "url": "https://arxiv.org/abs/2609.09153",
+        "source": "hn",
+        "score": 57,
+        "published": "2026-09-09T17:13:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Uncensored Open-Weight Models: Redistribution as the Persistence Layer",
-        "url": "https://arxiv.org/abs/2609.05241",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-08T04:07:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "Google: Attackers are using prompt injection against coding agents",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
         "source": "hn",
-        "score": 12,
+        "score": 13,
         "published": "2026-09-09T15:19:57Z",
         "truthiness": {
           "label": "yellow",
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10926",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10926",
+        "title": "llama.cpp: b10931",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10931",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-12T10:33:01+00:00",
+        "published": "2026-09-12T14:48:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10924",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10924",
+        "title": "llama.cpp: b10930",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10930",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-12T09:20:40+00:00",
+        "published": "2026-09-12T13:03:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10923",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10923",
+        "title": "llama.cpp: b10929",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10929",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-12T08:58:30+00:00",
+        "published": "2026-09-12T12:30:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,28 +238,6 @@
         }
       },
       {
-        "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
-        "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-11T09:35:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "WebLLM: high-performance in-browser LLM inference engine",
-        "url": "https://github.com/mlc-ai/web-llm",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-02T14:02:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
-        }
-      },
-      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
@@ -268,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+        "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-11T09:35:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Ollama replacement 2-4x faster for no extra compute cost",
+        "url": "https://github.com/omgitsbase/llmash",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-07T20:46:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]

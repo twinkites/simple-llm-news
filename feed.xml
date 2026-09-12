@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:39:20 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Training a 3.8B LLM to 0.384 CORE for $998</title>
       <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
       <guid isPermaLink="false">https://hugovergnes.github.io/little-lm-3-8b/</guid>
       <category>model</category>
       <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,6 +43,14 @@
       <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
+      <link>https://arxiv.org/abs/2609.09153</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 17:13:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
-      <link>https://arxiv.org/abs/2609.05241</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Google: Attackers are using prompt injection against coding agents</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</link>
       <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</guid>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10926</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10926</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10926</guid>
+      <title>llama.cpp: b10931</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10931</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10931</guid>
       <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 10:33:01 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:48:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10924</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10924</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10924</guid>
+      <title>llama.cpp: b10930</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10930</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10930</guid>
       <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 09:20:40 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:03:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10923</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10923</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10923</guid>
+      <title>llama.cpp: b10929</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10929</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10929</guid>
       <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 08:58:30 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 12:30:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,27 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
-      <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>WebLLM: high-performance in-browser LLM inference engine</title>
-      <link>https://github.com/mlc-ai/web-llm</link>
-      <guid isPermaLink="false">https://github.com/mlc-ai/web-llm</guid>
-      <category>harness</category>
-      <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
+      <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -227,6 +219,14 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
       <category>harness</category>
       <pubDate>Wed, 09 Sep 2026 12:48:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
+      <link>https://github.com/omgitsbase/llmash</link>
+      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
+      <category>harness</category>
+      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
