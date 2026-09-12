@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 04:45:03 +0000</lastBuildDate>
-    <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 10:56:05 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A $537 Local LLM Machine (2025)</title>
-      <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
-      <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>End-to-end infrastructure for training and inferencing open weight models</title>
       <link>https://docs.appliedcompute.com</link>
       <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A $537 Local LLM Machine (2025)</title>
+      <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
+      <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
+      <category>model</category>
+      <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,11 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10919</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10919</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10919</guid>
+      <title>llama.cpp: b10926</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10926</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10926</guid>
       <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 02:20:38 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 10:33:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10924</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10924</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10924</guid>
+      <category>harness</category>
+      <pubDate>Sat, 12 Sep 2026 09:20:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10923</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10923</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10923</guid>
+      <category>harness</category>
+      <pubDate>Sat, 12 Sep 2026 08:58:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -156,14 +172,6 @@
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10917</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10917</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10917</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 20:32:18 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
@@ -196,14 +204,6 @@
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10909</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10909</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10909</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 12:15:15 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Glq a port trellis quantization of large language models as a vLLM plugin</title>

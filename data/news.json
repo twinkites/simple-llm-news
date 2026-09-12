@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-12T04:45:03.373958+00:00",
+  "generated_at": "2026-09-12T10:56:05.456771+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Open-weights world models' parameter size doubles every ~6 months",
-        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
-        "source": "hn",
-        "score": 14,
-        "published": "2026-09-11T18:09:18Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
@@ -22,6 +11,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
+        }
+      },
+      {
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "source": "hn",
+        "score": 14,
+        "published": "2026-09-11T18:09:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -61,7 +61,7 @@
         "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
         "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 378,
+        "score": 379,
         "published": "2026-09-03T14:28:18Z",
         "truthiness": {
           "label": "green",
@@ -80,17 +80,6 @@
         }
       },
       {
-        "title": "A $537 Local LLM Machine (2025)",
-        "url": "https://blog.lewman.com/a-537-local-llm-machine.html",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-10T23:31:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "End-to-end infrastructure for training and inferencing open weight models",
         "url": "https://docs.appliedcompute.com",
         "source": "hn",
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "A $537 Local LLM Machine (2025)",
+        "url": "https://blog.lewman.com/a-537-local-llm-machine.html",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-10T23:31:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -183,11 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10919",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10919",
+        "title": "llama.cpp: b10926",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10926",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-12T02:20:38+00:00",
+        "published": "2026-09-12T10:33:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10924",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10924",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-12T09:20:40+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10923",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10923",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-12T08:58:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,21 +238,10 @@
         }
       },
       {
-        "title": "llama.cpp: b10917",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10917",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T20:32:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
         "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-09-11T09:35:19Z",
         "truthiness": {
           "label": "red",
@@ -268,17 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10909",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10909",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-11T12:15:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
