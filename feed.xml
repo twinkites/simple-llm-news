@@ -4,21 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 12:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:27:21 +0000</lastBuildDate>
+    <item>
+      <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
+      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+      <guid isPermaLink="false">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
+      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
+      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
-      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
+      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: LLM Attention Visualization</title>
       <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
       <guid isPermaLink="false">https://ishamf.dev/p/llm-attention-visualizer/</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
-      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
-      <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
-      <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>&quot;Please Remove All Mannered Prose&quot; and Other LLM Incantations</title>
+      <link>https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/</link>
+      <guid isPermaLink="false">https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 17:08:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>End-to-end infrastructure for training and inferencing open weight models</title>
       <link>https://docs.appliedcompute.com</link>
       <guid isPermaLink="false">https://docs.appliedcompute.com</guid>
       <category>model</category>
       <pubDate>Fri, 04 Sep 2026 21:25:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A $537 Local LLM Machine (2025)</title>
-      <link>https://blog.lewman.com/a-537-local-llm-machine.html</link>
-      <guid isPermaLink="false">https://blog.lewman.com/a-537-local-llm-machine.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 23:31:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Best practices for low-cost open-weight model hosting?</title>
-      <link>https://news.ycombinator.com/item?id=49654850</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 07:41:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10944</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10944</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10944</guid>
+      <category>harness</category>
+      <pubDate>Sun, 13 Sep 2026 16:14:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10941</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10941</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10941</guid>
       <category>harness</category>
       <pubDate>Sun, 13 Sep 2026 10:36:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10938</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10938</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10938</guid>
-      <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 06:46:56 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10937</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10937</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10937</guid>
-      <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 05:17:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,6 +164,14 @@
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10938</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10938</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10938</guid>
+      <category>harness</category>
+      <pubDate>Sun, 13 Sep 2026 06:46:56 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: proto-v0.1.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.1.0</guid>
+      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
+      <link>https://github.com/omgitsbase/llmash</link>
+      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
       <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
