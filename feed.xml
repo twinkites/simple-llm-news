@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 20:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:57:10 +0000</lastBuildDate>
+    <item>
+      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
+      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
@@ -54,6 +62,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
+      <link>https://arxiv.org/abs/2609.09153</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
+      <category>model</category>
+      <pubDate>Wed, 09 Sep 2026 17:13:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>“Next-token predictor” is the wrong mental model for LLMs</title>
       <link>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</link>
       <guid isPermaLink="false">https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html</guid>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49654850</guid>
       <category>model</category>
       <pubDate>Fri, 11 Sep 2026 07:41:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>North Small Translate: a sovereign open-weight translation model</title>
-      <link>https://cohere.com/blog/north-small-translate</link>
-      <guid isPermaLink="false">https://cohere.com/blog/north-small-translate</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 18:43:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Uncensored Open-Weight Models: Redistribution as the Persistence Layer</title>
-      <link>https://arxiv.org/abs/2609.05241</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05241</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 04:07:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,20 +134,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10936</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10936</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10936</guid>
+      <category>harness</category>
+      <pubDate>Sun, 13 Sep 2026 01:09:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10935</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10935</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10935</guid>
+      <category>harness</category>
+      <pubDate>Sun, 13 Sep 2026 00:41:06 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10934</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10934</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10934</guid>
+      <category>harness</category>
+      <pubDate>Sun, 13 Sep 2026 00:18:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Setting up OpenCode with Ollama and sbx on Mac</title>
       <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
       <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10931</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10931</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10931</guid>
-      <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 14:48:43 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
@@ -158,19 +174,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10930</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10930</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10930</guid>
+      <title>vLLM: v0.29.1rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</guid>
       <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 13:03:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10929</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10929</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10929</guid>
-      <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 12:30:19 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:42:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 08:30:05 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
-      <link>https://github.com/omgitsbase/llmash</link>
-      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
