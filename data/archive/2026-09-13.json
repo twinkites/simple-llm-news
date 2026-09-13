@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-13T16:27:21.295159+00:00",
+  "generated_at": "2026-09-13T20:57:26.827879+00:00",
   "sections": {
     "model": [
       {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 13,
+        "score": 247,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
@@ -17,7 +17,7 @@
         "title": "The Case for Open-Weight Models and Why We Can't Trust Frontier Labs",
         "url": "https://www.provos.org/p/case-for-open-weight-models/",
         "source": "hn",
-        "score": 2,
+        "score": 4,
         "published": "2026-09-13T16:15:56Z",
         "truthiness": {
           "label": "red",
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-        "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-09-13T00:04:15Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+        "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-09-13T00:04:15Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -80,17 +80,6 @@
         }
       },
       {
-        "title": "Open-weights world models' parameter size doubles every ~6 months",
-        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-09-11T18:09:18Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
         "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
         "url": "https://arxiv.org/abs/2609.09153",
         "source": "hn",
@@ -102,10 +91,21 @@
         }
       },
       {
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-09-11T18:09:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "“Next-token predictor” is the wrong mental model for LLMs",
         "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "source": "hn",
-        "score": 163,
+        "score": 164,
         "published": "2026-09-04T17:09:24Z",
         "truthiness": {
           "label": "green",
@@ -183,36 +183,36 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10944",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10944",
+        "title": "llama.cpp: b10948",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10948",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-13T16:14:07+00:00",
+        "published": "2026-09-13T19:10:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10941",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10941",
+        "title": "llama.cpp: b10947",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10947",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-13T10:36:00+00:00",
+        "published": "2026-09-13T18:45:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-09-11T00:45:26Z",
+        "title": "llama.cpp: b10946",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10946",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-13T18:21:45+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,14 +227,14 @@
         }
       },
       {
-        "title": "llama.cpp: b10938",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10938",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-13T06:46:56+00:00",
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       },
       {

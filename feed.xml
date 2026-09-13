@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 16:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:57:26 +0000</lastBuildDate>
     <item>
       <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
-      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: LLM Attention Visualization</title>
       <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
       <guid isPermaLink="false">https://ishamf.dev/p/llm-attention-visualizer/</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
+      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
       <link>https://arxiv.org/abs/2609.09153</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
       <category>model</category>
       <pubDate>Wed, 09 Sep 2026 17:13:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,28 +134,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10944</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10944</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10944</guid>
+      <title>llama.cpp: b10948</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10948</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10948</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 16:14:07 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 19:10:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10941</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10941</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10941</guid>
+      <title>llama.cpp: b10947</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10947</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10947</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 10:36:00 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 18:45:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
+      <title>llama.cpp: b10946</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10946</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10946</guid>
       <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 13 Sep 2026 18:21:45 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
@@ -166,12 +166,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10938</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10938</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10938</guid>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 06:46:56 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
