@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 04:57:10 +0000</lastBuildDate>
-    <item>
-      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
-      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 12:01:52 +0000</lastBuildDate>
     <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
+      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
+      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
+      <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
       <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
-      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
-      <guid isPermaLink="false">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</guid>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
       <category>model</category>
-      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10936</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10936</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10936</guid>
+      <title>llama.cpp: b10941</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10941</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10941</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 01:09:20 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 10:36:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10935</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10935</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10935</guid>
+      <title>llama.cpp: b10938</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10938</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10938</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 00:41:06 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 06:46:56 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10934</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10934</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10934</guid>
+      <title>llama.cpp: b10937</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10937</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10937</guid>
       <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 00:18:21 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 05:17:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.29.1rc0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 18:42:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.29.1rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Sat, 12 Sep 2026 18:42:01 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>

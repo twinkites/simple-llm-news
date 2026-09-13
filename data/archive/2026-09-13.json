@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-13T04:57:10.918636+00:00",
+  "generated_at": "2026-09-13T12:01:52.076957+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-        "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-09-13T00:04:15Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
       {
         "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
@@ -22,6 +11,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
+        }
+      },
+      {
+        "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+        "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-09-13T00:04:15Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -39,7 +39,7 @@
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "source": "hn",
-        "score": 173,
+        "score": 175,
         "published": "2026-09-08T16:59:41Z",
         "truthiness": {
           "label": "green",
@@ -47,14 +47,14 @@
         }
       },
       {
-        "title": "Open-weights world models' parameter size doubles every ~6 months",
-        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "source": "hn",
-        "score": 16,
-        "published": "2026-09-11T18:09:18Z",
+        "score": 380,
+        "published": "2026-09-03T14:28:18Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
         }
       },
       {
@@ -69,14 +69,14 @@
         }
       },
       {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
         "source": "hn",
-        "score": 380,
-        "published": "2026-09-03T14:28:18Z",
+        "score": 16,
+        "published": "2026-09-11T18:09:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 106 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10936",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10936",
+        "title": "llama.cpp: b10941",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10941",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-13T01:09:20+00:00",
+        "published": "2026-09-13T10:36:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10935",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10935",
+        "title": "llama.cpp: b10938",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10938",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-13T00:41:06+00:00",
+        "published": "2026-09-13T06:46:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10934",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10934",
+        "title": "llama.cpp: b10937",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10937",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-13T00:18:21+00:00",
+        "published": "2026-09-13T05:17:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,17 +238,6 @@
         }
       },
       {
-        "title": "vLLM: v0.29.1rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-12T18:42:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
@@ -257,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.1rc0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-12T18:42:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
