@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-14T13:00:11.915407+00:00",
+  "generated_at": "2026-09-14T21:55:28.873994+00:00",
   "sections": {
     "model": [
+      {
+        "title": "When LLM judges agree, should we believe them?",
+        "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+        "source": "hn",
+        "score": 46,
+        "published": "2026-09-14T16:29:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
+        }
+      },
       {
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
         "source": "hn",
-        "score": 69,
+        "score": 127,
         "published": "2026-09-14T07:55:19Z",
         "truthiness": {
           "label": "green",
@@ -17,33 +28,11 @@
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 394,
+        "score": 404,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
-        "title": "Can a local LLM beat -O3?",
-        "url": "https://tijl.blog/posts/cppcon-local/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-14T04:51:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
-        "url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-14T04:52:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -58,14 +47,14 @@
         }
       },
       {
-        "title": "Show HN: I made a tiny MoE/Engram viz tool",
-        "url": "https://sw-ml-study.github.io/moe-microscope/",
+        "title": "Can a local LLM beat -O3?",
+        "url": "https://tijl.blog/posts/cppcon-local/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-14T01:59:28Z",
+        "score": 4,
+        "published": "2026-09-14T04:51:36Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,11 +80,44 @@
         }
       },
       {
+        "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
+        "url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-14T04:52:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "hn",
+        "score": 120,
+        "published": "2026-09-08T05:20:23Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
         "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
         "url": "https://github.com/swobuforge/swobu",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-09-13T22:12:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: I made a tiny MoE/Engram viz tool",
+        "url": "https://sw-ml-study.github.io/moe-microscope/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-14T01:59:28Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -111,31 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-09-08T05:20:23Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
-        }
-      },
-      {
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "url": "https://arxiv.org/abs/2609.09153",
-        "source": "hn",
-        "score": 57,
-        "published": "2026-09-09T17:13:52Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
+        "url": "https://news.ycombinator.com/item?id=49703186",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-14T20:08:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Google: Attackers are using prompt injection against coding agents",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
@@ -183,33 +194,77 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10955",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10955",
+        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "source": "hn",
+        "score": 104,
+        "published": "2026-09-14T13:59:09Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Ollama 0.33.3 changed what prompt_eval_duration measures",
+        "url": "https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-14T21:14:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10970",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10970",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T10:45:12+00:00",
+        "published": "2026-09-14T20:56:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10952",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10952",
+        "title": "ollama: v0.34.1-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T08:29:04+00:00",
+        "published": "2026-09-14T20:34:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10951",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10951",
+        "title": "llama.cpp: b10969",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10969",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T04:06:58+00:00",
+        "published": "2026-09-14T19:53:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.4.1",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-14T18:28:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.1-rc0: MLX: version bump (#18235)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-14T16:49:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -219,7 +274,7 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
-        "score": 144,
+        "score": 145,
         "published": "2026-09-07T09:26:41Z",
         "truthiness": {
           "label": "green",
@@ -235,17 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-        "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-        "source": "hn",
-        "score": 76,
-        "published": "2026-09-04T17:12:22Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 59 points)"
         }
       },
       {
@@ -279,39 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Glq a port trellis quantization of large language models as a vLLM plugin",
-        "url": "https://github.com/cnygaard/glq",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-10T14:12:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM 0.29.0: Model Runner V2 is now the default",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-09T12:48:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama replacement 2-4x faster for no extra compute cost",
-        "url": "https://github.com/omgitsbase/llmash",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-07T20:46:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]

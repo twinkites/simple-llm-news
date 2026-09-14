@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:55:28 +0000</lastBuildDate>
+    <item>
+      <title>When LLM judges agree, should we believe them?</title>
+      <link>https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</link>
+      <guid isPermaLink="false">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 16:29:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
       <link>https://github.com/anuj0456/OpenArch</link>
@@ -22,22 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Can a local LLM beat -O3?</title>
-      <link>https://tijl.blog/posts/cppcon-local/</link>
-      <guid isPermaLink="false">https://tijl.blog/posts/cppcon-local/</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:51:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
-      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
-      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
@@ -46,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made a tiny MoE/Engram viz tool</title>
-      <link>https://sw-ml-study.github.io/moe-microscope/</link>
-      <guid isPermaLink="false">https://sw-ml-study.github.io/moe-microscope/</guid>
+      <title>Can a local LLM beat -O3?</title>
+      <link>https://tijl.blog/posts/cppcon-local/</link>
+      <guid isPermaLink="false">https://tijl.blog/posts/cppcon-local/</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 01:59:28 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:51:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS</title>
-      <link>https://github.com/swobuforge/swobu</link>
-      <guid isPermaLink="false">https://github.com/swobuforge/swobu</guid>
+      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
+      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
+      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
       <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 22:12:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
-      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
-      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +78,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
-      <link>https://arxiv.org/abs/2609.09153</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
+      <title>Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS</title>
+      <link>https://github.com/swobuforge/swobu</link>
+      <guid isPermaLink="false">https://github.com/swobuforge/swobu</guid>
       <category>model</category>
-      <pubDate>Wed, 09 Sep 2026 17:13:52 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 22:12:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: I made a tiny MoE/Engram viz tool</title>
+      <link>https://sw-ml-study.github.io/moe-microscope/</link>
+      <guid isPermaLink="false">https://sw-ml-study.github.io/moe-microscope/</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 01:59:28 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
+      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
+      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Is your AI LLM based web service secure from prompt injection?</title>
+      <link>https://news.ycombinator.com/item?id=49703186</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49703186</guid>
+      <category>security</category>
+      <pubDate>Mon, 14 Sep 2026 20:08:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +142,59 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10955</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10955</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10955</guid>
+      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 10:45:12 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ollama 0.33.3 changed what prompt_eval_duration measures</title>
+      <link>https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html</link>
+      <guid isPermaLink="false">https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 21:14:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10970</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10970</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10970</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 20:56:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10952</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10952</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10952</guid>
+      <title>ollama: v0.34.1-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 08:29:04 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 20:34:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10951</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10951</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10951</guid>
+      <title>llama.cpp: b10969</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10969</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10969</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 04:06:58 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 19:53:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.4.1</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 18:28:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.1-rc0: MLX: version bump (#18235)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 16:49:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -171,14 +211,6 @@
       <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
-      <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
-      <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
-      <category>harness</category>
-      <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -203,30 +235,6 @@
       <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
       <category>harness</category>
       <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Glq a port trellis quantization of large language models as a vLLM plugin</title>
-      <link>https://github.com/cnygaard/glq</link>
-      <guid isPermaLink="false">https://github.com/cnygaard/glq</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 14:12:52 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM 0.29.0: Model Runner V2 is now the default</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 09 Sep 2026 12:48:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ollama replacement 2-4x faster for no extra compute cost</title>
-      <link>https://github.com/omgitsbase/llmash</link>
-      <guid isPermaLink="false">https://github.com/omgitsbase/llmash</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 20:46:41 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
