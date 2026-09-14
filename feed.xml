@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 05:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:00:11 +0000</lastBuildDate>
+    <item>
+      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
+      <link>https://github.com/anuj0456/OpenArch</link>
+      <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
       <guid isPermaLink="false">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
       <category>model</category>
       <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
-      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
-      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made a tiny MoE/Engram viz tool</title>
-      <link>https://sw-ml-study.github.io/moe-microscope/</link>
-      <guid isPermaLink="false">https://sw-ml-study.github.io/moe-microscope/</guid>
+      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
+      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
+      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 01:59:28 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS</title>
-      <link>https://github.com/swobuforge/swobu</link>
-      <guid isPermaLink="false">https://github.com/swobuforge/swobu</guid>
+      <title>Show HN: I made a tiny MoE/Engram viz tool</title>
+      <link>https://sw-ml-study.github.io/moe-microscope/</link>
+      <guid isPermaLink="false">https://sw-ml-study.github.io/moe-microscope/</guid>
       <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 22:12:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
-      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
-      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 01:59:28 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,19 +70,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS</title>
+      <link>https://github.com/swobuforge/swobu</link>
+      <guid isPermaLink="false">https://github.com/swobuforge/swobu</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 22:12:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
+      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
+      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Multi-Agents LLM Financial Trading Framework</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Booting straight into a local LLM (no linux) on my Raspberry Pi</title>
-      <link>https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 00:04:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b10955</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10955</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10955</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 10:45:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10952</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10952</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10952</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 08:29:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b10951</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10951</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10951</guid>
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 04:06:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10950</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10950</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10950</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 01:39:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,19 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10948</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10948</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10948</guid>
-      <category>harness</category>
-      <pubDate>Sun, 13 Sep 2026 19:10:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace</title>
       <link>https://twitter.com/ggerganov/status/2095897173376618881</link>
       <guid isPermaLink="false">https://twitter.com/ggerganov/status/2095897173376618881</guid>
       <category>harness</category>
       <pubDate>Fri, 04 Sep 2026 17:12:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
+      <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -188,14 +196,6 @@
       <category>harness</category>
       <pubDate>Sat, 12 Sep 2026 18:42:01 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
-      <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>

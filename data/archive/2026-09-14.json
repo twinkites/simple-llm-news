@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-14T05:06:11.380703+00:00",
+  "generated_at": "2026-09-14T13:00:11.915407+00:00",
   "sections": {
     "model": [
+      {
+        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+        "url": "https://github.com/anuj0456/OpenArch",
+        "source": "hn",
+        "score": 69,
+        "published": "2026-09-14T07:55:19Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
+        }
+      },
       {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 375,
+        "score": 394,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
@@ -14,21 +25,10 @@
         }
       },
       {
-        "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
-        "url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-14T04:52:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Can a local LLM beat -O3?",
         "url": "https://tijl.blog/posts/cppcon-local/",
         "source": "hn",
-        "score": 1,
+        "score": 4,
         "published": "2026-09-14T04:51:36Z",
         "truthiness": {
           "label": "red",
@@ -36,14 +36,14 @@
         }
       },
       {
-        "title": "Show HN: I made a tiny MoE/Engram viz tool",
-        "url": "https://sw-ml-study.github.io/moe-microscope/",
+        "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
+        "url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-14T01:59:28Z",
+        "score": 3,
+        "published": "2026-09-14T04:52:07Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -58,22 +58,11 @@
         }
       },
       {
-        "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
-        "url": "https://github.com/swobuforge/swobu",
+        "title": "Show HN: I made a tiny MoE/Engram viz tool",
+        "url": "https://sw-ml-study.github.io/moe-microscope/",
         "source": "hn",
         "score": 2,
-        "published": "2026-09-13T22:12:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "The Case for Open-Weight Models and Why We Can't Trust Frontier Labs",
-        "url": "https://www.provos.org/p/case-for-open-weight-models/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-13T16:15:56Z",
+        "published": "2026-09-14T01:59:28Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -102,6 +91,28 @@
         }
       },
       {
+        "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
+        "url": "https://github.com/swobuforge/swobu",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-13T22:12:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "The Case for Open-Weight Models and Why We Can't Trust Frontier Labs",
+        "url": "https://www.provos.org/p/case-for-open-weight-models/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-13T16:15:56Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "source": "hn",
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
-        }
-      },
-      {
-        "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-        "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-09-13T00:04:15Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -183,22 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b10951",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10951",
+        "title": "llama.cpp: b10955",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10955",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T04:06:58+00:00",
+        "published": "2026-09-14T10:45:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10950",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10950",
+        "title": "llama.cpp: b10952",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10952",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T01:39:49+00:00",
+        "published": "2026-09-14T08:29:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10951",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10951",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-14T04:06:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +238,6 @@
         }
       },
       {
-        "title": "llama.cpp: b10948",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10948",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-13T19:10:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
         "url": "https://twitter.com/ggerganov/status/2095897173376618881",
         "source": "hn",
@@ -249,17 +249,6 @@
         }
       },
       {
-        "title": "vLLM: v0.29.1rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-12T18:42:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
         "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
         "source": "hn",
@@ -268,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.29.1rc0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-12T18:42:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
