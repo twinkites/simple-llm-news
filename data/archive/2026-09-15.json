@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T17:08:16.143641+00:00",
+  "generated_at": "2026-09-15T21:29:13.473012+00:00",
   "sections": {
     "model": [
       {
         "title": "How much of F-Droid is LLM generated?",
         "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
         "source": "hn",
-        "score": 79,
+        "score": 116,
         "published": "2026-09-15T09:47:48Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +14,25 @@
         }
       },
       {
+        "title": "Local LLM engine where a tool call cut by the token limit still parses",
+        "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-15T21:17:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 411,
+        "score": 412,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
-        "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-        "url": "https://sunkcost.ai/",
-        "source": "hn",
-        "score": 44,
-        "published": "2026-09-15T01:37:43Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
         }
       },
       {
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+        "url": "https://sunkcost.ai/",
+        "source": "hn",
+        "score": 46,
+        "published": "2026-09-15T01:37:43Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+        }
+      },
+      {
         "title": "When LLM judges agree, should we believe them?",
         "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
         "source": "hn",
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 46 points)"
-        }
-      },
-      {
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-15T16:00:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,6 +80,17 @@
         }
       },
       {
+        "title": "Your Agent Aced the Task. Will It Do It Again?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T16:00:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Amodei's proposal would effectively outlaw competitive open weight models",
         "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
         "source": "hn",
@@ -88,17 +99,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-        "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-09-10T02:04:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 115 points)"
         }
       },
       {
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+        "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+        "source": "hn",
+        "score": 120,
+        "published": "2026-09-10T02:04:11Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 115 points)"
+        }
+      },
+      {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
-        }
-      },
-      {
-        "title": "Can a local LLM beat -O3?",
-        "url": "https://tijl.blog/posts/cppcon-local/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-14T04:51:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -205,10 +205,21 @@
     ],
     "harness": [
       {
+        "title": "ollama: v0.34.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T21:21:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
         "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
         "source": "hn",
-        "score": 138,
+        "score": 139,
         "published": "2026-09-14T13:59:09Z",
         "truthiness": {
           "label": "green",
@@ -216,14 +227,58 @@
         }
       },
       {
+        "title": "ollama: v0.34.1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T20:10:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Self-adjusting vLLM at production scale",
+        "url": "https://twitter.com/yevr19/status/2099877116892307744",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-15T17:32:40Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10988",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10988",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T18:53:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "koboldcpp: koboldcpp-1.121",
         "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.121",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T16:06:12+00:00",
+        "published": "2026-09-15T17:18:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-15T06:42:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -249,28 +304,6 @@
         }
       },
       {
-        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-15T06:42:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10983",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10983",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-15T13:13:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
@@ -279,28 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-15T05:08:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama 0.33.3 changed what prompt_eval_duration measures",
-        "url": "https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-14T21:14:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -315,25 +326,14 @@
         }
       },
       {
-        "title": "ollama: v0.34.1-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-14T20:34:03+00:00",
+        "title": "Ollama 0.33.3 changed what prompt_eval_duration measures",
+        "url": "https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-14T21:14:58Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.1-rc0: MLX: version bump (#18235)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-14T16:49:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
