@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 21:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:02:19 +0000</lastBuildDate>
     <item>
-      <title>When LLM judges agree, should we believe them?</title>
-      <link>https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</link>
-      <guid isPermaLink="false">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</guid>
+      <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
+      <link>https://sunkcost.ai/</link>
+      <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 16:29:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
-      <link>https://github.com/anuj0456/OpenArch</link>
-      <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,19 +22,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
+      <link>https://github.com/anuj0456/OpenArch</link>
+      <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>When LLM judges agree, should we believe them?</title>
+      <link>https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</link>
+      <guid isPermaLink="false">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 16:29:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Amodei&#x27;s proposal would effectively outlaw competitive open weight models</title>
+      <link>https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</link>
+      <guid isPermaLink="false">https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 22:07:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
       <link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Can a local LLM beat -O3?</title>
-      <link>https://tijl.blog/posts/cppcon-local/</link>
-      <guid isPermaLink="false">https://tijl.blog/posts/cppcon-local/</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:51:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
-      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
-      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
+      <title>Can a local LLM beat -O3?</title>
+      <link>https://tijl.blog/posts/cppcon-local/</link>
+      <guid isPermaLink="false">https://tijl.blog/posts/cppcon-local/</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:51:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS</title>
-      <link>https://github.com/swobuforge/swobu</link>
-      <guid isPermaLink="false">https://github.com/swobuforge/swobu</guid>
+      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
+      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
+      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
       <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 22:12:51 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made a tiny MoE/Engram viz tool</title>
-      <link>https://sw-ml-study.github.io/moe-microscope/</link>
-      <guid isPermaLink="false">https://sw-ml-study.github.io/moe-microscope/</guid>
+      <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
+      <link>https://arxiv.org/abs/2609.09153</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 01:59:28 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The Case for Open-Weight Models and Why We Can&#x27;t Trust Frontier Labs</title>
-      <link>https://www.provos.org/p/case-for-open-weight-models/</link>
-      <guid isPermaLink="false">https://www.provos.org/p/case-for-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 16:15:56 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 17:13:52 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,12 +150,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.34.1-rc2: API: Deprecate typical_p (#18448)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 04:24:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10975: cuda : enable i16 and i32 for DUP (#28897)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10975</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10975</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 03:42:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ollama 0.33.3 changed what prompt_eval_duration measures</title>
       <link>https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html</link>
       <guid isPermaLink="false">https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html</guid>
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 21:14:58 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 22:14:03 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp: b10970</title>
@@ -166,20 +190,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.34.1-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</guid>
+      <title>Speculative Decoding in vLLM on AMD GPUs</title>
+      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 20:34:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10969</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10969</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10969</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 19:53:39 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>llama.cpp: v0.4.1</title>
@@ -198,14 +214,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Speculative Decoding in vLLM on AMD GPUs</title>
-      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Setting up OpenCode with Ollama and sbx on Mac</title>
       <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
       <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.29.1rc0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.29.1rc0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 12 Sep 2026 18:42:01 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
