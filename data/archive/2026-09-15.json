@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-09-15T11:54:35.889651+00:00",
+  "generated_at": "2026-09-15T17:08:16.143641+00:00",
   "sections": {
     "model": [
       {
         "title": "How much of F-Droid is LLM generated?",
         "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
         "source": "hn",
-        "score": 64,
+        "score": 79,
         "published": "2026-09-15T09:47:48Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
+        }
+      },
+      {
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "source": "hn",
+        "score": 411,
+        "published": "2026-09-13T15:44:38Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -25,21 +36,10 @@
         }
       },
       {
-        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "source": "hn",
-        "score": 409,
-        "published": "2026-09-13T15:44:38Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
         "source": "hn",
-        "score": 138,
+        "score": 139,
         "published": "2026-09-14T07:55:19Z",
         "truthiness": {
           "label": "green",
@@ -58,14 +58,14 @@
         }
       },
       {
-        "title": "Amodei's proposal would effectively outlaw competitive open weight models",
-        "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-09-14T22:07:18Z",
+        "title": "Your Agent Aced the Task. Will It Do It Again?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T16:00:44+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
+        }
+      },
+      {
+        "title": "Amodei's proposal would effectively outlaw competitive open weight models",
+        "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-09-14T22:07:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Can a local LLM beat -O3?",
-        "url": "https://tijl.blog/posts/cppcon-local/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-14T04:51:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "source": "hn",
@@ -124,18 +124,29 @@
         }
       },
       {
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "url": "https://arxiv.org/abs/2609.09153",
+        "title": "Can a local LLM beat -O3?",
+        "url": "https://tijl.blog/posts/cppcon-local/",
         "source": "hn",
-        "score": 57,
-        "published": "2026-09-09T17:13:52Z",
+        "score": 5,
+        "published": "2026-09-14T04:51:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "Show HN: Open-Source Lightweight Prompt Injection Safety",
+        "url": "https://github.com/StackOneHQ/defender/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-15T16:20:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
         "url": "https://news.ycombinator.com/item?id=49703186",
@@ -197,7 +208,7 @@
         "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
         "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
         "source": "hn",
-        "score": 133,
+        "score": 138,
         "published": "2026-09-14T13:59:09Z",
         "truthiness": {
           "label": "green",
@@ -205,33 +216,33 @@
         }
       },
       {
-        "title": "llama.cpp: b10980",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10980",
+        "title": "koboldcpp: koboldcpp-1.121",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.121",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T11:35:21+00:00",
+        "published": "2026-09-15T16:06:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10978",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10978",
+        "title": "llama.cpp: b10985",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10985",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T11:02:36+00:00",
+        "published": "2026-09-15T14:25:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10977",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10977",
+        "title": "llama.cpp: b10984",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10984",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T10:10:54+00:00",
+        "published": "2026-09-15T13:46:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -241,11 +252,33 @@
         "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
         "url": "https://qxotic.ai/",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-09-15T06:42:32Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10983",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10983",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T13:13:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-07T09:26:41Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       },
       {
@@ -268,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-07T09:26:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       },
       {
@@ -312,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
-        "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-11T09:35:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
