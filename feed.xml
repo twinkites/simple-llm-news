@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 05:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:54:35 +0000</lastBuildDate>
+    <item>
+      <title>How much of F-Droid is LLM generated?</title>
+      <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
+      <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
+      <category>model</category>
+      <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
       <link>https://sunkcost.ai/</link>
@@ -86,14 +94,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-Weight Diplomacy: How China&#x27;s AI Models Are Rerunning the Digital Silk Road</title>
-      <link>https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</link>
-      <guid isPermaLink="false">https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:52:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
       <link>https://arxiv.org/abs/2609.09153</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.09153</guid>
@@ -150,19 +150,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.1-rc2: API: Deprecate typical_p (#18448)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</guid>
+      <title>llama.cpp: b10980</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10980</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10980</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 04:24:26 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:35:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10975: cuda : enable i16 and i32 for DUP (#28897)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10975</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10975</guid>
+      <title>llama.cpp: b10978</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10978</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10978</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 03:42:21 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:02:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10977</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10977</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10977</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 10:10:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Jinfer – AI inference engine for the JVM. AI in a jar</title>
+      <link>https://qxotic.ai/</link>
+      <guid isPermaLink="false">https://qxotic.ai/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 06:42:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 05:08:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,22 +198,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 22:14:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10970</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10970</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10970</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 20:56:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
       <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
@@ -198,11 +206,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: v0.4.1</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1</guid>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 18:28:16 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.1-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 20:34:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,27 +230,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin</title>
       <link>https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-09-07-vllm-tt-plugin</guid>
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 09:35:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)</title>
-      <link>https://codingsahayi.github.io/</link>
-      <guid isPermaLink="false">https://codingsahayi.github.io/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 10 Sep 2026 21:47:37 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-15T05:02:19.420847+00:00",
+  "generated_at": "2026-09-15T11:54:35.889651+00:00",
   "sections": {
     "model": [
+      {
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "source": "hn",
+        "score": 64,
+        "published": "2026-09-15T09:47:48Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
+        }
+      },
       {
         "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
         "url": "https://sunkcost.ai/",
         "source": "hn",
-        "score": 42,
+        "score": 44,
         "published": "2026-09-15T01:37:43Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 408,
+        "score": 409,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
@@ -28,7 +39,7 @@
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
         "source": "hn",
-        "score": 134,
+        "score": 138,
         "published": "2026-09-14T07:55:19Z",
         "truthiness": {
           "label": "green",
@@ -50,7 +61,7 @@
         "title": "Amodei's proposal would effectively outlaw competitive open weight models",
         "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
         "source": "hn",
-        "score": 5,
+        "score": 6,
         "published": "2026-09-14T22:07:18Z",
         "truthiness": {
           "label": "yellow",
@@ -94,7 +105,7 @@
         "title": "Can a local LLM beat -O3?",
         "url": "https://tijl.blog/posts/cppcon-local/",
         "source": "hn",
-        "score": 4,
+        "score": 5,
         "published": "2026-09-14T04:51:36Z",
         "truthiness": {
           "label": "red",
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
-        }
-      },
-      {
-        "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
-        "url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-14T04:52:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -197,7 +197,7 @@
         "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
         "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
         "source": "hn",
-        "score": 125,
+        "score": 133,
         "published": "2026-09-14T13:59:09Z",
         "truthiness": {
           "label": "green",
@@ -205,22 +205,55 @@
         }
       },
       {
-        "title": "ollama: v0.34.1-rc2: API: Deprecate typical_p (#18448)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2",
+        "title": "llama.cpp: b10980",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10980",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T04:24:26+00:00",
+        "published": "2026-09-15T11:35:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10975: cuda : enable i16 and i32 for DUP (#28897)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10975",
+        "title": "llama.cpp: b10978",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10978",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T03:42:21+00:00",
+        "published": "2026-09-15T11:02:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10977",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10977",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T10:10:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-15T06:42:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T05:08:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,28 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-14T22:14:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b10970",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10970",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-14T20:56:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
@@ -271,11 +282,22 @@
         }
       },
       {
-        "title": "llama.cpp: v0.4.1",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1",
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.1-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-14T18:28:16+00:00",
+        "published": "2026-09-14T20:34:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,17 +315,6 @@
         }
       },
       {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-09-11T00:45:26Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
         "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
         "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
         "source": "hn",
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
-        "url": "https://codingsahayi.github.io/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-10T21:47:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
