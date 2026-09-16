@@ -4,13 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 11:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:08:03 +0000</lastBuildDate>
     <item>
-      <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
+      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
+      <link>https://opendocbot.com/</link>
+      <guid isPermaLink="false">https://opendocbot.com/</guid>
       <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
+      <link>https://github.com/snellingio/system-one</link>
+      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
+      <category>model</category>
+      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
+      <category>model</category>
+      <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
       <link>https://sunkcost.ai/</link>
       <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>When LLM judges agree, should we believe them?</title>
-      <link>https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</link>
-      <guid isPermaLink="false">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 16:29:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
-      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
-      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
+      <title>Show HN: LLM Attention Visualization</title>
+      <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
+      <guid isPermaLink="false">https://ishamf.dev/p/llm-attention-visualizer/</guid>
       <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,28 +86,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Amodei&#x27;s proposal would effectively outlaw competitive open weight models</title>
-      <link>https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</link>
-      <guid isPermaLink="false">https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</guid>
+      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
+      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
+      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 22:07:18 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Can a local LLM beat -O3?</title>
-      <link>https://tijl.blog/posts/cppcon-local/</link>
-      <guid isPermaLink="false">https://tijl.blog/posts/cppcon-local/</guid>
+      <title>Multi-Agents LLM Financial Trading Framework</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 04:51:36 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Your Agent Aced the Task. Will It Do It Again?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
-      <source>rss</source>
+      <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
+      <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
+      <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
+      <category>security</category>
+      <pubDate>Wed, 16 Sep 2026 13:42:18 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
@@ -134,20 +142,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>AI agents aren&#x27;t safe from prompt injection, and spreadsheets prove it</title>
-      <link>https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</link>
-      <guid isPermaLink="false">https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/</guid>
-      <category>security</category>
-      <pubDate>Sun, 06 Sep 2026 16:17:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
       <category>security</category>
       <pubDate>Mon, 07 Sep 2026 23:27:53 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11005</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11005</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11005</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 16:53:18 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
@@ -158,19 +166,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10997</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10997</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10997</guid>
+      <title>llama.cpp: b11003</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11003</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11003</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 09:06:21 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 15:31:31 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b10996</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10996</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10996</guid>
+      <title>Benchmark Llamacpp on Intel Panther Lake: Vulkan vs. SYCL vs. OpenVINO vs. CPU</title>
+      <link>https://grigio.org/benchmarking-llama-cpp-backends-on-intel-panther-lake-vulkan-vs-sycl-vs-openvino-vs-cpu/</link>
+      <guid isPermaLink="false">https://grigio.org/benchmarking-llama-cpp-backends-on-intel-panther-lake-vulkan-vs-sycl-vs-openvino-vs-cpu/</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 08:39:34 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:08:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11002</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11002</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11002</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 14:41:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -180,22 +196,6 @@
       <category>harness</category>
       <pubDate>Wed, 16 Sep 2026 08:32:41 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10995</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10995</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10995</guid>
-      <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 08:01:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Self-adjusting vLLM at production scale</title>
-      <link>https://twitter.com/yevr19/status/2099877116892307744</link>
-      <guid isPermaLink="false">https://twitter.com/yevr19/status/2099877116892307744</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 17:32:40 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
@@ -214,6 +214,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Self-adjusting vLLM at production scale</title>
+      <link>https://twitter.com/yevr19/status/2099877116892307744</link>
+      <guid isPermaLink="false">https://twitter.com/yevr19/status/2099877116892307744</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 17:32:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.34.2</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</guid>
@@ -227,22 +243,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1</guid>
       <category>harness</category>
       <pubDate>Tue, 15 Sep 2026 20:10:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.121</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 17:18:43 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
