@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-16T04:58:37.377403+00:00",
+  "generated_at": "2026-09-16T11:47:07.789295+00:00",
   "sections": {
     "model": [
+      {
+        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-16T10:58:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "How much of F-Droid is LLM generated?",
         "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
         "source": "hn",
-        "score": 127,
+        "score": 136,
         "published": "2026-09-15T09:47:48Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +47,6 @@
         }
       },
       {
-        "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
-        "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-15T23:37:21Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
         "url": "https://sunkcost.ai/",
         "source": "hn",
@@ -58,6 +58,28 @@
         }
       },
       {
+        "title": "When LLM judges agree, should we believe them?",
+        "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+        "source": "hn",
+        "score": 53,
+        "published": "2026-09-14T16:29:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 53 points)"
+        }
+      },
+      {
+        "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
+        "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-15T23:37:21Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Local LLM engine where a tool call cut by the token limit still parses",
         "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
         "source": "hn",
@@ -66,28 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "source": "hn",
-        "score": 729,
-        "published": "2026-09-06T11:56:43Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 602 points)"
-        }
-      },
-      {
-        "title": "Show HN: LLM Attention Visualization",
-        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "source": "hn",
-        "score": 176,
-        "published": "2026-09-08T16:59:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
         }
       },
       {
@@ -113,14 +113,14 @@
         }
       },
       {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
+        "title": "Can a local LLM beat -O3?",
+        "url": "https://tijl.blog/posts/cppcon-local/",
         "source": "hn",
-        "score": 120,
-        "published": "2026-09-08T05:20:23Z",
+        "score": 5,
+        "published": "2026-09-14T04:51:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -216,33 +216,44 @@
         }
       },
       {
-        "title": "llama.cpp: b10991",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10991",
+        "title": "llama.cpp: b10997",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10997",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T23:46:09+00:00",
+        "published": "2026-09-16T09:06:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10990",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10990",
+        "title": "llama.cpp: b10996",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10996",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T23:18:20+00:00",
+        "published": "2026-09-16T08:39:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b10989",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10989",
+        "title": "vLLM: proto-v0.2.0: vllm-proto 0.2.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.2.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-15T22:27:43+00:00",
+        "published": "2026-09-16T08:32:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b10995",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10995",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-16T08:01:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -257,6 +268,28 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-07T09:26:41Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
+        }
+      },
+      {
+        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-15T06:42:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -282,39 +315,6 @@
         }
       },
       {
-        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-15T06:42:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-07T09:26:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.121",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.121",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-15T17:18:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
@@ -326,14 +326,14 @@
         }
       },
       {
-        "title": "Ollama 0.33.3 changed what prompt_eval_duration measures",
-        "url": "https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-14T21:14:58Z",
+        "title": "koboldcpp: koboldcpp-1.121",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.121",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-15T17:18:43+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
