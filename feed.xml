@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 21:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:58:37 +0000</lastBuildDate>
     <item>
       <title>How much of F-Droid is LLM generated?</title>
       <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
       <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
-      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
-      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +30,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Probably the best laptop with Linux support and Local LLM AI [video]</title>
+      <link>https://www.youtube.com/watch?v=it7TAwjwH5E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=it7TAwjwH5E</guid>
+      <category>model</category>
+      <pubDate>Tue, 15 Sep 2026 23:37:21 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
       <link>https://sunkcost.ai/</link>
       <guid isPermaLink="false">https://sunkcost.ai/</guid>
@@ -46,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>When LLM judges agree, should we believe them?</title>
-      <link>https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</link>
-      <guid isPermaLink="false">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</guid>
+      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
+      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
+      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
       <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 16:29:30 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,22 +59,6 @@
       <guid isPermaLink="false">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</guid>
       <category>model</category>
       <pubDate>Sun, 06 Sep 2026 11:56:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Your Agent Aced the Task. Will It Do It Again?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Amodei&#x27;s proposal would effectively outlaw competitive open weight models</title>
-      <link>https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</link>
-      <guid isPermaLink="false">https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 22:07:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,12 +78,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Amodei&#x27;s proposal would effectively outlaw competitive open weight models</title>
+      <link>https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</link>
+      <guid isPermaLink="false">https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 22:07:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Multi-Agents LLM Financial Trading Framework</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Your Agent Aced the Task. Will It Do It Again?</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
+      <category>model</category>
+      <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
@@ -150,14 +150,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 21:21:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
       <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
       <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
@@ -166,11 +158,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1</guid>
+      <title>llama.cpp: b10991</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10991</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10991</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 20:10:42 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 23:46:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10990</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10990</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10990</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 23:18:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b10989</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10989</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10989</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 22:27:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,19 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10988</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10988</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10988</guid>
+      <title>ollama: v0.34.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 18:53:55 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 21:21:07 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.121</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</guid>
+      <title>ollama: v0.34.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 17:18:43 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 20:10:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,28 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b10985</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10985</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10985</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 14:25:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b10984</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b10984</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b10984</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 13:46:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Speculative Decoding in vLLM on AMD GPUs</title>
       <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
       <category>harness</category>
       <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.121</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.121</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 17:18:43 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Setting up OpenCode with Ollama and sbx on Mac</title>
