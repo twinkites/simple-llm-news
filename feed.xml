@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:08:03 +0000</lastBuildDate>
-    <item>
-      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
-      <link>https://opendocbot.com/</link>
-      <guid isPermaLink="false">https://opendocbot.com/</guid>
-      <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 21:25:57 +0000</lastBuildDate>
     <item>
       <title>How much of F-Droid is LLM generated?</title>
       <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
@@ -22,11 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
-      <link>https://github.com/snellingio/system-one</link>
-      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
+      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
+      <link>https://opendocbot.com/</link>
+      <guid isPermaLink="false">https://opendocbot.com/</guid>
       <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
+      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
+      <link>https://github.com/snellingio/system-one</link>
+      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
       <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +51,14 @@
       <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
+      <category>model</category>
+      <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11005</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11005</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11005</guid>
+      <title>ollama: v0.34.2-rc1: mlxrunner: lay out model by contract, checkpoint and construction</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 16:53:18 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 21:06:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,11 +166,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11003</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11003</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11003</guid>
+      <title>llama.cpp: b11009</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11009</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11009</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 15:31:31 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 19:41:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11007</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11007</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11007</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 17:49:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11006</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11006</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11006</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 17:22:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11002</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11002</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11002</guid>
+      <title>Speculative Decoding in vLLM on AMD GPUs</title>
+      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 14:41:34 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>vLLM: proto-v0.2.0: vllm-proto 0.2.0</title>
@@ -196,14 +212,6 @@
       <category>harness</category>
       <pubDate>Wed, 16 Sep 2026 08:32:41 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Speculative Decoding in vLLM on AMD GPUs</title>
-      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
-      <category>harness</category>
-      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Jinfer – AI inference engine for the JVM. AI in a jar</title>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</guid>
       <category>harness</category>
       <pubDate>Tue, 15 Sep 2026 21:21:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.1</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 20:10:42 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>

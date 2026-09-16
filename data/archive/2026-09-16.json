@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-16T17:08:03.948461+00:00",
+  "generated_at": "2026-09-16T21:25:57.795991+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
-        "url": "https://opendocbot.com/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-16T16:46:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "How much of F-Droid is LLM generated?",
         "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
         "source": "hn",
-        "score": 141,
+        "score": 142,
         "published": "2026-09-15T09:47:48Z",
         "truthiness": {
           "label": "green",
@@ -25,11 +14,11 @@
         }
       },
       {
-        "title": "System One Lite – typed decisions from a local LLM, with no generated tokens",
-        "url": "https://github.com/snellingio/system-one",
+        "title": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
+        "url": "https://opendocbot.com/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-16T14:31:30Z",
+        "score": 4,
+        "published": "2026-09-16T16:46:01Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -58,11 +47,11 @@
         }
       },
       {
-        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+        "title": "System One Lite – typed decisions from a local LLM, with no generated tokens",
+        "url": "https://github.com/snellingio/system-one",
         "source": "hn",
         "score": 2,
-        "published": "2026-09-16T10:58:32Z",
+        "published": "2026-09-16T14:31:30Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+        }
+      },
+      {
+        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-16T10:58:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -205,11 +205,11 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11005",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11005",
+        "title": "ollama: v0.34.2-rc1: mlxrunner: lay out model by contract, checkpoint and construction",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-16T16:53:18+00:00",
+        "published": "2026-09-16T21:06:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,11 +227,33 @@
         }
       },
       {
-        "title": "llama.cpp: b11003",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11003",
+        "title": "llama.cpp: b11009",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11009",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-16T15:31:31+00:00",
+        "published": "2026-09-16T19:41:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11007",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11007",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-16T17:49:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11006",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11006",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-16T17:22:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,14 +271,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11002",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11002",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-16T14:41:34+00:00",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-07T09:26:41Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       },
       {
@@ -268,17 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "hn",
-        "score": 145,
-        "published": "2026-09-07T09:26:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 40 points)"
         }
       },
       {
@@ -320,17 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-09-15T21:21:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-15T20:10:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
