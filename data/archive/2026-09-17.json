@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-09-17T11:52:04.221422+00:00",
+  "generated_at": "2026-09-17T17:08:24.355095+00:00",
   "sections": {
     "model": [
       {
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 11,
+        "score": 28,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "source": "hn",
-        "score": 144,
-        "published": "2026-09-15T09:47:48Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
         }
       },
       {
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-09-15T09:47:48Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
         }
       },
       {
@@ -80,17 +80,6 @@
         }
       },
       {
-        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-16T10:58:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Training a 3.8B LLM to 0.384 CORE for $998",
         "url": "https://hugovergnes.github.io/little-lm-3-8b/",
         "source": "hn",
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 115 points)"
+        }
+      },
+      {
+        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-16T10:58:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -205,44 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11022",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11022",
+        "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
+        "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-17T15:38:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-17T11:39:34+00:00",
+        "published": "2026-09-17T16:45:01+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11020",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11020",
+        "title": "llama.cpp: b11027",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11027",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-17T11:10:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11019",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11019",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T10:39:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T10:37:53+00:00",
+        "published": "2026-09-17T16:03:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,6 +249,28 @@
         }
       },
       {
+        "title": "llama.cpp: b11026",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11026",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T13:34:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11025",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11025",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T13:06:03+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Shodan indexes over 47.000 exposed Ollama instances",
         "url": "https://twitter.com/co11ateral/status/2100313790604599444",
         "source": "hn",
@@ -268,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T10:37:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -304,17 +326,6 @@
         }
       },
       {
-        "title": "Benchmark Llamacpp on Intel Panther Lake: Vulkan vs. SYCL vs. OpenVINO vs. CPU",
-        "url": "https://grigio.org/benchmarking-llama-cpp-backends-on-intel-panther-lake-vulkan-vs-sycl-vs-openvino-vs-cpu/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-16T13:08:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-15T06:42:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
