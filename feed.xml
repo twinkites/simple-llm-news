@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 21:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:01:10 +0000</lastBuildDate>
     <item>
       <title>How much of F-Droid is LLM generated?</title>
       <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
       <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
-      <link>https://opendocbot.com/</link>
-      <guid isPermaLink="false">https://opendocbot.com/</guid>
-      <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
-      <link>https://github.com/snellingio/system-one</link>
-      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
+      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
+      <link>https://opendocbot.com/</link>
+      <guid isPermaLink="false">https://opendocbot.com/</guid>
       <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
+      <link>https://github.com/snellingio/system-one</link>
+      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
+      <category>model</category>
+      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
       <category>model</category>
       <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Probably the best laptop with Linux support and Local LLM AI [video]</title>
-      <link>https://www.youtube.com/watch?v=it7TAwjwH5E</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=it7TAwjwH5E</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 23:37:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
-      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
-      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
+      <title>Probably the best laptop with Linux support and Local LLM AI [video]</title>
+      <link>https://www.youtube.com/watch?v=it7TAwjwH5E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=it7TAwjwH5E</guid>
       <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 23:37:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -99,6 +91,14 @@
       <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
       <category>model</category>
       <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local LLM engine where a tool call cut by the token limit still parses</title>
+      <link>https://xyntetik.com/runner/truncation-safe-tool-calling/</link>
+      <guid isPermaLink="false">https://xyntetik.com/runner/truncation-safe-tool-calling/</guid>
+      <category>model</category>
+      <pubDate>Tue, 15 Sep 2026 21:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.2-rc1: mlxrunner: lay out model by contract, checkpoint and construction</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</guid>
+      <title>vLLM: proto-v0.3.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.3.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.3.0</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 21:06:08 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:47:02 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11011</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11011</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11011</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 02:50:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,27 +174,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: Jev-like mode for the DiffusionGemma model</title>
+      <link>https://github.com/vllm-project/vllm/pull/57250</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/pull/57250</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 23:21:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11010</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11010</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11010</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 00:05:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 16 Sep 2026 21:42:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11009</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11009</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11009</guid>
       <category>harness</category>
       <pubDate>Wed, 16 Sep 2026 19:41:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11007</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11007</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11007</guid>
-      <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 17:49:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11006</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11006</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11006</guid>
-      <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 17:22:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: proto-v0.2.0: vllm-proto 0.2.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.2.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.2.0</guid>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 08:32:41 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Jinfer – AI inference engine for the JVM. AI in a jar</title>
@@ -222,27 +238,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Self-adjusting vLLM at production scale</title>
-      <link>https://twitter.com/yevr19/status/2099877116892307744</link>
-      <guid isPermaLink="false">https://twitter.com/yevr19/status/2099877116892307744</guid>
+      <title>vLLM: proto-v0.2.0: vllm-proto 0.2.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.2.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.2.0</guid>
       <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 17:32:40 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 21:21:07 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 08:32:41 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
