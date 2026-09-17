@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-09-17T17:08:24.355095+00:00",
+  "generated_at": "2026-09-17T21:30:30.011519+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+        "url": "https://arxiv.org/abs/2609.18842",
+        "source": "hn",
+        "score": 78,
+        "published": "2026-09-17T16:55:14Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
+        }
+      },
+      {
+        "title": "LLM Classification Is Feature Engineering",
+        "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+        "source": "hn",
+        "score": 82,
+        "published": "2026-09-17T15:40:17Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 82 points)"
+        }
+      },
       {
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 28,
+        "score": 31,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -111,28 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-09-08T05:20:23Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 120 points)"
-        }
-      },
-      {
-        "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
-        "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-15T23:37:21Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "security": [
@@ -205,6 +205,28 @@
     ],
     "harness": [
       {
+        "title": "Polygo, a local-first CLI that translates your app's strings with Ollama",
+        "url": "https://github.com/Na5co/polygo",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-17T20:49:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T20:52:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
         "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
         "source": "hn",
@@ -213,6 +235,28 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "source": "hn",
+        "score": 139,
+        "published": "2026-09-14T13:59:09Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11028",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11028",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T17:30:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -238,14 +282,14 @@
         }
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "title": "Shodan indexes over 47.000 exposed Ollama instances",
+        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
         "source": "hn",
-        "score": 139,
-        "published": "2026-09-14T13:59:09Z",
+        "score": 2,
+        "published": "2026-09-17T05:19:28Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -257,28 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11025",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11025",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T13:06:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Shodan indexes over 47.000 exposed Ollama instances",
-        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T05:19:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-16T21:42:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-09-11T00:45:26Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       }
     ]

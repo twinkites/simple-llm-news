@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:30:30 +0000</lastBuildDate>
+    <item>
+      <title>Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data</title>
+      <link>https://arxiv.org/abs/2609.18842</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.18842</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 16:55:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLM Classification Is Feature Engineering</title>
+      <link>https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</link>
+      <guid isPermaLink="false">https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 15:40:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
       <link>https://news.ycombinator.com/item?id=49736660</link>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Multi-Agents LLM Financial Trading Framework</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Probably the best laptop with Linux support and Local LLM AI [video]</title>
-      <link>https://www.youtube.com/watch?v=it7TAwjwH5E</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=it7TAwjwH5E</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 23:37:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
       <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
       <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
@@ -150,12 +150,44 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
+      <link>https://github.com/Na5co/polygo</link>
+      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 20:52:02 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
       <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
       <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11028</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11028</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11028</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 17:30:53 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode</title>
@@ -174,11 +206,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
-      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
+      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
+      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -188,22 +220,6 @@
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 13:34:45 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11025</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11025</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11025</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 13:06:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
-      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
-      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>vLLM: v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)</title>
@@ -228,22 +244,6 @@
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 03:47:02 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 16 Sep 2026 21:42:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
