@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T11:26:29.147306+00:00",
+  "generated_at": "2026-09-18T16:32:15.225766+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 188,
+        "score": 266,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "source": "hn",
-        "score": 148,
+        "score": 154,
         "published": "2026-09-17T16:55:14Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +39,7 @@
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 39,
+        "score": 40,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -69,17 +69,6 @@
         }
       },
       {
-        "title": "Open weights models are surprisingly aligned on offensive cyber",
-        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T22:12:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
         "url": "https://sunkcost.ai/",
         "source": "hn",
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+        }
+      },
+      {
+        "title": "Open weights models are surprisingly aligned on offensive cyber",
+        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T22:12:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -159,17 +159,6 @@
         }
       },
       {
-        "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
-        "url": "https://news.ycombinator.com/item?id=49703186",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-14T20:08:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Google: Attackers are using prompt injection against coding agents",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
         "source": "hn",
@@ -178,6 +167,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
+        "url": "https://news.ycombinator.com/item?id=49703186",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-14T20:08:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -194,44 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11035",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11035",
+        "title": "llama.cpp: b11040",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11040",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T11:07:28+00:00",
+        "published": "2026-09-18T15:05:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11034",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11034",
+        "title": "llama.cpp: b11039",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11039",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T10:40:46+00:00",
+        "published": "2026-09-18T14:13:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11033",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11033",
+        "title": "llama.cpp: b11037",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11037",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T09:58:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "sglang: v0.5.20",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T08:02:22+00:00",
+        "published": "2026-09-18T12:16:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -246,6 +235,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.20",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-18T08:02:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "vLLM: Jev-like mode for the DiffusionGemma model",
-        "url": "https://github.com/vllm-project/vllm/pull/57250",
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-09-16T23:21:01Z",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       }
     ]
