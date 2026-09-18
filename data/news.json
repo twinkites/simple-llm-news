@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-18T04:54:03.912139+00:00",
+  "generated_at": "2026-09-18T11:26:29.147306+00:00",
   "sections": {
     "model": [
+      {
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "source": "hn",
+        "score": 188,
+        "published": "2026-09-17T21:48:38Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
+        }
+      },
       {
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "source": "hn",
-        "score": 127,
+        "score": 148,
         "published": "2026-09-17T16:55:14Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +25,25 @@
         }
       },
       {
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "source": "hn",
-        "score": 37,
-        "published": "2026-09-17T05:13:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 415,
+        "score": 416,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
+        "title": "Open-sourced jev architecture last year with model,paper and dataset",
+        "url": "https://news.ycombinator.com/item?id=49736660",
+        "source": "hn",
+        "score": 39,
+        "published": "2026-09-17T05:13:00Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -47,17 +58,6 @@
         }
       },
       {
-        "title": "Open weights models are surprisingly aligned on offensive cyber",
-        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T22:12:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
         "source": "hn",
@@ -66,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 69 points)"
+        }
+      },
+      {
+        "title": "Open weights models are surprisingly aligned on offensive cyber",
+        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T22:12:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-09-08T05:20:23Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 120 points)"
         }
       },
       {
@@ -194,14 +194,47 @@
     ],
     "harness": [
       {
-        "title": "Polygo, a local-first CLI that translates your app's strings with Ollama",
-        "url": "https://github.com/Na5co/polygo",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T20:49:01Z",
+        "title": "llama.cpp: b11035",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11035",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-18T11:07:28+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11034",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11034",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-18T10:40:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11033",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11033",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-18T09:58:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.20",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-18T08:02:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -213,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Polygo, a local-first CLI that translates your app's strings with Ollama",
+        "url": "https://github.com/Na5co/polygo",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T20:49:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -238,28 +282,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.2-rc3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T18:49:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11028",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11028",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T17:30:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Shodan indexes over 47.000 exposed Ollama instances",
         "url": "https://twitter.com/co11ateral/status/2100313790604599444",
         "source": "hn",
@@ -271,44 +293,22 @@
         }
       },
       {
+        "title": "ollama: v0.34.2-rc3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T18:49:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2",
         "source": "rss",
         "score": 0,
         "published": "2026-09-17T16:45:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11027",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11027",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T16:03:09+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11026",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11026",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T13:34:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T10:37:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
