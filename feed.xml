@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 16:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:00:28 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -19,6 +19,22 @@
       <guid isPermaLink="false">https://arxiv.org/abs/2609.18842</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 16:55:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>TikTok users&#x27; cameras hacked with open weight model</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
+      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
+      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
+      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,22 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: LLM Attention Visualization</title>
-      <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
-      <guid isPermaLink="false">https://ishamf.dev/p/llm-attention-visualizer/</guid>
-      <category>model</category>
-      <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Training a 3.8B LLM to 0.384 CORE for $998</title>
-      <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
-      <guid isPermaLink="false">https://hugovergnes.github.io/little-lm-3-8b/</guid>
-      <category>model</category>
-      <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
       <link>https://opendocbot.com/</link>
       <guid isPermaLink="false">https://opendocbot.com/</guid>
@@ -110,19 +110,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
-      <link>https://github.com/StackOneHQ/defender/</link>
-      <guid isPermaLink="false">https://github.com/StackOneHQ/defender/</guid>
-      <category>security</category>
-      <pubDate>Tue, 15 Sep 2026 16:20:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Google: Attackers are using prompt injection against coding agents</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</link>
       <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</guid>
       <category>security</category>
       <pubDate>Wed, 09 Sep 2026 15:19:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
+      <link>https://github.com/StackOneHQ/defender/</link>
+      <guid isPermaLink="false">https://github.com/StackOneHQ/defender/</guid>
+      <category>security</category>
+      <pubDate>Tue, 15 Sep 2026 16:20:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11040</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11040</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11040</guid>
+      <title>llama.cpp: b11043</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11043</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11043</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 15:05:10 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 20:50:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11039</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11039</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11039</guid>
+      <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
+      <link>https://doug.sh/posts/vllm-kv-cache-agents/</link>
+      <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 14:13:15 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 18 Sep 2026 18:26:53 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11037</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11037</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11037</guid>
+      <title>llama.cpp: b11042</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11042</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11042</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 12:16:56 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 18:23:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +174,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>sglang: v0.5.20</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.20</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.20</guid>
+      <title>llama.cpp: b11040</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11040</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11040</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 08:02:22 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 15:05:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,11 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2</guid>
+      <title>sglang: v0.5.20</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.20</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.20</guid>
       <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 23:04:24 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 08:02:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,19 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.2-rc3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
+      <title>ollama: v0.34.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2</guid>
       <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 18:49:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 16:45:01 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 23:04:24 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -236,6 +228,14 @@
       <category>harness</category>
       <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.2-rc3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 18:49:24 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>

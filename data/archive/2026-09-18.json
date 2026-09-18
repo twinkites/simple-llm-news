@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T16:32:15.225766+00:00",
+  "generated_at": "2026-09-18T21:00:28.746670+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 266,
+        "score": 309,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -17,11 +17,33 @@
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "source": "hn",
-        "score": 154,
+        "score": 155,
         "published": "2026-09-17T16:55:14Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
+        }
+      },
+      {
+        "title": "TikTok users' cameras hacked with open weight model",
+        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-09-18T17:51:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
+        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-18T17:13:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -39,7 +61,7 @@
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 40,
+        "score": 44,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -91,28 +113,6 @@
         }
       },
       {
-        "title": "Show HN: LLM Attention Visualization",
-        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "source": "hn",
-        "score": 176,
-        "published": "2026-09-08T16:59:41Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 176 points)"
-        }
-      },
-      {
-        "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-        "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-09-10T02:04:11Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 115 points)"
-        }
-      },
-      {
         "title": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
         "url": "https://opendocbot.com/",
         "source": "hn",
@@ -148,17 +148,6 @@
         }
       },
       {
-        "title": "Show HN: Open-Source Lightweight Prompt Injection Safety",
-        "url": "https://github.com/StackOneHQ/defender/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-15T16:20:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Google: Attackers are using prompt injection against coding agents",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
         "source": "hn",
@@ -167,6 +156,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Show HN: Open-Source Lightweight Prompt Injection Safety",
+        "url": "https://github.com/StackOneHQ/defender/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-15T16:20:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -194,33 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11040",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11040",
+        "title": "llama.cpp: b11043",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11043",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T15:05:10+00:00",
+        "published": "2026-09-18T20:50:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11039",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11039",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T14:13:15+00:00",
+        "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+        "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-18T18:26:53Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "llama.cpp: b11037",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11037",
+        "title": "llama.cpp: b11042",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11042",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T12:16:56+00:00",
+        "published": "2026-09-18T18:23:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,11 +238,11 @@
         }
       },
       {
-        "title": "sglang: v0.5.20",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
+        "title": "llama.cpp: b11040",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11040",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T08:02:22+00:00",
+        "published": "2026-09-18T15:05:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,11 +271,11 @@
         }
       },
       {
-        "title": "ollama: v0.34.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2",
+        "title": "sglang: v0.5.20",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-17T23:04:24+00:00",
+        "published": "2026-09-18T08:02:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,22 +293,11 @@
         }
       },
       {
-        "title": "ollama: v0.34.2-rc3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3",
+        "title": "ollama: v0.34.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-17T18:49:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-17T16:45:01+00:00",
+        "published": "2026-09-17T23:04:24+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.2-rc3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-17T18:49:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
