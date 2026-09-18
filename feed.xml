@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 21:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:54:03 +0000</lastBuildDate>
     <item>
       <title>Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data</title>
       <link>https://arxiv.org/abs/2609.18842</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.18842</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 16:55:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LLM Classification Is Feature Engineering</title>
-      <link>https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</link>
-      <guid isPermaLink="false">https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 15:40:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open weights models are surprisingly aligned on offensive cyber</title>
+      <link>https://pentesttoday.com/blog/open-weights-models-offensive-cyber</link>
+      <guid isPermaLink="false">https://pentesttoday.com/blog/open-weights-models-offensive-cyber</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 22:12:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
       <link>https://github.com/anuj0456/OpenArch</link>
       <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
@@ -59,14 +59,6 @@
       <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
-      <link>https://opendocbot.com/</link>
-      <guid isPermaLink="false">https://opendocbot.com/</guid>
-      <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +78,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
+      <link>https://opendocbot.com/</link>
+      <guid isPermaLink="false">https://opendocbot.com/</guid>
+      <category>model</category>
+      <pubDate>Wed, 16 Sep 2026 16:46:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Multi-Agents LLM Financial Trading Framework</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents</guid>
+      <category>model</category>
+      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
       <category>model</category>
       <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>System One Lite – typed decisions from a local LLM, with no generated tokens</title>
-      <link>https://github.com/snellingio/system-one</link>
-      <guid isPermaLink="false">https://github.com/snellingio/system-one</guid>
-      <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 14:31:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,35 +142,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
-      <category>security</category>
-      <pubDate>Mon, 07 Sep 2026 23:27:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
       <link>https://github.com/Na5co/polygo</link>
       <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 20:52:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
-      <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
-      <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -182,12 +158,44 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
+      <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
+      <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 23:04:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.2-rc3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 18:49:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11028</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11028</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11028</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 17:30:53 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
+      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
+      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.34.2-rc2: mlxrunner: Release freed KV buffers during speculative decode</title>
@@ -204,14 +212,6 @@
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 16:03:09 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
-      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
-      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>llama.cpp: b11026</title>
@@ -236,14 +236,6 @@
       <category>harness</category>
       <pubDate>Wed, 16 Sep 2026 23:21:01 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: proto-v0.3.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.3.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.3.0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 03:47:02 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
