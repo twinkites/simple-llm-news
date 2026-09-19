@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 21:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:45:55 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -27,14 +27,6 @@
       <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
       <category>model</category>
       <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
-      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
-      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,6 +59,14 @@
       <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
       <category>model</category>
       <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
+      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
+      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,14 +118,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
-      <link>https://github.com/StackOneHQ/defender/</link>
-      <guid isPermaLink="false">https://github.com/StackOneHQ/defender/</guid>
-      <category>security</category>
-      <pubDate>Tue, 15 Sep 2026 16:20:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: Is your AI LLM based web service secure from prompt injection?</title>
       <link>https://news.ycombinator.com/item?id=49703186</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49703186</guid>
@@ -134,19 +126,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Through Tool Output Is Two Events (Your Screens Read One)</title>
-      <link>https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/</link>
-      <guid isPermaLink="false">https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/</guid>
+      <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
+      <link>https://github.com/StackOneHQ/defender/</link>
+      <guid isPermaLink="false">https://github.com/StackOneHQ/defender/</guid>
       <category>security</category>
-      <pubDate>Tue, 08 Sep 2026 23:26:01 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 16:20:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11043</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11043</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11043</guid>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 20:50:47 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 01:25:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,11 +150,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11042</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11042</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11042</guid>
+      <title>llama.cpp: b11046</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11046</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11046</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 18:23:03 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 23:58:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +166,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11040</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11040</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11040</guid>
+      <title>sglang: v0.5.20</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.20</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.20</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 15:05:10 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:41:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
-      <link>https://github.com/Na5co/polygo</link>
-      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
+      <title>llama.cpp: b11045</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11045</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11045</guid>
       <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 18 Sep 2026 22:34:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11044</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11044</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11044</guid>
+      <category>harness</category>
+      <pubDate>Fri, 18 Sep 2026 21:55:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.30.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 18 Sep 2026 21:15:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.3-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 18 Sep 2026 21:10:53 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
@@ -198,12 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>sglang: v0.5.20</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.20</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.20</guid>
+      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
+      <link>https://github.com/Na5co/polygo</link>
+      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 08:02:22 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Shodan indexes over 47.000 exposed Ollama instances</title>
@@ -212,30 +228,6 @@
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 23:04:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.2-rc3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.2-rc3</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 18:49:24 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
