@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T04:45:55.431406+00:00",
+  "generated_at": "2026-09-19T11:10:23.501383+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 436,
+        "score": 498,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "TikTok users' cameras hacked with open weight model",
-        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-09-18T17:51:04Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
@@ -47,10 +36,21 @@
         }
       },
       {
+        "title": "TikTok users' cameras hacked with open weight model",
+        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-09-18T17:51:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 55,
+        "score": 66,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -80,17 +80,6 @@
         }
       },
       {
-        "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
-        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-18T17:13:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
         "url": "https://sunkcost.ai/",
         "source": "hn",
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
+        }
+      },
+      {
+        "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
+        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-18T17:13:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -183,33 +183,44 @@
     ],
     "harness": [
       {
-        "title": "ollama: v0.34.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
+        "title": "llama.cpp: b11050",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11050",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-19T01:25:50+00:00",
+        "published": "2026-09-19T10:10:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
-        "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-18T18:26:53Z",
+        "title": "llama.cpp: b11049",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11049",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T09:41:42+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11046",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11046",
+        "title": "llama.cpp: b11048",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11048",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-18T23:58:34+00:00",
+        "published": "2026-09-19T09:10:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T08:10:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,33 +238,22 @@
         }
       },
       {
+        "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+        "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-18T18:26:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "sglang: v0.5.20",
         "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
         "source": "rss",
         "score": 0,
         "published": "2026-09-18T22:41:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11045",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11045",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T22:34:14+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11044",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11044",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T21:55:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "Shodan indexes over 47.000 exposed Ollama instances",
-        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T05:19:28Z",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       }
     ]

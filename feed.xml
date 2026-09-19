@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 04:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:10:23 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -22,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TikTok users&#x27; cameras hacked with open weight model</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
-      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
       <guid isPermaLink="false">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
       <category>model</category>
       <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>TikTok users&#x27; cameras hacked with open weight model</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
+      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
-      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
-      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
       <link>https://sunkcost.ai/</link>
       <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
+      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
+      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11050</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11050</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11050</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 10:10:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11049</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11049</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11049</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 09:41:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11048</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11048</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11048</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 09:10:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.34.3</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
       <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 01:25:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
-      <link>https://doug.sh/posts/vllm-kv-cache-agents/</link>
-      <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 18:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11046</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11046</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11046</guid>
-      <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 23:58:34 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,27 +174,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
+      <link>https://doug.sh/posts/vllm-kv-cache-agents/</link>
+      <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 18 Sep 2026 18:26:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>sglang: v0.5.20</title>
       <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.20</link>
       <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.20</guid>
       <category>harness</category>
       <pubDate>Fri, 18 Sep 2026 22:41:33 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11045</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11045</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11045</guid>
-      <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 22:34:14 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11044</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11044</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11044</guid>
-      <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 21:55:15 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -222,11 +222,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
-      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
-      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
       <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
