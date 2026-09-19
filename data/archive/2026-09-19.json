@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T15:59:08.832737+00:00",
+  "generated_at": "2026-09-19T20:49:47.426815+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 550,
+        "score": 598,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -39,22 +39,11 @@
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 69,
+        "score": 75,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "TikTok users' cameras hacked with open weight model",
-        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-09-18T17:51:04Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 64 points)"
+        }
+      },
+      {
+        "title": "TikTok users' cameras hacked with open weight model",
+        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-09-18T17:51:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11053",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11053",
+        "title": "llama.cpp: b11056",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11056",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-19T13:26:46+00:00",
+        "published": "2026-09-19T17:55:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11052",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11052",
+        "title": "llama.cpp: b11055",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11055",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-19T12:35:37+00:00",
+        "published": "2026-09-19T17:25:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11050",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11050",
+        "title": "llama.cpp: b11054",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11054",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-19T10:10:21+00:00",
+        "published": "2026-09-19T16:50:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,6 +260,17 @@
         }
       },
       {
+        "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
+        "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-17T15:38:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "vLLM: v0.30.0rc2",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2",
         "source": "rss",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
-        "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-17T15:38:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
