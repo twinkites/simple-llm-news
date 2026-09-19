@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T11:10:23.501383+00:00",
+  "generated_at": "2026-09-19T15:59:08.832737+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 498,
+        "score": 550,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "source": "hn",
-        "score": 155,
+        "score": 156,
         "published": "2026-09-17T16:55:14Z",
         "truthiness": {
           "label": "green",
@@ -36,6 +36,17 @@
         }
       },
       {
+        "title": "Open-sourced jev architecture last year with model,paper and dataset",
+        "url": "https://news.ycombinator.com/item?id=49736660",
+        "source": "hn",
+        "score": 69,
+        "published": "2026-09-17T05:13:00Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "TikTok users' cameras hacked with open weight model",
         "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
         "source": "hn",
@@ -44,17 +55,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "source": "hn",
-        "score": 66,
-        "published": "2026-09-17T05:13:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -137,6 +137,17 @@
     ],
     "security": [
       {
+        "title": "When \"Review\" Becomes Permission: A Prompt Injection Lab",
+        "url": "https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-19T12:39:02Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "I caught an LLM-powered recruiter with a prompt injection on LinkedIn",
         "url": "https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/",
         "source": "hn",
@@ -145,17 +156,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Google: Attackers are using prompt injection against coding agents",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
-        "source": "hn",
-        "score": 13,
-        "published": "2026-09-09T15:19:57Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -183,44 +183,33 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11053",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11053",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T13:26:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11052",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11052",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T12:35:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b11050",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11050",
         "source": "rss",
         "score": 0,
         "published": "2026-09-19T10:10:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11049",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11049",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T09:41:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11048",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11048",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T09:10:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T08:10:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,6 +224,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T08:10:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

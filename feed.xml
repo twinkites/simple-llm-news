@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 11:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:59:08 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>TikTok users&#x27; cameras hacked with open weight model</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
-      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
       <link>https://news.ycombinator.com/item?id=49736660</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>TikTok users&#x27; cameras hacked with open weight model</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
+      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,19 +102,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
+      <link>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</link>
+      <guid isPermaLink="false">https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</guid>
+      <category>security</category>
+      <pubDate>Sat, 19 Sep 2026 12:39:02 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
       <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
       <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
       <category>security</category>
       <pubDate>Wed, 16 Sep 2026 13:42:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Google: Attackers are using prompt injection against coding agents</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</link>
-      <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai</guid>
-      <category>security</category>
-      <pubDate>Wed, 09 Sep 2026 15:19:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,35 +134,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11053</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11053</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11053</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 13:26:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11052</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11052</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11052</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 12:35:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11050</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11050</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11050</guid>
       <category>harness</category>
       <pubDate>Sat, 19 Sep 2026 10:10:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11049</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11049</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11049</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 09:41:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11048</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11048</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11048</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 09:10:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -172,6 +164,14 @@
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
