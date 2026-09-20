@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 05:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:34:26 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
-      <link>https://github.com/xanpavle/rocmfix</link>
-      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data</title>
       <link>https://arxiv.org/abs/2609.18842</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.18842</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 16:55:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
+      <link>https://github.com/xanpavle/rocmfix</link>
+      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
+      <category>model</category>
+      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,6 +43,14 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>How much of F-Droid is LLM generated?</title>
+      <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
+      <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
+      <category>model</category>
+      <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open weights models are surprisingly aligned on offensive cyber</title>
-      <link>https://pentesttoday.com/blog/open-weights-models-offensive-cyber</link>
-      <guid isPermaLink="false">https://pentesttoday.com/blog/open-weights-models-offensive-cyber</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 22:12:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint</title>
       <link>https://opendocbot.com/</link>
       <guid isPermaLink="false">https://opendocbot.com/</guid>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open weights models are surprisingly aligned on offensive cyber</title>
+      <link>https://pentesttoday.com/blog/open-weights-models-offensive-cyber</link>
+      <guid isPermaLink="false">https://pentesttoday.com/blog/open-weights-models-offensive-cyber</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 22:12:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
       <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
       <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
       <category>model</category>
       <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>China&#x27;s open-weight AI models are now just 4 months behind frontier US offerings</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid>
-      <category>model</category>
-      <pubDate>Wed, 16 Sep 2026 10:58:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11057</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11057</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11057</guid>
+      <title>llama.cpp: b11062</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11062</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11062</guid>
       <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 00:01:46 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 09:50:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11058</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11058</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11058</guid>
+      <title>llama.cpp: b11060</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11060</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11060</guid>
       <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 23:59:43 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 06:09:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11059</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11059</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11059</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 05:44:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -156,14 +164,6 @@
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11056</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11056</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11056</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 17:55:36 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
@@ -190,6 +190,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
       <link>https://github.com/Na5co/polygo</link>
       <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
@@ -204,14 +212,6 @@
       <category>harness</category>
       <pubDate>Fri, 18 Sep 2026 22:41:33 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>vLLM: v0.30.0rc2</title>

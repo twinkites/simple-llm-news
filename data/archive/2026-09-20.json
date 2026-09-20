@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T05:01:29.763115+00:00",
+  "generated_at": "2026-09-20T11:34:26.798940+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 651,
+        "score": 676,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +14,25 @@
         }
       },
       {
-        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-        "url": "https://github.com/xanpavle/rocmfix",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-09-19T20:57:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "source": "hn",
-        "score": 156,
+        "score": 157,
         "published": "2026-09-17T16:55:14Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 78 points)"
+        }
+      },
+      {
+        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
+        "url": "https://github.com/xanpavle/rocmfix",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-09-19T20:57:23Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
@@ -50,7 +50,7 @@
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 78,
+        "score": 82,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -58,10 +58,21 @@
         }
       },
       {
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "source": "hn",
+        "score": 146,
+        "published": "2026-09-15T09:47:48Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
         "title": "TikTok users' cameras hacked with open weight model",
         "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
         "source": "hn",
-        "score": 10,
+        "score": 11,
         "published": "2026-09-18T17:51:04Z",
         "truthiness": {
           "label": "yellow",
@@ -83,22 +94,11 @@
         "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
         "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-09-18T17:13:49Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Open weights models are surprisingly aligned on offensive cyber",
-        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T22:12:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -107,6 +107,17 @@
         "source": "hn",
         "score": 5,
         "published": "2026-09-16T16:46:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Open weights models are surprisingly aligned on offensive cyber",
+        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T22:12:18Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -122,17 +133,6 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
-      },
-      {
-        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-16T10:58:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "When \"Review\" Becomes Permission: A Prompt Injection Lab",
         "url": "https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-09-19T12:39:02Z",
         "truthiness": {
           "label": "red",
@@ -183,22 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11057",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11057",
+        "title": "llama.cpp: b11062",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11062",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-20T00:01:46+00:00",
+        "published": "2026-09-20T09:50:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11058",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11058",
+        "title": "llama.cpp: b11060",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11060",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-19T23:59:43+00:00",
+        "published": "2026-09-20T06:09:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11059",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11059",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-20T05:44:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -208,7 +219,7 @@
         "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
         "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
         "source": "hn",
-        "score": 139,
+        "score": 140,
         "published": "2026-09-14T13:59:09Z",
         "truthiness": {
           "label": "green",
@@ -216,21 +227,10 @@
         }
       },
       {
-        "title": "llama.cpp: b11056",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11056",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T17:55:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
         "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-09-18T18:26:53Z",
         "truthiness": {
           "label": "red",
@@ -260,6 +260,17 @@
         }
       },
       {
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
         "title": "Polygo, a local-first CLI that translates your app's strings with Ollama",
         "url": "https://github.com/Na5co/polygo",
         "source": "hn",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-09-11T00:45:26Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
