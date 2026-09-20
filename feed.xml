@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 16:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:56:44 +0000</lastBuildDate>
+    <item>
+      <title>Pirate Face Rescues LLM Models from Deletion</title>
+      <link>https://pirateface.co/</link>
+      <guid isPermaLink="false">https://pirateface.co/</guid>
+      <category>model</category>
+      <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -30,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
-      <link>https://github.com/xanpavle/rocmfix</link>
-      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
       <link>https://news.ycombinator.com/item?id=49736660</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
@@ -46,19 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>How much of F-Droid is LLM generated?</title>
-      <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
-      <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
+      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
+      <link>https://github.com/xanpavle/rocmfix</link>
+      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
       <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
-      <link>https://github.com/anuj0456/OpenArch</link>
-      <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
-      <category>model</category>
-      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,6 +94,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
+      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
+      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
+      <category>model</category>
+      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
       <link>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</link>
       <guid isPermaLink="false">https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</guid>
@@ -134,12 +134,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
+      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
+      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b11064</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11064</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11064</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 15:23:04 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>llama.cpp: b11063</title>
@@ -158,14 +174,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
-      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
       <link>https://doug.sh/posts/vllm-kv-cache-agents/</link>
       <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
@@ -182,20 +190,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
       <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
       <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
@@ -214,20 +222,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>vLLM: v0.30.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2</guid>
+      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
+      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
+      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 21:15:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 21:10:53 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>

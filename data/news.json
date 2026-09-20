@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-20T16:16:03.013184+00:00",
+  "generated_at": "2026-09-20T20:56:44.254667+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "source": "hn",
+        "score": 338,
+        "published": "2026-09-20T15:16:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 698,
+        "score": 711,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -36,6 +47,17 @@
         }
       },
       {
+        "title": "Open-sourced jev architecture last year with model,paper and dataset",
+        "url": "https://news.ycombinator.com/item?id=49736660",
+        "source": "hn",
+        "score": 85,
+        "published": "2026-09-17T05:13:00Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
         "url": "https://github.com/xanpavle/rocmfix",
         "source": "hn",
@@ -44,39 +66,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "source": "hn",
-        "score": 84,
-        "published": "2026-09-17T05:13:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "source": "hn",
-        "score": 146,
-        "published": "2026-09-15T09:47:48Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
-        }
-      },
-      {
-        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-        "url": "https://github.com/anuj0456/OpenArch",
-        "source": "hn",
-        "score": 139,
-        "published": "2026-09-14T07:55:19Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 139 points)"
         }
       },
       {
@@ -94,7 +83,7 @@
         "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
         "url": "https://sunkcost.ai/",
         "source": "hn",
-        "score": 46,
+        "score": 47,
         "published": "2026-09-15T01:37:43Z",
         "truthiness": {
           "label": "green",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Open-weights world models' parameter size doubles every ~6 months",
+        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-09-11T18:09:18Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       }
     ],
@@ -183,6 +183,17 @@
     ],
     "harness": [
       {
+        "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+        "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-09-20T17:43:35Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b11064",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11064",
         "source": "rss",
@@ -191,6 +202,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "source": "hn",
+        "score": 140,
+        "published": "2026-09-14T13:59:09Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
         }
       },
       {
@@ -216,17 +238,6 @@
         }
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-        "source": "hn",
-        "score": 140,
-        "published": "2026-09-14T13:59:09Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
         "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
         "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
         "source": "hn",
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T08:10:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
         "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
         "source": "hn",
@@ -268,6 +268,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-19T08:10:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,25 +304,14 @@
         }
       },
       {
-        "title": "vLLM: v0.30.0rc2",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T21:15:44+00:00",
+        "title": "Shodan indexes over 47.000 exposed Ollama instances",
+        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T05:19:28Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.3-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T21:10:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
