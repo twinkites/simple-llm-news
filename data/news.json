@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T11:34:26.798940+00:00",
+  "generated_at": "2026-09-20T16:16:03.013184+00:00",
   "sections": {
     "model": [
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 676,
+        "score": 698,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-        "url": "https://github.com/xanpavle/rocmfix",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-09-19T20:57:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
@@ -47,10 +36,21 @@
         }
       },
       {
+        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
+        "url": "https://github.com/xanpavle/rocmfix",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-09-19T20:57:23Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 82,
+        "score": 84,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -66,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+        }
+      },
+      {
+        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+        "url": "https://github.com/anuj0456/OpenArch",
+        "source": "hn",
+        "score": 139,
+        "published": "2026-09-14T07:55:19Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 139 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Open-weights world models' parameter size doubles every ~6 months",
-        "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-09-11T18:09:18Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
-        }
       }
     ],
     "security": [
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11064",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11064",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-20T15:23:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11063",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11063",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-20T12:31:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b11062",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11062",
         "source": "rss",
         "score": 0,
         "published": "2026-09-20T09:50:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11060",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11060",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-20T06:09:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11059",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11059",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-20T05:44:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,6 +238,17 @@
         }
       },
       {
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-09-11T00:45:26Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
         "title": "ollama: v0.34.3",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
         "source": "rss",
@@ -257,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-09-11T00:45:26Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {

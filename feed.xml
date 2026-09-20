@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 11:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:16:03 +0000</lastBuildDate>
     <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
@@ -22,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
-      <link>https://github.com/xanpavle/rocmfix</link>
-      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
       <guid isPermaLink="false">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
       <category>model</category>
       <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
+      <link>https://github.com/xanpavle/rocmfix</link>
+      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
+      <category>model</category>
+      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -51,6 +51,14 @@
       <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
       <category>model</category>
       <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
+      <link>https://github.com/anuj0456/OpenArch</link>
+      <guid isPermaLink="false">https://github.com/anuj0456/OpenArch</guid>
+      <category>model</category>
+      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
       <link>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</link>
       <guid isPermaLink="false">https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</guid>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11064</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11064</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11064</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 15:23:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11063</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11063</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11063</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 12:31:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11062</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11062</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11062</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 09:50:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11060</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11060</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11060</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 06:09:59 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11059</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11059</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11059</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 05:44:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,6 +174,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.34.3</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
@@ -187,14 +195,6 @@
       <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
