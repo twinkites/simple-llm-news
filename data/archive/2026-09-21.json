@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T05:06:50.217049+00:00",
+  "generated_at": "2026-09-21T12:59:24.792933+00:00",
   "sections": {
     "model": [
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 494,
+        "score": 543,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
+        "url": "https://github.com/BowlOfData/maki",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-21T10:52:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 724,
+        "score": 728,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -50,11 +61,22 @@
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 87,
+        "score": 90,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "source": "hn",
+        "score": 146,
+        "published": "2026-09-15T09:47:48Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
         }
       },
       {
@@ -111,28 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
-        "url": "https://opendocbot.com/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-16T16:46:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Open weights models are surprisingly aligned on offensive cyber",
-        "url": "https://pentesttoday.com/blog/open-weights-models-offensive-cyber",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T22:12:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
@@ -183,6 +183,28 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11070",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11070",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T10:53:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11069",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11069",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T10:17:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
         "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
         "source": "hn",
@@ -194,11 +216,22 @@
         }
       },
       {
-        "title": "llama.cpp: b11065",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11065",
+        "title": "llama.cpp: b11068",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11068",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-20T21:56:25+00:00",
+        "published": "2026-09-21T09:44:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T06:14:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -213,28 +246,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11064",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11064",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-20T15:23:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11063",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11063",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-20T12:31:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "Shodan indexes over 47.000 exposed Ollama instances",
-        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T05:19:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
         "url": "https://qxotic.ai/",
         "source": "hn",
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "sglang: v0.5.20",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.20",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-18T22:41:33+00:00",
+        "title": "Shodan indexes over 47.000 exposed Ollama instances",
+        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-17T05:19:28Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
