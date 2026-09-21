@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T12:59:24.792933+00:00",
+  "generated_at": "2026-09-21T22:04:45.718812+00:00",
   "sections": {
     "model": [
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 543,
+        "score": 545,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +14,58 @@
         }
       },
       {
-        "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
-        "url": "https://github.com/BowlOfData/maki",
+        "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
+        "url": "https://gcm.echorelay.net/",
         "source": "hn",
         "score": 2,
-        "published": "2026-09-21T10:52:31Z",
+        "published": "2026-09-21T21:15:04Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
+        "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
+        "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-09-21T17:24:51Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 728,
+        "score": 741,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
+        }
+      },
+      {
+        "title": "Aikido Altar: open-weight security model",
+        "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-21T15:04:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
+        "url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-21T15:00:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -58,10 +91,21 @@
         }
       },
       {
+        "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
+        "url": "https://github.com/BowlOfData/maki",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-21T10:52:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Open-sourced jev architecture last year with model,paper and dataset",
         "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 90,
+        "score": 95,
         "published": "2026-09-17T05:13:00Z",
         "truthiness": {
           "label": "yellow",
@@ -69,14 +113,14 @@
         }
       },
       {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "source": "hn",
-        "score": 146,
-        "published": "2026-09-15T09:47:48Z",
+        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T13:44:34+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 146 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -88,50 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "TikTok users' cameras hacked with open weight model",
-        "url": "https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/",
-        "source": "hn",
-        "score": 11,
-        "published": "2026-09-18T17:51:04Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-        "url": "https://sunkcost.ai/",
-        "source": "hn",
-        "score": 47,
-        "published": "2026-09-15T01:37:43Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 42 points)"
-        }
-      },
-      {
-        "title": "SSD-Llama: SSD-Native Inference for Trillion-Parameter Moe on a Consumer PC",
-        "url": "https://arxiv.org/abs/2609.18110",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-18T18:28:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
-        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-18T17:13:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -183,25 +183,58 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11070",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11070",
+        "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+        "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-21T20:59:10Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11081",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11081",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-21T10:53:04+00:00",
+        "published": "2026-09-21T19:54:45+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11069",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11069",
+        "title": "llama.cpp: b11080",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11080",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-21T10:17:54+00:00",
+        "published": "2026-09-21T19:21:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11078",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11078",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T18:52:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
+        "url": "https://github.com/nanosamurai/nanosamurai",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-21T14:17:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -216,25 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11068",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11068",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-21T09:44:26+00:00",
+        "title": "LM Studio is a free desktop app to run local LLMs on your own computer",
+        "url": "https://www.lm-studio.net/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-21T13:02:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-21T06:14:34+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -246,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-21T06:14:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -279,39 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-19T08:10:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-09-15T06:42:32Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Shodan indexes over 47.000 exposed Ollama instances",
-        "url": "https://twitter.com/co11ateral/status/2100313790604599444",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T05:19:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

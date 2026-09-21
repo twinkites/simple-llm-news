@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 12:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:04:45 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -14,11 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)</title>
-      <link>https://github.com/BowlOfData/maki</link>
-      <guid isPermaLink="false">https://github.com/BowlOfData/maki</guid>
+      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
+      <link>https://gcm.echorelay.net/</link>
+      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 10:52:31 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
+      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
+      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -27,6 +35,22 @@
       <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Aikido Altar: open-weight security model</title>
+      <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
+      <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 15:04:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table</title>
+      <link>https://github.com/pokertools-arena/pokertools-arena.github.io</link>
+      <guid isPermaLink="false">https://github.com/pokertools-arena/pokertools-arena.github.io</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 15:00:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)</title>
+      <link>https://github.com/BowlOfData/maki</link>
+      <guid isPermaLink="false">https://github.com/BowlOfData/maki</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 10:52:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
       <link>https://news.ycombinator.com/item?id=49736660</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
@@ -54,12 +86,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>How much of F-Droid is LLM generated?</title>
-      <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
-      <guid isPermaLink="false">https://tintotint.eu/whacky-corner/f-droid_slop/</guid>
+      <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
       <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 09:47:48 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
@@ -67,38 +99,6 @@
       <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
       <category>model</category>
       <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>TikTok users&#x27; cameras hacked with open weight model</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</link>
-      <guid isPermaLink="false">https://www.washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers/</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:51:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
-      <link>https://sunkcost.ai/</link>
-      <guid isPermaLink="false">https://sunkcost.ai/</guid>
-      <category>model</category>
-      <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>SSD-Llama: SSD-Native Inference for Trillion-Parameter Moe on a Consumer PC</title>
-      <link>https://arxiv.org/abs/2609.18110</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.18110</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 18:28:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
-      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
-      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
-      <category>model</category>
-      <pubDate>Fri, 18 Sep 2026 17:13:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,20 +134,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11070</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11070</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11070</guid>
+      <title>vLLM Architecture, Memory and Benchmarks Deep Dive</title>
+      <link>https://www.g-ftech.com/blog/vllm-throughput-deep-dive</link>
+      <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 10:53:04 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:59:10 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11081</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11081</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11081</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 19:54:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11069</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11069</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11069</guid>
+      <title>llama.cpp: b11080</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11080</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11080</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 10:17:54 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:21:48 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11078</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11078</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11078</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 18:52:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
+      <link>https://github.com/nanosamurai/nanosamurai</link>
+      <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 14:17:22 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
@@ -158,20 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11068</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11068</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11068</guid>
+      <title>LM Studio is a free desktop app to run local LLMs on your own computer</title>
+      <link>https://www.lm-studio.net/</link>
+      <guid isPermaLink="false">https://www.lm-studio.net/</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 09:44:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 06:14:34 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 21 Sep 2026 13:02:36 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
@@ -180,6 +196,14 @@
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 06:14:34 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
@@ -203,30 +227,6 @@
       <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 19 Sep 2026 08:10:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Jinfer – AI inference engine for the JVM. AI in a jar</title>
-      <link>https://qxotic.ai/</link>
-      <guid isPermaLink="false">https://qxotic.ai/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 15 Sep 2026 06:42:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
-      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
-      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
