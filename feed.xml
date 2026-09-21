@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 20:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:06:50 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -70,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>SSD-Llama: SSD-Native Inference for Trillion-Parameter Moe on a Consumer PC</title>
+      <link>https://arxiv.org/abs/2609.18110</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.18110</guid>
+      <category>model</category>
+      <pubDate>Fri, 18 Sep 2026 18:28:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend</title>
       <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
       <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://pentesttoday.com/blog/open-weights-models-offensive-cyber</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 22:12:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weights world models&#x27; parameter size doubles every ~6 months</title>
-      <link>https://twitter.com/kaarelkaarelson/status/2098472992821199358</link>
-      <guid isPermaLink="false">https://twitter.com/kaarelkaarelson/status/2098472992821199358</guid>
-      <category>model</category>
-      <pubDate>Fri, 11 Sep 2026 18:09:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +142,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11064</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11064</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11064</guid>
+      <title>llama.cpp: b11065</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11065</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11065</guid>
       <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 15:23:04 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 21:56:25 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11064</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11064</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11064</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 15:23:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11063</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11063</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11063</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 12:31:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11062</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11062</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11062</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 09:50:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,19 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Setting up OpenCode with Ollama and sbx on Mac</title>
-      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
-      <guid isPermaLink="false">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
       <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
       <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
       <category>harness</category>
       <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
+      <link>https://github.com/Na5co/polygo</link>
+      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
+      <category>harness</category>
+      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -206,11 +206,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
-      <link>https://github.com/Na5co/polygo</link>
-      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
+      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
+      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
+      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
       <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Jinfer – AI inference engine for the JVM. AI in a jar</title>
+      <link>https://qxotic.ai/</link>
+      <guid isPermaLink="false">https://qxotic.ai/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 15 Sep 2026 06:42:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Fri, 18 Sep 2026 22:41:33 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Shodan indexes over 47.000 exposed Ollama instances</title>
-      <link>https://twitter.com/co11ateral/status/2100313790604599444</link>
-      <guid isPermaLink="false">https://twitter.com/co11ateral/status/2100313790604599444</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 05:19:28 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
