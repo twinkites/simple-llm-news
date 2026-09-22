@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 05:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:49:05 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -54,6 +54,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
+      <link>https://news.ycombinator.com/item?id=49736660</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Aikido Altar: open-weight security model</title>
       <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
       <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
@@ -67,14 +75,6 @@
       <guid isPermaLink="false">https://github.com/pokertools-arena/pokertools-arena.github.io</guid>
       <category>model</category>
       <pubDate>Mon, 21 Sep 2026 15:00:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
-      <link>https://news.ycombinator.com/item?id=49736660</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+      <title>Show HN: Sunk Cost – How long until a local LLM rig pays for itself?</title>
+      <link>https://sunkcost.ai/</link>
+      <guid isPermaLink="false">https://sunkcost.ai/</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 15 Sep 2026 01:37:43 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
@@ -134,11 +134,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11096</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11096</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11096</guid>
+      <title>Transformers now runs llama.cpp quants</title>
+      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 04:03:14 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:41:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11100</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11100</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11100</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 08:32:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11099</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11099</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11099</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 08:02:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11097</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11097</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11097</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 07:10:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.30.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 05:20:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,20 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11095</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11095</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11095</guid>
+      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
+      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
+      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 01:37:36 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11094</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11094</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11094</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 01:09:28 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
@@ -174,28 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.30.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 22:32:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
-      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
-      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
       <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
       <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+      <link>https://huggingface.co/blog/omlx</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>LM Studio is a free desktop app to run local LLMs on your own computer</title>
@@ -211,22 +227,6 @@
       <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
       <category>harness</category>
       <pubDate>Fri, 18 Sep 2026 18:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama</title>
-      <link>https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</link>
-      <guid isPermaLink="false">https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 15:38:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Polygo, a local-first CLI that translates your app&#x27;s strings with Ollama</title>
-      <link>https://github.com/Na5co/polygo</link>
-      <guid isPermaLink="false">https://github.com/Na5co/polygo</guid>
-      <category>harness</category>
-      <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

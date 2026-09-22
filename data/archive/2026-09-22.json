@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T05:08:59.272594+00:00",
+  "generated_at": "2026-09-22T11:49:05.781225+00:00",
   "sections": {
     "model": [
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 548,
+        "score": 551,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 744,
+        "score": 747,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +39,7 @@
         "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
         "url": "https://gcm.echorelay.net/",
         "source": "hn",
-        "score": 3,
+        "score": 5,
         "published": "2026-09-21T21:15:04Z",
         "truthiness": {
           "label": "red",
@@ -69,6 +69,17 @@
         }
       },
       {
+        "title": "Open-sourced jev architecture last year with model,paper and dataset",
+        "url": "https://news.ycombinator.com/item?id=49736660",
+        "source": "hn",
+        "score": 96,
+        "published": "2026-09-17T05:13:00Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
         "title": "Aikido Altar: open-weight security model",
         "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
         "source": "hn",
@@ -88,17 +99,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "source": "hn",
-        "score": 96,
-        "published": "2026-09-17T05:13:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-21T13:44:34+00:00",
+        "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+        "url": "https://sunkcost.ai/",
+        "source": "hn",
+        "score": 47,
+        "published": "2026-09-15T01:37:43Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 47 points)"
         }
       }
     ],
@@ -183,11 +183,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11096",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11096",
+        "title": "Transformers now runs llama.cpp quants",
+        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-22T10:41:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11100",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11100",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-22T04:03:14+00:00",
+        "published": "2026-09-22T08:32:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11099",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11099",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T08:02:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11097",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11097",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T07:10:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T05:20:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,25 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11095",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11095",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T01:37:36+00:00",
+        "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+        "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+        "source": "hn",
+        "score": 13,
+        "published": "2026-09-20T17:43:35Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11094",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11094",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T01:09:28+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
         }
       },
       {
@@ -238,28 +271,6 @@
         }
       },
       {
-        "title": "vLLM: v0.30.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-21T22:32:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-        "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-09-20T17:43:35Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
-        }
-      },
-      {
         "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
         "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
         "source": "hn",
@@ -268,6 +279,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "url": "https://huggingface.co/blog/omlx",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -287,28 +309,6 @@
         "source": "hn",
         "score": 3,
         "published": "2026-09-18T18:26:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
-        "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-17T15:38:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Polygo, a local-first CLI that translates your app's strings with Ollama",
-        "url": "https://github.com/Na5co/polygo",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-17T20:49:01Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
