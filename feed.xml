@@ -4,29 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 22:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:08:59 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
       <guid isPermaLink="false">https://pirateface.co/</guid>
       <category>model</category>
       <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
-      <link>https://gcm.echorelay.net/</link>
-      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
-      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
-      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Aikido Altar: open-weight security model</title>
-      <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
-      <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
+      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
+      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
+      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 15:04:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table</title>
-      <link>https://github.com/pokertools-arena/pokertools-arena.github.io</link>
-      <guid isPermaLink="false">https://github.com/pokertools-arena/pokertools-arena.github.io</guid>
+      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
+      <link>https://gcm.echorelay.net/</link>
+      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 15:00:39 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)</title>
-      <link>https://github.com/BowlOfData/maki</link>
-      <guid isPermaLink="false">https://github.com/BowlOfData/maki</guid>
+      <title>Aikido Altar: open-weight security model</title>
+      <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
+      <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 10:52:31 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 15:04:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table</title>
+      <link>https://github.com/pokertools-arena/pokertools-arena.github.io</link>
+      <guid isPermaLink="false">https://github.com/pokertools-arena/pokertools-arena.github.io</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 15:00:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,12 +78,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+      <title>Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)</title>
+      <link>https://github.com/BowlOfData/maki</link>
+      <guid isPermaLink="false">https://github.com/BowlOfData/maki</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 21 Sep 2026 10:52:31 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
@@ -100,6 +92,14 @@
       <category>model</category>
       <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
@@ -134,6 +134,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11096</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11096</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11096</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 04:03:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM Architecture, Memory and Benchmarks Deep Dive</title>
       <link>https://www.g-ftech.com/blog/vllm-throughput-deep-dive</link>
       <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
@@ -142,27 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11081</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11081</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11081</guid>
+      <title>llama.cpp: b11095</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11095</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11095</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 19:54:45 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 01:37:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11080</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11080</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11080</guid>
+      <title>llama.cpp: b11094</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11094</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11094</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 19:21:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11078</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11078</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11078</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 18:52:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 01:09:28 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,19 +174,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.30.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 22:32:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
       <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
       <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LM Studio is a free desktop app to run local LLMs on your own computer</title>
-      <link>https://www.lm-studio.net/</link>
-      <guid isPermaLink="false">https://www.lm-studio.net/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 13:02:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
+      <title>LM Studio is a free desktop app to run local LLMs on your own computer</title>
+      <link>https://www.lm-studio.net/</link>
+      <guid isPermaLink="false">https://www.lm-studio.net/</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 06:14:34 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 21 Sep 2026 13:02:36 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
