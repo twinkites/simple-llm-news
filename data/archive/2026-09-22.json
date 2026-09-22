@@ -1,16 +1,60 @@
 {
-  "generated_at": "2026-09-22T17:04:02.586118+00:00",
+  "generated_at": "2026-09-22T21:27:28.894680+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money",
+        "url": "https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-22T20:55:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
+        "url": "https://github.com/sshah03/shrewd",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-22T20:00:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 554,
+        "score": 555,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
+      {
+        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
+        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-22T18:37:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "source": "hn",
+        "score": 752,
+        "published": "2026-09-17T21:48:38Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
         }
       },
       {
@@ -22,17 +66,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "How to Write with an LLM",
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "source": "hn",
-        "score": 750,
-        "published": "2026-09-17T21:48:38Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
         }
       },
       {
@@ -50,7 +83,7 @@
         "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "source": "hn",
-        "score": 416,
+        "score": 417,
         "published": "2026-09-13T15:44:38Z",
         "truthiness": {
           "label": "yellow",
@@ -99,39 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
-        "url": "https://github.com/BowlOfData/maki",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-21T10:52:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-        "url": "https://huggingface.co/blog/evaleval-aisi",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-        "url": "https://github.com/xanpavle/rocmfix",
-        "source": "hn",
-        "score": 9,
-        "published": "2026-09-19T20:57:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       }
     ],
@@ -183,33 +183,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11105",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11105",
+        "title": "llama.cpp: b11114",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11114",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-22T16:23:15+00:00",
+        "published": "2026-09-22T21:16:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11104",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11104",
+        "title": "llama.cpp: b11113",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11113",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-22T15:36:48+00:00",
+        "published": "2026-09-22T20:44:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11103",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11103",
+        "title": "ollama: v0.34.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-22T14:56:42+00:00",
+        "published": "2026-09-22T20:42:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11112",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11112",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T19:46:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,6 +249,17 @@
         }
       },
       {
+        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "source": "hn",
+        "score": 140,
+        "published": "2026-09-14T13:59:09Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
         "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
         "url": "https://github.com/nanosamurai/nanosamurai",
         "source": "hn",
@@ -260,33 +282,11 @@
         }
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-        "source": "hn",
-        "score": 140,
-        "published": "2026-09-14T13:59:09Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
         "title": "vLLM: v0.30.0",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
         "source": "rss",
         "score": 0,
         "published": "2026-09-22T05:20:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-        "url": "https://huggingface.co/blog/omlx",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T00:00:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
-        "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-18T18:26:53Z",
+        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "url": "https://huggingface.co/blog/omlx",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T00:00:00+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:27:28 +0000</lastBuildDate>
+    <item>
+      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
+      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
+      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
+      <link>https://github.com/sshah03/shrewd</link>
+      <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -14,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
-      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
-      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
+      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
+      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
+      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
       <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -27,6 +43,14 @@
       <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
+      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
+      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,30 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)</title>
-      <link>https://github.com/BowlOfData/maki</link>
-      <guid isPermaLink="false">https://github.com/BowlOfData/maki</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 10:52:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
-      <link>https://huggingface.co/blog/evaleval-aisi</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/evaleval-aisi</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
-      <link>https://github.com/xanpavle/rocmfix</link>
-      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>When &quot;Review&quot; Becomes Permission: A Prompt Injection Lab</title>
       <link>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</link>
       <guid isPermaLink="false">https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</guid>
@@ -134,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11105</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11105</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11105</guid>
+      <title>llama.cpp: b11114</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11114</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11114</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 16:23:15 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 21:16:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11104</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11104</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11104</guid>
+      <title>llama.cpp: b11113</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11113</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11113</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 15:36:48 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 20:44:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11103</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11103</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11103</guid>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 14:56:42 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11112</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11112</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11112</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 19:46:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,6 +182,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
       <link>https://github.com/nanosamurai/nanosamurai</link>
       <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
@@ -190,27 +206,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
-      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>vLLM: v0.30.0</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
       <category>harness</category>
       <pubDate>Tue, 22 Sep 2026 05:20:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-      <link>https://huggingface.co/blog/omlx</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Keeping vLLM&#x27;s Prefix Cache Warm Between Agent Turns</title>
-      <link>https://doug.sh/posts/vllm-kv-cache-agents/</link>
-      <guid isPermaLink="false">https://doug.sh/posts/vllm-kv-cache-agents/</guid>
+      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+      <link>https://huggingface.co/blog/omlx</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
       <category>harness</category>
-      <pubDate>Fri, 18 Sep 2026 18:26:53 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
