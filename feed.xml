@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 11:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:11:54 +0000</lastBuildDate>
+    <item>
+      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
+      <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
+      <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -28,6 +44,14 @@
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
@@ -54,27 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</title>
-      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
-      <guid isPermaLink="false">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
-      <category>model</category>
-      <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
       <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
       <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
       <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
-      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
-      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
-      <link>https://gcm.echorelay.net/</link>
-      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
+      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
+      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
+      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Aikido Altar: open-weight security model</title>
-      <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
-      <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 15:04:05 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,6 +134,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Hardware-Agnostic Models in vLLM</title>
+      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
+      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11139</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11139</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11139</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 16:14:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Llama.cpp Under the Hood</title>
       <link>https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</link>
       <guid isPermaLink="false">https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</guid>
@@ -142,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11125</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11125</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11125</guid>
+      <title>llama.cpp: b11138</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11138</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11138</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 11:03:46 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 15:39:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11124</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11124</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11124</guid>
+      <title>llama.cpp: b11136</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11136</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11136</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 14:46:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,27 +182,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11123</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11123</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11123</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 09:40:18 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
       <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
       <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM Architecture, Memory and Benchmarks Deep Dive</title>
-      <link>https://www.g-ftech.com/blog/vllm-throughput-deep-dive</link>
-      <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
       <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 20:59:10 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
