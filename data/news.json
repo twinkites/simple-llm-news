@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T04:54:11.585778+00:00",
+  "generated_at": "2026-09-23T11:48:38.110179+00:00",
   "sections": {
     "model": [
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 559,
+        "score": 564,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
@@ -14,21 +14,10 @@
         }
       },
       {
-        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
-        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
-        "source": "hn",
-        "score": 11,
-        "published": "2026-09-22T18:37:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 754,
+        "score": 757,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -36,14 +25,14 @@
         }
       },
       {
-        "title": "Open-weight models take 56% of token volume",
-        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
+        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-23T00:50:36Z",
+        "score": 12,
+        "published": "2026-09-22T18:37:32Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -58,22 +47,22 @@
         }
       },
       {
+        "title": "Open-weight models take 56% of token volume",
+        "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-23T00:50:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
         "url": "https://github.com/sshah03/shrewd",
         "source": "hn",
         "score": 3,
         "published": "2026-09-22T20:00:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design",
-        "url": "https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-22T14:21:34Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design",
+        "url": "https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-22T14:21:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -148,17 +148,6 @@
         }
       },
       {
-        "title": "I caught an LLM-powered recruiter with a prompt injection on LinkedIn",
-        "url": "https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-16T13:42:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
         "url": "https://news.ycombinator.com/item?id=49703186",
         "source": "hn",
@@ -167,6 +156,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "I caught an LLM-powered recruiter with a prompt injection on LinkedIn",
+        "url": "https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-16T13:42:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -183,55 +183,33 @@
     ],
     "harness": [
       {
-        "title": "ollama: v0.34.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0",
+        "title": "Llama.cpp Under the Hood",
+        "url": "https://www.cppdepend.com/blog/llama-cpp-under-the-hood/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-23T10:56:28Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11125",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11125",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-23T02:24:43+00:00",
+        "published": "2026-09-23T11:03:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11118",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11118",
+        "title": "llama.cpp: b11124",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11124",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-23T02:13:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11117",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11117",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T01:46:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11115",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11115",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T21:52:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T20:42:48+00:00",
+        "published": "2026-09-23T10:28:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -241,11 +219,44 @@
         "title": "Transformers now runs llama.cpp quants",
         "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "hn",
-        "score": 2,
-        "published": "2026-09-22T10:41:46Z",
+        "score": 3,
+        "published": "2026-09-23T06:18:18Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11123",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11123",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T09:40:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T08:06:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T02:24:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,6 +282,17 @@
         }
       },
       {
+        "title": "ollama: v0.34.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-22T20:42:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
         "url": "https://github.com/nanosamurai/nanosamurai",
         "source": "hn",
@@ -290,28 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.30.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-22T05:20:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "LM Studio is a free desktop app to run local LLMs on your own computer",
-        "url": "https://www.lm-studio.net/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-21T13:02:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

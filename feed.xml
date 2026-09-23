@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 04:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:48:38 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
       <guid isPermaLink="false">https://pirateface.co/</guid>
       <category>model</category>
       <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
-      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
-      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weight models take 56% of token volume</title>
-      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
-      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
+      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
+      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
       <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 00:50:36 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weight models take 56% of token volume</title>
+      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
+      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 00:50:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
       <link>https://github.com/sshah03/shrewd</link>
       <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
-      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
-      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,6 +67,14 @@
       <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
       <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
+      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
+      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -110,19 +110,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
-      <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
-      <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
-      <category>security</category>
-      <pubDate>Wed, 16 Sep 2026 13:42:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: Is your AI LLM based web service secure from prompt injection?</title>
       <link>https://news.ycombinator.com/item?id=49703186</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49703186</guid>
       <category>security</category>
       <pubDate>Mon, 14 Sep 2026 20:08:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
+      <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
+      <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
+      <category>security</category>
+      <pubDate>Wed, 16 Sep 2026 13:42:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,43 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
+      <title>Llama.cpp Under the Hood</title>
+      <link>https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</link>
+      <guid isPermaLink="false">https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 10:56:28 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11125</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11125</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11125</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 11:03:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11118</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11118</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11118</guid>
+      <title>llama.cpp: b11124</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11124</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11124</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 02:13:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11117</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11117</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11117</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 01:46:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11115</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11115</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11115</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 21:52:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -178,8 +162,32 @@
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 10:41:46 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11123</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11123</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11123</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 09:40:18 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
@@ -198,6 +206,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.34.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
       <link>https://github.com/nanosamurai/nanosamurai</link>
       <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
@@ -211,22 +227,6 @@
       <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
       <category>harness</category>
       <pubDate>Mon, 21 Sep 2026 20:59:10 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.30.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 05:20:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>LM Studio is a free desktop app to run local LLMs on your own computer</title>
-      <link>https://www.lm-studio.net/</link>
-      <guid isPermaLink="false">https://www.lm-studio.net/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 13:02:36 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
