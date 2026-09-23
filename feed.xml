@@ -4,23 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 21:27:28 +0000</lastBuildDate>
-    <item>
-      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
-      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
-      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
-      <link>https://github.com/sshah03/shrewd</link>
-      <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 04:54:11 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -46,19 +30,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weight models take 56% of token volume</title>
+      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
+      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 00:50:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
+      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
+      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
+      <link>https://github.com/sshah03/shrewd</link>
+      <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
       <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
       <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
-      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
-      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
-      <link>https://gcm.echorelay.net/</link>
-      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
+      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
+      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
+      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: WebGCM – a global climate model running in the browser on WebGPU</title>
+      <link>https://gcm.echorelay.net/</link>
+      <guid isPermaLink="false">https://gcm.echorelay.net/</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 21:15:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Aikido Altar: open-weight security model</title>
       <link>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</link>
       <guid isPermaLink="false">https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</guid>
       <category>model</category>
       <pubDate>Mon, 21 Sep 2026 15:04:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table</title>
-      <link>https://github.com/pokertools-arena/pokertools-arena.github.io</link>
-      <guid isPermaLink="false">https://github.com/pokertools-arena/pokertools-arena.github.io</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 15:00:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11114</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11114</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11114</guid>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 21:16:50 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11113</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11113</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11113</guid>
+      <title>llama.cpp: b11118</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11118</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11118</guid>
       <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 20:44:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:13:49 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11117</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11117</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11117</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 01:46:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11115</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11115</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11115</guid>
+      <category>harness</category>
+      <pubDate>Tue, 22 Sep 2026 21:52:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,14 +174,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11112</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11112</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11112</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 19:46:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
@@ -174,19 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
-      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
-      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
       <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
       <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
+      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
+      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Mon, 21 Sep 2026 13:02:36 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-      <link>https://huggingface.co/blog/omlx</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
