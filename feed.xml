@@ -4,29 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:11:54 +0000</lastBuildDate>
-    <item>
-      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
-      <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
-      <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 21:37:12 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
       <guid isPermaLink="false">https://pirateface.co/</guid>
       <category>model</category>
       <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +30,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
+      <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
+      <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
+      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
       <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
       <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
@@ -46,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
       <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
       <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
+      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
+      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
+      <category>model</category>
+      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,14 +83,6 @@
       <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
-      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
-      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,20 +134,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11149</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11149</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11149</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 20:59:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.5.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 20:50:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11147</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11147</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11147</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 19:07:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Hardware-Agnostic Models in vLLM</title>
       <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
       <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11139</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11139</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11139</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 16:14:50 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp Under the Hood</title>
@@ -158,27 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11138</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11138</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11138</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 15:39:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11136</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11136</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11136</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 14:46:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
+      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
+      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,11 +198,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
-      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
+      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
+      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -204,14 +212,6 @@
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
-      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
-      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>

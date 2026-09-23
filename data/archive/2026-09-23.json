@@ -1,38 +1,27 @@
 {
-  "generated_at": "2026-09-23T17:11:54.380797+00:00",
+  "generated_at": "2026-09-23T21:37:12.323906+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-23T17:07:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
-        "url": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-23T16:06:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 567,
+        "score": 568,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
+      {
+        "title": "Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-23T17:07:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -47,25 +36,36 @@
         }
       },
       {
+        "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+        "url": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-23T16:06:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T18:41:40+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
         "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
-        "score": 14,
+        "score": 15,
         "published": "2026-09-22T18:37:32Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T13:17:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
+        "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
+        "source": "hn",
+        "score": 14,
+        "published": "2026-09-21T17:24:51Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -99,17 +110,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
-        "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
-        "source": "hn",
-        "score": 14,
-        "published": "2026-09-21T17:24:51Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -183,6 +183,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11149",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11149",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T20:59:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.5.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T20:50:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11147",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11147",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T19:07:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Hardware-Agnostic Models in vLLM",
         "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
         "source": "hn",
@@ -191,17 +224,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11139",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11139",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T16:14:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -216,28 +238,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11138",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11138",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T15:39:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11136",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11136",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T14:46:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Transformers now runs llama.cpp quants",
         "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "hn",
@@ -246,17 +246,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T08:06:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,11 +260,11 @@
         }
       },
       {
-        "title": "ollama: v0.34.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0",
+        "title": "vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-23T02:24:43+00:00",
+        "published": "2026-09-23T08:06:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T02:24:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
