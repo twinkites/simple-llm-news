@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:19:16.651548+00:00",
+  "generated_at": "2026-09-24T21:38:05.495268+00:00",
   "sections": {
     "model": [
       {
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "url": "https://github.com/trycua/cua",
+        "source": "hn",
+        "score": 94,
+        "published": "2026-09-19T15:52:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 94 points)"
+        }
+      },
+      {
         "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
         "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
@@ -80,17 +91,6 @@
         }
       },
       {
-        "title": "I stress-tested LLM quantization by deliberately breaking models",
-        "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-23T22:04:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
         "url": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
         "source": "hn",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "I stress-tested LLM quantization by deliberately breaking models",
+        "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-23T22:04:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money",
         "url": "https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
-        "url": "https://github.com/sshah03/shrewd",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-22T20:00:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -159,17 +159,6 @@
         }
       },
       {
-        "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
-        "url": "https://news.ycombinator.com/item?id=49703186",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-14T20:08:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "I caught an LLM-powered recruiter with a prompt injection on LinkedIn",
         "url": "https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/",
         "source": "hn",
@@ -194,33 +183,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11160",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11160",
+        "title": "llama.cpp: b11167",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11167",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-24T13:53:59+00:00",
+        "published": "2026-09-24T21:16:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11159",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11159",
+        "title": "Watermarking in vLLM",
+        "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-24T18:43:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11166",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11166",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-24T12:40:34+00:00",
+        "published": "2026-09-24T20:44:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11158",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11158",
+        "title": "llama.cpp: b11165",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11165",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-24T11:43:54+00:00",
+        "published": "2026-09-24T20:17:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,17 +238,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-24T04:45:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Transformers now runs llama.cpp quants",
         "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "hn",
@@ -257,6 +246,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T04:45:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T23:36:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
         "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T23:36:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-        "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-21T20:59:10Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

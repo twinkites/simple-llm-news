@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:38:05 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -38,6 +38,14 @@
       <source>rss</source>
     </item>
     <item>
+      <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
+      <link>https://github.com/trycua/cua</link>
+      <guid isPermaLink="false">https://github.com/trycua/cua</guid>
+      <category>model</category>
+      <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
       <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
       <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
@@ -62,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I stress-tested LLM quantization by deliberately breaking models</title>
-      <link>https://github.com/gracejackson-sudo/quant-delta-predictor</link>
-      <guid isPermaLink="false">https://github.com/gracejackson-sudo/quant-delta-predictor</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 22:04:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
       <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
       <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>I stress-tested LLM quantization by deliberately breaking models</title>
+      <link>https://github.com/gracejackson-sudo/quant-delta-predictor</link>
+      <guid isPermaLink="false">https://github.com/gracejackson-sudo/quant-delta-predictor</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 22:04:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
       <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
       <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
-      <link>https://github.com/sshah03/shrewd</link>
-      <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,14 +118,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Is your AI LLM based web service secure from prompt injection?</title>
-      <link>https://news.ycombinator.com/item?id=49703186</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49703186</guid>
-      <category>security</category>
-      <pubDate>Mon, 14 Sep 2026 20:08:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I caught an LLM-powered recruiter with a prompt injection on LinkedIn</title>
       <link>https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</link>
       <guid isPermaLink="false">https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/</guid>
@@ -142,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11160</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11160</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11160</guid>
+      <title>llama.cpp: b11167</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11167</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11167</guid>
       <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 13:53:59 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 21:16:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11159</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11159</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11159</guid>
+      <title>Watermarking in vLLM</title>
+      <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
       <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 12:40:34 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11166</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11166</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11166</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 20:44:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11158</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11158</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11158</guid>
+      <title>llama.cpp: b11165</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11165</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11165</guid>
       <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 11:43:54 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 20:17:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Hardware-Agnostic Models in vLLM</title>
@@ -198,20 +198,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
       <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
       <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
@@ -228,14 +228,6 @@
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM Architecture, Memory and Benchmarks Deep Dive</title>
-      <link>https://www.g-ftech.com/blog/vllm-throughput-deep-dive</link>
-      <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 20:59:10 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
