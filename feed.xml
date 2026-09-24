@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 11:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:19:16 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -30,6 +30,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <category>model</category>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
+      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
+      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
@@ -38,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
-      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
-      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
+      <link>https://news.ycombinator.com/item?id=49736660</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
       <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
-      <link>https://news.ycombinator.com/item?id=49736660</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
       <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
       <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
@@ -86,19 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
-      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
       <link>https://github.com/sshah03/shrewd</link>
       <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Meta Muse: Almost no prompt injection resistance</title>
+      <link>https://neuromatch.social/@jonny/117324790823856750</link>
+      <guid isPermaLink="false">https://neuromatch.social/@jonny/117324790823856750</guid>
+      <category>security</category>
+      <pubDate>Thu, 24 Sep 2026 12:51:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,35 +142,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11160</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11160</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11160</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 13:53:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11159</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11159</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11159</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 12:40:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11158</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11158</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11158</guid>
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 11:43:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11157</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11157</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11157</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 08:49:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11156</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11156</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11156</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 08:12:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Hardware-Agnostic Models in vLLM</title>
@@ -198,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
-      <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
+      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
       <category>harness</category>
-      <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
@@ -228,6 +228,14 @@
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM Architecture, Memory and Benchmarks Deep Dive</title>
+      <link>https://www.g-ftech.com/blog/vllm-throughput-deep-dive</link>
+      <guid isPermaLink="false">https://www.g-ftech.com/blog/vllm-throughput-deep-dive</guid>
+      <category>harness</category>
+      <pubDate>Mon, 21 Sep 2026 20:59:10 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>

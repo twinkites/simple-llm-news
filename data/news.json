@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T11:56:39.550657+00:00",
+  "generated_at": "2026-09-24T17:19:16.651548+00:00",
   "sections": {
     "model": [
       {
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "source": "hn",
-        "score": 568,
+        "score": 569,
         "published": "2026-09-20T15:16:07Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
-        "score": 143,
+        "score": 145,
         "published": "2026-09-22T13:01:03Z",
         "truthiness": {
           "label": "green",
@@ -28,11 +28,33 @@
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 762,
+        "score": 763,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
+        }
+      },
+      {
+        "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T14:08:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
+        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-09-22T18:37:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -47,14 +69,14 @@
         }
       },
       {
-        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
-        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+        "title": "Open-sourced jev architecture last year with model,paper and dataset",
+        "url": "https://news.ycombinator.com/item?id=49736660",
         "source": "hn",
-        "score": 15,
-        "published": "2026-09-22T18:37:32Z",
+        "score": 96,
+        "published": "2026-09-17T05:13:00Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -80,17 +102,6 @@
         }
       },
       {
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "source": "hn",
-        "score": 96,
-        "published": "2026-09-17T05:13:00Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
         "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
         "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
         "source": "hn",
@@ -113,17 +124,6 @@
         }
       },
       {
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T18:41:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
         "url": "https://github.com/sshah03/shrewd",
         "source": "hn",
@@ -136,6 +136,17 @@
       }
     ],
     "security": [
+      {
+        "title": "Meta Muse: Almost no prompt injection resistance",
+        "url": "https://neuromatch.social/@jonny/117324790823856750",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-24T12:51:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "When \"Review\" Becomes Permission: A Prompt Injection Lab",
         "url": "https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx",
@@ -183,44 +194,33 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11160",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11160",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T13:53:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11159",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11159",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T12:40:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b11158",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11158",
         "source": "rss",
         "score": 0,
         "published": "2026-09-24T11:43:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11157",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11157",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-24T08:49:01+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11156",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11156",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-24T08:12:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-24T04:45:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,6 +238,17 @@
         }
       },
       {
+        "title": "ollama: v0.34.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T04:45:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Transformers now runs llama.cpp quants",
         "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "hn",
@@ -246,17 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T23:36:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,14 +271,14 @@
         }
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-        "source": "hn",
-        "score": 140,
-        "published": "2026-09-14T13:59:09Z",
+        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T23:36:46+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,6 +312,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+        "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-21T20:59:10Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
