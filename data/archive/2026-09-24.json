@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:01:56.380576+00:00",
+  "generated_at": "2026-09-24T11:56:39.550657+00:00",
   "sections": {
     "model": [
       {
@@ -17,7 +17,7 @@
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
-        "score": 140,
+        "score": 143,
         "published": "2026-09-22T13:01:03Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 761,
+        "score": 762,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "I stress-tested LLM quantization by deliberately breaking models",
-        "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-23T22:04:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
         "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
@@ -69,6 +58,17 @@
         }
       },
       {
+        "title": "I stress-tested LLM quantization by deliberately breaking models",
+        "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-23T22:04:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
         "url": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
         "source": "hn",
@@ -77,17 +77,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T18:41:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -121,6 +110,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T18:41:40+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -183,33 +183,44 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11158",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11158",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T11:43:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11157",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11157",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T08:49:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11156",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11156",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-24T08:12:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.34.4",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
         "source": "rss",
         "score": 0,
         "published": "2026-09-24T04:45:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T23:36:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11151: convert : allow vision target for DFlash/Dspark (#29339)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11151",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T23:16:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,28 +238,6 @@
         }
       },
       {
-        "title": "Hardware-Agnostic Models in vLLM",
-        "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-23T16:26:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11149",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11149",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T20:59:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Transformers now runs llama.cpp quants",
         "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
         "source": "hn",
@@ -260,14 +249,25 @@
         }
       },
       {
-        "title": "llama.cpp: v0.5.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0",
+        "title": "ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-23T20:50:44+00:00",
+        "published": "2026-09-23T23:36:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Hardware-Agnostic Models in vLLM",
+        "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-23T16:26:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -293,17 +293,6 @@
         }
       },
       {
-        "title": "vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-23T08:06:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
         "url": "https://github.com/nanosamurai/nanosamurai",
         "source": "hn",
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-23T08:06:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

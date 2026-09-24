@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 05:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:56:39 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I stress-tested LLM quantization by deliberately breaking models</title>
-      <link>https://github.com/gracejackson-sudo/quant-delta-predictor</link>
-      <guid isPermaLink="false">https://github.com/gracejackson-sudo/quant-delta-predictor</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 22:04:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
       <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
       <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I stress-tested LLM quantization by deliberately breaking models</title>
+      <link>https://github.com/gracejackson-sudo/quant-delta-predictor</link>
+      <guid isPermaLink="false">https://github.com/gracejackson-sudo/quant-delta-predictor</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 22:04:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -60,14 +60,6 @@
       <category>model</category>
       <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
-      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
@@ -92,6 +84,14 @@
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
+      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
+      <category>model</category>
+      <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
@@ -134,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11158</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11158</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11158</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 11:43:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11157</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11157</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11157</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 08:49:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11156</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11156</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11156</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 08:12:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.34.4</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11151: convert : allow vision target for DFlash/Dspark (#29339)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11151</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11151</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 23:16:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,22 +174,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hardware-Agnostic Models in vLLM</title>
-      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
-      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11149</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11149</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11149</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 20:59:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
@@ -190,12 +182,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: v0.5.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</guid>
+      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 20:50:44 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Hardware-Agnostic Models in vLLM</title>
+      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
+      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
@@ -214,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
       <link>https://github.com/nanosamurai/nanosamurai</link>
       <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
       <category>harness</category>
       <pubDate>Mon, 21 Sep 2026 14:17:22 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.30.1rc0: [ROCm][CI] Add MI355 dense NVFP4 and MoRI kernel mirrors (#58281)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.30.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 08:06:15 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
