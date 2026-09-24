@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 21:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:01:56 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
       <guid isPermaLink="false">https://pirateface.co/</guid>
       <category>model</category>
       <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>How to Write with an LLM</title>
+      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
+      <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
+      <category>model</category>
+      <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,11 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>How to Write with an LLM</title>
-      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-      <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
+      <title>I stress-tested LLM quantization by deliberately breaking models</title>
+      <link>https://github.com/gracejackson-sudo/quant-delta-predictor</link>
+      <guid isPermaLink="false">https://github.com/gracejackson-sudo/quant-delta-predictor</guid>
       <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 22:04:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
+      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
+      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +70,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
-      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
-      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
+      <link>https://news.ycombinator.com/item?id=49736660</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
       <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
-      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
-      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +86,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weight models take 56% of token volume</title>
-      <link>https://vercel.com/blog/ai-gateway-production-index-september-2026</link>
-      <guid isPermaLink="false">https://vercel.com/blog/ai-gateway-production-index-september-2026</guid>
+      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
+      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
+      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
       <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 00:50:36 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
-      <link>https://news.ycombinator.com/item?id=49736660</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Xiaomi MiMo v2.6 Pro: New best open-weight LLM with simple design</title>
-      <link>https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</link>
-      <guid isPermaLink="false">https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 14:21:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,36 +134,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11149</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11149</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11149</guid>
+      <title>ollama: v0.34.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 20:59:05 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: v0.5.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</guid>
+      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 20:50:44 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11147</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11147</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11147</guid>
+      <title>llama.cpp: b11151: convert : allow vision target for DFlash/Dspark (#29339)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11151</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11151</guid>
       <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 19:07:05 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 23:16:43 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Hardware-Agnostic Models in vLLM</title>
-      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
-      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Llama.cpp Under the Hood</title>
@@ -174,6 +166,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Hardware-Agnostic Models in vLLM</title>
+      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
+      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11149</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11149</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11149</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 20:59:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
@@ -182,11 +190,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: v0.5.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 23 Sep 2026 20:50:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</title>
       <link>https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
       <guid isPermaLink="false">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</guid>
       <category>harness</category>
       <pubDate>Mon, 14 Sep 2026 13:59:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
+      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
+      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
+      <category>harness</category>
+      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,36 +222,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
-      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
-      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 02:24:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
       <link>https://github.com/nanosamurai/nanosamurai</link>
       <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
       <category>harness</category>
       <pubDate>Mon, 21 Sep 2026 14:17:22 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.3</guid>
-      <category>harness</category>
-      <pubDate>Tue, 22 Sep 2026 20:42:48 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
