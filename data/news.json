@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:20:16.854269+00:00",
+  "generated_at": "2026-09-25T21:42:03.837898+00:00",
   "sections": {
     "model": [
       {
@@ -28,22 +28,11 @@
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
-        "score": 146,
+        "score": 147,
         "published": "2026-09-22T13:01:03Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
-        }
-      },
-      {
-        "title": "Fagan – frontier models plan and review, open-weight models write code",
-        "url": "https://github.com/motock/fagan",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-25T03:00:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -58,14 +47,14 @@
         }
       },
       {
-        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
-        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+        "title": "Fagan – frontier models plan and review, open-weight models write code",
+        "url": "https://github.com/motock/fagan",
         "source": "hn",
-        "score": 15,
-        "published": "2026-09-22T18:37:32Z",
+        "score": 1,
+        "published": "2026-09-25T03:00:53Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
+        "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-09-22T18:37:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -183,11 +183,66 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11182",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11182",
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "source": "hn",
+        "score": 208,
+        "published": "2026-09-25T18:33:50Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "What one vLLM replica on an L40 can carry and how it fails",
+        "url": "https://percentes.ai/writing/2026/calibrating-one-l40-configuration/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-25T20:48:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11191",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11191",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-25T16:49:47+00:00",
+        "published": "2026-09-25T20:30:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11190",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11190",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-25T20:02:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M",
+        "url": "https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-25T17:45:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11189",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11189",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-25T19:37:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,33 +260,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11181",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11181",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-25T15:32:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "ollama: v0.40.0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0",
         "source": "rss",
         "score": 0,
         "published": "2026-09-25T15:22:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11180",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11180",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-25T15:01:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -279,39 +312,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
-        }
-      },
-      {
-        "title": "Hardware-Agnostic Models in vLLM",
-        "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-23T16:26:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.34.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-24T04:45:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
-        "url": "https://github.com/nanosamurai/nanosamurai",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-21T14:17:22Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

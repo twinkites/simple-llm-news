@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:42:03 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fagan – frontier models plan and review, open-weight models write code</title>
-      <link>https://github.com/motock/fagan</link>
-      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
-      <category>model</category>
-      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
       <link>https://github.com/trycua/cua</link>
       <guid isPermaLink="false">https://github.com/trycua/cua</guid>
@@ -46,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
-      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
-      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <title>Fagan – frontier models plan and review, open-weight models write code</title>
+      <link>https://github.com/motock/fagan</link>
+      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
       <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,6 +51,14 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
+      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
+      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,11 +134,51 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11182</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11182</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11182</guid>
+      <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
+      <link>https://ollaya.dev/</link>
+      <guid isPermaLink="false">https://ollaya.dev/</guid>
       <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 16:49:47 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>What one vLLM replica on an L40 can carry and how it fails</title>
+      <link>https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</link>
+      <guid isPermaLink="false">https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 20:48:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11191</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11191</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11191</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 20:30:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11190</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11190</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11190</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 20:02:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M</title>
+      <link>https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</link>
+      <guid isPermaLink="false">https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 17:45:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11189</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11189</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11189</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 19:37:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,27 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11181</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11181</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11181</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 15:32:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ollama: v0.40.0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 15:22:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11180</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11180</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11180</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 15:01:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -203,30 +227,6 @@
       <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
       <category>harness</category>
       <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Hardware-Agnostic Models in vLLM</title>
-      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
-      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 16:26:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Nanosamur.ai – Ollama for Voice Models (STT)</title>
-      <link>https://github.com/nanosamurai/nanosamurai</link>
-      <guid isPermaLink="false">https://github.com/nanosamurai/nanosamurai</guid>
-      <category>harness</category>
-      <pubDate>Mon, 21 Sep 2026 14:17:22 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
