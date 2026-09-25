@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 11:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:20:16 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -14,19 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
       <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
       <category>model</category>
       <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
-      <category>model</category>
-      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
       <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
       <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
@@ -100,6 +92,14 @@
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <category>model</category>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Is indirect prompt injection still a big threat as models get more advanced?</title>
@@ -134,27 +134,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Open-Source Lightweight Prompt Injection Safety</title>
-      <link>https://github.com/StackOneHQ/defender/</link>
-      <guid isPermaLink="false">https://github.com/StackOneHQ/defender/</guid>
-      <category>security</category>
-      <pubDate>Tue, 15 Sep 2026 16:20:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11178</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11178</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11178</guid>
+      <title>llama.cpp: b11182</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11182</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11182</guid>
       <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 11:19:43 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 16:49:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11177</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11177</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11177</guid>
+      <title>Show HN: Llama.cpp fork with 2-4x multiGPU speed for MoE models bigger than VRAM</title>
+      <link>https://github.com/neurall/llama.cpp</link>
+      <guid isPermaLink="false">https://github.com/neurall/llama.cpp</guid>
       <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 05:58:11 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 14:40:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11181</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11181</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11181</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 15:32:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 15:22:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11180</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11180</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11180</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 15:01:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -164,22 +180,6 @@
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 03:31:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11176</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11176</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11176</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 03:15:33 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp Under the Hood</title>
@@ -219,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4</guid>
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 04:45:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.34.4-rc1: mlxrunner: Update XGrammar to 0.2.7 for structured outputs</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 23:36:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
