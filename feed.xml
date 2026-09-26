@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 21:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:09:22 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fagan – frontier models plan and review, open-weight models write code</title>
-      <link>https://github.com/motock/fagan</link>
-      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
-      <category>model</category>
-      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-sourced jev architecture last year with model,paper and dataset</title>
       <link>https://news.ycombinator.com/item?id=49736660</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
@@ -62,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
+      <title>Fagan – frontier models plan and review, open-weight models write code</title>
+      <link>https://github.com/motock/fagan</link>
+      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
       <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
-      <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
-      <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
+      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
       <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,12 +86,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <title>Open-weight models now carry 56% of production tokens and 14% of the spend</title>
+      <link>https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</link>
+      <guid isPermaLink="false">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier</guid>
       <category>model</category>
-      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 23 Sep 2026 16:06:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Shrewd – what I learned distilling LLM labels into local classifiers</title>
+      <link>https://github.com/sshah03/shrewd</link>
+      <guid isPermaLink="false">https://github.com/sshah03/shrewd</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:00:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection in the Wild</title>
+      <link>https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</link>
+      <guid isPermaLink="false">https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</guid>
+      <category>security</category>
+      <pubDate>Fri, 25 Sep 2026 22:52:28 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Is indirect prompt injection still a big threat as models get more advanced?</title>
@@ -142,28 +150,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More</title>
+      <link>https://doug.sh/posts/oh-my-pi-custom-models/</link>
+      <guid isPermaLink="false">https://doug.sh/posts/oh-my-pi-custom-models/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 00:53:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11193</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11193</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11193</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 03:33:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11192</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11192</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11192</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 00:28:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>What one vLLM replica on an L40 can carry and how it fails</title>
       <link>https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</link>
       <guid isPermaLink="false">https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 20:48:44 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11191</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11191</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11191</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 20:30:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11190</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11190</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11190</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 20:02:41 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M</title>
@@ -174,11 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11189</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11189</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11189</guid>
+      <title>llama.cpp: b11191</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11191</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11191</guid>
       <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 19:37:29 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:30:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -219,14 +235,6 @@
       <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM</title>
-      <link>https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</link>
-      <guid isPermaLink="false">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</guid>
-      <category>harness</category>
-      <pubDate>Sun, 20 Sep 2026 17:43:35 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
