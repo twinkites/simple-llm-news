@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:34:34.399854+00:00",
+  "generated_at": "2026-09-26T16:32:11.525763+00:00",
   "sections": {
     "model": [
       {
@@ -39,7 +39,7 @@
         "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
         "url": "https://github.com/trycua/cua",
         "source": "hn",
-        "score": 94,
+        "score": 95,
         "published": "2026-09-19T15:52:51Z",
         "truthiness": {
           "label": "green",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
-        "url": "https://github.com/sshah03/shrewd",
+        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
+        "url": "https://github.com/xanpavle/rocmfix",
         "source": "hn",
-        "score": 3,
-        "published": "2026-09-22T20:00:46Z",
+        "score": 10,
+        "published": "2026-09-19T20:57:23Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
         }
       }
     ],
@@ -179,17 +179,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "I caught an LLM-powered recruiter with a prompt injection on LinkedIn",
-        "url": "https://khancyr.github.io/blog/2026/03/15/how-i-caught-an-llm-powered-recruiter-with-a-prompt-injection-on-linkedin/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-16T13:42:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
@@ -197,11 +186,22 @@
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
-        "score": 479,
+        "score": 538,
         "published": "2026-09-25T18:33:50Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.122",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-26T12:55:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,14 +227,14 @@
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.122",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-26T09:05:10+00:00",
+        "title": "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More",
+        "url": "https://doug.sh/posts/oh-my-pi-custom-models/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-26T00:53:29Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -246,17 +246,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More",
-        "url": "https://doug.sh/posts/oh-my-pi-custom-models/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-26T00:53:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
