@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:09:22.476285+00:00",
+  "generated_at": "2026-09-26T11:34:34.399854+00:00",
   "sections": {
     "model": [
       {
@@ -17,7 +17,7 @@
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "source": "hn",
-        "score": 766,
+        "score": 767,
         "published": "2026-09-17T21:48:38Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
-        "score": 147,
+        "score": 148,
         "published": "2026-09-22T13:01:03Z",
         "truthiness": {
           "label": "green",
@@ -197,11 +197,55 @@
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
-        "score": 385,
+        "score": 479,
         "published": "2026-09-25T18:33:50Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11200",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11200",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-26T10:27:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11199",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11199",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-26T10:03:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.122",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-26T09:05:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11195",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11195",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-26T08:29:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -213,28 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11193",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11193",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-26T03:33:14+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11192",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11192",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-26T00:28:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,17 +282,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11191",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11191",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-25T20:30:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Llama.cpp fork with 2-4x multiGPU speed for MoE models bigger than VRAM",
         "url": "https://github.com/neurall/llama.cpp",
         "source": "hn",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-25T15:22:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -304,6 +304,17 @@
         }
       },
       {
+        "title": "ollama: v0.40.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-25T15:22:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Llama.cpp Under the Hood",
         "url": "https://www.cppdepend.com/blog/llama-cpp-under-the-hood/",
         "source": "hn",
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Transformers now runs llama.cpp quants",
-        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-23T06:18:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

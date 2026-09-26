@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 05:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:34:34 +0000</lastBuildDate>
     <item>
       <title>Pirate Face Rescues LLM Models from Deletion</title>
       <link>https://pirateface.co/</link>
@@ -150,28 +150,44 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11200</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11200</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11200</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 10:27:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11199</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11199</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11199</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 10:03:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.122</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 09:05:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11195</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11195</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11195</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 08:29:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More</title>
       <link>https://doug.sh/posts/oh-my-pi-custom-models/</link>
       <guid isPermaLink="false">https://doug.sh/posts/oh-my-pi-custom-models/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 00:53:29 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11193</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11193</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11193</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 03:33:14 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11192</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11192</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11192</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 00:28:41 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>What one vLLM replica on an L40 can carry and how it fails</title>
@@ -190,19 +206,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11191</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11191</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11191</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 20:30:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Llama.cpp fork with 2-4x multiGPU speed for MoE models bigger than VRAM</title>
       <link>https://github.com/neurall/llama.cpp</link>
       <guid isPermaLink="false">https://github.com/neurall/llama.cpp</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 14:40:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Watermarking in vLLM</title>
+      <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
+      <category>harness</category>
+      <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -214,27 +230,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Watermarking in vLLM</title>
-      <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
-      <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Llama.cpp Under the Hood</title>
       <link>https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</link>
       <guid isPermaLink="false">https://www.cppdepend.com/blog/llama-cpp-under-the-hood/</guid>
       <category>harness</category>
       <pubDate>Wed, 23 Sep 2026 10:56:28 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Transformers now runs llama.cpp quants</title>
-      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
-      <category>harness</category>
-      <pubDate>Wed, 23 Sep 2026 06:18:18 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
