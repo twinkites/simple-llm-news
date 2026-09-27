@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:28:18 +0000</lastBuildDate>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
-      <link>https://vania-novikau.me/ai-party-wall/</link>
-      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +30,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
+      <link>https://vania-novikau.me/ai-party-wall/</link>
+      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
       <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
@@ -46,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local LLM extraction plugin for Obsidian (100% offline)</title>
-      <link>https://github.com/wessteq/revenue-auditor.</link>
-      <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
       <link>https://benchmarkheaven.com/jev-models</link>
       <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local LLM extraction plugin for Obsidian (100% offline)</title>
+      <link>https://github.com/wessteq/revenue-auditor.</link>
+      <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,6 +142,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Faster prompt lookup drafting in llama.cpp</title>
+      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
+      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11222</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11222</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11222</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 17:46:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11221</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11221</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11221</guid>
@@ -156,22 +172,6 @@
       <category>harness</category>
       <pubDate>Sun, 27 Sep 2026 15:02:35 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11217</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11217</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11217</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 14:36:32 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>42x faster prompt lookup drafting in llama.cpp</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
