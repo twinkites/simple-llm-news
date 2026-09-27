@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 05:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:11:55 +0000</lastBuildDate>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local LLM extraction plugin for Obsidian (100% offline)</title>
+      <link>https://github.com/wessteq/revenue-auditor.</link>
+      <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
-      <link>https://github.com/xanpavle/rocmfix</link>
-      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt Injection in the Wild</title>
       <link>https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</link>
       <guid isPermaLink="false">https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</guid>
@@ -142,12 +142,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11206</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11206</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11206</guid>
+      <title>llama.cpp: b11213</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11213</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11213</guid>
       <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 04:01:43 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 11:53:06 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11212</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11212</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11212</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 11:23:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11211</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11211</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11211</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 10:07:31 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
+      <link>https://github.com/jadidbourbaki/llama.cpp/pull/2</link>
+      <guid isPermaLink="false">https://github.com/jadidbourbaki/llama.cpp/pull/2</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 06:30:25 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>42x faster prompt lookup drafting in llama.cpp</title>
@@ -158,14 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.122.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Credence – Jev-style typed decisions from a local GGUF model</title>
       <link>https://github.com/bulyaki/Credence</link>
       <guid isPermaLink="false">https://github.com/bulyaki/Credence</guid>
@@ -174,19 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11205</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11205</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11205</guid>
+      <title>koboldcpp: koboldcpp-1.122.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
       <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 21:03:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11203</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11203</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11203</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 20:37:41 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 17:45:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Llama.cpp fork with 2-4x multiGPU speed for MoE models bigger than VRAM</title>
-      <link>https://github.com/neurall/llama.cpp</link>
-      <guid isPermaLink="false">https://github.com/neurall/llama.cpp</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 14:40:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>

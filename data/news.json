@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-09-27T05:27:27.424651+00:00",
+  "generated_at": "2026-09-27T12:11:55.603022+00:00",
   "sections": {
     "model": [
       {
         "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
         "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
         "source": "hn",
-        "score": 71,
+        "score": 102,
         "published": "2026-09-26T15:49:04Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+        }
+      },
+      {
+        "title": "Local LLM extraction plugin for Obsidian (100% offline)",
+        "url": "https://github.com/wessteq/revenue-auditor.",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-27T09:01:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-        "url": "https://github.com/xanpavle/rocmfix",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-09-19T20:57:23Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
-        }
       }
     ],
     "security": [
@@ -186,7 +186,7 @@
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
-        "score": 587,
+        "score": 596,
         "published": "2026-09-25T18:33:50Z",
         "truthiness": {
           "label": "green",
@@ -194,36 +194,58 @@
         }
       },
       {
-        "title": "llama.cpp: b11206",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11206",
+        "title": "llama.cpp: b11213",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11213",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-27T04:01:43+00:00",
+        "published": "2026-09-27T11:53:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11212",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11212",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-27T11:23:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11211",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11211",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-27T10:07:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Llama.cpp banned him for accidentally tagging in a fork PR",
+        "url": "https://github.com/jadidbourbaki/llama.cpp/pull/2",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-27T06:30:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
         "title": "42x faster prompt lookup drafting in llama.cpp",
         "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
         "source": "hn",
-        "score": 7,
+        "score": 8,
         "published": "2026-09-26T19:57:24Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.122.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T03:10:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -238,22 +260,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11205",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11205",
+        "title": "koboldcpp: koboldcpp-1.122.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-26T21:03:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11203",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11203",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-26T20:37:41+00:00",
+        "published": "2026-09-27T03:10:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -287,17 +298,6 @@
         "source": "hn",
         "score": 1,
         "published": "2026-09-25T17:45:35Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Llama.cpp fork with 2-4x multiGPU speed for MoE models bigger than VRAM",
-        "url": "https://github.com/neurall/llama.cpp",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-25T14:40:12Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
