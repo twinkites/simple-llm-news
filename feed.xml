@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 21:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:27:27 +0000</lastBuildDate>
     <item>
-      <title>Best LLM for every budget, updated daily</title>
-      <link>https://bestmodelforyourbudget.terrydjony.com/</link>
-      <guid isPermaLink="false">https://bestmodelforyourbudget.terrydjony.com/</guid>
+      <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
+      <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
+      <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
-      <pubDate>Thu, 24 Sep 2026 14:09:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
-      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
-      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
-      <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
+      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
+      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
+      <category>model</category>
+      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
       <link>https://github.com/trycua/cua</link>
       <guid isPermaLink="false">https://github.com/trycua/cua</guid>
       <category>model</category>
       <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-sourced jev architecture last year with model,paper and dataset</title>
-      <link>https://news.ycombinator.com/item?id=49736660</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49736660</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 05:13:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fagan – frontier models plan and review, open-weight models write code</title>
-      <link>https://github.com/motock/fagan</link>
-      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
-      <category>model</category>
-      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
@@ -94,11 +78,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Fagan – frontier models plan and review, open-weight models write code</title>
+      <link>https://github.com/motock/fagan</link>
+      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
+      <category>model</category>
+      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
       <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
       <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking</title>
+      <link>https://github.com/xanpavle/rocmfix</link>
+      <guid isPermaLink="false">https://github.com/xanpavle/rocmfix</guid>
+      <category>model</category>
+      <pubDate>Sat, 19 Sep 2026 20:57:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +142,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11206</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11206</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11206</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 04:01:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>42x faster prompt lookup drafting in llama.cpp</title>
       <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.122.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Credence – Jev-style typed decisions from a local GGUF model</title>
+      <link>https://github.com/bulyaki/Credence</link>
+      <guid isPermaLink="false">https://github.com/bulyaki/Credence</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 00:05:20 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -163,22 +187,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11203</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 20:37:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11202</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11202</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11202</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 20:05:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.122</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 12:55:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 15:22:00 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
