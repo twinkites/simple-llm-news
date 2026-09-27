@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 12:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:05:09 +0000</lastBuildDate>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
@@ -14,11 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local LLM extraction plugin for Obsidian (100% offline)</title>
-      <link>https://github.com/wessteq/revenue-auditor.</link>
-      <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
+      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
+      <link>https://vania-novikau.me/ai-party-wall/</link>
+      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
       <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Best LLM for every budget, updated daily</title>
+      <link>https://bestmodelforyourbudget.terrydjony.com/</link>
+      <guid isPermaLink="false">https://bestmodelforyourbudget.terrydjony.com/</guid>
+      <category>model</category>
+      <pubDate>Thu, 24 Sep 2026 14:09:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Local LLM extraction plugin for Obsidian (100% offline)</title>
+      <link>https://github.com/wessteq/revenue-auditor.</link>
+      <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
       <link>https://benchmarkheaven.com/jev-models</link>
       <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
@@ -46,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
-      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
-      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
-      <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
       <link>https://github.com/trycua/cua</link>
       <guid isPermaLink="false">https://github.com/trycua/cua</guid>
       <category>model</category>
       <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
+      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
+      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
+      <category>model</category>
+      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
       <category>model</category>
       <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Fagan – frontier models plan and review, open-weight models write code</title>
-      <link>https://github.com/motock/fagan</link>
-      <guid isPermaLink="false">https://github.com/motock/fagan</guid>
-      <category>model</category>
-      <pubDate>Fri, 25 Sep 2026 03:00:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money</title>
-      <link>https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</link>
-      <guid isPermaLink="false">https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:55:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,36 +142,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11213</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11213</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11213</guid>
+      <title>llama.cpp: b11221</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11221</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11221</guid>
       <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 11:53:06 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 16:38:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11212</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11212</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11212</guid>
+      <title>llama.cpp: b11218</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11218</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11218</guid>
       <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 11:23:24 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 15:02:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11211</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11211</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11211</guid>
+      <title>llama.cpp: b11217</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11217</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11217</guid>
       <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 10:07:31 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 14:36:32 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
-      <link>https://github.com/jadidbourbaki/llama.cpp/pull/2</link>
-      <guid isPermaLink="false">https://github.com/jadidbourbaki/llama.cpp/pull/2</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 06:30:25 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>42x faster prompt lookup drafting in llama.cpp</title>
@@ -179,6 +171,14 @@
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
+      <link>https://github.com/jadidbourbaki/llama.cpp/pull/2</link>
+      <guid isPermaLink="false">https://github.com/jadidbourbaki/llama.cpp/pull/2</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 06:30:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -214,19 +214,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M</title>
-      <link>https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</link>
-      <guid isPermaLink="false">https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 17:45:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Watermarking in vLLM</title>
       <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M</title>
+      <link>https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</link>
+      <guid isPermaLink="false">https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</guid>
+      <category>harness</category>
+      <pubDate>Fri, 25 Sep 2026 17:45:35 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
