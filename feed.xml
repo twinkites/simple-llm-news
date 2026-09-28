@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 21:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:34:24 +0000</lastBuildDate>
+    <item>
+      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
+      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
@@ -30,27 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
-      <link>https://vania-novikau.me/ai-party-wall/</link>
-      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How to Write with an LLM</title>
-      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-      <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
-      <category>model</category>
-      <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
       <link>https://benchmarkheaven.com/jev-models</link>
       <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
       <category>model</category>
       <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
+      <link>https://vania-novikau.me/ai-party-wall/</link>
+      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,6 +134,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>A tiny mascot that thinks, Ollama cloud and Kokoro STT now included</title>
+      <link>https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</link>
+      <guid isPermaLink="false">https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 05:04:51 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
       <link>https://ollaya.dev/</link>
       <guid isPermaLink="false">https://ollaya.dev/</guid>
@@ -150,6 +158,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>How to build a Jev-style classifier with DiffusionGemma and vLLM</title>
+      <link>https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7</link>
+      <guid isPermaLink="false">https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 02:21:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11223</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11223</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11223</guid>
+      <category>harness</category>
+      <pubDate>Sun, 27 Sep 2026 22:06:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11222</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11222</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11222</guid>
@@ -163,14 +187,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11221</guid>
       <category>harness</category>
       <pubDate>Sun, 27 Sep 2026 16:38:09 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11218</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11218</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11218</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 15:02:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,27 +222,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>What one vLLM replica on an L40 can carry and how it fails</title>
-      <link>https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</link>
-      <guid isPermaLink="false">https://percentes.ai/writing/2026/calibrating-one-l40-configuration/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 20:48:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Watermarking in vLLM</title>
       <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
       <category>harness</category>
       <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF BF16 to IQ1_M</title>
-      <link>https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</link>
-      <guid isPermaLink="false">https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 17:45:35 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
