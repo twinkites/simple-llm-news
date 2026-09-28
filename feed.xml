@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 05:34:24 +0000</lastBuildDate>
-    <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 14:07:55 +0000</lastBuildDate>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
+      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -36,6 +36,14 @@
       <category>model</category>
       <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Holo4: powering generalist computer-use agents</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/holo4</guid>
+      <category>model</category>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
@@ -70,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
-      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
-      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
-      <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
       <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
       <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
+      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
+      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
+      <category>model</category>
+      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
       <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
       <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
       <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models</guid>
-      <category>model</category>
-      <pubDate>Wed, 23 Sep 2026 17:07:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,11 +134,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A tiny mascot that thinks, Ollama cloud and Kokoro STT now included</title>
-      <link>https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</link>
-      <guid isPermaLink="false">https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</guid>
+      <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
+      <link>https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</link>
+      <guid isPermaLink="false">https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 05:04:51 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 12:16:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11229</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11229</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11229</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 12:45:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
       <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11228</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11228</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11228</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 11:10:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11227</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11227</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11227</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 09:32:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>A tiny mascot that thinks, Ollama cloud and Kokoro STT now included</title>
+      <link>https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</link>
+      <guid isPermaLink="false">https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 05:04:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -164,30 +196,6 @@
       <category>harness</category>
       <pubDate>Mon, 28 Sep 2026 02:21:37 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11223</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11223</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11223</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 22:06:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11222</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11222</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11222</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 17:46:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11221</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11221</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11221</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 16:38:09 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
@@ -206,14 +214,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.122.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More</title>
       <link>https://doug.sh/posts/oh-my-pi-custom-models/</link>
       <guid isPermaLink="false">https://doug.sh/posts/oh-my-pi-custom-models/</guid>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Watermarking in vLLM</title>
-      <link>https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-24-watermarking-in-vllm</guid>
+      <title>koboldcpp: koboldcpp-1.122.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
       <category>harness</category>
-      <pubDate>Thu, 24 Sep 2026 18:43:48 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>

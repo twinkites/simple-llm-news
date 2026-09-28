@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-28T05:34:24.965137+00:00",
+  "generated_at": "2026-09-28T14:07:55.886368+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
-        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
-        "source": "hn",
-        "score": 11,
-        "published": "2026-09-27T23:45:17Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
       {
         "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
         "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
         "source": "hn",
-        "score": 128,
+        "score": 133,
         "published": "2026-09-26T15:49:04Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+        }
+      },
+      {
+        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
+        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-09-27T23:45:17Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -44,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
+      {
+        "title": "Holo4: powering generalist computer-use agents",
+        "url": "https://huggingface.co/blog/Hcompany/holo4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T09:44:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -72,7 +83,7 @@
         "title": "Local LLM extraction plugin for Obsidian (100% offline)",
         "url": "https://github.com/wessteq/revenue-auditor.",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-09-27T09:01:38Z",
         "truthiness": {
           "label": "red",
@@ -91,17 +102,6 @@
         }
       },
       {
-        "title": "We benchmarked our prompt-injection detector against OWASP's LLM Top",
-        "url": "https://www.cerbereag.site/blog/detecting-prompt-injection-in-production",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-26T16:51:35Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
         "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "We benchmarked our prompt-injection detector against OWASP's LLM Top",
+        "url": "https://www.cerbereag.site/blog/detecting-prompt-injection-in-production",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-26T16:51:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
         "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-23T17:07:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -183,6 +183,72 @@
     ],
     "harness": [
       {
+        "title": "I got 2.2x more tokens per second from llama.cpp on Intel Arc",
+        "url": "https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-28T12:16:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "source": "hn",
+        "score": 609,
+        "published": "2026-09-25T18:33:50Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11229",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11229",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T12:45:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Faster prompt lookup drafting in llama.cpp",
+        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+        "source": "hn",
+        "score": 81,
+        "published": "2026-09-26T19:57:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11228",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11228",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T11:10:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11227",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11227",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T09:32:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "A tiny mascot that thinks, Ollama cloud and Kokoro STT now included",
         "url": "https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f",
         "source": "hn",
@@ -194,28 +260,6 @@
         }
       },
       {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "source": "hn",
-        "score": 607,
-        "published": "2026-09-25T18:33:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
-        }
-      },
-      {
-        "title": "Faster prompt lookup drafting in llama.cpp",
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-        "source": "hn",
-        "score": 75,
-        "published": "2026-09-26T19:57:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "How to build a Jev-style classifier with DiffusionGemma and vLLM",
         "url": "https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7",
         "source": "hn",
@@ -224,39 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11223",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11223",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T22:06:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11222",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11222",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T17:46:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11221",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11221",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T16:38:09+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "koboldcpp: koboldcpp-1.122.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T03:10:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More",
         "url": "https://doug.sh/posts/oh-my-pi-custom-models/",
         "source": "hn",
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "Watermarking in vLLM",
-        "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-09-24T18:43:48Z",
+        "title": "koboldcpp: koboldcpp-1.122.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-27T03:10:15+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
