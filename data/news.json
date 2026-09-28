@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-09-28T14:07:55.886368+00:00",
+  "generated_at": "2026-09-28T23:23:46.068022+00:00",
   "sections": {
     "model": [
       {
         "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
         "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
         "source": "hn",
-        "score": 133,
+        "score": 134,
         "published": "2026-09-26T15:49:04Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
-        }
-      },
-      {
-        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
-        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-09-27T23:45:17Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -47,6 +36,39 @@
         }
       },
       {
+        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
+        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-09-27T23:45:17Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "LLM Ass Bench",
+        "url": "https://www.assbench.com/",
+        "source": "hn",
+        "score": 168,
+        "published": "2026-09-22T20:34:19Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 168 points)"
+        }
+      },
+      {
+        "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+        "url": "https://benchmarkheaven.com/jev-models",
+        "source": "hn",
+        "score": 151,
+        "published": "2026-09-22T13:01:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+        }
+      },
+      {
         "title": "Holo4: powering generalist computer-use agents",
         "url": "https://huggingface.co/blog/Hcompany/holo4",
         "source": "rss",
@@ -58,14 +80,14 @@
         }
       },
       {
-        "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-        "url": "https://benchmarkheaven.com/jev-models",
+        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "url": "https://github.com/trycua/cua",
         "source": "hn",
-        "score": 150,
-        "published": "2026-09-22T13:01:03Z",
+        "score": 95,
+        "published": "2026-09-19T15:52:51Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 94 points)"
         }
       },
       {
@@ -91,17 +113,6 @@
         }
       },
       {
-        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-        "url": "https://github.com/trycua/cua",
-        "source": "hn",
-        "score": 95,
-        "published": "2026-09-19T15:52:51Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 94 points)"
-        }
-      },
-      {
         "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
         "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
-        "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
-        "source": "hn",
-        "score": 14,
-        "published": "2026-09-21T17:24:51Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       }
     ],
@@ -183,17 +183,6 @@
     ],
     "harness": [
       {
-        "title": "I got 2.2x more tokens per second from llama.cpp on Intel Arc",
-        "url": "https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-28T12:16:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
@@ -205,21 +194,65 @@
         }
       },
       {
-        "title": "llama.cpp: b11229",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11229",
+        "title": "llama.cpp: b11240",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11240",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-28T12:45:22+00:00",
+        "published": "2026-09-28T22:30:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
+        "title": "llama.cpp: b11239",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11239",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T22:00:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11238",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11238",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T21:31:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.35.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T21:23:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Why we removed Ollama from Return (and what replaced it)",
+        "url": "https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-28T19:09:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Faster prompt lookup drafting in llama.cpp",
         "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
         "source": "hn",
-        "score": 81,
+        "score": 83,
         "published": "2026-09-26T19:57:24Z",
         "truthiness": {
           "label": "red",
@@ -227,25 +260,36 @@
         }
       },
       {
-        "title": "llama.cpp: b11228",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11228",
+        "title": "ollama: v0.35.0-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-28T11:10:00+00:00",
+        "published": "2026-09-28T20:21:01+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11227",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11227",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-28T09:32:46+00:00",
+        "title": "Show HN: Jeva.cpp – a llama.cpp fork with JEV-compatible API for all LLMs",
+        "url": "https://github.com/PragmaTwice/jeva.cpp",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-09-28T14:29:07Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "I got 2.2x more tokens per second from llama.cpp on Intel Arc",
+        "url": "https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-28T12:16:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -268,50 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Llama.cpp banned him for accidentally tagging in a fork PR",
-        "url": "https://github.com/jadidbourbaki/llama.cpp/pull/2",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-27T06:30:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Credence – Jev-style typed decisions from a local GGUF model",
-        "url": "https://github.com/bulyaki/Credence",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-27T00:05:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More",
-        "url": "https://doug.sh/posts/oh-my-pi-custom-models/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-26T00:53:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.122.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-27T03:10:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

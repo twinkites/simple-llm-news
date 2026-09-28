@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 14:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:23:46 +0000</lastBuildDate>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +30,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
+      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLM Ass Bench</title>
+      <link>https://www.assbench.com/</link>
+      <guid isPermaLink="false">https://www.assbench.com/</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 20:34:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Holo4: powering generalist computer-use agents</title>
       <link>https://huggingface.co/blog/Hcompany/holo4</link>
       <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/holo4</guid>
@@ -46,11 +62,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
+      <link>https://github.com/trycua/cua</link>
+      <guid isPermaLink="false">https://github.com/trycua/cua</guid>
       <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
-      <link>https://github.com/trycua/cua</link>
-      <guid isPermaLink="false">https://github.com/trycua/cua</guid>
-      <category>model</category>
-      <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
       <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
       <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
-      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
-      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
-      <category>model</category>
-      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,14 +134,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
-      <link>https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</link>
-      <guid isPermaLink="false">https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 12:16:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
       <link>https://ollaya.dev/</link>
       <guid isPermaLink="false">https://ollaya.dev/</guid>
@@ -150,12 +142,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11229</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11229</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11229</guid>
+      <title>llama.cpp: b11240</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11240</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11240</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 12:45:22 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 22:30:05 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11239</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11239</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11239</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 22:00:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11238</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11238</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11238</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 21:31:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 21:23:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Why we removed Ollama from Return (and what replaced it)</title>
+      <link>https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</link>
+      <guid isPermaLink="false">https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 19:09:22 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
@@ -166,20 +190,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11228</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11228</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11228</guid>
+      <title>ollama: v0.35.0-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0-rc0</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 11:10:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 20:21:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11227</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11227</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11227</guid>
+      <title>Show HN: Jeva.cpp – a llama.cpp fork with JEV-compatible API for all LLMs</title>
+      <link>https://github.com/PragmaTwice/jeva.cpp</link>
+      <guid isPermaLink="false">https://github.com/PragmaTwice/jeva.cpp</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 09:32:46 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 28 Sep 2026 14:29:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
+      <link>https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</link>
+      <guid isPermaLink="false">https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 12:16:04 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>A tiny mascot that thinks, Ollama cloud and Kokoro STT now included</title>
@@ -196,38 +228,6 @@
       <category>harness</category>
       <pubDate>Mon, 28 Sep 2026 02:21:37 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Llama.cpp banned him for accidentally tagging in a fork PR</title>
-      <link>https://github.com/jadidbourbaki/llama.cpp/pull/2</link>
-      <guid isPermaLink="false">https://github.com/jadidbourbaki/llama.cpp/pull/2</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 06:30:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Credence – Jev-style typed decisions from a local GGUF model</title>
-      <link>https://github.com/bulyaki/Credence</link>
-      <guid isPermaLink="false">https://github.com/bulyaki/Credence</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 00:05:20 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More</title>
-      <link>https://doug.sh/posts/oh-my-pi-custom-models/</link>
-      <guid isPermaLink="false">https://doug.sh/posts/oh-my-pi-custom-models/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 00:53:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.122.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.122.1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 27 Sep 2026 03:10:15 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
