@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T05:52:44.154890+00:00",
+  "generated_at": "2026-09-29T13:03:09.825180+00:00",
   "sections": {
     "model": [
       {
         "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
         "url": "https://stateofutopia.com/experiments/microllmlab/",
         "source": "hn",
-        "score": 195,
+        "score": 262,
         "published": "2026-09-28T18:58:53Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Best LLM for every budget, updated daily",
-        "url": "https://bestmodelforyourbudget.terrydjony.com/",
-        "source": "hn",
-        "score": 184,
-        "published": "2026-09-24T14:09:57Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 182 points)"
-        }
-      },
-      {
         "title": "Flux 3 Action: A 7B open-weight world action model for robots",
         "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
         "source": "hn",
@@ -61,7 +50,7 @@
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
-        "score": 151,
+        "score": 152,
         "published": "2026-09-22T13:01:03Z",
         "truthiness": {
           "label": "green",
@@ -80,17 +69,6 @@
         }
       },
       {
-        "title": "Holo4: powering generalist computer-use agents",
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-28T09:44:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
         "url": "https://vania-novikau.me/ai-party-wall/",
         "source": "hn",
@@ -99,6 +77,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Holo4: powering generalist computer-use agents",
+        "url": "https://huggingface.co/blog/Hcompany/holo4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-28T09:44:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
+        "title": "We benchmarked our prompt-injection detector against OWASP's LLM Top",
+        "url": "https://www.cerbereag.site/blog/detecting-prompt-injection-in-production",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-26T16:51:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -168,25 +168,25 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "When \"Review\" Becomes Permission: A Prompt Injection Lab",
-        "url": "https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-19T12:39:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11255",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11255",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-29T12:31:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
-        "score": 611,
+        "score": 613,
         "published": "2026-09-25T18:33:50Z",
         "truthiness": {
           "label": "green",
@@ -194,33 +194,33 @@
         }
       },
       {
-        "title": "Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma",
-        "url": "https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-29T03:13:02Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.31.0rc1: [CI/Build] Skip the snapshot runtime on CUDA 12.x images (#59118)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1",
+        "title": "llama.cpp: b11254",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11254",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-29T03:18:39+00:00",
+        "published": "2026-09-29T11:22:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11243",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11243",
+        "title": "ContextMemory – Markdown memory for your llama.cpp/vLLM server",
+        "url": "https://github.com/Kortexio/ContextMemory",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-29T07:25:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11249",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11249",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-29T03:00:14+00:00",
+        "published": "2026-09-29T09:40:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,25 +238,14 @@
         }
       },
       {
-        "title": "ollama: v0.35.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-29T01:54:15+00:00",
+        "title": "Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma",
+        "url": "https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-29T03:13:02Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11242",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11242",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-28T23:53:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -282,6 +271,28 @@
         }
       },
       {
+        "title": "vLLM: v0.31.0rc1: [CI/Build] Skip the snapshot runtime on CUDA 12.x images (#59118)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-29T03:18:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.35.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-29T01:54:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Why we removed Ollama from Return (and what replaced it)",
         "url": "https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/",
         "source": "hn",
@@ -290,28 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11240",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11240",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-28T22:30:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.35.0-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-28T20:31:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
