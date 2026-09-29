@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 23:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:52:44 +0000</lastBuildDate>
+    <item>
+      <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
+      <link>https://stateofutopia.com/experiments/microllmlab/</link>
+      <guid isPermaLink="false">https://stateofutopia.com/experiments/microllmlab/</guid>
+      <category>model</category>
+      <pubDate>Mon, 28 Sep 2026 18:58:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Best LLM for every budget, updated daily</title>
-      <link>https://bestmodelforyourbudget.terrydjony.com/</link>
-      <guid isPermaLink="false">https://bestmodelforyourbudget.terrydjony.com/</guid>
-      <category>model</category>
-      <pubDate>Thu, 24 Sep 2026 14:09:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Best LLM for every budget, updated daily</title>
+      <link>https://bestmodelforyourbudget.terrydjony.com/</link>
+      <guid isPermaLink="false">https://bestmodelforyourbudget.terrydjony.com/</guid>
+      <category>model</category>
+      <pubDate>Thu, 24 Sep 2026 14:09:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
       <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
       <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
       <category>model</category>
       <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LLM Ass Bench</title>
-      <link>https://www.assbench.com/</link>
-      <guid isPermaLink="false">https://www.assbench.com/</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 20:34:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,20 +54,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Holo4: powering generalist computer-use agents</title>
-      <link>https://huggingface.co/blog/Hcompany/holo4</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/holo4</guid>
-      <category>model</category>
-      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
       <link>https://github.com/trycua/cua</link>
       <guid isPermaLink="false">https://github.com/trycua/cua</guid>
       <category>model</category>
       <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Holo4: powering generalist computer-use agents</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/Hcompany/holo4</guid>
+      <category>model</category>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>We benchmarked our prompt-injection detector against OWASP&#x27;s LLM Top</title>
-      <link>https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</link>
-      <guid isPermaLink="false">https://www.cerbereag.site/blog/detecting-prompt-injection-in-production</guid>
+      <title>Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8</title>
+      <link>https://twitter.com/Badtheorylabs/status/2102046067990692093</link>
+      <guid isPermaLink="false">https://twitter.com/Badtheorylabs/status/2102046067990692093</guid>
       <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 16:51:35 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 17:24:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,44 +142,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11240</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11240</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11240</guid>
+      <title>Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma</title>
+      <link>https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai</link>
+      <guid isPermaLink="false">https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 22:30:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11239</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11239</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11239</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 22:00:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11238</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11238</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11238</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 21:31:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.35.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 21:23:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Why we removed Ollama from Return (and what replaced it)</title>
-      <link>https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</link>
-      <guid isPermaLink="false">https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 19:09:22 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 03:13:02 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.31.0rc1: [CI/Build] Skip the snapshot runtime on CUDA 12.x images (#59118)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1</guid>
+      <category>harness</category>
+      <pubDate>Tue, 29 Sep 2026 03:18:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11243</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11243</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11243</guid>
+      <category>harness</category>
+      <pubDate>Tue, 29 Sep 2026 03:00:14 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
@@ -190,20 +174,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.35.0-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0-rc0</guid>
+      <title>ollama: v0.35.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 20:21:01 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 01:54:15 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Jeva.cpp – a llama.cpp fork with JEV-compatible API for all LLMs</title>
-      <link>https://github.com/PragmaTwice/jeva.cpp</link>
-      <guid isPermaLink="false">https://github.com/PragmaTwice/jeva.cpp</guid>
+      <title>llama.cpp: b11242</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11242</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11242</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 14:29:07 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Mon, 28 Sep 2026 23:53:19 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
@@ -214,20 +198,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A tiny mascot that thinks, Ollama cloud and Kokoro STT now included</title>
-      <link>https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</link>
-      <guid isPermaLink="false">https://medium.com/@vektormemory/vektor-v1-9-7-is-live-a-tiny-mascot-that-thinks-ollama-cloud-inference-free-kokoro-stt-free-c625e7c5ef7f</guid>
+      <title>Show HN: Jeva.cpp – a llama.cpp fork with JEV-compatible API for all LLMs</title>
+      <link>https://github.com/PragmaTwice/jeva.cpp</link>
+      <guid isPermaLink="false">https://github.com/PragmaTwice/jeva.cpp</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 05:04:51 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 14:29:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>How to build a Jev-style classifier with DiffusionGemma and vLLM</title>
-      <link>https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7</link>
-      <guid isPermaLink="false">https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7</guid>
+      <title>Why we removed Ollama from Return (and what replaced it)</title>
+      <link>https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</link>
+      <guid isPermaLink="false">https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</guid>
       <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 02:21:37 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 19:09:22 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11240</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11240</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11240</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 22:30:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.0-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Mon, 28 Sep 2026 20:31:38 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
