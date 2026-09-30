@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 12:46:01 +0000</lastBuildDate>
-    <item>
-      <title>I Turned 17 Hours of Video into a Second Brain with Local LLM</title>
-      <link>https://shramko.dev/blog/second-brain-from-video</link>
-      <guid isPermaLink="false">https://shramko.dev/blog/second-brain-from-video</guid>
-      <category>model</category>
-      <pubDate>Wed, 30 Sep 2026 12:42:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 22:23:38 +0000</lastBuildDate>
     <item>
       <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
       <link>https://stateofutopia.com/experiments/microllmlab/</link>
@@ -30,6 +22,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>TalkScribe – On-device dictation and local LLM rewrite for macOS</title>
+      <link>https://talkscribe.app</link>
+      <guid isPermaLink="false">https://talkscribe.app</guid>
+      <category>model</category>
+      <pubDate>Wed, 30 Sep 2026 20:29:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Bongard-mini – An open-weight Jev-like model built on T5</title>
+      <link>https://huggingface.co/AgentBull/bongard-mini</link>
+      <guid isPermaLink="false">https://huggingface.co/AgentBull/bongard-mini</guid>
+      <category>model</category>
+      <pubDate>Wed, 30 Sep 2026 15:04:13 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I Turned 17 Hours of Video into a Second Brain with Local LLM</title>
+      <link>https://shramko.dev/blog/second-brain-from-video</link>
+      <guid isPermaLink="false">https://shramko.dev/blog/second-brain-from-video</guid>
+      <category>model</category>
+      <pubDate>Wed, 30 Sep 2026 12:42:33 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
@@ -38,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Pirate Face Rescues LLM Models from Deletion</title>
-      <link>https://pirateface.co/</link>
-      <guid isPermaLink="false">https://pirateface.co/</guid>
+      <title>Local LLM Observability</title>
+      <link>https://github.com/LogneBudo/llmxray</link>
+      <guid isPermaLink="false">https://github.com/LogneBudo/llmxray</guid>
       <category>model</category>
-      <pubDate>Sun, 20 Sep 2026 15:16:07 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:11:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Jev-compatible document classification with open-weight VLMs</title>
-      <link>https://twitter.com/spillai/status/2104652615569334397</link>
-      <guid isPermaLink="false">https://twitter.com/spillai/status/2104652615569334397</guid>
-      <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 16:49:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
       <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
       <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
       <category>model</category>
       <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Jev-compatible document classification with open-weight VLMs</title>
+      <link>https://twitter.com/spillai/status/2104652615569334397</link>
+      <guid isPermaLink="false">https://twitter.com/spillai/status/2104652615569334397</guid>
+      <category>model</category>
+      <pubDate>Tue, 29 Sep 2026 16:49:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
+      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/open-tts-leaderboard</guid>
       <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
-      <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
-      <link>https://vania-novikau.me/ai-party-wall/</link>
-      <guid isPermaLink="false">https://vania-novikau.me/ai-party-wall/</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 12:35:51 +0000</pubDate>
+      <title>Show HN: SideTap – an LLM drives a real iPhone from Windows, no Mac or jailbreak</title>
+      <link>https://github.com/ucsandman/SideTap</link>
+      <guid isPermaLink="false">https://github.com/ucsandman/SideTap</guid>
+      <category>security</category>
+      <pubDate>Wed, 30 Sep 2026 18:05:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11284</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11284</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11284</guid>
+      <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
+      <link>https://github.com/magnitudedev/magnitude</link>
+      <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
       <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 12:39:58 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11302</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11302</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11302</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 21:59:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11282</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11282</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11282</guid>
+      <title>llama.cpp: b11301</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11301</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11301</guid>
       <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 11:59:40 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 21:25:39 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11280</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11280</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11280</guid>
+      <title>llama.cpp: b11299</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11299</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11299</guid>
       <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 11:30:37 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 20:52:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -155,6 +171,14 @@
       <guid isPermaLink="false">https://ollaya.dev/</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
+      <link>https://ollama.com/library/nimble</link>
+      <guid isPermaLink="false">https://ollama.com/library/nimble</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 13:53:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -172,6 +196,14 @@
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: proto-v0.4.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.4.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.4.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 12:52:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Reflex Engine Beats Both Llama.cpp and vLLM on Cold-Start to TTFT</title>
@@ -196,30 +228,6 @@
       <category>harness</category>
       <pubDate>Tue, 29 Sep 2026 23:56:54 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.35.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 20:14:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
-      <link>https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</link>
-      <guid isPermaLink="false">https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 12:16:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ContextMemory – Markdown memory for your llama.cpp/vLLM server</title>
-      <link>https://github.com/Kortexio/ContextMemory</link>
-      <guid isPermaLink="false">https://github.com/Kortexio/ContextMemory</guid>
-      <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 07:25:09 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

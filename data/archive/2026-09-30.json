@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-30T12:46:01.833100+00:00",
+  "generated_at": "2026-09-30T22:23:38.200901+00:00",
   "sections": {
     "model": [
-      {
-        "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
-        "url": "https://shramko.dev/blog/second-brain-from-video",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-30T12:42:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
       {
         "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
         "url": "https://stateofutopia.com/experiments/microllmlab/",
         "source": "hn",
-        "score": 277,
+        "score": 280,
         "published": "2026-09-28T18:58:53Z",
         "truthiness": {
           "label": "green",
@@ -28,11 +17,44 @@
         "title": "Show HN: A working 3D model of an Enigma machine",
         "url": "https://enigma.design",
         "source": "hn",
-        "score": 76,
+        "score": 93,
         "published": "2026-09-29T17:15:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 52 points)"
+        }
+      },
+      {
+        "title": "TalkScribe – On-device dictation and local LLM rewrite for macOS",
+        "url": "https://talkscribe.app",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-30T20:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Bongard-mini – An open-weight Jev-like model built on T5",
+        "url": "https://huggingface.co/AgentBull/bongard-mini",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-30T15:04:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
+        "url": "https://shramko.dev/blog/second-brain-from-video",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-30T12:42:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -47,14 +69,14 @@
         }
       },
       {
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "url": "https://pirateface.co/",
+        "title": "Local LLM Observability",
+        "url": "https://github.com/LogneBudo/llmxray",
         "source": "hn",
-        "score": 569,
-        "published": "2026-09-20T15:16:07Z",
+        "score": 1,
+        "published": "2026-09-30T13:11:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,17 +91,6 @@
         }
       },
       {
-        "title": "Jev-compatible document classification with open-weight VLMs",
-        "url": "https://twitter.com/spillai/status/2104652615569334397",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-29T16:49:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Flux 3 Action: A 7B open-weight world action model for robots",
         "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
         "source": "hn",
@@ -88,6 +99,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Jev-compatible document classification with open-weight VLMs",
+        "url": "https://twitter.com/spillai/status/2104652615569334397",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-29T16:49:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -102,40 +124,29 @@
         }
       },
       {
-        "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-        "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+        "url": "https://huggingface.co/blog/open-tts-leaderboard",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-29T15:30:38+00:00",
+        "published": "2026-09-30T00:00:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-29T13:07:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
-        "url": "https://vania-novikau.me/ai-party-wall/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-27T12:35:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "Show HN: SideTap – an LLM drives a real iPhone from Windows, no Mac or jailbreak",
+        "url": "https://github.com/ucsandman/SideTap",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-09-30T18:05:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Is indirect prompt injection still a big threat as models get more advanced?",
         "url": "https://realarcherl.github.io/posts/prompt_injection/",
@@ -172,33 +183,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11284",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11284",
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "score": 104,
+        "published": "2026-09-30T17:37:40Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11302",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11302",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-30T12:39:58+00:00",
+        "published": "2026-09-30T21:59:21+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11282",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11282",
+        "title": "llama.cpp: b11301",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11301",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-30T11:59:40+00:00",
+        "published": "2026-09-30T21:25:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11280",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11280",
+        "title": "llama.cpp: b11299",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11299",
         "source": "rss",
         "score": 0,
-        "published": "2026-09-30T11:30:37+00:00",
+        "published": "2026-09-30T20:52:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,10 +238,21 @@
         }
       },
       {
+        "title": "Ollama now supports Jev-like decision models all locally in 0.35",
+        "url": "https://ollama.com/library/nimble",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-30T13:53:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "Ollama now supports Jev-style decision models",
         "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
         "source": "hn",
-        "score": 1,
+        "score": 3,
         "published": "2026-09-30T09:15:33Z",
         "truthiness": {
           "label": "red",
@@ -230,11 +263,22 @@
         "title": "Faster prompt lookup drafting in llama.cpp",
         "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
         "source": "hn",
-        "score": 88,
+        "score": 89,
         "published": "2026-09-26T19:57:24Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.4.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.4.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-09-30T12:52:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -268,39 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.35.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-29T20:14:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "I got 2.2x more tokens per second from llama.cpp on Intel Arc",
-        "url": "https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-28T12:16:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "ContextMemory – Markdown memory for your llama.cpp/vLLM server",
-        "url": "https://github.com/Kortexio/ContextMemory",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-29T07:25:09Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
