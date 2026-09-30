@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 22:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:42:41 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: A working 3D model of an Enigma machine</title>
+      <link>https://enigma.design</link>
+      <guid isPermaLink="false">https://enigma.design</guid>
+      <category>model</category>
+      <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
       <link>https://stateofutopia.com/experiments/microllmlab/</link>
       <guid isPermaLink="false">https://stateofutopia.com/experiments/microllmlab/</guid>
       <category>model</category>
       <pubDate>Mon, 28 Sep 2026 18:58:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Jev-compatible document classification with open-weight VLMs</title>
-      <link>https://twitter.com/spillai/status/2104652615569334397</link>
-      <guid isPermaLink="false">https://twitter.com/spillai/status/2104652615569334397</guid>
-      <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 16:49:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +38,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Jev-compatible document classification with open-weight VLMs</title>
+      <link>https://twitter.com/spillai/status/2104652615569334397</link>
+      <guid isPermaLink="false">https://twitter.com/spillai/status/2104652615569334397</guid>
+      <category>model</category>
+      <pubDate>Tue, 29 Sep 2026 16:49:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Why browsers need a native API for open-weight models</title>
       <link>https://medium.com/@kenzic/introducing-the-web-models-api-79321ceef436</link>
       <guid isPermaLink="false">https://medium.com/@kenzic/introducing-the-web-models-api-79321ceef436</guid>
       <category>model</category>
       <pubDate>Tue, 29 Sep 2026 13:48:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
+      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
+      <category>model</category>
+      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,28 +78,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
       <guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
       <category>model</category>
       <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>A wall that listens: the local-LLM pipeline behind an AI party in Vilnius</title>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://github.com/wessteq/revenue-auditor.</guid>
       <category>model</category>
       <pubDate>Sun, 27 Sep 2026 09:01:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Does an open-weight decision model beat a hosted one? Jev vs. Laya</title>
-      <link>https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</link>
-      <guid isPermaLink="false">https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 18:37:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,14 +126,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11262</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11262</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11262</guid>
-      <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 21:54:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
       <link>https://ollaya.dev/</link>
       <guid isPermaLink="false">https://ollaya.dev/</guid>
@@ -142,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11261</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11261</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11261</guid>
+      <title>llama.cpp: b11277: ggml-zdnn: impl buffer reset, fix memory leaks (#29637)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11277</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11277</guid>
       <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 21:22:59 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 04:21:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.35.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</guid>
+      <title>llama.cpp: b11270</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11270</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11270</guid>
       <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 20:14:22 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 03:56:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11260</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11260</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11260</guid>
+      <title>Show HN: Reflex Engine Beats Both Llama.cpp and vLLM on Cold-Start to TTFT</title>
+      <link>https://github.com/lateos-ai/reflex</link>
+      <guid isPermaLink="false">https://github.com/lateos-ai/reflex</guid>
       <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 19:59:36 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 01:24:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11269</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11269</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11269</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 01:21:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,19 +174,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.31.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 00:33:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 29 Sep 2026 23:56:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 29 Sep 2026 20:14:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ContextMemory – Markdown memory for your llama.cpp/vLLM server</title>
       <link>https://github.com/Kortexio/ContextMemory</link>
       <guid isPermaLink="false">https://github.com/Kortexio/ContextMemory</guid>
       <category>harness</category>
       <pubDate>Tue, 29 Sep 2026 07:25:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma</title>
-      <link>https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai</link>
-      <guid isPermaLink="false">https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai</guid>
-      <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 03:13:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -204,22 +220,6 @@
       <category>harness</category>
       <pubDate>Mon, 28 Sep 2026 14:29:07 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Why we removed Ollama from Return (and what replaced it)</title>
-      <link>https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</link>
-      <guid isPermaLink="false">https://returneditor.ai/blog/not-a-setting-why-we-removed-ollama/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 28 Sep 2026 19:09:22 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.31.0rc1: [CI/Build] Skip the snapshot runtime on CUDA 12.x images (#59118)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc1</guid>
-      <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 03:18:39 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
