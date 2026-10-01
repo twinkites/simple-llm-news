@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-01T06:06:42.692570+00:00",
+  "generated_at": "2026-10-01T13:29:34.687118+00:00",
   "sections": {
     "model": [
-      {
-        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-        "url": "https://stateofutopia.com/experiments/microllmlab/",
-        "source": "hn",
-        "score": 281,
-        "published": "2026-09-28T18:58:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 195 points)"
-        }
-      },
       {
         "title": "Show HN: A working 3D model of an Enigma machine",
         "url": "https://enigma.design",
         "source": "hn",
-        "score": 95,
+        "score": 100,
         "published": "2026-09-29T17:15:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 52 points)"
+        }
+      },
+      {
+        "title": "SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes",
+        "url": "https://github.com/13alvone/SpeakesQuery",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-01T08:51:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
-        "url": "https://shramko.dev/blog/second-brain-from-video",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-30T12:42:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "url": "https://benchmarkheaven.com/jev-models",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+        }
+      },
+      {
+        "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
+        "url": "https://shramko.dev/blog/second-brain-from-video",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-09-30T12:42:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -197,11 +197,22 @@
         "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
         "url": "https://github.com/magnitudedev/magnitude",
         "source": "hn",
-        "score": 143,
+        "score": 177,
         "published": "2026-09-30T17:37:40Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Show HN: InferPilot – the vLLM doctor that tells you when fp8 won't help",
+        "url": "https://github.com/poojithdevan4D/InferPilot",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-01T13:07:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -216,47 +227,58 @@
         }
       },
       {
-        "title": "llama.cpp: b11312",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11312",
+        "title": "llama.cpp: b11320",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11320",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-01T03:11:39+00:00",
+        "published": "2026-10-01T11:23:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11311",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11311",
+        "title": "llama.cpp: b11319",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11319",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-01T02:49:37+00:00",
+        "published": "2026-10-01T10:48:32+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11310",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11310",
+        "title": "llama.cpp: b11318",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11318",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-01T02:09:01+00:00",
+        "published": "2026-10-01T10:20:01+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Ollama now supports Jev-like decision models all locally in 0.35",
-        "url": "https://ollama.com/library/nimble",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-30T13:53:05Z",
+        "title": "vLLM: v0.31.0rc3: [Model Runner V2] Support randomized dummy inputs (#58411)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-01T07:54:39+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.21",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.21",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-01T06:22:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -271,6 +293,17 @@
         }
       },
       {
+        "title": "Ollama now supports Jev-like decision models all locally in 0.35",
+        "url": "https://ollama.com/library/nimble",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-30T13:53:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "Ollama now supports Jev-style decision models",
         "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
         "source": "hn",
@@ -282,17 +315,6 @@
         }
       },
       {
-        "title": "vLLM: proto-v0.4.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.4.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-30T12:52:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Reflex Engine Beats Both Llama.cpp and vLLM on Cold-Start to TTFT",
         "url": "https://github.com/lateos-ai/reflex",
         "source": "hn",
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "mlx-lm: v0.32.0: Fix gradients through Mistral4 and MiniMax indices (#1930)",
-        "url": "https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-09-30T08:59:37+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "I got 2.2x more tokens per second from llama.cpp on Intel Arc",
-        "url": "https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-09-28T12:16:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
