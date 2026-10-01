@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 22:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:06:42 +0000</lastBuildDate>
     <item>
       <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
       <link>https://stateofutopia.com/experiments/microllmlab/</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://enigma.design</guid>
       <category>model</category>
       <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
+      <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
+      <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
+      <category>model</category>
+      <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
-      <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
-      <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
       <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -59,14 +67,6 @@
       <guid isPermaLink="false">https://github.com/LogneBudo/llmxray</guid>
       <category>model</category>
       <pubDate>Wed, 30 Sep 2026 13:11:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -100,6 +100,14 @@
       <category>model</category>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Prompt Injection Firewall for AI APIs and Agent Tool Calls</title>
+      <link>https://github.com/rajatrao/jevshield</link>
+      <guid isPermaLink="false">https://github.com/rajatrao/jevshield</guid>
+      <category>security</category>
+      <pubDate>Thu, 01 Oct 2026 01:33:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: SideTap – an LLM drives a real iPhone from Windows, no Mac or jailbreak</title>
@@ -142,36 +150,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11302</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11302</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11302</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 21:59:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11301</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11301</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11301</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 21:25:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11299</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11299</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11299</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 20:52:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
       <link>https://ollaya.dev/</link>
       <guid isPermaLink="false">https://ollaya.dev/</guid>
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11312</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11312</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11312</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 03:11:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11311</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11311</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11311</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 02:49:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11310</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11310</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11310</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 02:09:01 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
@@ -182,19 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ollama now supports Jev-style decision models</title>
-      <link>https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</link>
-      <guid isPermaLink="false">https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 09:15:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
       <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ollama now supports Jev-style decision models</title>
+      <link>https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</link>
+      <guid isPermaLink="false">https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 09:15:33 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -214,20 +222,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.31.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2</guid>
+      <title>mlx-lm: v0.32.0: Fix gradients through Mistral4 and MiniMax indices (#1930)</title>
+      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0</link>
+      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0</guid>
       <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 00:33:58 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 08:59:37 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.35.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.35.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.0</guid>
+      <title>I got 2.2x more tokens per second from llama.cpp on Intel Arc</title>
+      <link>https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</link>
+      <guid isPermaLink="false">https://grigio.org/how-i-got-2-2x-more-tokens-per-second-from-llama-cpp-on-intel-arc/</guid>
       <category>harness</category>
-      <pubDate>Tue, 29 Sep 2026 23:56:54 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 28 Sep 2026 12:16:04 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
