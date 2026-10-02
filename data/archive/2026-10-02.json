@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T05:49:00.071929+00:00",
+  "generated_at": "2026-10-02T12:47:55.696913+00:00",
   "sections": {
     "model": [
       {
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 474,
+        "score": 545,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
@@ -14,36 +14,14 @@
         }
       },
       {
-        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T04:01:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: A working 3D model of an Enigma machine",
         "url": "https://enigma.design",
         "source": "hn",
-        "score": 107,
+        "score": 111,
         "published": "2026-09-29T17:15:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 52 points)"
-        }
-      },
-      {
-        "title": "Free hosted API for Laya, the open-weight decision model",
-        "url": "https://vercel.com/ai-gateway/models/laya",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-01T19:57:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,14 +36,36 @@
         }
       },
       {
-        "title": "Show HN: Snap – local first decision engine open weight",
-        "url": "https://emnlmn.github.io/snap/",
+        "title": "Free hosted API for Laya, the open-weight decision model",
+        "url": "https://vercel.com/ai-gateway/models/laya",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-01T14:06:18Z",
+        "score": 2,
+        "published": "2026-10-01T19:57:03Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-02T04:01:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+        "url": "https://benchmarkheaven.com/jev-models",
+        "source": "hn",
+        "score": 153,
+        "published": "2026-09-22T13:01:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
         }
       },
       {
@@ -80,14 +80,14 @@
         }
       },
       {
-        "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-        "url": "https://benchmarkheaven.com/jev-models",
+        "title": "Show HN: Snap – local first decision engine open weight",
+        "url": "https://emnlmn.github.io/snap/",
         "source": "hn",
-        "score": 153,
-        "published": "2026-09-22T13:01:03Z",
+        "score": 1,
+        "published": "2026-10-01T14:06:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 140 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -113,22 +113,22 @@
         }
       },
       {
+        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
+        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-09-27T23:45:17Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
+        }
+      },
+      {
         "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
         "url": "https://shramko.dev/blog/second-brain-from-video",
         "source": "hn",
         "score": 2,
         "published": "2026-09-30T12:42:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "TalkScribe – On-device dictation and local LLM rewrite for macOS",
-        "url": "https://talkscribe.app",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-09-30T20:29:36Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -197,7 +197,7 @@
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
-        "score": 63,
+        "score": 81,
         "published": "2026-10-01T20:36:47Z",
         "truthiness": {
           "label": "green",
@@ -208,7 +208,7 @@
         "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
         "url": "https://github.com/magnitudedev/magnitude",
         "source": "hn",
-        "score": 191,
+        "score": 193,
         "published": "2026-09-30T17:37:40Z",
         "truthiness": {
           "label": "green",
@@ -216,11 +216,22 @@
         }
       },
       {
-        "title": "llama.cpp: b11342",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11342",
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "source": "hn",
+        "score": 616,
+        "published": "2026-09-25T18:33:50Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11344",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11344",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-02T05:09:22+00:00",
+        "published": "2026-10-02T08:57:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,14 +249,36 @@
         }
       },
       {
-        "title": "llama.cpp: b11339",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11339",
+        "title": "vLLM: v0.31.0rc4",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc4",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-02T04:32:10+00:00",
+        "published": "2026-10-02T06:06:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11342",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11342",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-02T05:09:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Faster prompt lookup drafting in llama.cpp",
+        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+        "source": "hn",
+        "score": 89,
+        "published": "2026-09-26T19:57:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -260,44 +293,11 @@
         }
       },
       {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "source": "hn",
-        "score": 616,
-        "published": "2026-09-25T18:33:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
-        }
-      },
-      {
         "title": "llama.cpp: b11347: hexagon: install rebuilt HTP skels (#29828)",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11347",
         "source": "rss",
         "score": 0,
         "published": "2026-10-02T02:07:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "sglang: v0.5.21",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.21",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T01:09:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.35.1-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-01T22:52:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "Faster prompt lookup drafting in llama.cpp",
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-        "source": "hn",
-        "score": 89,
-        "published": "2026-09-26T19:57:24Z",
+        "title": "sglang: v0.5.21",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.21",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-02T01:09:04+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
