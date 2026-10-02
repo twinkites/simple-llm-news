@@ -4,14 +4,22 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:49:00 +0000</lastBuildDate>
     <item>
-      <title>Free hosted API for Laya, the open-weight decision model</title>
-      <link>https://vercel.com/ai-gateway/models/laya</link>
-      <guid isPermaLink="false">https://vercel.com/ai-gateway/models/laya</guid>
+      <title>Clef: Open-weight decision models, and new RL fine-tuning platform</title>
+      <link>https://blog.cloudflare.com/clef-decision-models/</link>
+      <guid isPermaLink="false">https://blog.cloudflare.com/clef-decision-models/</guid>
       <category>model</category>
-      <pubDate>Thu, 01 Oct 2026 19:57:03 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 16:18:57 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: A working 3D model of an Enigma machine</title>
@@ -22,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Snap – local first decision engine open weight</title>
-      <link>https://emnlmn.github.io/snap/</link>
-      <guid isPermaLink="false">https://emnlmn.github.io/snap/</guid>
+      <title>Free hosted API for Laya, the open-weight decision model</title>
+      <link>https://vercel.com/ai-gateway/models/laya</link>
+      <guid isPermaLink="false">https://vercel.com/ai-gateway/models/laya</guid>
       <category>model</category>
-      <pubDate>Thu, 01 Oct 2026 14:06:18 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 19:57:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +46,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Snap – local first decision engine open weight</title>
+      <link>https://emnlmn.github.io/snap/</link>
+      <guid isPermaLink="false">https://emnlmn.github.io/snap/</guid>
+      <category>model</category>
+      <pubDate>Thu, 01 Oct 2026 14:06:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes</title>
       <link>https://github.com/13alvone/SpeakesQuery</link>
       <guid isPermaLink="false">https://github.com/13alvone/SpeakesQuery</guid>
       <category>model</category>
       <pubDate>Thu, 01 Oct 2026 08:51:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
+      <link>https://benchmarkheaven.com/jev-models</link>
+      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,27 +78,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">https://benchmarkheaven.com/jev-models</guid>
-      <category>model</category>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Bongard-mini – An open-weight Jev-like model built on T5</title>
       <link>https://huggingface.co/AgentBull/bongard-mini</link>
       <guid isPermaLink="false">https://huggingface.co/AgentBull/bongard-mini</guid>
       <category>model</category>
       <pubDate>Wed, 30 Sep 2026 15:04:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>TalkScribe – On-device dictation and local LLM rewrite for macOS</title>
-      <link>https://talkscribe.app</link>
-      <guid isPermaLink="false">https://talkscribe.app</guid>
-      <category>model</category>
-      <pubDate>Wed, 30 Sep 2026 20:29:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
+      <title>TalkScribe – On-device dictation and local LLM rewrite for macOS</title>
+      <link>https://talkscribe.app</link>
+      <guid isPermaLink="false">https://talkscribe.app</guid>
       <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM Observability</title>
-      <link>https://github.com/LogneBudo/llmxray</link>
-      <guid isPermaLink="false">https://github.com/LogneBudo/llmxray</guid>
-      <category>model</category>
-      <pubDate>Wed, 30 Sep 2026 13:11:36 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 20:29:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,19 +158,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11327</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11327</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11327</guid>
+      <title>llama.cpp: b11342</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11342</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11342</guid>
       <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:59:28 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 05:09:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11326</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11326</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11326</guid>
+      <title>Show HN: Fast Ollama like router that gives a text-only model eyes and ears</title>
+      <link>https://github.com/SpaceSwordAI/funcroute</link>
+      <guid isPermaLink="false">https://github.com/SpaceSwordAI/funcroute</guid>
       <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:33:39 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 03:17:10 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11339</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11339</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11339</guid>
+      <category>harness</category>
+      <pubDate>Fri, 02 Oct 2026 04:32:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.1-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.1-rc2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 02 Oct 2026 03:23:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,11 +198,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11325</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11325</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11325</guid>
+      <title>llama.cpp: b11347: hexagon: install rebuilt HTP skels (#29828)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11347</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11347</guid>
       <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:02:12 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 02:07:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.21</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.21</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.21</guid>
+      <category>harness</category>
+      <pubDate>Fri, 02 Oct 2026 01:09:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.35.1-rc1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 22:52:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,43 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: InferPilot – the vLLM doctor that tells you when fp8 won&#x27;t help</title>
-      <link>https://github.com/poojithdevan4D/InferPilot</link>
-      <guid isPermaLink="false">https://github.com/poojithdevan4D/InferPilot</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 13:07:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
       <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
-      <link>https://ollama.com/library/nimble</link>
-      <guid isPermaLink="false">https://ollama.com/library/nimble</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 13:53:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.31.0rc3: [Model Runner V2] Support randomized dummy inputs (#58411)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc3</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc3</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 07:54:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama now supports Jev-style decision models</title>
-      <link>https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</link>
-      <guid isPermaLink="false">https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 09:15:33 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
