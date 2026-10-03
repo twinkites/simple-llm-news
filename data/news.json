@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-03T16:30:07.239262+00:00",
+  "generated_at": "2026-10-03T21:27:25.854826+00:00",
   "sections": {
     "model": [
       {
-        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "hn",
+        "score": 409,
+        "published": "2026-10-03T10:43:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 409 points)"
+        }
+      },
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 195,
+        "score": 421,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -17,22 +28,11 @@
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 622,
+        "score": 624,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 474 points)"
-        }
-      },
-      {
-        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-        "url": "https://jabhook.ai/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-03T15:10:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -41,6 +41,17 @@
         "source": "hn",
         "score": 6,
         "published": "2026-10-03T11:45:55Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-03T15:10:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -58,14 +69,14 @@
         }
       },
       {
-        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
-        "url": "https://huggingface.co/ZeroLeaks/shield-small",
+        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-03T00:00:54Z",
+        "score": 138,
+        "published": "2026-09-26T15:49:04Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
+        "url": "https://huggingface.co/ZeroLeaks/shield-small",
         "source": "hn",
-        "score": 138,
-        "published": "2026-09-26T15:49:04Z",
+        "score": 2,
+        "published": "2026-10-03T00:00:54Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes",
-        "url": "https://github.com/13alvone/SpeakesQuery",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-01T08:51:22Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -194,6 +194,50 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11380",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11380",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-03T21:09:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "source": "hn",
+        "score": 101,
+        "published": "2026-10-01T20:36:47Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "score": 194,
+        "published": "2026-09-30T17:37:40Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "source": "hn",
+        "score": 617,
+        "published": "2026-09-25T18:33:50Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b11379",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11379",
         "source": "rss",
@@ -216,50 +260,6 @@
         }
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
-        "source": "hn",
-        "score": 99,
-        "published": "2026-10-01T20:36:47Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
-        }
-      },
-      {
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
-        "source": "hn",
-        "score": 194,
-        "published": "2026-09-30T17:37:40Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11377",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11377",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T14:27:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "source": "hn",
-        "score": 617,
-        "published": "2026-09-25T18:33:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
-        }
-      },
-      {
         "title": "New in Llama.cpp: Decision Models",
         "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
         "source": "hn",
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
-        "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-02T15:02:09Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Faster prompt lookup drafting in llama.cpp",
         "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 89 points)"
+        }
+      },
+      {
+        "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
+        "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-02T15:02:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
