@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T11:48:23.271217+00:00",
+  "generated_at": "2026-10-03T16:30:07.239262+00:00",
   "sections": {
     "model": [
       {
         "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 11,
+        "score": 195,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -25,10 +25,21 @@
         }
       },
       {
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-03T15:10:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
         "source": "hn",
-        "score": 1,
+        "score": 6,
         "published": "2026-10-03T11:45:55Z",
         "truthiness": {
           "label": "red",
@@ -39,11 +50,22 @@
         "title": "Show HN: A working 3D model of an Enigma machine",
         "url": "https://enigma.design",
         "source": "hn",
-        "score": 113,
+        "score": 115,
         "published": "2026-09-29T17:15:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 52 points)"
+        }
+      },
+      {
+        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
+        "url": "https://huggingface.co/ZeroLeaks/shield-small",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-03T00:00:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -55,17 +77,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
-        "url": "https://huggingface.co/ZeroLeaks/shield-small",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-03T00:00:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,17 +102,6 @@
         }
       },
       {
-        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "url": "https://huggingface.co/blog/allenai/astabrief",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T15:19:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Free hosted API for Laya, the open-weight decision model",
         "url": "https://vercel.com/ai-gateway/models/laya",
         "source": "hn",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "url": "https://huggingface.co/blog/allenai/astabrief",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-02T15:19:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes",
         "url": "https://github.com/13alvone/SpeakesQuery",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
-        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-09-27T23:45:17Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
         }
       }
     ],
@@ -194,11 +194,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11372",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11372",
+        "title": "llama.cpp: b11379",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11379",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-03T11:28:05+00:00",
+        "published": "2026-10-03T15:54:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11378",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11378",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-03T15:02:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -208,7 +219,7 @@
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
-        "score": 98,
+        "score": 99,
         "published": "2026-10-01T20:36:47Z",
         "truthiness": {
           "label": "green",
@@ -227,11 +238,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11371",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11371",
+        "title": "llama.cpp: b11377",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11377",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-03T08:36:57+00:00",
+        "published": "2026-10-03T14:27:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -246,17 +257,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11370",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11370",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T06:27:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

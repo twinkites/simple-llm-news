@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 11:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:30:07 +0000</lastBuildDate>
     <item>
       <title>Kolibri Has Landed: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://blog.cloudflare.com/clef-decision-models/</guid>
       <category>model</category>
       <pubDate>Thu, 01 Oct 2026 16:18:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)</title>
+      <link>https://jabhook.ai/</link>
+      <guid isPermaLink="false">https://jabhook.ai/</guid>
+      <category>model</category>
+      <pubDate>Sat, 03 Oct 2026 15:10:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hacktoberfest is now about building with open-weight models, not counting PRs</title>
-      <link>https://hacktoberfest.com/mission/</link>
-      <guid isPermaLink="false">https://hacktoberfest.com/mission/</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 16:24:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Shield: A 118M model for detecting prompt injections and jailbreaks</title>
       <link>https://huggingface.co/ZeroLeaks/shield-small</link>
       <guid isPermaLink="false">https://huggingface.co/ZeroLeaks/shield-small</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 00:00:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Hacktoberfest is now about building with open-weight models, not counting PRs</title>
+      <link>https://hacktoberfest.com/mission/</link>
+      <guid isPermaLink="false">https://hacktoberfest.com/mission/</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 16:24:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/astabrief</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Free hosted API for Laya, the open-weight decision model</title>
       <link>https://vercel.com/ai-gateway/models/laya</link>
       <guid isPermaLink="false">https://vercel.com/ai-gateway/models/laya</guid>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+      <link>https://huggingface.co/blog/allenai/astabrief</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/astabrief</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes</title>
       <link>https://github.com/13alvone/SpeakesQuery</link>
       <guid isPermaLink="false">https://github.com/13alvone/SpeakesQuery</guid>
       <category>model</category>
       <pubDate>Thu, 01 Oct 2026 08:51:22 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +142,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11372</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11372</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11372</guid>
+      <title>llama.cpp: b11379</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11379</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11379</guid>
       <category>harness</category>
-      <pubDate>Sat, 03 Oct 2026 11:28:05 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 15:54:13 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11378</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11378</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11378</guid>
+      <category>harness</category>
+      <pubDate>Sat, 03 Oct 2026 15:02:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,11 +174,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11371</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11371</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11371</guid>
+      <title>llama.cpp: b11377</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11377</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11377</guid>
       <category>harness</category>
-      <pubDate>Sat, 03 Oct 2026 08:36:57 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 14:27:44 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -180,14 +188,6 @@
       <category>harness</category>
       <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11370</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11370</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11370</guid>
-      <category>harness</category>
-      <pubDate>Sat, 03 Oct 2026 06:27:05 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>New in Llama.cpp: Decision Models</title>
