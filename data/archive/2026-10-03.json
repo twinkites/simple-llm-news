@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-03T05:27:25.160142+00:00",
+  "generated_at": "2026-10-03T11:48:23.271217+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-10-03T09:36:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
       {
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 621,
+        "score": 622,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +25,14 @@
         }
       },
       {
-        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
-        "url": "https://huggingface.co/ZeroLeaks/shield-small",
+        "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
         "source": "hn",
         "score": 1,
-        "published": "2026-10-03T00:00:54Z",
+        "published": "2026-10-03T11:45:55Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Hacktoberfest is now about building with open-weight models, not counting PRs",
-        "url": "https://hacktoberfest.com/mission/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-02T16:24:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -47,14 +47,25 @@
         }
       },
       {
-        "title": "Local LLM Won't Stop Talking? It's Not the Model",
-        "url": "https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/",
+        "title": "Hacktoberfest is now about building with open-weight models, not counting PRs",
+        "url": "https://hacktoberfest.com/mission/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-02T14:03:42Z",
+        "score": 4,
+        "published": "2026-10-02T16:24:30Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
+        "url": "https://huggingface.co/ZeroLeaks/shield-small",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-03T00:00:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -66,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+        }
+      },
+      {
+        "title": "Local LLM Won't Stop Talking? It's Not the Model",
+        "url": "https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-02T14:03:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -99,28 +121,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T04:01:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Snap – local first decision engine open weight",
-        "url": "https://emnlmn.github.io/snap/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-01T14:06:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -194,10 +194,21 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11372",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11372",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-03T11:28:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
-        "score": 96,
+        "score": 98,
         "published": "2026-10-01T20:36:47Z",
         "truthiness": {
           "label": "green",
@@ -216,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11368",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11368",
+        "title": "llama.cpp: b11371",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11371",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-03T02:38:39+00:00",
+        "published": "2026-10-03T08:36:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,11 +249,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11366",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11366",
+        "title": "llama.cpp: b11370",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11370",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-03T01:58:45+00:00",
+        "published": "2026-10-03T06:27:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,28 +271,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11365",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11365",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T01:32:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Ask LM Studio – Use local models directly in the Firefox sidebar",
-        "url": "https://github.com/gocemitevski/ask-lm-studio",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-02T15:41:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
         "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
         "source": "hn",
@@ -290,6 +279,28 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Faster prompt lookup drafting in llama.cpp",
+        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+        "source": "hn",
+        "score": 89,
+        "published": "2026-09-26T19:57:24Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 89 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.31.0: [Misc] Add Transformers version upper bound in requirements (#59614)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-02T22:18:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Faster prompt lookup drafting in llama.cpp",
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-        "source": "hn",
-        "score": 89,
-        "published": "2026-09-26T19:57:24Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 89 points)"
         }
       }
     ]
