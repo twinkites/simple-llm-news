@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:31:22 +0000</lastBuildDate>
     <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -38,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
+      <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
+      <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
+      <category>model</category>
+      <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
       <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox</guid>
@@ -51,14 +59,6 @@
       <guid isPermaLink="false">https://jabhook.ai/</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 15:10:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
-      <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
-      <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
-      <category>model</category>
-      <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,12 +142,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
-      <link>https://github.com/Vibra-Ingenn/Janus</link>
-      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
+      <title>llama.cpp: b11389</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11389</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11389</guid>
       <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 04 Oct 2026 12:05:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11388</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11388</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11388</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 10:42:13 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11387</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11387</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11387</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 10:22:45 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
@@ -155,6 +171,14 @@
       <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
       <category>harness</category>
       <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+      <link>https://github.com/Vibra-Ingenn/Janus</link>
+      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,28 +190,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11382</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11382</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11382</guid>
+      <title>Faster prompt lookup drafting in llama.cpp</title>
+      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
+      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 00:37:56 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11381</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11381</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11381</guid>
-      <category>harness</category>
-      <pubDate>Sat, 03 Oct 2026 21:35:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11380</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11380</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11380</guid>
-      <category>harness</category>
-      <pubDate>Sat, 03 Oct 2026 21:09:19 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>New in Llama.cpp: Decision Models</title>
@@ -195,14 +203,6 @@
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</guid>
       <category>harness</category>
       <pubDate>Fri, 02 Oct 2026 15:06:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Faster prompt lookup drafting in llama.cpp</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -214,28 +214,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Sriti Core – Local-first LLM router that cascades Ollama to cloud to frontier</title>
+      <link>https://github.com/sriti-ai/sriti-core</link>
+      <guid isPermaLink="false">https://github.com/sriti-ai/sriti-core</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 13:46:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
+      <link>https://ollama.com/library/nimble</link>
+      <guid isPermaLink="false">https://ollama.com/library/nimble</guid>
+      <category>harness</category>
+      <pubDate>Wed, 30 Sep 2026 13:53:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>vLLM: v0.31.0: [Misc] Add Transformers version upper bound in requirements (#59614)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0</guid>
       <category>harness</category>
       <pubDate>Fri, 02 Oct 2026 22:18:12 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.31.0rc5: [Misc] Add Transformers version upper bound in requirements (#59614)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc5</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc5</guid>
-      <category>harness</category>
-      <pubDate>Fri, 02 Oct 2026 22:18:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Fast Ollama like router that gives a text-only model eyes and ears</title>
-      <link>https://github.com/SpaceSwordAI/funcroute</link>
-      <guid isPermaLink="false">https://github.com/SpaceSwordAI/funcroute</guid>
-      <category>harness</category>
-      <pubDate>Fri, 02 Oct 2026 03:17:10 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T06:03:11.962862+00:00",
+  "generated_at": "2026-10-04T12:31:22.722867+00:00",
   "sections": {
     "model": [
       {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 564,
+        "score": 621,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -17,7 +17,7 @@
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
-        "score": 410,
+        "score": 413,
         "published": "2026-10-03T10:43:51Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 628,
+        "score": 631,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
@@ -44,6 +44,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "source": "hn",
+        "score": 138,
+        "published": "2026-09-26T15:49:04Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -66,17 +77,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-        "source": "hn",
-        "score": 138,
-        "published": "2026-09-26T15:49:04Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
         }
       },
       {
@@ -194,14 +194,36 @@
     ],
     "harness": [
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
-        "source": "hn",
-        "score": 101,
-        "published": "2026-10-01T20:36:47Z",
+        "title": "llama.cpp: b11389",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11389",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T12:05:21+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11388",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11388",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T10:42:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11387",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11387",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T10:22:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -216,6 +238,17 @@
         }
       },
       {
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "source": "hn",
+        "score": 103,
+        "published": "2026-10-01T20:36:47Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
@@ -224,50 +257,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11382",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11382",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-04T00:37:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11381",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11381",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T21:35:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11380",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11380",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T21:09:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "New in Llama.cpp: Decision Models",
-        "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-02T15:06:13Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -282,6 +271,17 @@
         }
       },
       {
+        "title": "New in Llama.cpp: Decision Models",
+        "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-10-02T15:06:13Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+        }
+      },
+      {
         "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
         "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
         "source": "hn",
@@ -293,6 +293,28 @@
         }
       },
       {
+        "title": "Sriti Core – Local-first LLM router that cascades Ollama to cloud to frontier",
+        "url": "https://github.com/sriti-ai/sriti-core",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-01T13:46:06Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Ollama now supports Jev-like decision models all locally in 0.35",
+        "url": "https://ollama.com/library/nimble",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-09-30T13:53:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "vLLM: v0.31.0: [Misc] Add Transformers version upper bound in requirements (#59614)",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
         "source": "rss",
@@ -301,28 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.31.0rc5: [Misc] Add Transformers version upper bound in requirements (#59614)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T22:18:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Fast Ollama like router that gives a text-only model eyes and ears",
-        "url": "https://github.com/SpaceSwordAI/funcroute",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-02T03:17:10Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
