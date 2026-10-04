@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T12:31:22.722867+00:00",
+  "generated_at": "2026-10-04T21:37:16.786625+00:00",
   "sections": {
     "model": [
       {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 621,
+        "score": 650,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -17,7 +17,7 @@
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
-        "score": 413,
+        "score": 417,
         "published": "2026-10-03T10:43:51Z",
         "truthiness": {
           "label": "green",
@@ -25,14 +25,47 @@
         }
       },
       {
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "url": "https://dwarfstar.sh/",
+        "source": "hn",
+        "score": 358,
+        "published": "2026-10-02T18:01:16Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 358 points)"
+        }
+      },
+      {
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 631,
+        "score": 633,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 474 points)"
+        }
+      },
+      {
+        "title": "Powerful open model is set to shake up AI race",
+        "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-04T17:28:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: A working 3D model of an Enigma machine",
+        "url": "https://enigma.design",
+        "source": "hn",
+        "score": 116,
+        "published": "2026-09-29T17:15:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 116 points)"
         }
       },
       {
@@ -58,17 +91,6 @@
         }
       },
       {
-        "title": "The Agent Said It Was Done. The Database Disagreed.",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-03T22:56:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
         "url": "https://jabhook.ai/",
         "source": "hn",
@@ -91,6 +113,17 @@
         }
       },
       {
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-03T22:56:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Shield: A 118M model for detecting prompt injections and jailbreaks",
         "url": "https://huggingface.co/ZeroLeaks/shield-small",
         "source": "hn",
@@ -99,39 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local LLM Won't Stop Talking? It's Not the Model",
-        "url": "https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-02T14:03:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Free hosted API for Laya, the open-weight decision model",
-        "url": "https://vercel.com/ai-gateway/models/laya",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-01T19:57:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
-        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-09-27T23:45:17Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 12 points)"
         }
       }
     ],
@@ -179,48 +179,37 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Meta Muse: Almost no prompt injection resistance",
-        "url": "https://neuromatch.social/@jonny/117324790823856750",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-09-24T12:51:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11389",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11389",
+        "title": "llama.cpp: b11399: CUDA: refactor swizzling code (#29612)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11399",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-04T12:05:21+00:00",
+        "published": "2026-10-04T20:48:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11388",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11388",
+        "title": "llama.cpp: b11398",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11398",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-04T10:42:13+00:00",
+        "published": "2026-10-04T20:07:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11387",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11387",
+        "title": "llama.cpp: b11397",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11397",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-04T10:22:45+00:00",
+        "published": "2026-10-04T19:50:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -241,7 +230,7 @@
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
-        "score": 103,
+        "score": 104,
         "published": "2026-10-01T20:36:47Z",
         "truthiness": {
           "label": "green",
@@ -257,6 +246,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 208 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T16:37:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T14:45:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,17 +304,6 @@
         }
       },
       {
-        "title": "Sriti Core – Local-first LLM router that cascades Ollama to cloud to frontier",
-        "url": "https://github.com/sriti-ai/sriti-core",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-01T13:46:06Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Ollama now supports Jev-like decision models all locally in 0.35",
         "url": "https://ollama.com/library/nimble",
         "source": "hn",
@@ -312,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.31.0: [Misc] Add Transformers version upper bound in requirements (#59614)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-02T22:18:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 12:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:37:16 +0000</lastBuildDate>
     <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -22,11 +22,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>From the creator of Redis; run LLM locally with ds4</title>
+      <link>https://dwarfstar.sh/</link>
+      <guid isPermaLink="false">https://dwarfstar.sh/</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Clef: Open-weight decision models, and new RL fine-tuning platform</title>
       <link>https://blog.cloudflare.com/clef-decision-models/</link>
       <guid isPermaLink="false">https://blog.cloudflare.com/clef-decision-models/</guid>
       <category>model</category>
       <pubDate>Thu, 01 Oct 2026 16:18:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Powerful open model is set to shake up AI race</title>
+      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
+      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
+      <category>model</category>
+      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: A working 3D model of an Enigma machine</title>
+      <link>https://enigma.design</link>
+      <guid isPermaLink="false">https://enigma.design</guid>
+      <category>model</category>
+      <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)</title>
       <link>https://jabhook.ai/</link>
       <guid isPermaLink="false">https://jabhook.ai/</guid>
@@ -70,35 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>The Agent Said It Was Done. The Database Disagreed.</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+      <category>model</category>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Shield: A 118M model for detecting prompt injections and jailbreaks</title>
       <link>https://huggingface.co/ZeroLeaks/shield-small</link>
       <guid isPermaLink="false">https://huggingface.co/ZeroLeaks/shield-small</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 00:00:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM Won&#x27;t Stop Talking? It&#x27;s Not the Model</title>
-      <link>https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/</link>
-      <guid isPermaLink="false">https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 14:03:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Free hosted API for Laya, the open-weight decision model</title>
-      <link>https://vercel.com/ai-gateway/models/laya</link>
-      <guid isPermaLink="false">https://vercel.com/ai-gateway/models/laya</guid>
-      <category>model</category>
-      <pubDate>Thu, 01 Oct 2026 19:57:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Flux 3 Action: A 7B open-weight world action model for robots</title>
-      <link>https://huggingface.co/blog/black-forest-labs/flux-3-action</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/black-forest-labs/flux-3-action</guid>
-      <category>model</category>
-      <pubDate>Sun, 27 Sep 2026 23:45:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,35 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Meta Muse: Almost no prompt injection resistance</title>
-      <link>https://neuromatch.social/@jonny/117324790823856750</link>
-      <guid isPermaLink="false">https://neuromatch.social/@jonny/117324790823856750</guid>
-      <category>security</category>
-      <pubDate>Thu, 24 Sep 2026 12:51:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11389</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11389</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11389</guid>
+      <title>llama.cpp: b11399: CUDA: refactor swizzling code (#29612)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11399</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11399</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 12:05:21 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 20:48:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11388</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11388</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11388</guid>
+      <title>llama.cpp: b11398</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11398</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11398</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 10:42:13 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 20:07:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11387</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11387</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11387</guid>
+      <title>llama.cpp: b11397</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11397</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11397</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 10:22:45 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 19:50:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,6 +182,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.40.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 16:37:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Faster prompt lookup drafting in llama.cpp</title>
       <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
       <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
@@ -214,28 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Sriti Core – Local-first LLM router that cascades Ollama to cloud to frontier</title>
-      <link>https://github.com/sriti-ai/sriti-core</link>
-      <guid isPermaLink="false">https://github.com/sriti-ai/sriti-core</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 13:46:06 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
       <link>https://ollama.com/library/nimble</link>
       <guid isPermaLink="false">https://ollama.com/library/nimble</guid>
       <category>harness</category>
       <pubDate>Wed, 30 Sep 2026 13:53:05 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.31.0: [Misc] Add Transformers version upper bound in requirements (#59614)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 02 Oct 2026 22:18:12 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
