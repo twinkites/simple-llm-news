@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T05:51:04.510059+00:00",
+  "generated_at": "2026-10-05T14:52:34.837498+00:00",
   "sections": {
     "model": [
       {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 660,
+        "score": 682,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -17,7 +17,7 @@
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
-        "score": 417,
+        "score": 419,
         "published": "2026-10-03T10:43:51Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "source": "hn",
-        "score": 635,
+        "score": 638,
         "published": "2026-10-01T16:18:57Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +58,6 @@
         }
       },
       {
-        "title": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
-        "url": "https://shlexball.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-04T23:05:21Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: A working 3D model of an Enigma machine",
         "url": "https://enigma.design",
         "source": "hn",
@@ -80,11 +69,11 @@
         }
       },
       {
-        "title": "Powerful open model is set to shake up AI race",
-        "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+        "title": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
+        "url": "https://shlexball.com/",
         "source": "hn",
         "score": 1,
-        "published": "2026-10-04T17:28:16Z",
+        "published": "2026-10-04T23:05:21Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
+        }
+      },
+      {
+        "title": "Powerful open model is set to shake up AI race",
+        "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-04T17:28:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -183,33 +183,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11404: metal : few-row MMA mat-mul (#29869)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11404",
+        "title": "llama.cpp: b11424",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11424",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-05T05:29:13+00:00",
+        "published": "2026-10-05T14:50:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11403",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11403",
+        "title": "llama.cpp: b11425: CUDA: make the alloc_deps check batch independent (#29986)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11425",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-05T05:24:41+00:00",
+        "published": "2026-10-05T13:44:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11402",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11402",
+        "title": "llama.cpp: b11422: cuda: use the vector lightning indexer kernel on MUSA (#29990)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11422",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-05T04:35:56+00:00",
+        "published": "2026-10-05T13:09:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +227,6 @@
         }
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
-        "source": "hn",
-        "score": 104,
-        "published": "2026-10-01T20:36:47Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
-        }
-      },
-      {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "hn",
@@ -249,22 +238,33 @@
         }
       },
       {
-        "title": "ollama: v0.40.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3",
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "source": "hn",
+        "score": 106,
+        "published": "2026-10-01T20:36:47Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.31.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-05T00:17:06+00:00",
+        "published": "2026-10-05T06:45:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.40.0-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2",
+        "title": "ollama: v0.40.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-04T15:48:45+00:00",
+        "published": "2026-10-05T00:17:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,17 +282,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-04T14:45:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "New in Llama.cpp: Decision Models",
         "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
         "source": "hn",
@@ -304,14 +293,25 @@
         }
       },
       {
-        "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
-        "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-02T15:02:09Z",
+        "title": "ollama: v0.40.0-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T15:48:45+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-04T14:45:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

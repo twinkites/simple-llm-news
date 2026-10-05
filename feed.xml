@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 05:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:52:34 +0000</lastBuildDate>
     <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -46,14 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac</title>
-      <link>https://shlexball.com/</link>
-      <guid isPermaLink="false">https://shlexball.com/</guid>
-      <category>model</category>
-      <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: A working 3D model of an Enigma machine</title>
       <link>https://enigma.design</link>
       <guid isPermaLink="false">https://enigma.design</guid>
@@ -62,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Powerful open model is set to shake up AI race</title>
-      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
-      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
+      <title>Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac</title>
+      <link>https://shlexball.com/</link>
+      <guid isPermaLink="false">https://shlexball.com/</guid>
       <category>model</category>
-      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,6 +67,14 @@
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Powerful open model is set to shake up AI race</title>
+      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
+      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
+      <category>model</category>
+      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11404: metal : few-row MMA mat-mul (#29869)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11404</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11404</guid>
+      <title>llama.cpp: b11424</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11424</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11424</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 05:29:13 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 14:50:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11403</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11403</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11403</guid>
+      <title>llama.cpp: b11425: CUDA: make the alloc_deps check batch independent (#29986)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11425</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11425</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 05:24:41 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 13:44:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11402</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11402</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11402</guid>
+      <title>llama.cpp: b11422: cuda: use the vector lightning indexer kernel on MUSA (#29990)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11422</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11422</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 04:35:56 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 13:09:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,14 +166,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
-      <link>https://github.com/Vibra-Ingenn/Janus</link>
-      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
       <link>https://ollaya.dev/</link>
       <guid isPermaLink="false">https://ollaya.dev/</guid>
@@ -182,19 +174,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+      <link>https://github.com/Vibra-Ingenn/Janus</link>
+      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.31.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 05 Oct 2026 06:45:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.40.0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</guid>
       <category>harness</category>
       <pubDate>Mon, 05 Oct 2026 00:17:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
-      <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 15:48:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,14 +206,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>New in Llama.cpp: Decision Models</title>
       <link>https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</link>
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</guid>
@@ -222,12 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama</title>
-      <link>https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</link>
-      <guid isPermaLink="false">https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</guid>
+      <title>ollama: v0.40.0-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
       <category>harness</category>
-      <pubDate>Fri, 02 Oct 2026 15:02:09 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 04 Oct 2026 15:48:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
