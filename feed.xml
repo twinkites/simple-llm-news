@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:51:04 +0000</lastBuildDate>
     <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -22,14 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>From the creator of Redis; run LLM locally with ds4</title>
-      <link>https://dwarfstar.sh/</link>
-      <guid isPermaLink="false">https://dwarfstar.sh/</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Clef: Open-weight decision models, and new RL fine-tuning platform</title>
       <link>https://blog.cloudflare.com/clef-decision-models/</link>
       <guid isPermaLink="false">https://blog.cloudflare.com/clef-decision-models/</guid>
@@ -38,11 +30,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Powerful open model is set to shake up AI race</title>
-      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
-      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
+      <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
+      <link>https://github.com/ajensenwaud/recursant/</link>
+      <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
       <category>model</category>
-      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes</title>
+      <link>https://huggingface.co/sriram1983007/SRA-RiskGate-4B</link>
+      <guid isPermaLink="false">https://huggingface.co/sriram1983007/SRA-RiskGate-4B</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 03:57:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac</title>
+      <link>https://shlexball.com/</link>
+      <guid isPermaLink="false">https://shlexball.com/</guid>
+      <category>model</category>
+      <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Anthropic claims popular Chinese AI model has Mythos-class hacking abilities</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</guid>
+      <title>Powerful open model is set to shake up AI race</title>
+      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
+      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
       <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 11:45:55 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)</title>
-      <link>https://jabhook.ai/</link>
-      <guid isPermaLink="false">https://jabhook.ai/</guid>
+      <title>Anthropic claims popular Chinese AI model has Mythos-class hacking abilities</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</guid>
       <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 15:10:54 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 11:45:55 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,19 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+      <title>Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)</title>
+      <link>https://jabhook.ai/</link>
+      <guid isPermaLink="false">https://jabhook.ai/</guid>
       <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sat, 03 Oct 2026 15:10:54 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>Shield: A 118M model for detecting prompt injections and jailbreaks</title>
-      <link>https://huggingface.co/ZeroLeaks/shield-small</link>
-      <guid isPermaLink="false">https://huggingface.co/ZeroLeaks/shield-small</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 00:00:54 +0000</pubDate>
+      <title>CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering</title>
+      <link>https://arxiv.org/abs/2609.36570</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.36570</guid>
+      <category>security</category>
+      <pubDate>Mon, 05 Oct 2026 02:43:55 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,14 +126,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Is indirect prompt injection still a big threat as models get more advanced?</title>
-      <link>https://realarcherl.github.io/posts/prompt_injection/</link>
-      <guid isPermaLink="false">https://realarcherl.github.io/posts/prompt_injection/</guid>
-      <category>security</category>
-      <pubDate>Fri, 25 Sep 2026 04:23:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt Injection in the Wild</title>
       <link>https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</link>
       <guid isPermaLink="false">https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</guid>
@@ -134,27 +134,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11399: CUDA: refactor swizzling code (#29612)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11399</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11399</guid>
+      <title>llama.cpp: b11404: metal : few-row MMA mat-mul (#29869)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11404</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11404</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 20:48:30 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 05:29:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11398</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11398</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11398</guid>
+      <title>llama.cpp: b11403</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11403</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11403</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 20:07:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 05:24:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11397</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11397</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11397</guid>
+      <title>llama.cpp: b11402</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11402</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11402</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 19:50:49 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:35:56 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -183,18 +183,18 @@
     </item>
     <item>
       <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 16:37:17 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 00:17:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
+      <title>ollama: v0.40.0-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 15:48:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -204,6 +204,14 @@
       <category>harness</category>
       <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
+      <category>harness</category>
+      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>New in Llama.cpp: Decision Models</title>
@@ -219,14 +227,6 @@
       <guid isPermaLink="false">https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</guid>
       <category>harness</category>
       <pubDate>Fri, 02 Oct 2026 15:02:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ollama now supports Jev-like decision models all locally in 0.35</title>
-      <link>https://ollama.com/library/nimble</link>
-      <guid isPermaLink="false">https://ollama.com/library/nimble</guid>
-      <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 13:53:05 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
