@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T06:31:36.240823+00:00",
+  "generated_at": "2026-10-06T18:29:53.897162+00:00",
   "sections": {
     "model": [
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 393,
+        "score": 518,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 696,
+        "score": 699,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -28,7 +28,7 @@
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
-        "score": 420,
+        "score": 422,
         "published": "2026-10-03T10:43:51Z",
         "truthiness": {
           "label": "green",
@@ -58,14 +58,47 @@
         }
       },
       {
+        "title": "Mistral debuts Large 4 'Le Chonk', a 1T parameter text output model",
+        "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-06T13:20:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Cybersecurity Defenders Need Open-Weight Models",
+        "url": "https://www.provos.org/p/defenders-need-models-they-control/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-06T13:10:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
         "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
         "source": "hn",
-        "score": 338,
+        "score": 340,
         "published": "2026-10-02T02:51:27Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
+      {
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "source": "hn",
+        "score": 284,
+        "published": "2026-09-28T18:58:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
         }
       },
       {
@@ -80,55 +113,22 @@
         }
       },
       {
+        "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-06T06:44:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: All local LLM(s) on all Apple Devices",
         "url": "https://simulkit.com/en/mac-local-llm",
         "source": "hn",
         "score": 1,
         "published": "2026-10-05T20:55:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-        "source": "hn",
-        "score": 138,
-        "published": "2026-09-26T15:49:04Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 71 points)"
-        }
-      },
-      {
-        "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
-        "url": "https://github.com/ajensenwaud/recursant/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-05T04:01:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
-        "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-05T03:57:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
-        "url": "https://shlexball.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-04T23:05:21Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -172,22 +172,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11435",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11435",
+        "title": "ollama: v0.40.0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-06T06:18:34+00:00",
+        "published": "2026-10-06T18:29:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.40.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+        "title": "ollama: v0.40.0-rc6: model: add multimodal embeddings (#18820)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-06T01:53:06+00:00",
+        "published": "2026-10-06T15:08:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11448: cuda: BF16/FP16 conversion to f32 chunking (#29442)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11448",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-06T14:16:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,28 +216,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11434: hexagon: ssm-conv updates (#29971)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11434",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T00:42:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.0-rc4: MLX: version bump (#18720)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T00:41:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
@@ -238,11 +227,44 @@
         }
       },
       {
-        "title": "llama.cpp: v0.6.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+        "title": "llama.cpp: backup/allozaur-ui-shell-polish: ui : polish the shell",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-05T16:58:23+00:00",
+        "published": "2026-10-06T07:07:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: backup/allozaur-ui-models-manager: test : give the switch test an open chat",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-models-manager",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-06T07:07:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.31.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-06T06:49:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.0-rc5",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-06T01:15:59+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,17 +282,6 @@
         }
       },
       {
-        "title": "vLLM: v0.31.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-05T06:45:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "New in Llama.cpp: Decision Models",
         "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
         "source": "hn",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.0-rc3: pull: allow RCs to pull matching min_version (#18790)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-04T23:15:37+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
