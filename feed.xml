@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:31:36 +0000</lastBuildDate>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
@@ -46,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Greg Kroah-Hartman – Security in the LLM Age [video]</title>
+      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=NnV_cWeoo5Q</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Interfaze-1-lite: the first open-weight model for deterministic task</title>
       <link>https://huggingface.co/interfaze-ai/interfaze-1-lite</link>
       <guid isPermaLink="false">https://huggingface.co/interfaze-ai/interfaze-1-lite</guid>
@@ -62,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
-      <link>https://github.com/ajensenwaud/recursant/</link>
-      <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Turning GLM-5.3-Flash into a Jev-like decision model</title>
       <link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
       <guid isPermaLink="false">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
       <category>model</category>
       <pubDate>Sat, 26 Sep 2026 15:49:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
+      <link>https://github.com/ajensenwaud/recursant/</link>
+      <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://shlexball.com/</guid>
       <category>model</category>
       <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anthropic claims popular Chinese AI model has Mythos-class hacking abilities</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 11:45:55 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,19 +126,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11433</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11433</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11433</guid>
+      <title>llama.cpp: b11435</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11435</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11435</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 23:13:06 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 06:18:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11430</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11430</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11430</guid>
+      <title>ollama: v0.40.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 20:41:50 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 01:53:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -148,6 +148,22 @@
       <category>harness</category>
       <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11434: hexagon: ssm-conv updates (#29971)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11434</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11434</guid>
+      <category>harness</category>
+      <pubDate>Tue, 06 Oct 2026 00:42:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0-rc4: MLX: version bump (#18720)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4</guid>
+      <category>harness</category>
+      <pubDate>Tue, 06 Oct 2026 00:41:51 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
@@ -182,14 +198,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</guid>
-      <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 00:17:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>New in Llama.cpp: Decision Models</title>
       <link>https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</link>
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</guid>
@@ -198,19 +206,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.0-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2</guid>
+      <title>ollama: v0.40.0-rc3: pull: allow RCs to pull matching min_version (#18790)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3</guid>
       <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 15:48:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 23:15:37 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
