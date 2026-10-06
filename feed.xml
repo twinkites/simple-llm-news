@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:10:03 +0000</lastBuildDate>
+    <item>
+      <title>Beam: Reflection&#x27;s 501B open-weight model</title>
+      <link>https://reflection.ai/blog/introducing-beam</link>
+      <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
@@ -30,35 +38,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>From the creator of Redis; run LLM locally with ds4</title>
+      <link>https://dwarfstar.sh/</link>
+      <guid isPermaLink="false">https://dwarfstar.sh/</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Interfaze-1-lite: the first open-weight model for deterministic task</title>
+      <link>https://huggingface.co/interfaze-ai/interfaze-1-lite</link>
+      <guid isPermaLink="false">https://huggingface.co/interfaze-ai/interfaze-1-lite</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 17:00:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: All local LLM(s) on all Apple Devices</title>
+      <link>https://simulkit.com/en/mac-local-llm</link>
+      <guid isPermaLink="false">https://simulkit.com/en/mac-local-llm</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 20:55:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
       <link>https://github.com/ajensenwaud/recursant/</link>
       <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes</title>
-      <link>https://huggingface.co/sriram1983007/SRA-RiskGate-4B</link>
-      <guid isPermaLink="false">https://huggingface.co/sriram1983007/SRA-RiskGate-4B</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 03:57:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: A working 3D model of an Enigma machine</title>
-      <link>https://enigma.design</link>
-      <guid isPermaLink="false">https://enigma.design</guid>
-      <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac</title>
-      <link>https://shlexball.com/</link>
-      <guid isPermaLink="false">https://shlexball.com/</guid>
-      <category>model</category>
-      <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Powerful open model is set to shake up AI race</title>
-      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
-      <guid isPermaLink="false">https://www.axios.com/2026/10/04/reflection-open-weight-ai</guid>
+      <title>Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes</title>
+      <link>https://huggingface.co/sriram1983007/SRA-RiskGate-4B</link>
+      <guid isPermaLink="false">https://huggingface.co/sriram1983007/SRA-RiskGate-4B</guid>
       <category>model</category>
-      <pubDate>Sun, 04 Oct 2026 17:28:16 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 03:57:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac</title>
+      <link>https://shlexball.com/</link>
+      <guid isPermaLink="false">https://shlexball.com/</guid>
+      <category>model</category>
+      <pubDate>Sun, 04 Oct 2026 23:05:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 11:45:55 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Hacktoberfest is now about building with open-weight models, not counting PRs</title>
-      <link>https://hacktoberfest.com/mission/</link>
-      <guid isPermaLink="false">https://hacktoberfest.com/mission/</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 16:24:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)</title>
-      <link>https://jabhook.ai/</link>
-      <guid isPermaLink="false">https://jabhook.ai/</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 15:10:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,35 +126,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection in the Wild</title>
-      <link>https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</link>
-      <guid isPermaLink="false">https://cybershujin.github.io/Prompt-Injection-in-the-Wild/</guid>
-      <category>security</category>
-      <pubDate>Fri, 25 Sep 2026 22:52:28 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11424</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11424</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11424</guid>
+      <title>llama.cpp: b11433</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11433</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11433</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 14:50:29 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 23:13:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11425: CUDA: make the alloc_deps check batch independent (#29986)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11425</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11425</guid>
+      <title>llama.cpp: b11430</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11430</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11430</guid>
       <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 13:44:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11422: cuda: use the vector lightning indexer kernel on MUSA (#29990)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11422</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11422</guid>
-      <category>harness</category>
-      <pubDate>Mon, 05 Oct 2026 13:09:53 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 20:41:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,19 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
-      <link>https://ollaya.dev/</link>
-      <guid isPermaLink="false">https://ollaya.dev/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
       <link>https://github.com/Vibra-Ingenn/Janus</link>
       <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
       <category>harness</category>
       <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.6.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 05 Oct 2026 16:58:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Faster prompt lookup drafting in llama.cpp</title>
+      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
+      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -196,14 +188,6 @@
       <category>harness</category>
       <pubDate>Mon, 05 Oct 2026 00:17:06 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Faster prompt lookup drafting in llama.cpp</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>New in Llama.cpp: Decision Models</title>
@@ -228,6 +212,14 @@
       <category>harness</category>
       <pubDate>Sun, 04 Oct 2026 14:45:15 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama</title>
+      <link>https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</link>
+      <guid isPermaLink="false">https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</guid>
+      <category>harness</category>
+      <pubDate>Fri, 02 Oct 2026 15:02:09 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
