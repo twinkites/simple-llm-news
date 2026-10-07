@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:10:27 +0000</lastBuildDate>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
@@ -46,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Greg Kroah-Hartman – Security in the LLM Age [video]</title>
+      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=NnV_cWeoo5Q</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Mistral debuts Large 4 &#x27;Le Chonk&#x27;, a 1T parameter text output model</title>
       <link>https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release</link>
       <guid isPermaLink="false">https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release</guid>
@@ -62,27 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Greg Kroah-Hartman – Security in the LLM Age [video]</title>
-      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=NnV_cWeoo5Q</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
-      <link>https://stateofutopia.com/experiments/microllmlab/</link>
-      <guid isPermaLink="false">https://stateofutopia.com/experiments/microllmlab/</guid>
-      <category>model</category>
-      <pubDate>Mon, 28 Sep 2026 18:58:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Interfaze-1-lite: the first open-weight model for deterministic task</title>
       <link>https://huggingface.co/interfaze-ai/interfaze-1-lite</link>
       <guid isPermaLink="false">https://huggingface.co/interfaze-ai/interfaze-1-lite</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 17:00:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: All local LLM(s) on all Apple Devices</title>
+      <link>https://simulkit.com/en/mac-local-llm</link>
+      <guid isPermaLink="false">https://simulkit.com/en/mac-local-llm</guid>
+      <category>model</category>
+      <pubDate>Mon, 05 Oct 2026 20:55:29 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: All local LLM(s) on all Apple Devices</title>
-      <link>https://simulkit.com/en/mac-local-llm</link>
-      <guid isPermaLink="false">https://simulkit.com/en/mac-local-llm</guid>
+      <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
+      <link>https://github.com/ajensenwaud/recursant/</link>
+      <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
       <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 20:55:29 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,27 +126,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0</guid>
+      <title>llama.cpp: b11460</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11460</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11460</guid>
       <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 18:29:02 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 06:02:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.0-rc6: model: add multimodal embeddings (#18820)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</guid>
+      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
+      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
       <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 15:08:38 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11448: cuda: BF16/FP16 conversion to f32 chunking (#29442)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11448</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11448</guid>
+      <title>llama.cpp: b11459</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11459</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11459</guid>
       <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 14:16:49 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 05:02:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,19 +166,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 06 Oct 2026 18:52:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 06 Oct 2026 18:47:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.0-rc6: model: add multimodal embeddings (#18820)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</guid>
+      <category>harness</category>
+      <pubDate>Tue, 06 Oct 2026 15:08:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: backup/allozaur-ui-shell-polish: ui : polish the shell</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish</guid>
       <category>harness</category>
       <pubDate>Tue, 06 Oct 2026 07:07:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: backup/allozaur-ui-models-manager: test : give the switch test an open chat</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-models-manager</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-models-manager</guid>
-      <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 07:07:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,27 +214,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Faster prompt lookup drafting in llama.cpp</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <guid isPermaLink="false">https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>New in Llama.cpp: Decision Models</title>
       <link>https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</link>
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp</guid>
       <category>harness</category>
       <pubDate>Fri, 02 Oct 2026 15:06:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama</title>
-      <link>https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</link>
-      <guid isPermaLink="false">https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd</guid>
-      <category>harness</category>
-      <pubDate>Fri, 02 Oct 2026 15:02:09 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
