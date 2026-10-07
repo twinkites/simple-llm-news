@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-07T13:35:45.049828+00:00",
+  "generated_at": "2026-10-07T23:12:24.162719+00:00",
   "sections": {
     "model": [
+      {
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "source": "hn",
+        "score": 36,
+        "published": "2026-10-07T18:19:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+        }
+      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 546,
+        "score": 549,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +25,69 @@
         }
       },
       {
-        "title": "Introducing Falcon ASR",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T13:21:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 702,
+        "score": 703,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "hn",
+        "score": 423,
+        "published": "2026-10-03T10:43:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 409 points)"
+        }
+      },
+      {
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "source": "hn",
+        "score": 641,
+        "published": "2026-10-01T16:18:57Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 474 points)"
+        }
+      },
+      {
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "url": "https://dwarfstar.sh/",
+        "source": "hn",
+        "score": 364,
+        "published": "2026-10-02T18:01:16Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 362 points)"
+        }
+      },
+      {
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "source": "hn",
+        "score": 342,
+        "published": "2026-10-02T02:51:27Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+        }
+      },
+      {
+        "title": "Multimodal open d1 decision models for the edge",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T16:54:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -58,47 +113,14 @@
         }
       },
       {
-        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "title": "Interfaze-1-lite: the first open-weight model for deterministic task",
+        "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
         "source": "hn",
-        "score": 422,
-        "published": "2026-10-03T10:43:51Z",
+        "score": 6,
+        "published": "2026-10-05T17:00:06Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 409 points)"
-        }
-      },
-      {
-        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
-        "source": "hn",
-        "score": 641,
-        "published": "2026-10-01T16:18:57Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 474 points)"
-        }
-      },
-      {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "url": "https://dwarfstar.sh/",
-        "source": "hn",
-        "score": 363,
-        "published": "2026-10-02T18:01:16Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 362 points)"
-        }
-      },
-      {
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "source": "hn",
-        "score": 341,
-        "published": "2026-10-02T02:51:27Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -111,31 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
+      }
+    ],
+    "security": [
       {
-        "title": "Cybersecurity Defenders Need Open-Weight Models",
-        "url": "https://www.provos.org/p/defenders-need-models-they-control/",
+        "title": "Prompt injection scanner that normalizes evasion tricks",
+        "url": "https://github.com/Aaronmike481/Aiscanner",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-06T13:10:11Z",
+        "published": "2026-10-07T16:52:28Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
-      {
-        "title": "Interfaze-1-lite: the first open-weight model for deterministic task",
-        "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-05T17:00:06Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      }
-    ],
-    "security": [
       {
         "title": "CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering",
         "url": "https://arxiv.org/abs/2609.36570",
@@ -172,36 +183,58 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11472",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11472",
+        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-07T19:40:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.1-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-07T13:24:11+00:00",
+        "published": "2026-10-07T22:22:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11471",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11471",
+        "title": "MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML",
+        "url": "https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-07T19:59:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11479: cuda: update uncoalesced memory reads in pool2d (#29425)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11479",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-07T13:02:04+00:00",
+        "published": "2026-10-07T17:53:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11474: feat: add GLM5Next MTP, optimize (#29928)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11474",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T11:16:53+00:00",
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "score": 194,
+        "published": "2026-09-30T17:37:40Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
         }
       },
       {
@@ -216,14 +249,25 @@
         }
       },
       {
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
-        "source": "hn",
-        "score": 194,
-        "published": "2026-09-30T17:37:40Z",
+        "title": "llama.cpp: b11476",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11476",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T14:59:08+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11477: llama: share the nextn tensor flags between models (#30097)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11477",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T14:30:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -268,39 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.31.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T06:49:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.0-rc5",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T01:15:59+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "New in Llama.cpp: Decision Models",
-        "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-02T15:06:13Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]
