@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:35:45 +0000</lastBuildDate>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
@@ -14,12 +14,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Kolibri: A Sovereign Open-Weight Model</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
       <guid isPermaLink="false">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 09:36:04 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: LLM API prices with full price history and a cloud vs. local calculator</title>
+      <link>https://tokenbarometer.com</link>
+      <guid isPermaLink="false">https://tokenbarometer.com</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 11:36:13 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Aleph Alpha Kolibri: How the sovereign German LLM works</title>
@@ -78,30 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: All local LLM(s) on all Apple Devices</title>
-      <link>https://simulkit.com/en/mac-local-llm</link>
-      <guid isPermaLink="false">https://simulkit.com/en/mac-local-llm</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 20:55:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
-      <category>model</category>
-      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Recursant, the agent-aware model router built for hybrid workloads</title>
-      <link>https://github.com/ajensenwaud/recursant/</link>
-      <guid isPermaLink="false">https://github.com/ajensenwaud/recursant/</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 04:01:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering</title>
       <link>https://arxiv.org/abs/2609.36570</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2609.36570</guid>
@@ -126,11 +126,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11460</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11460</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11460</guid>
+      <title>llama.cpp: b11472</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11472</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11472</guid>
       <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 06:02:32 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 13:24:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11471</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11471</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11471</guid>
+      <category>harness</category>
+      <pubDate>Wed, 07 Oct 2026 13:02:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11474: feat: add GLM5Next MTP, optimize (#29928)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11474</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11474</guid>
+      <category>harness</category>
+      <pubDate>Wed, 07 Oct 2026 11:16:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -140,14 +156,6 @@
       <category>harness</category>
       <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11459</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11459</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11459</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 05:02:46 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
@@ -187,14 +195,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</guid>
       <category>harness</category>
       <pubDate>Tue, 06 Oct 2026 15:08:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: backup/allozaur-ui-shell-polish: ui : polish the shell</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish</guid>
-      <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 07:07:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

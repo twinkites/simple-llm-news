@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T06:10:27.891405+00:00",
+  "generated_at": "2026-10-07T13:35:45.049828+00:00",
   "sections": {
     "model": [
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 545,
+        "score": 546,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
@@ -14,14 +14,47 @@
         }
       },
       {
+        "title": "Introducing Falcon ASR",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T13:21:03+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 701,
+        "score": 702,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
+        "url": "https://tokenbarometer.com",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-07T11:36:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T12:45:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -100,39 +133,6 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
-      },
-      {
-        "title": "Show HN: All local LLM(s) on all Apple Devices",
-        "url": "https://simulkit.com/en/mac-local-llm",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-05T20:55:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T06:44:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
-        "url": "https://github.com/ajensenwaud/recursant/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-05T04:01:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "security": [
@@ -172,11 +172,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11460",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11460",
+        "title": "llama.cpp: b11472",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11472",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-07T06:02:32+00:00",
+        "published": "2026-10-07T13:24:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11471",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11471",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T13:02:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11474: feat: add GLM5Next MTP, optimize (#29928)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11474",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T11:16:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -191,17 +213,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11459",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11459",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T05:02:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -254,17 +265,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-06T15:08:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: backup/allozaur-ui-shell-polish: ui : polish the shell",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/backup%2Fallozaur-ui-shell-polish",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T07:07:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
