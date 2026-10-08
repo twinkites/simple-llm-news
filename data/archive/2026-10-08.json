@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-08T06:16:18.149094+00:00",
+  "generated_at": "2026-10-08T13:42:33.130223+00:00",
   "sections": {
     "model": [
       {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
+        "url": "https://github.com/ggeorgovassilis/llm-gauze",
         "source": "hn",
-        "score": 43,
-        "published": "2026-10-07T18:19:03Z",
+        "score": 1,
+        "published": "2026-10-08T12:51:44Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -25,10 +25,21 @@
         }
       },
       {
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "source": "hn",
+        "score": 45,
+        "published": "2026-10-07T18:19:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+        }
+      },
+      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 704,
+        "score": 705,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -80,17 +91,6 @@
         }
       },
       {
-        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-        "url": "https://stateofutopia.com/experiments/microllmlab/",
-        "source": "hn",
-        "score": 284,
-        "published": "2026-09-28T18:58:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
-        }
-      },
-      {
         "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
         "url": "https://tokenbarometer.com",
         "source": "hn",
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T12:45:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Interfaze-1-lite: the first open-weight model for deterministic task",
         "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+        }
+      },
+      {
+        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-07T12:45:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -183,33 +183,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11491: sycl: remove duplicate block-size defines from op headers (#29507)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11491",
+        "title": "llama.cpp: b11503",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11503",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-08T05:39:25+00:00",
+        "published": "2026-10-08T13:32:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11490",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11490",
+        "title": "Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW",
+        "url": "https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-08T08:58:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11504",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11504",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-08T05:02:10+00:00",
+        "published": "2026-10-08T09:36:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11489",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11489",
+        "title": "llama.cpp: b11502",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11502",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-08T04:38:45+00:00",
+        "published": "2026-10-08T07:21:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,14 +238,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-08T02:09:43+00:00",
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "score": 194,
+        "published": "2026-09-30T17:37:40Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
         }
       },
       {
@@ -249,28 +260,6 @@
         }
       },
       {
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
-        "source": "hn",
-        "score": 194,
-        "published": "2026-09-30T17:37:40Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.1-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T22:22:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
@@ -279,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-08T02:09:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,22 +293,22 @@
         }
       },
       {
-        "title": "vLLM: v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0",
+        "title": "ollama: v0.40.1-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-06T18:52:05+00:00",
+        "published": "2026-10-07T22:22:54+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.40.0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0",
+        "title": "vLLM: v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-06T18:47:10+00:00",
+        "published": "2026-10-06T18:52:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

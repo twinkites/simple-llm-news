@@ -4,13 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 06:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:42:33 +0000</lastBuildDate>
     <item>
-      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
-      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
+      <title>Show HN: Gauze fixes (some) open-weight LLM deficiencies</title>
+      <link>https://github.com/ggeorgovassilis/llm-gauze</link>
+      <guid isPermaLink="false">https://github.com/ggeorgovassilis/llm-gauze</guid>
       <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 12:51:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
+      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
-      <link>https://stateofutopia.com/experiments/microllmlab/</link>
-      <guid isPermaLink="false">https://stateofutopia.com/experiments/microllmlab/</guid>
-      <category>model</category>
-      <pubDate>Mon, 28 Sep 2026 18:58:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: LLM API prices with full price history and a cloud vs. local calculator</title>
       <link>https://tokenbarometer.com</link>
       <guid isPermaLink="false">https://tokenbarometer.com</guid>
@@ -86,20 +86,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
-      <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Interfaze-1-lite: the first open-weight model for deterministic task</title>
       <link>https://huggingface.co/interfaze-ai/interfaze-1-lite</link>
       <guid isPermaLink="false">https://huggingface.co/interfaze-ai/interfaze-1-lite</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 17:00:06 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Prompt injection scanner that normalizes evasion tricks</title>
@@ -134,27 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11491: sycl: remove duplicate block-size defines from op headers (#29507)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11491</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11491</guid>
+      <title>llama.cpp: b11503</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11503</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11503</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 05:39:25 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 13:32:58 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11490</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11490</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11490</guid>
+      <title>Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW</title>
+      <link>https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 05:02:10 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 08:58:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11504</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11504</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11504</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 09:36:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11489</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11489</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11489</guid>
+      <title>llama.cpp: b11502</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11502</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11502</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 04:38:45 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 07:21:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,12 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1</guid>
+      <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
+      <link>https://github.com/magnitudedev/magnitude</link>
+      <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 02:09:43 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML</title>
@@ -182,11 +190,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
-      <link>https://github.com/magnitudedev/magnitude</link>
-      <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
+      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+      <link>https://github.com/Vibra-Ingenn/Janus</link>
+      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
       <category>harness</category>
-      <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 02:09:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
+      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
+      <category>harness</category>
+      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,35 +222,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
-      <link>https://github.com/Vibra-Ingenn/Janus</link>
-      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
-      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>vLLM: v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0</guid>
       <category>harness</category>
       <pubDate>Tue, 06 Oct 2026 18:52:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 18:47:10 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
