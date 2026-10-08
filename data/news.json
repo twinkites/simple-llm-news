@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-08T13:42:33.130223+00:00",
+  "generated_at": "2026-10-08T23:28:23.833855+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
-        "url": "https://github.com/ggeorgovassilis/llm-gauze",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-08T12:51:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 549,
+        "score": 551,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
@@ -25,21 +14,10 @@
         }
       },
       {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-        "source": "hn",
-        "score": 45,
-        "published": "2026-10-07T18:19:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
-        }
-      },
-      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 705,
+        "score": 708,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -47,10 +25,32 @@
         }
       },
       {
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "source": "hn",
+        "score": 47,
+        "published": "2026-10-07T18:19:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+        }
+      },
+      {
+        "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
+        "url": "https://github.com/ironbee-ai/ironbee-gamer",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-08T14:56:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
-        "score": 423,
+        "score": 424,
         "published": "2026-10-03T10:43:51Z",
         "truthiness": {
           "label": "green",
@@ -72,7 +72,7 @@
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
         "source": "hn",
-        "score": 365,
+        "score": 366,
         "published": "2026-10-02T18:01:16Z",
         "truthiness": {
           "label": "green",
@@ -80,14 +80,36 @@
         }
       },
       {
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
+        "url": "https://github.com/ggeorgovassilis/llm-gauze",
         "source": "hn",
-        "score": 342,
-        "published": "2026-10-02T02:51:27Z",
+        "score": 1,
+        "published": "2026-10-08T12:51:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: A working 3D model of an Enigma machine",
+        "url": "https://enigma.design",
+        "source": "hn",
+        "score": 117,
+        "published": "2026-09-29T17:15:56Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 338 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 117 points)"
+        }
+      },
+      {
+        "title": "The model that didn't exist, so you made it yourself",
+        "url": "https://huggingface.co/blog/building-with-ml-intern",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-08T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -102,17 +124,6 @@
         }
       },
       {
-        "title": "Multimodal open d1 decision models for the edge",
-        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T16:54:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Interfaze-1-lite: the first open-weight model for deterministic task",
         "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
-        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-07T12:45:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -183,11 +183,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11503",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11503",
+        "title": "llama.cpp: b11514",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11514",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-08T13:32:58+00:00",
+        "published": "2026-10-08T20:17:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11513",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11513",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-08T19:22:06+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-08T18:30:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11512",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11512",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-08T17:42:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,36 +238,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11504",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11504",
+        "title": "ollama: v0.40.2-rc0: server: hide duplicate and downgrade guards from list (#18874)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-08T09:36:20+00:00",
+        "published": "2026-10-08T15:54:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11502",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11502",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-08T07:21:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-07T19:40:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML",
-        "url": "https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-07T19:59:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
@@ -271,14 +271,25 @@
         }
       },
       {
-        "title": "ollama: v0.40.1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-08T02:09:43+00:00",
+        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-07T19:40:34Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML",
+        "url": "https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-07T19:59:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -293,22 +304,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.1-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0",
+        "title": "ollama: v0.40.1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-07T22:22:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-06T18:52:05+00:00",
+        "published": "2026-10-08T02:09:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
