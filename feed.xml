@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:16:18 +0000</lastBuildDate>
     <item>
       <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
       <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
@@ -62,12 +62,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Multimodal open d1 decision models for the edge</title>
-      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <title>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</title>
+      <link>https://stateofutopia.com/experiments/microllmlab/</link>
+      <guid isPermaLink="false">https://stateofutopia.com/experiments/microllmlab/</guid>
       <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 28 Sep 2026 18:58:53 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: LLM API prices with full price history and a cloud vs. local calculator</title>
@@ -76,6 +76,14 @@
       <category>model</category>
       <pubDate>Wed, 07 Oct 2026 11:36:13 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://huggingface.co/interfaze-ai/interfaze-1-lite</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 17:00:06 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Mistral debuts Large 4 &#x27;Le Chonk&#x27;, a 1T parameter text output model</title>
-      <link>https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release</link>
-      <guid isPermaLink="false">https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release</guid>
-      <category>model</category>
-      <pubDate>Tue, 06 Oct 2026 13:20:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,6 +134,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11491: sycl: remove duplicate block-size defines from op headers (#29507)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11491</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11491</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 05:39:25 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11490</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11490</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11490</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 05:02:10 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11489</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11489</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11489</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 04:38:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>AI Development on Windows: From PyTorch and Llama.cpp to Windows ML</title>
       <link>https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/</link>
       <guid isPermaLink="false">https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/</guid>
@@ -142,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.1-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0</guid>
+      <title>ollama: v0.40.1</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1</guid>
       <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 22:22:54 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:09:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,14 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11479: cuda: update uncoalesced memory reads in pool2d (#29425)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11479</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11479</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 17:53:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
       <link>https://github.com/magnitudedev/magnitude</link>
       <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
@@ -174,27 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
-      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
+      <title>ollama: v0.40.1-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0</guid>
       <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11476</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11476</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11476</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 14:59:08 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11477: llama: share the nextn tensor flags between models (#30097)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11477</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11477</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 14:30:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 22:22:54 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -203,6 +203,14 @@
       <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
       <category>harness</category>
       <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
+      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
+      <category>harness</category>
+      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -219,14 +227,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0</guid>
       <category>harness</category>
       <pubDate>Tue, 06 Oct 2026 18:47:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.0-rc6: model: add multimodal embeddings (#18820)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6</guid>
-      <category>harness</category>
-      <pubDate>Tue, 06 Oct 2026 15:08:38 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
