@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 13:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:44:51 +0000</lastBuildDate>
+    <item>
+      <title>Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi</title>
+      <link>https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</link>
+      <guid isPermaLink="false">https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</guid>
+      <category>model</category>
+      <pubDate>Fri, 09 Oct 2026 20:55:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
       <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kisoku 1.6B: LLM trained solo from scratch on a TPU grant, matches Llama 3.2 1B</title>
+      <link>https://github.com/0arch-io/kisoku</link>
+      <guid isPermaLink="false">https://github.com/0arch-io/kisoku</guid>
+      <category>model</category>
+      <pubDate>Fri, 09 Oct 2026 18:48:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,14 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>11.4 MB one-shot classification model with open weights</title>
-      <link>https://huggingface.co/5ak3t/ej</link>
-      <guid isPermaLink="false">https://huggingface.co/5ak3t/ej</guid>
-      <category>model</category>
-      <pubDate>Fri, 09 Oct 2026 06:54:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Aleph Alpha Kolibri: How the sovereign German LLM works</title>
       <link>https://tej.as/blog/aleph-alpha-kolibri</link>
       <guid isPermaLink="false">https://tej.as/blog/aleph-alpha-kolibri</guid>
@@ -46,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
-      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
-      <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Clef: Open-weight decision models, and new RL fine-tuning platform</title>
       <link>https://blog.cloudflare.com/clef-decision-models/</link>
       <guid isPermaLink="false">https://blog.cloudflare.com/clef-decision-models/</guid>
       <category>model</category>
       <pubDate>Thu, 01 Oct 2026 16:18:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
+      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
+      <category>model</category>
+      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +86,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Decision models like Jev don&#x27;t beat LLM-as-a-judge or traditional classifiers</title>
-      <link>https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</link>
-      <guid isPermaLink="false">https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</guid>
+      <title>Impactful scheduling for GPU clusters</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/impactful-scheduling</guid>
       <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 13:47:41 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>11.4 MB one-shot classification model with open weights</title>
+      <link>https://huggingface.co/5ak3t/ej</link>
+      <guid isPermaLink="false">https://huggingface.co/5ak3t/ej</guid>
+      <category>model</category>
+      <pubDate>Fri, 09 Oct 2026 06:54:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Teaching a 30ms local model, play browser games with LLM written rules</title>
-      <link>https://github.com/ironbee-ai/ironbee-gamer</link>
-      <guid isPermaLink="false">https://github.com/ironbee-ai/ironbee-gamer</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 14:56:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: A working 3D model of an Enigma machine</title>
-      <link>https://enigma.design</link>
-      <guid isPermaLink="false">https://enigma.design</guid>
-      <category>model</category>
-      <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
+      <title>Prompt Injection will always be unsolved</title>
+      <link>https://news.ycombinator.com/item?id=50024585</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50024585</guid>
+      <category>security</category>
+      <pubDate>Fri, 09 Oct 2026 18:16:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,11 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11526</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11526</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11526</guid>
+      <title>llama.cpp: b11539</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11539</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11539</guid>
       <category>harness</category>
-      <pubDate>Fri, 09 Oct 2026 13:00:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 22:41:53 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11538</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11538</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11538</guid>
+      <category>harness</category>
+      <pubDate>Fri, 09 Oct 2026 20:14:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11537</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11537</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11537</guid>
+      <category>harness</category>
+      <pubDate>Fri, 09 Oct 2026 19:47:57 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,27 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11524</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11524</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11524</guid>
-      <category>harness</category>
-      <pubDate>Fri, 09 Oct 2026 11:23:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11523</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11523</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11523</guid>
-      <category>harness</category>
-      <pubDate>Fri, 09 Oct 2026 11:00:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
       <link>https://github.com/magnitudedev/magnitude</link>
       <guid isPermaLink="false">https://github.com/magnitudedev/magnitude</guid>
       <category>harness</category>
       <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+      <link>https://github.com/Vibra-Ingenn/Janus</link>
+      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
+      <category>harness</category>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,14 +206,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
-      <link>https://github.com/Vibra-Ingenn/Janus</link>
-      <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
-      <category>harness</category>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW</title>
       <link>https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</link>
       <guid isPermaLink="false">https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</guid>
@@ -214,19 +222,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.2-rc0: server: hide duplicate and downgrade guards from list (#18874)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 15:54:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML</title>
       <link>https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml</link>
       <guid isPermaLink="false">https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml</guid>
       <category>harness</category>
       <pubDate>Wed, 07 Oct 2026 19:59:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
+      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
+      <category>harness</category>
+      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

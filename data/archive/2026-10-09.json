@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-09T13:31:37.674545+00:00",
+  "generated_at": "2026-10-09T22:44:51.655902+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
+        "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-09T20:55:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 552,
+        "score": 553,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +25,21 @@
         }
       },
       {
+        "title": "Kisoku 1.6B: LLM trained solo from scratch on a TPU grant, matches Llama 3.2 1B",
+        "url": "https://github.com/0arch-io/kisoku",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-09T18:48:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
         "url": "https://github.com/pingdotgg/ts-rust",
         "source": "hn",
-        "score": 111,
+        "score": 112,
         "published": "2026-10-08T00:46:00Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +58,6 @@
         }
       },
       {
-        "title": "11.4 MB one-shot classification model with open weights",
-        "url": "https://huggingface.co/5ak3t/ej",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-09T06:54:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 409 points)"
-        }
-      },
-      {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-        "source": "hn",
-        "score": 47,
-        "published": "2026-10-07T18:19:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
         }
       },
       {
@@ -80,10 +80,21 @@
         }
       },
       {
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "source": "hn",
+        "score": 51,
+        "published": "2026-10-07T18:19:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+        }
+      },
+      {
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
         "source": "hn",
-        "score": 366,
+        "score": 367,
         "published": "2026-10-02T18:01:16Z",
         "truthiness": {
           "label": "green",
@@ -94,7 +105,7 @@
         "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
         "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
         "source": "hn",
-        "score": 344,
+        "score": 345,
         "published": "2026-10-02T02:51:27Z",
         "truthiness": {
           "label": "green",
@@ -102,40 +113,40 @@
         }
       },
       {
-        "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-        "source": "hn",
-        "score": 166,
-        "published": "2026-10-02T13:47:41Z",
+        "title": "Impactful scheduling for GPU clusters",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T15:20:29+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 166 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
-        "url": "https://github.com/ironbee-ai/ironbee-gamer",
+        "title": "11.4 MB one-shot classification model with open weights",
+        "url": "https://huggingface.co/5ak3t/ej",
         "source": "hn",
-        "score": 4,
-        "published": "2026-10-08T14:56:14Z",
+        "score": 2,
+        "published": "2026-10-09T06:54:53Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Show HN: A working 3D model of an Enigma machine",
-        "url": "https://enigma.design",
-        "source": "hn",
-        "score": 117,
-        "published": "2026-09-29T17:15:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 117 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "Prompt Injection will always be unsolved",
+        "url": "https://news.ycombinator.com/item?id=50024585",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-09T18:16:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Prompt injection scanner that normalizes evasion tricks",
         "url": "https://github.com/Aaronmike481/Aiscanner",
@@ -183,11 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11526",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11526",
+        "title": "llama.cpp: b11539",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11539",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-09T13:00:14+00:00",
+        "published": "2026-10-09T22:41:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11538",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11538",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T20:14:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11537",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11537",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T19:47:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -197,33 +230,11 @@
         "title": "ML Drift: Google's open-source on-device GPU inference engine",
         "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-10-09T10:25:58Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11524",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11524",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T11:23:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11523",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11523",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T11:00:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -235,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "source": "hn",
+        "score": 106,
+        "published": "2026-10-01T20:36:47Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -260,17 +282,6 @@
         }
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
-        "source": "hn",
-        "score": 106,
-        "published": "2026-10-01T20:36:47Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
-        }
-      },
-      {
         "title": "Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW",
         "url": "https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/",
         "source": "hn",
@@ -293,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.2-rc0: server: hide duplicate and downgrade guards from list (#18874)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-08T15:54:06+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML",
         "url": "https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml",
         "source": "hn",
@@ -312,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
+        "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-07T01:02:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
