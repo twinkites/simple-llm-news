@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:19:54 +0000</lastBuildDate>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
@@ -27,14 +27,6 @@
       <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
       <category>model</category>
       <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Teaching a 30ms local model, play browser games with LLM written rules</title>
-      <link>https://github.com/ironbee-ai/ironbee-gamer</link>
-      <guid isPermaLink="false">https://github.com/ironbee-ai/ironbee-gamer</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 14:56:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,6 +54,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Greg Kroah-Hartman – Security in the LLM Age [video]</title>
+      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=NnV_cWeoo5Q</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Teaching a 30ms local model, play browser games with LLM written rules</title>
+      <link>https://github.com/ironbee-ai/ironbee-gamer</link>
+      <guid isPermaLink="false">https://github.com/ironbee-ai/ironbee-gamer</guid>
+      <category>model</category>
+      <pubDate>Thu, 08 Oct 2026 14:56:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Decision models like Jev don&#x27;t beat LLM-as-a-judge or traditional classifiers</title>
+      <link>https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</link>
+      <guid isPermaLink="false">https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 13:47:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Gauze fixes (some) open-weight LLM deficiencies</title>
       <link>https://github.com/ggeorgovassilis/llm-gauze</link>
       <guid isPermaLink="false">https://github.com/ggeorgovassilis/llm-gauze</guid>
@@ -75,22 +91,6 @@
       <guid isPermaLink="false">https://enigma.design</guid>
       <category>model</category>
       <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The model that didn&#x27;t exist, so you made it yourself</title>
-      <link>https://huggingface.co/blog/building-with-ml-intern</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/building-with-ml-intern</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: LLM API prices with full price history and a cloud vs. local calculator</title>
-      <link>https://tokenbarometer.com</link>
-      <guid isPermaLink="false">https://tokenbarometer.com</guid>
-      <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 11:36:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11514</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11514</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11514</guid>
+      <title>llama.cpp: b11516: hexagon: fix IM2COL patch-embed DMA ring overflow (#30189)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11516</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11516</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 20:17:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11513</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11513</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11513</guid>
-      <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 19:22:06 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 06:04:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -154,31 +146,23 @@
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.2</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.2</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 18:30:42 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 03:37:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11512</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11512</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11512</guid>
+      <title>vLLM: proto-v0.5.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.5.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.5.0</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 17:42:48 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 03:11:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW</title>
-      <link>https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</guid>
+      <title>llama.cpp: b11515</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11515</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11515</guid>
       <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 08:58:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.2-rc0: server: hide duplicate and downgrade guards from list (#18874)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 15:54:06 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:57:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,12 +174,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11514</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11514</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11514</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 20:17:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Java vLLM-like framework claim 90% perfomance of llamacpp inference on Nvidia HW</title>
+      <link>https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/Vllm/comments/1x0lppn/java_vllmlike_framwork_claims_90_of_perfomance_of/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 08:58:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
       <link>https://github.com/Vibra-Ingenn/Janus</link>
       <guid isPermaLink="false">https://github.com/Vibra-Ingenn/Janus</guid>
       <category>harness</category>
       <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.2-rc0: server: hide duplicate and downgrade guards from list (#18874)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.2-rc0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 08 Oct 2026 15:54:06 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>AI Development on Windows: From PyTorch and Llama.cpp to Windows ML</title>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.1</guid>
-      <category>harness</category>
-      <pubDate>Thu, 08 Oct 2026 02:09:43 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
