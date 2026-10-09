@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-09T06:19:54.493949+00:00",
+  "generated_at": "2026-10-09T13:31:37.674545+00:00",
   "sections": {
     "model": [
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 551,
+        "score": 552,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
+        }
+      },
+      {
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "source": "hn",
+        "score": 111,
+        "published": "2026-10-08T00:46:00Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 111 points)"
         }
       },
       {
@@ -25,14 +36,14 @@
         }
       },
       {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "title": "11.4 MB one-shot classification model with open weights",
+        "url": "https://huggingface.co/5ak3t/ej",
         "source": "hn",
-        "score": 47,
-        "published": "2026-10-07T18:19:03Z",
+        "score": 2,
+        "published": "2026-10-09T06:54:53Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -44,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 409 points)"
+        }
+      },
+      {
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "source": "hn",
+        "score": 47,
+        "published": "2026-10-07T18:19:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
         }
       },
       {
@@ -80,17 +102,6 @@
         }
       },
       {
-        "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
-        "url": "https://github.com/ironbee-ai/ironbee-gamer",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-08T14:56:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
         "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
         "source": "hn",
@@ -102,14 +113,14 @@
         }
       },
       {
-        "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
-        "url": "https://github.com/ggeorgovassilis/llm-gauze",
+        "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
+        "url": "https://github.com/ironbee-ai/ironbee-gamer",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-08T12:51:44Z",
+        "score": 4,
+        "published": "2026-10-08T14:56:14Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 117 points)"
-        }
-      },
-      {
-        "title": "Interfaze-1-lite: the first open-weight model for deterministic task",
-        "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-05T17:00:06Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ],
@@ -183,14 +183,58 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11516: hexagon: fix IM2COL patch-embed DMA ring overflow (#30189)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11516",
+        "title": "llama.cpp: b11526",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11526",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-09T06:04:09+00:00",
+        "published": "2026-10-09T13:00:14+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ML Drift: Google's open-source on-device GPU inference engine",
+        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-09T10:25:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11524",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11524",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T11:23:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11523",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11523",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T11:00:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "score": 194,
+        "published": "2026-09-30T17:37:40Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
         }
       },
       {
@@ -216,36 +260,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11515",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11515",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T02:57:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
         "source": "hn",
-        "score": 194,
-        "published": "2026-09-30T17:37:40Z",
+        "score": 106,
+        "published": "2026-10-01T20:36:47Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11514",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11514",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-08T20:17:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -260,14 +282,14 @@
         }
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
         "source": "hn",
-        "score": 106,
-        "published": "2026-10-01T20:36:47Z",
+        "score": 3,
+        "published": "2026-10-07T19:40:34Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -282,17 +304,6 @@
         }
       },
       {
-        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-07T19:40:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "MS announces DeepSeek V4 Flash and Nemotron locally, llama.cpp comes to Win ML",
         "url": "https://pasqualepillitteri.it/en/news/21457/windows-deepseek-v4-flash-nemotron-llama-cpp-windows-ml",
         "source": "hn",
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
-        "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-07T01:02:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
