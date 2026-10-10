@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-10-10T06:02:42.140428+00:00",
+  "generated_at": "2026-10-10T12:42:36.520168+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
-        "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-10T04:18:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
@@ -22,17 +11,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
-        }
-      },
-      {
-        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-        "url": "https://github.com/SamsungLabs/LittleBit",
-        "source": "hn",
-        "score": 88,
-        "published": "2026-10-08T13:29:46Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
         }
       },
       {
@@ -47,17 +25,6 @@
         }
       },
       {
-        "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
-        "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-10-09T20:55:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
@@ -66,6 +33,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+        "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-10T04:18:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -91,6 +69,17 @@
         }
       },
       {
+        "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
+        "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-10-09T20:55:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
         "source": "hn",
@@ -105,11 +94,22 @@
         "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
         "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
         "source": "hn",
-        "score": 51,
+        "score": 52,
         "published": "2026-10-07T18:19:03Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+        }
+      },
+      {
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "source": "hn",
+        "score": 345,
+        "published": "2026-10-02T02:51:27Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 345 points)"
         }
       },
       {
@@ -136,6 +136,17 @@
       }
     ],
     "security": [
+      {
+        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
+        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-10T12:30:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Prompt Injection will always be unsolved",
         "url": "https://news.ycombinator.com/item?id=50024585",
@@ -194,11 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11541",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11541",
+        "title": "Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser",
+        "url": "https://jeyzma.com/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-10T09:16:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11548: spec: properly handle mtmd input for mtp (#30257)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11548",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-10T04:02:11+00:00",
+        "published": "2026-10-10T09:22:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11547",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11547",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-10T09:22:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,36 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11540",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11540",
+        "title": "llama.cpp: b11546",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11546",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-10T03:30:57+00:00",
+        "published": "2026-10-10T06:15:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11539",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11539",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T22:41:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ML Drift: Google's open-source on-device GPU inference engine",
-        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-09T10:25:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -257,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 104 points)"
+        }
+      },
+      {
+        "title": "ML Drift: Google's open-source on-device GPU inference engine",
+        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-09T10:25:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -293,28 +315,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T03:37:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: proto-v0.5.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.5.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-09T03:11:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
         "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
         "source": "hn",
@@ -323,6 +323,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-09T03:37:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
