@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-10-11T13:02:11.355233+00:00",
+  "generated_at": "2026-10-11T22:06:28.056366+00:00",
   "sections": {
     "model": [
-      {
-        "title": "HuggingFace – Top Open Weights Models '26",
-        "url": "https://franciscocarloserra.github.io/hf-top-models/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T08:53:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
@@ -28,7 +17,7 @@
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 709,
+        "score": 710,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -36,21 +25,10 @@
         }
       },
       {
-        "title": "Show HN: Modelship – an open source ray backed model cluster",
-        "url": "https://github.com/modelship-ai/modelship",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-11T07:28:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
         "url": "https://github.com/pingdotgg/ts-rust",
         "source": "hn",
-        "score": 115,
+        "score": 117,
         "published": "2026-10-08T00:46:00Z",
         "truthiness": {
           "label": "green",
@@ -58,25 +36,25 @@
         }
       },
       {
-        "title": "Ask HN: Best Local LLM Box ?",
-        "url": "https://news.ycombinator.com/item?id=50039529",
+        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "url": "https://github.com/SamsungLabs/LittleBit",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T03:19:32Z",
+        "score": 88,
+        "published": "2026-10-08T13:29:46Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
         }
       },
       {
-        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "title": "Ask HN: Open-source model weights on bluray drives, anyone?",
+        "url": "https://news.ycombinator.com/item?id=50043254",
         "source": "hn",
-        "score": 641,
-        "published": "2026-10-01T16:18:57Z",
+        "score": 1,
+        "published": "2026-10-11T13:45:42Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 474 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -88,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 424 points)"
+        }
+      },
+      {
+        "title": "HuggingFace – Top Open Weights Models '26",
+        "url": "https://franciscocarloserra.github.io/hf-top-models/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T08:53:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -124,18 +113,40 @@
         }
       },
       {
-        "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+        "title": "Ask HN: Best Local LLM Box ?",
+        "url": "https://news.ycombinator.com/item?id=50039529",
         "source": "hn",
-        "score": 168,
-        "published": "2026-10-02T13:47:41Z",
+        "score": 2,
+        "published": "2026-10-11T03:19:32Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 166 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Modelship – an open source ray backed model cluster",
+        "url": "https://github.com/modelship-ai/modelship",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-11T07:28:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
     "security": [
+      {
+        "title": "Prompt injection through log files: what red-teaming our assistant found",
+        "url": "https://jl3-cloud.site/blog/prompt-injection-through-log-files/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T18:53:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
         "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
@@ -183,33 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11554",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11554",
+        "title": "llama.cpp: b11559",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11559",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T12:31:40+00:00",
+        "published": "2026-10-11T19:17:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11555",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11555",
+        "title": "llama.cpp: b11558",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11558",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T12:24:41+00:00",
+        "published": "2026-10-11T17:29:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11553",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11553",
+        "title": "llama.cpp: b11557",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11557",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T11:20:18+00:00",
+        "published": "2026-10-11T15:14:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,14 +260,14 @@
         }
       },
       {
-        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "title": "Local LLM Inference at Scale with vLLM",
+        "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
         "source": "hn",
-        "score": 106,
-        "published": "2026-10-01T20:36:47Z",
+        "score": 3,
+        "published": "2026-10-09T23:00:25Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -268,17 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local LLM Inference at Scale with vLLM",
-        "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-09T23:00:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -312,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
+        "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-07T01:02:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
