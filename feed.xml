@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:09:23 +0000</lastBuildDate>
+    <item>
+      <title>The gap in shared understanding of LLM capability is widening</title>
+      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
+      <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
+      <category>model</category>
+      <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
       <link>https://reflection.ai/blog/introducing-beam</link>
       <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>OpenDocRouter: every document model under one API</title>
+      <link>https://www.llamaindex.ai/blog/introducing-opendocrouter</link>
+      <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-opendocrouter</guid>
+      <category>model</category>
+      <pubDate>Sun, 11 Oct 2026 23:19:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,22 +46,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://github.com/SamsungLabs/LittleBit</link>
-      <guid isPermaLink="false">https://github.com/SamsungLabs/LittleBit</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Open-source model weights on bluray drives, anyone?</title>
-      <link>https://news.ycombinator.com/item?id=50043254</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50043254</guid>
-      <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 13:45:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Aleph Alpha Kolibri: How the sovereign German LLM works</title>
       <link>https://tej.as/blog/aleph-alpha-kolibri</link>
       <guid isPermaLink="false">https://tej.as/blog/aleph-alpha-kolibri</guid>
@@ -54,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>HuggingFace – Top Open Weights Models &#x27;26</title>
-      <link>https://franciscocarloserra.github.io/hf-top-models/</link>
-      <guid isPermaLink="false">https://franciscocarloserra.github.io/hf-top-models/</guid>
+      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
+      <link>https://github.com/SamsungLabs/LittleBit</link>
+      <guid isPermaLink="false">https://github.com/SamsungLabs/LittleBit</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 08:53:37 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Greg Kroah-Hartman – Security in the LLM Age [video]</title>
-      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=NnV_cWeoo5Q</guid>
-      <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
       <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
       <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
@@ -86,19 +78,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Best Local LLM Box ?</title>
-      <link>https://news.ycombinator.com/item?id=50039529</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50039529</guid>
+      <title>Ask HN: Open-source model weights on bluray drives, anyone?</title>
+      <link>https://news.ycombinator.com/item?id=50043254</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50043254</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 03:19:32 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 13:45:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Modelship – an open source ray backed model cluster</title>
-      <link>https://github.com/modelship-ai/modelship</link>
-      <guid isPermaLink="false">https://github.com/modelship-ai/modelship</guid>
+      <title>HuggingFace – Top Open Weights Models &#x27;26</title>
+      <link>https://franciscocarloserra.github.io/hf-top-models/</link>
+      <guid isPermaLink="false">https://franciscocarloserra.github.io/hf-top-models/</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 07:28:20 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 08:53:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Decision models like Jev don&#x27;t beat LLM-as-a-judge or traditional classifiers</title>
+      <link>https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</link>
+      <guid isPermaLink="false">https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails</guid>
+      <category>model</category>
+      <pubDate>Fri, 02 Oct 2026 13:47:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,35 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11559</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11559</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11559</guid>
+      <title>llama.cpp: b11562</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11562</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11562</guid>
       <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 19:17:37 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 05:53:57 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11558</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11558</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11558</guid>
+      <title>llama.cpp: b11560</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11560</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11560</guid>
       <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 17:29:20 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 04:00:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11557</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11557</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11557</guid>
+      <title>llama.cpp: b11561</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11561</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11561</guid>
       <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 15:14:40 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.3</guid>
-      <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 06:40:39 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 03:52:01 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,12 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM</title>
-      <link>https://github.com/woct0rdho/transformers5-qwen3.5-recipe</link>
-      <guid isPermaLink="false">https://github.com/woct0rdho/transformers5-qwen3.5-recipe</guid>
+      <title>ollama: v0.40.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.3</guid>
       <category>harness</category>
-      <pubDate>Sat, 10 Oct 2026 16:43:43 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 11 Oct 2026 06:40:39 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Local LLM Inference at Scale with vLLM</title>
@@ -195,6 +187,14 @@
       <guid isPermaLink="false">https://data4sci.substack.com/p/local-llm-inference-at-scale-with</guid>
       <category>harness</category>
       <pubDate>Fri, 09 Oct 2026 23:00:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM</title>
+      <link>https://github.com/woct0rdho/transformers5-qwen3.5-recipe</link>
+      <guid isPermaLink="false">https://github.com/woct0rdho/transformers5-qwen3.5-recipe</guid>
+      <category>harness</category>
+      <pubDate>Sat, 10 Oct 2026 16:43:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>

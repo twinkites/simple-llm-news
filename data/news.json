@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-11T22:06:28.056366+00:00",
+  "generated_at": "2026-10-12T06:09:23.875338+00:00",
   "sections": {
     "model": [
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 379,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
@@ -14,10 +25,21 @@
         }
       },
       {
+        "title": "OpenDocRouter: every document model under one API",
+        "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T23:19:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "source": "hn",
-        "score": 710,
+        "score": 711,
         "published": "2026-10-03T09:36:04Z",
         "truthiness": {
           "label": "yellow",
@@ -36,28 +58,6 @@
         }
       },
       {
-        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-        "url": "https://github.com/SamsungLabs/LittleBit",
-        "source": "hn",
-        "score": 88,
-        "published": "2026-10-08T13:29:46Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Open-source model weights on bluray drives, anyone?",
-        "url": "https://news.ycombinator.com/item?id=50043254",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-11T13:45:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "hn",
@@ -69,14 +69,14 @@
         }
       },
       {
-        "title": "HuggingFace – Top Open Weights Models '26",
-        "url": "https://franciscocarloserra.github.io/hf-top-models/",
+        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "url": "https://github.com/SamsungLabs/LittleBit",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T08:53:37Z",
+        "score": 88,
+        "published": "2026-10-08T13:29:46Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
         }
       },
       {
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "source": "hn",
-        "score": 345,
-        "published": "2026-10-02T02:51:27Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 345 points)"
-        }
-      },
-      {
         "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
         "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
         "source": "hn",
@@ -113,25 +102,36 @@
         }
       },
       {
-        "title": "Ask HN: Best Local LLM Box ?",
-        "url": "https://news.ycombinator.com/item?id=50039529",
+        "title": "Ask HN: Open-source model weights on bluray drives, anyone?",
+        "url": "https://news.ycombinator.com/item?id=50043254",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-11T13:45:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "HuggingFace – Top Open Weights Models '26",
+        "url": "https://franciscocarloserra.github.io/hf-top-models/",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-11T03:19:32Z",
+        "published": "2026-10-11T08:53:37Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "Show HN: Modelship – an open source ray backed model cluster",
-        "url": "https://github.com/modelship-ai/modelship",
+        "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-11T07:28:20Z",
+        "score": 168,
+        "published": "2026-10-02T13:47:41Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 168 points)"
         }
       }
     ],
@@ -194,44 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11559",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11559",
+        "title": "llama.cpp: b11562",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11562",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T19:17:37+00:00",
+        "published": "2026-10-12T05:53:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11558",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11558",
+        "title": "llama.cpp: b11560",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11560",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T17:29:20+00:00",
+        "published": "2026-10-12T04:00:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11557",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11557",
+        "title": "llama.cpp: b11561",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11561",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-11T15:14:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-11T06:40:39+00:00",
+        "published": "2026-10-12T03:52:01+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,14 +238,14 @@
         }
       },
       {
-        "title": "Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
-        "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-10T16:43:43Z",
+        "title": "ollama: v0.40.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-11T06:40:39+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -268,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
+        "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-10T16:43:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
