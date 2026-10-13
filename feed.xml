@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:22:04 +0000</lastBuildDate>
     <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
@@ -14,11 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: What is your usecase for ONNX model format?</title>
-      <link>https://news.ycombinator.com/item?id=50063110</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50063110</guid>
+      <title>How to Choose the Best Local LLM Basis MacBook RAM Size</title>
+      <link>https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</link>
+      <guid isPermaLink="false">https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</guid>
       <category>model</category>
-      <pubDate>Mon, 12 Oct 2026 21:10:19 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 09:04:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -27,30 +27,6 @@
       <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
       <category>model</category>
       <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Kolibri: A Sovereign Open-Weight Model</title>
-      <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
-      <guid isPermaLink="false">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 09:36:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B</title>
-      <link>https://precisionnumerics.ai/blog/boole-1p7b</link>
-      <guid isPermaLink="false">https://precisionnumerics.ai/blog/boole-1p7b</guid>
-      <category>model</category>
-      <pubDate>Mon, 12 Oct 2026 15:49:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Aleph Alpha Kolibri: How the sovereign German LLM works</title>
-      <link>https://tej.as/blog/aleph-alpha-kolibri</link>
-      <guid isPermaLink="false">https://tej.as/blog/aleph-alpha-kolibri</guid>
-      <category>model</category>
-      <pubDate>Sat, 03 Oct 2026 10:43:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,6 +43,22 @@
       <guid isPermaLink="false">https://github.com/SamsungLabs/LittleBit</guid>
       <category>model</category>
       <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: What is your usecase for ONNX model format?</title>
+      <link>https://news.ycombinator.com/item?id=50063110</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50063110</guid>
+      <category>model</category>
+      <pubDate>Mon, 12 Oct 2026 21:10:19 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B</title>
+      <link>https://precisionnumerics.ai/blog/boole-1p7b</link>
+      <guid isPermaLink="false">https://precisionnumerics.ai/blog/boole-1p7b</guid>
+      <category>model</category>
+      <pubDate>Mon, 12 Oct 2026 15:49:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Open-source model weights on bluray drives, anyone?</title>
-      <link>https://news.ycombinator.com/item?id=50043254</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50043254</guid>
+      <title>Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi</title>
+      <link>https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</link>
+      <guid isPermaLink="false">https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 13:45:42 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:55:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Best Local LLM Box ?</title>
+      <link>https://news.ycombinator.com/item?id=50039529</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50039529</guid>
+      <category>model</category>
+      <pubDate>Sun, 11 Oct 2026 03:19:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,19 +118,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Detection and Defense Tools for Enterprise AI Agents</title>
-      <link>https://www.arcade.dev/blog/prompt-injection-detection-tools/</link>
-      <guid isPermaLink="false">https://www.arcade.dev/blog/prompt-injection-detection-tools/</guid>
-      <category>security</category>
-      <pubDate>Sat, 10 Oct 2026 12:30:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt Injection will always be unsolved</title>
       <link>https://news.ycombinator.com/item?id=50024585</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50024585</guid>
       <category>security</category>
       <pubDate>Fri, 09 Oct 2026 18:16:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt Injection Detection and Defense Tools for Enterprise AI Agents</title>
+      <link>https://www.arcade.dev/blog/prompt-injection-detection-tools/</link>
+      <guid isPermaLink="false">https://www.arcade.dev/blog/prompt-injection-detection-tools/</guid>
+      <category>security</category>
+      <pubDate>Sat, 10 Oct 2026 12:30:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,35 +150,59 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11577</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11577</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11577</guid>
+      <title>koboldcpp: koboldcpp-1.123</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.123</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.123</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 22:58:47 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 13:36:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11576</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11576</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11576</guid>
+      <title>SonicBoom – llama.cpp&#x27;s own kernels, 14% faster decode via a graph compiler</title>
+      <link>https://github.com/hardenedlinux/sonicboom</link>
+      <guid isPermaLink="false">https://github.com/hardenedlinux/sonicboom</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 21:34:49 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11588: model : allow Qwen3.8 Flash Next to accept image embds for MTP (#30397)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11588</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11588</guid>
+      <category>harness</category>
+      <pubDate>Tue, 13 Oct 2026 10:34:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11575</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11575</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11575</guid>
+      <title>llama.cpp: b11586: cuda : warnings cleanup (#30420)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11586</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11586</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 20:45:59 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 09:44:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11584</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11584</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11584</guid>
+      <category>harness</category>
+      <pubDate>Tue, 13 Oct 2026 08:24:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 19:00:12 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 05:26:17 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 12 Oct 2026 20:49:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -188,6 +212,14 @@
       <category>harness</category>
       <pubDate>Mon, 12 Oct 2026 10:20:08 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.4-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 12 Oct 2026 18:01:37 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
@@ -211,38 +243,6 @@
       <guid isPermaLink="false">https://data4sci.substack.com/p/local-llm-inference-at-scale-with</guid>
       <category>harness</category>
       <pubDate>Fri, 09 Oct 2026 23:00:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM</title>
-      <link>https://github.com/woct0rdho/transformers5-qwen3.5-recipe</link>
-      <guid isPermaLink="false">https://github.com/woct0rdho/transformers5-qwen3.5-recipe</guid>
-      <category>harness</category>
-      <pubDate>Sat, 10 Oct 2026 16:43:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local LLM Inference at Scale with vLLM</title>
-      <link>https://data4sci.com/blog/local-llm-inference-at-scale-with</link>
-      <guid isPermaLink="false">https://data4sci.com/blog/local-llm-inference-at-scale-with</guid>
-      <category>harness</category>
-      <pubDate>Sat, 10 Oct 2026 13:08:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.3</guid>
-      <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 06:40:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>AI Development on Windows: From PyTorch and Llama.cpp to Windows ML</title>
-      <link>https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/</link>
-      <guid isPermaLink="false">https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 19:40:34 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

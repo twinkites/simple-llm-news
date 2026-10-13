@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T00:49:03.662048+00:00",
+  "generated_at": "2026-10-13T14:22:04.444027+00:00",
   "sections": {
     "model": [
       {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 680,
+        "score": 706,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
@@ -14,58 +14,25 @@
         }
       },
       {
-        "title": "Ask HN: What is your usecase for ONNX model format?",
-        "url": "https://news.ycombinator.com/item?id=50063110",
+        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
+        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-12T21:10:19Z",
+        "score": 2,
+        "published": "2026-10-13T09:04:14Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
         "title": "Beam: Reflection's 501B open-weight model",
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 554,
+        "score": 555,
         "published": "2026-10-05T19:16:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
-        }
-      },
-      {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "source": "hn",
-        "score": 711,
-        "published": "2026-10-03T09:36:04Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
-        "url": "https://precisionnumerics.ai/blog/boole-1p7b",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-12T15:49:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "hn",
-        "score": 424,
-        "published": "2026-10-03T10:43:51Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 424 points)"
         }
       },
       {
@@ -88,6 +55,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
+        }
+      },
+      {
+        "title": "Ask HN: What is your usecase for ONNX model format?",
+        "url": "https://news.ycombinator.com/item?id=50063110",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-12T21:10:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
+        "url": "https://precisionnumerics.ai/blog/boole-1p7b",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-12T15:49:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,14 +113,25 @@
         }
       },
       {
-        "title": "Ask HN: Open-source model weights on bluray drives, anyone?",
-        "url": "https://news.ycombinator.com/item?id=50043254",
+        "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
+        "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-11T13:45:42Z",
+        "score": 6,
+        "published": "2026-10-09T20:55:42Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Best Local LLM Box ?",
+        "url": "https://news.ycombinator.com/item?id=50039529",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T03:19:32Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -159,17 +159,6 @@
         }
       },
       {
-        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
-        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-10T12:30:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Prompt Injection will always be unsolved",
         "url": "https://news.ycombinator.com/item?id=50024585",
         "source": "hn",
@@ -178,6 +167,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
+        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-10T12:30:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -205,33 +205,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11577",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11577",
+        "title": "koboldcpp: koboldcpp-1.123",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T22:58:47+00:00",
+        "published": "2026-10-13T13:36:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11576",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11576",
+        "title": "SonicBoom – llama.cpp's own kernels, 14% faster decode via a graph compiler",
+        "url": "https://github.com/hardenedlinux/sonicboom",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-13T09:40:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11588: model : allow Qwen3.8 Flash Next to accept image embds for MTP (#30397)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11588",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T21:34:49+00:00",
+        "published": "2026-10-13T10:34:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11575",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11575",
+        "title": "llama.cpp: b11586: cuda : warnings cleanup (#30420)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11586",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T20:45:59+00:00",
+        "published": "2026-10-13T09:44:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11584",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11584",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T08:24:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -239,10 +261,21 @@
       },
       {
         "title": "ollama: v0.40.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T19:00:12+00:00",
+        "published": "2026-10-13T05:26:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-12T20:49:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -257,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-12T18:01:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -287,50 +331,6 @@
         "source": "hn",
         "score": 3,
         "published": "2026-10-09T23:00:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
-        "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-10T16:43:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local LLM Inference at Scale with vLLM",
-        "url": "https://data4sci.com/blog/local-llm-inference-at-scale-with",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-10T13:08:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-11T06:40:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-        "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-07T19:40:34Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
