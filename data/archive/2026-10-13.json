@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-10-13T14:22:04.444027+00:00",
+  "generated_at": "2026-10-13T22:53:53.422919+00:00",
   "sections": {
     "model": [
       {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 706,
+        "score": 715,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
-        }
-      },
-      {
-        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
-        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-13T09:04:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -33,6 +22,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
+        }
+      },
+      {
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T17:05:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
+        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-13T09:04:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,14 +69,14 @@
         }
       },
       {
-        "title": "Ask HN: What is your usecase for ONNX model format?",
-        "url": "https://news.ycombinator.com/item?id=50063110",
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-12T21:10:19Z",
+        "score": 52,
+        "published": "2026-10-07T18:19:03Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
         }
       },
       {
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "title": "Ask HN: What is your usecase for ONNX model format?",
+        "url": "https://news.ycombinator.com/item?id=50063110",
         "source": "hn",
-        "score": 52,
-        "published": "2026-10-07T18:19:03Z",
+        "score": 1,
+        "published": "2026-10-12T21:10:19Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -96,17 +107,6 @@
         "source": "hn",
         "score": 2,
         "published": "2026-10-11T23:19:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "HuggingFace – Top Open Weights Models '26",
-        "url": "https://franciscocarloserra.github.io/hf-top-models/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T08:53:37Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -124,11 +124,11 @@
         }
       },
       {
-        "title": "Ask HN: Best Local LLM Box ?",
-        "url": "https://news.ycombinator.com/item?id=50039529",
+        "title": "HuggingFace – Top Open Weights Models '26",
+        "url": "https://franciscocarloserra.github.io/hf-top-models/",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-11T03:19:32Z",
+        "published": "2026-10-11T08:53:37Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -205,11 +205,44 @@
     ],
     "harness": [
       {
-        "title": "koboldcpp: koboldcpp-1.123",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
+        "title": "llama.cpp: b11606",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11606",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-13T13:36:42+00:00",
+        "published": "2026-10-13T22:39:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11604",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11604",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T22:22:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11603",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11603",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T22:04:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T22:03:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,55 +260,22 @@
         }
       },
       {
-        "title": "llama.cpp: b11588: model : allow Qwen3.8 Flash Next to accept image embds for MTP (#30397)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11588",
+        "title": "koboldcpp: koboldcpp-1.123",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-13T10:34:47+00:00",
+        "published": "2026-10-13T13:36:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11586: cuda : warnings cleanup (#30420)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11586",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T09:44:37+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11584",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11584",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T08:24:20+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.4",
+        "title": "ollama: v0.40.4-rc1: Add Kev decision scoring to MLX (#18976)",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-13T05:26:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-12T20:49:49+00:00",
+        "published": "2026-10-13T04:50:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,6 +293,17 @@
         }
       },
       {
+        "title": "vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-12T20:49:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.40.4-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0",
         "source": "rss",
@@ -307,7 +318,7 @@
         "title": "ML Drift: Google's open-source on-device GPU inference engine",
         "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
         "source": "hn",
-        "score": 6,
+        "score": 7,
         "published": "2026-10-09T10:25:58Z",
         "truthiness": {
           "label": "red",
@@ -320,17 +331,6 @@
         "source": "hn",
         "score": 3,
         "published": "2026-10-10T09:16:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Local LLM Inference at Scale with vLLM",
-        "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-09T23:00:25Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
