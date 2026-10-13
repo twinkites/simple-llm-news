@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:49:03 +0000</lastBuildDate>
     <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
       <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
       <category>model</category>
       <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: What is your usecase for ONNX model format?</title>
+      <link>https://news.ycombinator.com/item?id=50063110</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50063110</guid>
+      <category>model</category>
+      <pubDate>Mon, 12 Oct 2026 21:10:19 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -27,6 +35,14 @@
       <guid isPermaLink="false">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</guid>
       <category>model</category>
       <pubDate>Sat, 03 Oct 2026 09:36:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B</title>
+      <link>https://precisionnumerics.ai/blog/boole-1p7b</link>
+      <guid isPermaLink="false">https://precisionnumerics.ai/blog/boole-1p7b</guid>
+      <category>model</category>
+      <pubDate>Mon, 12 Oct 2026 15:49:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>From the creator of Redis; run LLM locally with ds4</title>
-      <link>https://dwarfstar.sh/</link>
-      <guid isPermaLink="false">https://dwarfstar.sh/</guid>
+      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
+      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
+      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
       <category>model</category>
-      <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,14 +83,6 @@
       <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-opendocrouter</guid>
       <category>model</category>
       <pubDate>Sun, 11 Oct 2026 23:19:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
-      <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
-      <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
-      <category>model</category>
-      <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50043254</guid>
       <category>model</category>
       <pubDate>Sun, 11 Oct 2026 13:45:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Best Local LLM Box ?</title>
-      <link>https://news.ycombinator.com/item?id=50039529</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50039529</guid>
-      <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 03:19:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11574</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11574</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11574</guid>
+      <title>llama.cpp: b11577</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11577</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11577</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 15:16:58 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 22:58:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11573</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11573</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11573</guid>
+      <title>llama.cpp: b11576</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11576</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11576</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 14:51:50 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 21:34:49 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11572</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11572</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11572</guid>
+      <title>llama.cpp: b11575</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11575</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11575</guid>
       <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 14:27:36 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 20:45:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</guid>
+      <category>harness</category>
+      <pubDate>Mon, 12 Oct 2026 19:00:12 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -179,6 +187,14 @@
       <guid isPermaLink="false">https://github.com/AryanDinakaran/EpochGo</guid>
       <category>harness</category>
       <pubDate>Mon, 12 Oct 2026 10:20:08 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
+      <link>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</link>
+      <guid isPermaLink="false">https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</guid>
+      <category>harness</category>
+      <pubDate>Fri, 09 Oct 2026 10:25:58 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -206,14 +222,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.3</guid>
-      <category>harness</category>
-      <pubDate>Sun, 11 Oct 2026 06:40:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Local LLM Inference at Scale with vLLM</title>
       <link>https://data4sci.com/blog/local-llm-inference-at-scale-with</link>
       <guid isPermaLink="false">https://data4sci.com/blog/local-llm-inference-at-scale-with</guid>
@@ -222,12 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
-      <link>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</link>
-      <guid isPermaLink="false">https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</guid>
+      <title>ollama: v0.40.3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.3</guid>
       <category>harness</category>
-      <pubDate>Fri, 09 Oct 2026 10:25:58 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 11 Oct 2026 06:40:39 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>AI Development on Windows: From PyTorch and Llama.cpp to Windows ML</title>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/</guid>
       <category>harness</category>
       <pubDate>Wed, 07 Oct 2026 19:40:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Llama.cpp and WebGPU = Client-side LLMs [video]</title>
-      <link>https://www.youtube.com/watch?v=TvVhzroY72E</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=TvVhzroY72E</guid>
-      <category>harness</category>
-      <pubDate>Wed, 07 Oct 2026 01:02:13 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

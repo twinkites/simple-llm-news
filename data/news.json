@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-12T15:39:57.337926+00:00",
+  "generated_at": "2026-10-13T00:49:03.662048+00:00",
   "sections": {
     "model": [
       {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 581,
+        "score": 680,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "Ask HN: What is your usecase for ONNX model format?",
+        "url": "https://news.ycombinator.com/item?id=50063110",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-12T21:10:19Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -33,6 +44,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
+        "url": "https://precisionnumerics.ai/blog/boole-1p7b",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-12T15:49:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,14 +91,14 @@
         }
       },
       {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "url": "https://dwarfstar.sh/",
+        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
         "source": "hn",
-        "score": 367,
-        "published": "2026-10-02T18:01:16Z",
+        "score": 52,
+        "published": "2026-10-07T18:19:03Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 367 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
         }
       },
       {
@@ -88,17 +110,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-        "source": "hn",
-        "score": 52,
-        "published": "2026-10-07T18:19:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Best Local LLM Box ?",
-        "url": "https://news.ycombinator.com/item?id=50039529",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T03:19:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -205,33 +205,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11574",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11574",
+        "title": "llama.cpp: b11577",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11577",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T15:16:58+00:00",
+        "published": "2026-10-12T22:58:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11573",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11573",
+        "title": "llama.cpp: b11576",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11576",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T14:51:50+00:00",
+        "published": "2026-10-12T21:34:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11572",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11572",
+        "title": "llama.cpp: b11575",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11575",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-12T14:27:36+00:00",
+        "published": "2026-10-12T20:45:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-12T19:00:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -243,6 +254,17 @@
         "source": "hn",
         "score": 1,
         "published": "2026-10-12T10:20:08Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ML Drift: Google's open-source on-device GPU inference engine",
+        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-10-09T10:25:58Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -282,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-11T06:40:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Local LLM Inference at Scale with vLLM",
         "url": "https://data4sci.com/blog/local-llm-inference-at-scale-with",
         "source": "hn",
@@ -304,14 +315,14 @@
         }
       },
       {
-        "title": "ML Drift: Google's open-source on-device GPU inference engine",
-        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-09T10:25:58Z",
+        "title": "ollama: v0.40.3",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-11T06:40:39+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
-        "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-07T01:02:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
