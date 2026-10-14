@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 05:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:03:49 +0000</lastBuildDate>
+    <item>
+      <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
+      <link>https://huggingface.co/fishaudio/drama-3</link>
+      <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
@@ -46,20 +54,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-      <category>model</category>
-      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
       <link>https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</link>
       <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
       <category>model</category>
       <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <category>model</category>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B</title>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</guid>
       <category>model</category>
       <pubDate>Fri, 09 Oct 2026 20:55:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>HuggingFace – Top Open Weights Models &#x27;26</title>
-      <link>https://franciscocarloserra.github.io/hf-top-models/</link>
-      <guid isPermaLink="false">https://franciscocarloserra.github.io/hf-top-models/</guid>
-      <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 08:53:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11610</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11610</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11610</guid>
+      <title>PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 02:25:26 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 05:07:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11617</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11617</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11617</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 06:06:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11614</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11614</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11614</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 05:44:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11613: vulkan: support mulmat bf16 activations (#29069)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11613</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11613</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 05:36:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,20 +190,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11609</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11609</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11609</guid>
+      <title>SonicBoom – llama.cpp&#x27;s own kernels, 14% faster decode via a graph compiler</title>
+      <link>https://github.com/hardenedlinux/sonicboom</link>
+      <guid isPermaLink="false">https://github.com/hardenedlinux/sonicboom</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 00:55:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11608</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11608</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11608</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 00:38:42 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.4-rc2</title>
@@ -188,14 +204,6 @@
       <category>harness</category>
       <pubDate>Tue, 13 Oct 2026 21:23:05 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>SonicBoom – llama.cpp&#x27;s own kernels, 14% faster decode via a graph compiler</title>
-      <link>https://github.com/hardenedlinux/sonicboom</link>
-      <guid isPermaLink="false">https://github.com/hardenedlinux/sonicboom</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>koboldcpp: koboldcpp-1.123</title>
@@ -222,14 +230,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</guid>
-      <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 20:49:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
       <link>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</link>
       <guid isPermaLink="false">https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</guid>
@@ -238,12 +238,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser</title>
-      <link>https://jeyzma.com/</link>
-      <guid isPermaLink="false">https://jeyzma.com/</guid>
+      <title>vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</guid>
       <category>harness</category>
-      <pubDate>Sat, 10 Oct 2026 09:16:45 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Mon, 12 Oct 2026 20:49:49 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
