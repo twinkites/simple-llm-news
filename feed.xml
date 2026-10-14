@@ -4,7 +4,31 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:49:11 +0000</lastBuildDate>
+    <item>
+      <title>Why do LLM pelicans look like this?</title>
+      <link>https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</link>
+      <guid isPermaLink="false">https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 16:33:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Linus Torvalds&#x27;s first LLM-assisted patch series</title>
+      <link>https://lwn.net/Articles/1100449/</link>
+      <guid isPermaLink="false">https://lwn.net/Articles/1100449/</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 16:55:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The gap in shared understanding of LLM capability is widening</title>
+      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
+      <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
+      <category>model</category>
+      <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model</title>
       <link>https://github.com/theforecastingcompany/tfc-t0</link>
@@ -14,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The gap in shared understanding of LLM capability is widening</title>
-      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-      <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
+      <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
+      <link>https://huggingface.co/fishaudio/drama-3</link>
+      <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +70,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
-      <link>https://huggingface.co/fishaudio/drama-3</link>
-      <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
+      <title>Beam: Reflection&#x27;s 501B open-weight model</title>
+      <link>https://reflection.ai/blog/introducing-beam</link>
+      <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
       <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,35 +86,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Beam: Reflection&#x27;s 501B open-weight model</title>
-      <link>https://reflection.ai/blog/introducing-beam</link>
-      <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
       <link>https://github.com/pingdotgg/ts-rust</link>
       <guid isPermaLink="false">https://github.com/pingdotgg/ts-rust</guid>
       <category>model</category>
       <pubDate>Thu, 08 Oct 2026 00:46:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://github.com/SamsungLabs/LittleBit</link>
-      <guid isPermaLink="false">https://github.com/SamsungLabs/LittleBit</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>How to Choose the Best Local LLM Basis MacBook RAM Size</title>
-      <link>https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</link>
-      <guid isPermaLink="false">https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</guid>
-      <category>model</category>
-      <pubDate>Tue, 13 Oct 2026 09:04:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11617</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11617</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11617</guid>
+      <title>ollama: v0.40.5</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 12:57:34 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:45:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,27 +166,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11618: HIP: use 64-row MMQ tiles for some quant types on RDNA3.5 (#28195)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11618</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11618</guid>
+      <title>llama.cpp: b11627</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11627</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11627</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 06:10:29 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 09:36:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11614</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11614</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11614</guid>
+      <title>llama.cpp: b11626: model: split layers evenly when no device reports free memory (#29677)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11626</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11626</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 05:44:22 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 06:30:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4</guid>
+      <title>llama.cpp: b11625: vendor : update cpp-httplib to 0.61.0 (#30494)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11625</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11625</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 02:23:26 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 06:28:24 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -196,6 +196,14 @@
       <category>harness</category>
       <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 02:23:26 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.4-rc2</title>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.123</guid>
       <category>harness</category>
       <pubDate>Tue, 13 Oct 2026 13:36:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.4-rc1: Add Kev decision scoring to MLX (#18976)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 04:50:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

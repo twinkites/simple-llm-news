@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-14T17:20:32.791416+00:00",
+  "generated_at": "2026-10-14T21:49:11.618378+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+        "source": "hn",
+        "score": 147,
+        "published": "2026-10-14T16:33:34Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
+        }
+      },
+      {
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-14T16:55:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 720,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
       {
         "title": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model",
         "url": "https://github.com/theforecastingcompany/tfc-t0",
@@ -14,14 +47,14 @@
         }
       },
       {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "title": "Fish Audio Drama 3: an open-weight, directable TTS model",
+        "url": "https://huggingface.co/fishaudio/drama-3",
         "source": "hn",
-        "score": 720,
-        "published": "2026-10-11T20:20:52Z",
+        "score": 7,
+        "published": "2026-10-14T10:15:32Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -58,14 +91,14 @@
         }
       },
       {
-        "title": "Fish Audio Drama 3: an open-weight, directable TTS model",
-        "url": "https://huggingface.co/fishaudio/drama-3",
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
-        "score": 7,
-        "published": "2026-10-14T10:15:32Z",
+        "score": 555,
+        "published": "2026-10-05T19:16:35Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
         }
       },
       {
@@ -80,17 +113,6 @@
         }
       },
       {
-        "title": "Beam: Reflection's 501B open-weight model",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "source": "hn",
-        "score": 555,
-        "published": "2026-10-05T19:16:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
-        }
-      },
-      {
         "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
         "url": "https://github.com/pingdotgg/ts-rust",
         "source": "hn",
@@ -99,28 +121,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 111 points)"
-        }
-      },
-      {
-        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-        "url": "https://github.com/SamsungLabs/LittleBit",
-        "source": "hn",
-        "score": 90,
-        "published": "2026-10-08T13:29:46Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
-        }
-      },
-      {
-        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
-        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-13T09:04:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -205,11 +205,11 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11617",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11617",
+        "title": "ollama: v0.40.5",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T12:57:34+00:00",
+        "published": "2026-10-14T19:45:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,33 +227,33 @@
         }
       },
       {
-        "title": "llama.cpp: b11618: HIP: use 64-row MMQ tiles for some quant types on RDNA3.5 (#28195)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11618",
+        "title": "llama.cpp: b11627",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11627",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T06:10:29+00:00",
+        "published": "2026-10-14T09:36:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11614",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11614",
+        "title": "llama.cpp: b11626: model: split layers evenly when no device reports free memory (#29677)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11626",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T05:44:22+00:00",
+        "published": "2026-10-14T06:30:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "ollama: v0.40.4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+        "title": "llama.cpp: b11625: vendor : update cpp-httplib to 0.61.0 (#30494)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11625",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T02:23:26+00:00",
+        "published": "2026-10-14T06:28:24+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,6 +268,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T02:23:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -287,17 +298,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-13T13:36:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.4-rc1: Add Kev decision scoring to MLX (#18976)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T04:50:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
