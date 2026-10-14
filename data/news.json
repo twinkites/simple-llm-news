@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T22:53:53.422919+00:00",
+  "generated_at": "2026-10-14T05:03:20.696548+00:00",
   "sections": {
     "model": [
       {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 715,
+        "score": 716,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
@@ -22,28 +22,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
-        }
-      },
-      {
-        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T17:05:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
-        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-13T09:04:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -66,6 +44,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 88 points)"
+        }
+      },
+      {
+        "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
+        "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-13T09:04:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T17:05:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -205,33 +205,11 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11606",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11606",
+        "title": "llama.cpp: b11610",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11610",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-13T22:39:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11604",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11604",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T22:22:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11603",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11603",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T22:04:54+00:00",
+        "published": "2026-10-14T02:25:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -239,10 +217,43 @@
       },
       {
         "title": "ollama: v0.40.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T02:23:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11609",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11609",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T00:55:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11608",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11608",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T00:38:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4-rc2",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-13T22:03:22+00:00",
+        "published": "2026-10-13T21:23:05+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -298,17 +309,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-12T20:49:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.4-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-12T18:01:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

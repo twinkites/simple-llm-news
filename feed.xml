@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:03:20 +0000</lastBuildDate>
     <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
@@ -22,22 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-      <category>model</category>
-      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>How to Choose the Best Local LLM Basis MacBook RAM Size</title>
-      <link>https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</link>
-      <guid isPermaLink="false">https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</guid>
-      <category>model</category>
-      <pubDate>Tue, 13 Oct 2026 09:04:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
       <link>https://github.com/pingdotgg/ts-rust</link>
       <guid isPermaLink="false">https://github.com/pingdotgg/ts-rust</guid>
@@ -52,6 +36,22 @@
       <category>model</category>
       <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>How to Choose the Best Local LLM Basis MacBook RAM Size</title>
+      <link>https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</link>
+      <guid isPermaLink="false">https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5</guid>
+      <category>model</category>
+      <pubDate>Tue, 13 Oct 2026 09:04:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <category>model</category>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>I&#x27;m not paying $20 for ChatGPT or Claude because a free local LLM does</title>
@@ -150,35 +150,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11606</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11606</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11606</guid>
+      <title>llama.cpp: b11610</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11610</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11610</guid>
       <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 22:39:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11604</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11604</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11604</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 22:22:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11603</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11603</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11603</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 22:04:54 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 02:25:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 02:23:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11609</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11609</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11609</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 00:55:13 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11608</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11608</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11608</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 00:38:42 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.4-rc2</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2</guid>
       <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 22:03:22 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 21:23:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -219,14 +227,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0</guid>
       <category>harness</category>
       <pubDate>Mon, 12 Oct 2026 20:49:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.4-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc0</guid>
-      <category>harness</category>
-      <pubDate>Mon, 12 Oct 2026 18:01:37 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
