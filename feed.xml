@@ -4,13 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:20:32 +0000</lastBuildDate>
     <item>
-      <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
-      <link>https://huggingface.co/fishaudio/drama-3</link>
-      <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
+      <title>Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model</title>
+      <link>https://github.com/theforecastingcompany/tfc-t0</link>
+      <guid isPermaLink="false">https://github.com/theforecastingcompany/tfc-t0</guid>
       <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 14:51:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -20,6 +20,46 @@
       <category>model</category>
       <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
+      <link>https://huggingface.co/SpragAI/SPEV</link>
+      <guid isPermaLink="false">https://huggingface.co/SpragAI/SPEV</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 15:52:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Eulix – Local code index and call graphs for large repos, LLM optional</title>
+      <link>https://github.com/Nurysso/eulix</link>
+      <guid isPermaLink="false">https://github.com/Nurysso/eulix</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 16:04:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The AI race: China&#x27;s open-weight models trail US closed models by just 7 months</title>
+      <link>https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 15:44:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
+      <link>https://huggingface.co/fishaudio/drama-3</link>
+      <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
+      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/hiro-acev2</guid>
+      <category>model</category>
+      <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Beam: Reflection&#x27;s 501B open-weight model</title>
@@ -59,46 +99,6 @@
       <guid isPermaLink="false">https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/</guid>
       <category>model</category>
       <pubDate>Wed, 07 Oct 2026 18:19:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-      <category>model</category>
-      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B</title>
-      <link>https://precisionnumerics.ai/blog/boole-1p7b</link>
-      <guid isPermaLink="false">https://precisionnumerics.ai/blog/boole-1p7b</guid>
-      <category>model</category>
-      <pubDate>Mon, 12 Oct 2026 15:49:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: What is your usecase for ONNX model format?</title>
-      <link>https://news.ycombinator.com/item?id=50063110</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50063110</guid>
-      <category>model</category>
-      <pubDate>Mon, 12 Oct 2026 21:10:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>OpenDocRouter: every document model under one API</title>
-      <link>https://www.llamaindex.ai/blog/introducing-opendocrouter</link>
-      <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-opendocrouter</guid>
-      <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 23:19:19 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi</title>
-      <link>https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</link>
-      <guid isPermaLink="false">https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/</guid>
-      <category>model</category>
-      <pubDate>Fri, 09 Oct 2026 20:55:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,6 +150,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11617</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11617</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11617</guid>
+      <category>harness</category>
+      <pubDate>Wed, 14 Oct 2026 12:57:34 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console</title>
       <link>https://github.com/cobanov/PS5LM</link>
       <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
@@ -158,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11617</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11617</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11617</guid>
+      <title>llama.cpp: b11618: HIP: use 64-row MMQ tiles for some quant types on RDNA3.5 (#28195)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11618</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11618</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 06:06:09 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 06:10:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -171,14 +179,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11614</guid>
       <category>harness</category>
       <pubDate>Wed, 14 Oct 2026 05:44:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11613: vulkan: support mulmat bf16 activations (#29069)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11613</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11613</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 05:36:32 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

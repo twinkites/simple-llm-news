@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-10-14T12:03:49.633803+00:00",
+  "generated_at": "2026-10-14T17:20:32.791416+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model",
+        "url": "https://github.com/theforecastingcompany/tfc-t0",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-10-14T14:51:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 720,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection",
+        "url": "https://huggingface.co/SpragAI/SPEV",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-14T15:52:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+        "url": "https://github.com/Nurysso/eulix",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-14T16:04:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+        "url": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-14T15:44:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Fish Audio Drama 3: an open-weight, directable TTS model",
         "url": "https://huggingface.co/fishaudio/drama-3",
         "source": "hn",
-        "score": 5,
+        "score": 7,
         "published": "2026-10-14T10:15:32Z",
         "truthiness": {
           "label": "yellow",
@@ -14,14 +69,14 @@
         }
       },
       {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "hn",
-        "score": 719,
-        "published": "2026-10-11T20:20:52Z",
+        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T16:12:42+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -77,61 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
-        }
-      },
-      {
-        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-13T17:05:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
-        "url": "https://precisionnumerics.ai/blog/boole-1p7b",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-12T15:49:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Ask HN: What is your usecase for ONNX model format?",
-        "url": "https://news.ycombinator.com/item?id=50063110",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-12T21:10:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "OpenDocRouter: every document model under one API",
-        "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T23:19:19Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
-        "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-09T20:55:42Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ],
@@ -205,6 +205,17 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11617",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11617",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T12:57:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
@@ -216,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11617",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11617",
+        "title": "llama.cpp: b11618: HIP: use 64-row MMQ tiles for some quant types on RDNA3.5 (#28195)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11618",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T06:06:09+00:00",
+        "published": "2026-10-14T06:10:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -232,17 +243,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-14T05:44:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11613: vulkan: support mulmat bf16 activations (#29069)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11613",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-14T05:36:32+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
