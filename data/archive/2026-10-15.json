@@ -1,0 +1,330 @@
+{
+  "generated_at": "2026-10-15T04:50:27.338473+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+        "source": "hn",
+        "score": 155,
+        "published": "2026-10-14T16:33:34Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
+        }
+      },
+      {
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "source": "hn",
+        "score": 115,
+        "published": "2026-10-14T16:55:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 722,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model",
+        "url": "https://github.com/theforecastingcompany/tfc-t0",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-10-14T14:51:04Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Local Model Guide – Find what LLMs fit on your machine",
+        "url": "https://localmodelguide.com/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-14T23:23:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Fish Audio Drama 3: an open-weight, directable TTS model",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-10-14T10:15:32Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "hn",
+        "score": 555,
+        "published": "2026-10-05T19:16:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
+        }
+      },
+      {
+        "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection",
+        "url": "https://huggingface.co/SpragAI/SPEV",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-14T15:52:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+        "url": "https://github.com/Nurysso/eulix",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-14T16:04:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+        "url": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-14T15:44:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "source": "hn",
+        "score": 118,
+        "published": "2026-10-08T00:46:00Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 111 points)"
+        }
+      },
+      {
+        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "url": "https://github.com/SamsungLabs/LittleBit",
+        "source": "hn",
+        "score": 90,
+        "published": "2026-10-08T13:29:46Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt injection classifiers are terrible security boundaries",
+        "url": "https://thecout.com/blog/injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-12T14:21:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt injection through log files: what red-teaming our assistant found",
+        "url": "https://jl3-cloud.site/blog/prompt-injection-through-log-files/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T18:53:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection will always be unsolved",
+        "url": "https://news.ycombinator.com/item?id=50024585",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-09T18:16:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
+        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-10T12:30:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Prompt injection scanner that normalizes evasion tricks",
+        "url": "https://github.com/Aaronmike481/Aiscanner",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-07T16:52:28Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "llama.cpp: b11641: spec : add lilicorr support (#30506)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11641",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-15T03:49:25+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.6.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T23:57:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T23:29:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11639: opencl: support CLAMP on non-contiguous views (#30186)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11639",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T20:02:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.5",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T19:45:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-14T05:07:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11636: sycl: IQ3 code reorder (#29107)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11636",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T16:41:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "SonicBoom – llama.cpp's own kernels, 14% faster decode via a graph compiler",
+        "url": "https://github.com/hardenedlinux/sonicboom",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-13T09:40:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T02:23:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.4-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T21:23:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.123",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-13T13:36:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ML Drift: Google's open-source on-device GPU inference engine",
+        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-10-09T10:25:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ]
+  }
+}

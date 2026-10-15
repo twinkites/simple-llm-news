@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T21:49:11.618378+00:00",
+  "generated_at": "2026-10-15T04:50:27.338473+00:00",
   "sections": {
     "model": [
       {
         "title": "Why do LLM pelicans look like this?",
         "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
         "source": "hn",
-        "score": 147,
+        "score": 155,
         "published": "2026-10-14T16:33:34Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Linus Torvalds's first LLM-assisted patch series",
         "url": "https://lwn.net/Articles/1100449/",
         "source": "hn",
-        "score": 109,
+        "score": 115,
         "published": "2026-10-14T16:55:07Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 720,
+        "score": 722,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
@@ -39,11 +39,22 @@
         "title": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model",
         "url": "https://github.com/theforecastingcompany/tfc-t0",
         "source": "hn",
-        "score": 11,
+        "score": 12,
         "published": "2026-10-14T14:51:04Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+        }
+      },
+      {
+        "title": "Local Model Guide – Find what LLMs fit on your machine",
+        "url": "https://localmodelguide.com/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-14T23:23:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -55,6 +66,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "hn",
+        "score": 555,
+        "published": "2026-10-05T19:16:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
         }
       },
       {
@@ -91,28 +113,6 @@
         }
       },
       {
-        "title": "Beam: Reflection's 501B open-weight model",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "source": "hn",
-        "score": 555,
-        "published": "2026-10-05T19:16:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 278 points)"
-        }
-      },
-      {
-        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-14T16:12:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
         "url": "https://github.com/pingdotgg/ts-rust",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "url": "https://github.com/SamsungLabs/LittleBit",
         "source": "hn",
-        "score": 52,
-        "published": "2026-10-07T18:19:03Z",
+        "score": 90,
+        "published": "2026-10-08T13:29:46Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 36 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 90 points)"
         }
       }
     ],
@@ -190,20 +190,53 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering",
-        "url": "https://arxiv.org/abs/2609.36570",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-05T02:43:55Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
+      {
+        "title": "llama.cpp: b11641: spec : add lilicorr support (#30506)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11641",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-15T03:49:25+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: proto-v0.6.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T23:57:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T23:29:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11639: opencl: support CLAMP on non-contiguous views (#30186)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11639",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-14T20:02:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "ollama: v0.40.5",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
@@ -219,7 +252,7 @@
         "title": "PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-10-14T05:07:44Z",
         "truthiness": {
           "label": "red",
@@ -227,33 +260,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11627",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11627",
+        "title": "llama.cpp: b11636: sycl: IQ3 code reorder (#29107)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11636",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-14T09:36:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11626: model: split layers evenly when no device reports free memory (#29677)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11626",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-14T06:30:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11625: vendor : update cpp-httplib to 0.61.0 (#30494)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11625",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-14T06:28:24+00:00",
+        "published": "2026-10-14T16:41:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,17 +315,6 @@
         }
       },
       {
-        "title": "Show HN: EpochGo – Local-first multi-agent AutoML on Ollama ($0 API costs)",
-        "url": "https://github.com/AryanDinakaran/EpochGo",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-12T10:20:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "ML Drift: Google's open-source on-device GPU inference engine",
         "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
         "source": "hn",
@@ -323,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-12T20:49:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
