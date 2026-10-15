@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 17:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:31:46 +0000</lastBuildDate>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
@@ -38,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Ask HN: CAD for wood working with LLM support?</title>
       <link>https://news.ycombinator.com/item?id=50067325</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50067325</guid>
@@ -52,22 +60,6 @@
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 14:51:04 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Beam: Reflection&#x27;s 501B open-weight model</title>
-      <link>https://reflection.ai/blog/introducing-beam</link>
-      <guid isPermaLink="false">https://reflection.ai/blog/introducing-beam</guid>
-      <category>model</category>
-      <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Apertus 1.5 Release Notes</title>
-      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
@@ -92,6 +84,14 @@
       <category>model</category>
       <pubDate>Thu, 08 Oct 2026 00:46:00 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
@@ -150,11 +150,59 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.5</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</guid>
+      <title>If llama.cpp enables MoE to activate multiple experts</title>
+      <link>https://www.openai-hub.com/news/1924/</link>
+      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
       <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 17:03:18 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>mlx-lm: v0.32.1</title>
+      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</link>
+      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 21:22:02 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 17:12:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
+      <link>https://vllm.ai/blog/2026-10-14-nixl-push-connector</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-14-nixl-push-connector</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.5</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 19:18:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>mlx-lm: v0.32.0</title>
+      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0</link>
+      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 18:30:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.7.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 17:15:35 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -163,6 +211,14 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11669</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 16:15:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.5-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 16:11:12 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,68 +238,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11658</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11658</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11658</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 13:14:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM: v0.32.0rc2</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 09:50:46 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: proto-v0.6.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 23:57:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 23:29:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 05:07:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.5-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 18:27:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>SonicBoom – llama.cpp&#x27;s own kernels, 14% faster decode via a graph compiler</title>
-      <link>https://github.com/hardenedlinux/sonicboom</link>
-      <guid isPermaLink="false">https://github.com/hardenedlinux/sonicboom</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
-      <link>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</link>
-      <guid isPermaLink="false">https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 09 Oct 2026 10:25:58 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
