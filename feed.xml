@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 11:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:10:03 +0000</lastBuildDate>
+    <item>
+      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Why do LLM pelicans look like this?</title>
       <link>https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</link>
@@ -30,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: CAD for wood working with LLM support?</title>
+      <link>https://news.ycombinator.com/item?id=50067325</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50067325</guid>
+      <category>model</category>
+      <pubDate>Tue, 13 Oct 2026 05:54:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model</title>
       <link>https://github.com/theforecastingcompany/tfc-t0</link>
       <guid isPermaLink="false">https://github.com/theforecastingcompany/tfc-t0</guid>
@@ -46,12 +62,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local Model Guide – Find what LLMs fit on your machine</title>
-      <link>https://localmodelguide.com/</link>
-      <guid isPermaLink="false">https://localmodelguide.com/</guid>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
       <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 23:23:59 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
@@ -62,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
-      <link>https://huggingface.co/SpragAI/SPEV</link>
-      <guid isPermaLink="false">https://huggingface.co/SpragAI/SPEV</guid>
+      <title>Local Model Guide – Find what LLMs fit on your machine</title>
+      <link>https://localmodelguide.com/</link>
+      <guid isPermaLink="false">https://localmodelguide.com/</guid>
       <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 15:52:42 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 23:23:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,27 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://github.com/SamsungLabs/LittleBit</link>
-      <guid isPermaLink="false">https://github.com/SamsungLabs/LittleBit</guid>
+      <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
+      <link>https://huggingface.co/SpragAI/SPEV</link>
+      <guid isPermaLink="false">https://huggingface.co/SpragAI/SPEV</guid>
       <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 15:52:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Eulix – Local code index and call graphs for large repos, LLM optional</title>
-      <link>https://github.com/Nurysso/eulix</link>
-      <guid isPermaLink="false">https://github.com/Nurysso/eulix</guid>
-      <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 16:04:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>The AI race: China&#x27;s open-weight models trail US closed models by just 7 months</title>
-      <link>https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/</guid>
-      <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 15:44:04 +0000</pubDate>
+      <title>Prompt injection in HTTP headers: what 217M web responses show</title>
+      <link>https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</link>
+      <guid isPermaLink="false">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</guid>
+      <category>security</category>
+      <pubDate>Thu, 15 Oct 2026 14:36:22 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +150,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11643</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11643</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11643</guid>
+      <title>ollama: v0.40.5</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</guid>
       <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 10:01:16 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 17:03:18 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11669</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11669</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11669</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 16:15:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11662</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11662</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11662</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 15:44:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.5-rc1: New model... (#19030)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 14:28:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11658</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11658</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11658</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 13:14:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -155,22 +195,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 09:50:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11642</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11642</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11642</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 07:34:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11644: kv-cache: honor PARTIAL_ONLY in the plain KV cache (#30514)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11644</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11644</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 04:39:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,11 +222,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.5</title>
+      <title>ollama: v0.40.5-rc0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0</guid>
       <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 19:45:22 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 18:27:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -212,22 +236,6 @@
       <category>harness</category>
       <pubDate>Tue, 13 Oct 2026 09:40:26 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4</guid>
-      <category>harness</category>
-      <pubDate>Wed, 14 Oct 2026 02:23:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.4-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2</guid>
-      <category>harness</category>
-      <pubDate>Tue, 13 Oct 2026 21:23:05 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>ML Drift: Google&#x27;s open-source on-device GPU inference engine</title>
