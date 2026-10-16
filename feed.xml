@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 11:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:46:37 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Beam: Reflection’s 501B open-weight model</title>
+      <link>https://reflection.ai/blog/beam-is-available</link>
+      <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Western open-weight models still can&#x27;t beat China</title>
+      <link>https://restofworld.org/2026/china-open-weight-models/</link>
+      <guid isPermaLink="false">https://restofworld.org/2026/china-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
@@ -38,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Timestral open weight timeseries foundation models from Mistral</title>
-      <link>https://huggingface.co/collections/mistralai/timestral</link>
-      <guid isPermaLink="false">https://huggingface.co/collections/mistralai/timestral</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 05:54:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: CAD for wood working with LLM support?</title>
       <link>https://news.ycombinator.com/item?id=50067325</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50067325</guid>
       <category>model</category>
       <pubDate>Tue, 13 Oct 2026 05:54:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Timestral open weight timeseries foundation models from Mistral</title>
+      <link>https://huggingface.co/collections/mistralai/timestral</link>
+      <guid isPermaLink="false">https://huggingface.co/collections/mistralai/timestral</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 05:54:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
       <link>https://github.com/pingdotgg/ts-rust</link>
       <guid isPermaLink="false">https://github.com/pingdotgg/ts-rust</guid>
@@ -78,27 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
       <link>https://huggingface.co/fishaudio/drama-3</link>
       <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 10:15:32 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Local Model Guide – Find what LLMs fit on your machine</title>
-      <link>https://localmodelguide.com/</link>
-      <guid isPermaLink="false">https://localmodelguide.com/</guid>
-      <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 23:23:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,6 +150,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11699: common: honor HTTP_PROXY/HTTPS_PROXY env vars in http client (#21752)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11699</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11699</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 15:01:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b11696</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11696</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11696</guid>
@@ -166,19 +182,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11693</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11693</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11693</guid>
+      <title>If llama.cpp enables MoE to activate multiple experts</title>
+      <link>https://www.openai-hub.com/news/1924/</link>
+      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 11:00:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -196,14 +204,6 @@
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 02:49:02 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>If llama.cpp enables MoE to activate multiple experts</title>
-      <link>https://www.openai-hub.com/news/1924/</link>
-      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
