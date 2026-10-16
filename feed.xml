@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 04:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:33:59 +0000</lastBuildDate>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
@@ -22,14 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Linus Torvalds&#x27;s first LLM-assisted patch series</title>
-      <link>https://lwn.net/Articles/1100449/</link>
-      <guid isPermaLink="false">https://lwn.net/Articles/1100449/</guid>
-      <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 16:55:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
       <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
@@ -38,12 +30,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+      <title>Linus Torvalds&#x27;s first LLM-assisted patch series</title>
+      <link>https://lwn.net/Articles/1100449/</link>
+      <guid isPermaLink="false">https://lwn.net/Articles/1100449/</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 14 Oct 2026 16:55:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Timestral open weight timeseries foundation models from Mistral</title>
+      <link>https://huggingface.co/collections/mistralai/timestral</link>
+      <guid isPermaLink="false">https://huggingface.co/collections/mistralai/timestral</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 05:54:00 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Ask HN: CAD for wood working with LLM support?</title>
@@ -62,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
       <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -86,19 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Local Model Guide – Find what LLMs fit on your machine</title>
       <link>https://localmodelguide.com/</link>
       <guid isPermaLink="false">https://localmodelguide.com/</guid>
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 23:23:59 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
-      <link>https://huggingface.co/SpragAI/SPEV</link>
-      <guid isPermaLink="false">https://huggingface.co/SpragAI/SPEV</guid>
-      <category>model</category>
-      <pubDate>Wed, 14 Oct 2026 15:52:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,28 +150,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11678</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11678</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11678</guid>
+      <title>llama.cpp: b11696</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11696</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11696</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 04:29:01 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 11:29:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11681</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11681</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11681</guid>
+      <title>llama.cpp: b11695</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11695</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11695</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:32:26 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 11:16:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11679: llama : share the k-pool input views between layers (#30613)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11679</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11679</guid>
+      <title>llama.cpp: b11693</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11693</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11693</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:14:36 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 11:00:58 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>koboldcpp: koboldcpp-1.123.1</title>
@@ -190,19 +198,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 17:12:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>If llama.cpp enables MoE to activate multiple experts</title>
       <link>https://www.openai-hub.com/news/1924/</link>
       <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
+      <link>https://vllm.ai/blog/2026-10-14-nixl-push-connector</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-14-nixl-push-connector</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -212,14 +220,6 @@
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 23:39:11 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-14-nixl-push-connector</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-14-nixl-push-connector</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>mlx-lm: v0.32.1</title>

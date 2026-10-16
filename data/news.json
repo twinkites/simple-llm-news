@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:41:54.888103+00:00",
+  "generated_at": "2026-10-16T11:33:59.681126+00:00",
   "sections": {
     "model": [
       {
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "Linus Torvalds's first LLM-assisted patch series",
-        "url": "https://lwn.net/Articles/1100449/",
-        "source": "hn",
-        "score": 120,
-        "published": "2026-10-14T16:55:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
-        }
-      },
-      {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
@@ -47,21 +36,32 @@
         }
       },
       {
-        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T01:44:47+00:00",
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "source": "hn",
+        "score": 121,
+        "published": "2026-10-14T16:55:07Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Timestral open weight timeseries foundation models from Mistral",
+        "url": "https://huggingface.co/collections/mistralai/timestral",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-16T05:54:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
         "title": "Ask HN: CAD for wood working with LLM support?",
         "url": "https://news.ycombinator.com/item?id=50067325",
         "source": "hn",
-        "score": 119,
+        "score": 121,
         "published": "2026-10-13T05:54:01Z",
         "truthiness": {
           "label": "green",
@@ -80,11 +80,11 @@
         }
       },
       {
-        "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-15T20:34:01+00:00",
+        "published": "2026-10-16T01:44:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -113,22 +113,22 @@
         }
       },
       {
+        "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-15T20:34:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Local Model Guide – Find what LLMs fit on your machine",
         "url": "https://localmodelguide.com/",
         "source": "hn",
         "score": 2,
         "published": "2026-10-14T23:23:59Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection",
-        "url": "https://huggingface.co/SpragAI/SPEV",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-14T15:52:42Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -140,7 +140,7 @@
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
         "source": "hn",
-        "score": 83,
+        "score": 88,
         "published": "2026-10-15T14:36:22Z",
         "truthiness": {
           "label": "green",
@@ -205,36 +205,47 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11678",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11678",
+        "title": "llama.cpp: b11696",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11696",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T04:29:01+00:00",
+        "published": "2026-10-16T11:29:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11681",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11681",
+        "title": "llama.cpp: b11695",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11695",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T03:32:26+00:00",
+        "published": "2026-10-16T11:16:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11679: llama : share the k-pool input views between layers (#30613)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11679",
+        "title": "llama.cpp: b11693",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11693",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T03:14:36+00:00",
+        "published": "2026-10-16T11:00:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "hn",
+        "score": 6,
+        "published": "2026-10-16T03:34:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -260,22 +271,22 @@
         }
       },
       {
-        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-10-15T17:12:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "If llama.cpp enables MoE to activate multiple experts",
         "url": "https://www.openai-hub.com/news/1924/",
         "source": "hn",
         "score": 1,
         "published": "2026-10-15T21:08:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-15T18:41:41Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-15T18:41:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
