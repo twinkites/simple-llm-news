@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 21:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:41:54 +0000</lastBuildDate>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
@@ -38,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
       <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -62,6 +62,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
+      <link>https://github.com/pingdotgg/ts-rust</link>
+      <guid isPermaLink="false">https://github.com/pingdotgg/ts-rust</guid>
+      <category>model</category>
+      <pubDate>Thu, 08 Oct 2026 00:46:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Fish Audio Drama 3: an open-weight, directable TTS model</title>
       <link>https://huggingface.co/fishaudio/drama-3</link>
       <guid isPermaLink="false">https://huggingface.co/fishaudio/drama-3</guid>
@@ -76,22 +92,6 @@
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 23:23:59 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
-      <link>https://github.com/pingdotgg/ts-rust</link>
-      <guid isPermaLink="false">https://github.com/pingdotgg/ts-rust</guid>
-      <category>model</category>
-      <pubDate>Thu, 08 Oct 2026 00:46:00 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Apertus 1.5 Release Notes</title>
-      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection</title>
@@ -150,19 +150,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>If llama.cpp enables MoE to activate multiple experts</title>
-      <link>https://www.openai-hub.com/news/1924/</link>
-      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
+      <title>llama.cpp: b11678</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11678</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11678</guid>
       <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 16 Oct 2026 04:29:01 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
-      <title>mlx-lm: v0.32.1</title>
-      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</link>
-      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</guid>
+      <title>llama.cpp: b11681</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11681</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11681</guid>
       <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 21:22:02 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 03:32:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11679: llama : share the k-pool input views between layers (#30613)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11679</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11679</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 03:14:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.123.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 02:50:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>mlx-lm: v0.32.2</title>
+      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2</link>
+      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 02:49:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,12 +198,36 @@
       <source>hn</source>
     </item>
     <item>
+      <title>If llama.cpp enables MoE to activate multiple experts</title>
+      <link>https://www.openai-hub.com/news/1924/</link>
+      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.22</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.22</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.22</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 23:39:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
       <link>https://vllm.ai/blog/2026-10-14-nixl-push-connector</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-14-nixl-push-connector</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>mlx-lm: v0.32.1</title>
+      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</link>
+      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 15 Oct 2026 21:22:02 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.5</title>
@@ -195,54 +243,6 @@
       <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 18:30:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: v0.7.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 17:15:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11669</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11669</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11669</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 16:15:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.5-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 16:11:12 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11662</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11662</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11662</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 15:44:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.5-rc1: New model... (#19030)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 14:28:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.32.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 09:50:46 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
