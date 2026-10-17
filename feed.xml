@@ -4,45 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 21:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:38:11 +0000</lastBuildDate>
     <item>
-      <title>Open-weight models 88% more susceptible to cyber attacks</title>
-      <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
-      <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
+      <title>China to Restrict Open-Weights Model Exports</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</link>
+      <guid isPermaLink="false">https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:52:37 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 02:41:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
-      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
-      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
+      <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
+      <link>https://llmspeed.dev/</link>
+      <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>China proposes export controls on open weight models</title>
-      <link>https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/</link>
-      <guid isPermaLink="false">https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:39:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing Beam: Reflection’s 501B open-weight model</title>
-      <link>https://reflection.ai/blog/beam-is-available</link>
-      <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
-      <link>https://research.meta.ai/blog/muse-spark-open</link>
-      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +30,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weight models 88% more susceptible to cyber attacks</title>
+      <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
+      <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 17:52:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Why do LLM pelicans look like this?</title>
       <link>https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</link>
       <guid isPermaLink="false">https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</guid>
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 16:33:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
+      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
+      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Backdooring Open-Weight AI Models</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</guid>
+      <title>Introducing Beam: Reflection’s 501B open-weight model</title>
+      <link>https://reflection.ai/blog/beam-is-available</link>
+      <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:19:20 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Western open-weight models still can&#x27;t beat China</title>
-      <link>https://restofworld.org/2026/china-open-weight-models/</link>
-      <guid isPermaLink="false">https://restofworld.org/2026/china-open-weight-models/</guid>
+      <title>China proposes export controls on open weight models</title>
+      <link>https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/</link>
+      <guid isPermaLink="false">https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 17:39:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Timestral open weight timeseries foundation models from Mistral</title>
-      <link>https://huggingface.co/collections/mistralai/timestral</link>
-      <guid isPermaLink="false">https://huggingface.co/collections/mistralai/timestral</guid>
+      <title>Western open-weight models still can&#x27;t beat China</title>
+      <link>https://restofworld.org/2026/china-open-weight-models/</link>
+      <guid isPermaLink="false">https://restofworld.org/2026/china-open-weight-models/</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 05:54:00 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,19 +158,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11700</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11700</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11700</guid>
+      <title>llama.cpp: b11706</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11706</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11706</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:36:12 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 02:33:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11699</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11699</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11699</guid>
+      <title>llama.cpp: b11703</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11703</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11703</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:01:20 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 01:06:03 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.6</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.6</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 00:58:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 00:25:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11702</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11702</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11702</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 00:25:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,11 +206,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11696</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11696</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11696</guid>
+      <title>ollama: v0.40.6-rc1: transfer: support proxies on registry redirect targets (#19065)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 11:29:17 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 22:00:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -219,30 +243,6 @@
       <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2</guid>
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 02:49:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.6-rc0: Merge pull request #19041 from ollama/jberg/clef-question-ids</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.6-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.6-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 01:09:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>sglang: v0.5.22</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.22</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.22</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 23:39:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>mlx-lm: v0.32.1</title>
-      <link>https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</link>
-      <guid isPermaLink="false">https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 21:22:02 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>

@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-16T21:20:20.351818+00:00",
+  "generated_at": "2026-10-17T04:38:11.763428+00:00",
   "sections": {
     "model": [
+      {
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-17T02:41:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T04:36:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 725,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
       {
         "title": "Open-weight models 88% more susceptible to cyber attacks",
         "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
@@ -14,11 +47,55 @@
         }
       },
       {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+        "source": "hn",
+        "score": 163,
+        "published": "2026-10-14T16:33:34Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
+        }
+      },
+      {
         "title": "China unveils draft export controls on AI, open-weight models, and chips",
         "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
         "source": "hn",
         "score": 7,
         "published": "2026-10-16T17:24:41Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "source": "hn",
+        "score": 122,
+        "published": "2026-10-14T16:55:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Introducing Beam: Reflection’s 501B open-weight model",
+        "url": "https://reflection.ai/blog/beam-is-available",
+        "source": "hn",
+        "score": 11,
+        "published": "2026-10-16T13:34:30Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
@@ -36,69 +113,14 @@
         }
       },
       {
-        "title": "Introducing Beam: Reflection’s 501B open-weight model",
-        "url": "https://reflection.ai/blog/beam-is-available",
+        "title": "Ask HN: CAD for wood working with LLM support?",
+        "url": "https://news.ycombinator.com/item?id=50067325",
         "source": "hn",
-        "score": 10,
-        "published": "2026-10-16T13:34:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "hn",
-        "score": 725,
-        "published": "2026-10-11T20:20:52Z",
+        "score": 125,
+        "published": "2026-10-13T05:54:01Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
-        }
-      },
-      {
-        "title": "Why do LLM pelicans look like this?",
-        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-        "source": "hn",
-        "score": 163,
-        "published": "2026-10-14T16:33:34Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
-        }
-      },
-      {
-        "title": "Linus Torvalds's first LLM-assisted patch series",
-        "url": "https://lwn.net/Articles/1100449/",
-        "source": "hn",
-        "score": 122,
-        "published": "2026-10-14T16:55:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
-        }
-      },
-      {
-        "title": "Backdooring Open-Weight AI Models",
-        "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-16T17:19:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
         }
       },
       {
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ask HN: CAD for wood working with LLM support?",
-        "url": "https://news.ycombinator.com/item?id=50067325",
-        "source": "hn",
-        "score": 124,
-        "published": "2026-10-13T05:54:01Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
-        }
-      },
-      {
-        "title": "Timestral open weight timeseries foundation models from Mistral",
-        "url": "https://huggingface.co/collections/mistralai/timestral",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-16T05:54:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -208,7 +208,7 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 110,
+        "score": 230,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
@@ -216,22 +216,55 @@
         }
       },
       {
-        "title": "llama.cpp: b11700",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11700",
+        "title": "llama.cpp: b11706",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11706",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T18:36:12+00:00",
+        "published": "2026-10-17T02:33:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11699",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11699",
+        "title": "llama.cpp: b11703",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11703",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T18:01:20+00:00",
+        "published": "2026-10-17T01:06:03+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T00:58:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T00:25:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11702",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11702",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T00:25:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,11 +282,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11696",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11696",
+        "title": "ollama: v0.40.6-rc1: transfer: support proxies on registry redirect targets (#19065)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-16T11:29:17+00:00",
+        "published": "2026-10-16T22:00:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -298,39 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-16T02:49:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.6-rc0: Merge pull request #19041 from ollama/jberg/clef-question-ids",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T01:09:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "sglang: v0.5.22",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.22",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-15T23:39:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "mlx-lm: v0.32.1",
-        "url": "https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-15T21:22:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
