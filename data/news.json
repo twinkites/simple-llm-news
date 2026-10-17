@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-17T04:38:11.763428+00:00",
+  "generated_at": "2026-10-17T10:54:51.970259+00:00",
   "sections": {
     "model": [
-      {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-10-17T02:41:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 1,
+        "score": 86,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
@@ -25,36 +14,36 @@
         }
       },
       {
+        "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+        "url": "https://Joe-Heffer.github.io/sys2txt/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-17T08:14:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-10-17T02:41:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 725,
+        "score": 727,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
-        }
-      },
-      {
-        "title": "Open-weight models 88% more susceptible to cyber attacks",
-        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-10-16T17:52:37Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
-        }
-      },
-      {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -69,14 +58,14 @@
         }
       },
       {
-        "title": "China unveils draft export controls on AI, open-weight models, and chips",
-        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
-        "score": 7,
-        "published": "2026-10-16T17:24:41Z",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -91,6 +80,28 @@
         }
       },
       {
+        "title": "Open-weight models 88% more susceptible to cyber attacks",
+        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-10-16T17:52:37Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
+        "title": "China unveils draft export controls on AI, open-weight models, and chips",
+        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T17:24:41Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
         "title": "Introducing Beam: Reflection’s 501B open-weight model",
         "url": "https://reflection.ai/blog/beam-is-available",
         "source": "hn",
@@ -99,17 +110,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "China proposes export controls on open weight models",
-        "url": "https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-10-16T17:39:03Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Western open-weight models still can't beat China",
-        "url": "https://restofworld.org/2026/china-open-weight-models/",
+        "title": "China proposes export controls on open weight models",
+        "url": "https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-16T15:02:23Z",
+        "score": 5,
+        "published": "2026-10-16T17:39:03Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ],
@@ -208,11 +208,33 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 230,
+        "score": 295,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
+        "url": "https://2tinteractive.com/apps/lmailer/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T07:05:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11707",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11707",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T07:53:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -224,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-10-16T03:34:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -249,8 +282,8 @@
         }
       },
       {
-        "title": "vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
+        "title": "vLLM: v0.32.0: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
         "source": "rss",
         "score": 0,
         "published": "2026-10-17T00:25:45+00:00",
@@ -260,25 +293,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11702",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11702",
+        "title": "vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-17T00:25:33+00:00",
+        "published": "2026-10-17T00:25:45+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-10-16T03:34:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.123.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T02:50:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "mlx-lm: v0.32.2",
-        "url": "https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T02:49:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
