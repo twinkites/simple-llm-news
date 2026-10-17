@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-10-17T15:43:12.539190+00:00",
+  "generated_at": "2026-10-17T20:43:54.550722+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 175,
+        "score": 218,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-10-17T02:41:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -47,14 +36,25 @@
         }
       },
       {
-        "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
-        "url": "https://Joe-Heffer.github.io/sys2txt/",
+        "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
+        "url": "https://news.ycombinator.com/item?id=50132166",
         "source": "hn",
-        "score": 3,
-        "published": "2026-10-17T08:14:12Z",
+        "score": 1,
+        "published": "2026-10-17T15:52:13Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-10-17T02:41:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -72,11 +72,22 @@
         "title": "Linus Torvalds's first LLM-assisted patch series",
         "url": "https://lwn.net/Articles/1100449/",
         "source": "hn",
-        "score": 122,
+        "score": 124,
         "published": "2026-10-14T16:55:07Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+        "url": "https://Joe-Heffer.github.io/sys2txt/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-17T08:14:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -88,6 +99,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
+        "title": "Ask HN: CAD for wood working with LLM support?",
+        "url": "https://news.ycombinator.com/item?id=50067325",
+        "source": "hn",
+        "score": 126,
+        "published": "2026-10-13T05:54:01Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
         }
       },
       {
@@ -111,36 +133,25 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
-      },
-      {
-        "title": "Ask HN: CAD for wood working with LLM support?",
-        "url": "https://news.ycombinator.com/item?id=50067325",
-        "source": "hn",
-        "score": 126,
-        "published": "2026-10-13T05:54:01Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
-        }
-      },
-      {
-        "title": "China proposes export controls on open weight models",
-        "url": "https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-10-16T17:39:03Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
       }
     ],
     "security": [
       {
+        "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T16:42:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
         "source": "hn",
-        "score": 94,
+        "score": 95,
         "published": "2026-10-15T14:36:22Z",
         "truthiness": {
           "label": "green",
@@ -190,17 +201,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Prompt injection scanner that normalizes evasion tricks",
-        "url": "https://github.com/Aaronmike481/Aiscanner",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-07T16:52:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
@@ -208,11 +208,55 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 330,
+        "score": 361,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11716: hexagon: add support for Q1_0 and Q2_0 (#30122)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11716",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T20:36:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11715",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11715",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T19:37:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T18:57:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11714",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11714",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T16:20:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -221,39 +265,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-17T15:29:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11712",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11712",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T14:04:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11713: CUDA: faster MMVQ for low-bit types (#30517)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11713",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T13:35:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11711",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11711",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T13:07:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.123.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T02:50:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
