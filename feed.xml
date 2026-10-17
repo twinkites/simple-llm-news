@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:43:12 +0000</lastBuildDate>
     <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM</title>
-      <link>https://Joe-Heffer.github.io/sys2txt/</link>
-      <guid isPermaLink="false">https://Joe-Heffer.github.io/sys2txt/</guid>
-      <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 08:14:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,6 +38,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM</title>
+      <link>https://Joe-Heffer.github.io/sys2txt/</link>
+      <guid isPermaLink="false">https://Joe-Heffer.github.io/sys2txt/</guid>
+      <category>model</category>
+      <pubDate>Sat, 17 Oct 2026 08:14:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
@@ -70,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
-      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
-      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Introducing Beam: Reflection’s 501B open-weight model</title>
       <link>https://reflection.ai/blog/beam-is-available</link>
       <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
       <category>model</category>
       <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
+      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
+      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +158,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.40.6</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.6</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.6</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 15:29:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11712</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11712</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11712</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 14:04:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11713: CUDA: faster MMVQ for low-bit types (#30517)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11713</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11713</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 13:35:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11711</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11711</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11711</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 13:07:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)</title>
       <link>https://2tinteractive.com/apps/lmailer/</link>
       <guid isPermaLink="false">https://2tinteractive.com/apps/lmailer/</guid>
@@ -166,52 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11707</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11707</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11707</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 07:53:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11706</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11706</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11706</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 02:33:08 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
       <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
       <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11703</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11703</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11703</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 01:06:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.6</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.6</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.6</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 00:58:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.32.0: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 00:25:45 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)</title>
@@ -244,6 +236,14 @@
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.123.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.123.1</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 02:50:35 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>
