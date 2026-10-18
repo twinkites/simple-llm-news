@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-10-18T11:18:08.468098+00:00",
+  "generated_at": "2026-10-18T15:57:59.748898+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 299,
+        "score": 313,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+        "url": "https://github.com/luochen1990/secret-guard",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T15:24:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-18T11:28:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -36,17 +58,6 @@
         }
       },
       {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Linus Torvalds's first LLM-assisted patch series",
         "url": "https://lwn.net/Articles/1100449/",
         "source": "hn",
@@ -58,14 +69,14 @@
         }
       },
       {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
-        "score": 12,
-        "published": "2026-10-17T02:41:30Z",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "Open-weight models 88% more susceptible to cyber attacks",
-        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "hn",
-        "score": 10,
-        "published": "2026-10-16T17:52:37Z",
+        "score": 12,
+        "published": "2026-10-17T02:41:30Z",
         "truthiness": {
           "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -102,6 +113,17 @@
         }
       },
       {
+        "title": "Open-weight models 88% more susceptible to cyber attacks",
+        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-10-16T17:52:37Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
         "title": "China unveils draft export controls on AI, open-weight models, and chips",
         "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
         "source": "hn",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
-        "url": "https://Joe-Heffer.github.io/sys2txt/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-17T08:14:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
-        "url": "https://news.ycombinator.com/item?id=50132166",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-17T15:52:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -208,11 +208,22 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 367,
+        "score": 368,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-18T13:08:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -320,17 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-17T00:25:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.6-rc1: transfer: support proxies on registry redirect targets (#19065)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-16T22:00:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
