@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T04:44:11.902741+00:00",
+  "generated_at": "2026-10-18T11:18:08.468098+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 267,
+        "score": 299,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
@@ -102,14 +102,14 @@
         }
       },
       {
-        "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
-        "url": "https://news.ycombinator.com/item?id=50132166",
+        "title": "China unveils draft export controls on AI, open-weight models, and chips",
+        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-17T15:52:13Z",
+        "score": 8,
+        "published": "2026-10-16T17:24:41Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "China unveils draft export controls on AI, open-weight models, and chips",
-        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+        "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
+        "url": "https://news.ycombinator.com/item?id=50132166",
         "source": "hn",
-        "score": 8,
-        "published": "2026-10-16T17:24:41Z",
+        "score": 1,
+        "published": "2026-10-17T15:52:13Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -216,11 +216,44 @@
         }
       },
       {
+        "title": "llama.cpp: b11719",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11719",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T11:14:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T10:23:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.1rc0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T09:26:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b11718",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11718",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-18T04:44:03+00:00",
+        "published": "2026-10-18T04:45:27+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,28 +282,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11716",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11716",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T21:15:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.32.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T18:57:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
         "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
         "source": "hn",
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.6",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-17T15:29:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
         "url": "https://2tinteractive.com/apps/lmailer/",
         "source": "hn",
@@ -301,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T15:29:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "If llama.cpp enables MoE to activate multiple experts",
-        "url": "https://www.openai-hub.com/news/1924/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-15T21:08:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

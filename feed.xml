@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 04:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:18:08 +0000</lastBuildDate>
     <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
@@ -78,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Non-deterministic leet code small LLM challenge site?</title>
-      <link>https://news.ycombinator.com/item?id=50132166</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50132166</guid>
+      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
+      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
+      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
       <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 15:52:13 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
-      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
-      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
+      <title>Ask HN: Non-deterministic leet code small LLM challenge site?</title>
+      <link>https://news.ycombinator.com/item?id=50132166</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50132166</guid>
       <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 15:52:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,11 +158,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11719</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11719</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11719</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 11:14:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.32.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 10:23:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.32.1rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 09:26:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11718</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11718</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11718</guid>
       <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 04:44:03 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 04:45:27 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,27 +206,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11716</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11716</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11716</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 21:15:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.32.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 18:57:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
       <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
       <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)</title>
+      <link>https://2tinteractive.com/apps/lmailer/</link>
+      <guid isPermaLink="false">https://2tinteractive.com/apps/lmailer/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 07:05:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -212,14 +228,6 @@
       <category>harness</category>
       <pubDate>Sat, 17 Oct 2026 15:29:04 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)</title>
-      <link>https://2tinteractive.com/apps/lmailer/</link>
-      <guid isPermaLink="false">https://2tinteractive.com/apps/lmailer/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 07:05:30 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)</title>
@@ -236,14 +244,6 @@
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 22:00:17 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>If llama.cpp enables MoE to activate multiple experts</title>
-      <link>https://www.openai-hub.com/news/1924/</link>
-      <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
