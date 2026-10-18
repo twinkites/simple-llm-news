@@ -4,29 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 15:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:53:41 +0000</lastBuildDate>
     <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Secret Guard – a local LLM gateway; keys never leave your machine</title>
-      <link>https://github.com/luochen1990/secret-guard</link>
-      <guid isPermaLink="false">https://github.com/luochen1990/secret-guard</guid>
-      <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 15:24:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)</title>
-      <link>https://huggingface.co/Remek/basal-omni-1.0-ultra</link>
-      <guid isPermaLink="false">https://huggingface.co/Remek/basal-omni-1.0-ultra</guid>
-      <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 11:28:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +22,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Secret Guard – a local LLM gateway; keys never leave your machine</title>
+      <link>https://github.com/luochen1990/secret-guard</link>
+      <guid isPermaLink="false">https://github.com/luochen1990/secret-guard</guid>
+      <category>model</category>
+      <pubDate>Sun, 18 Oct 2026 15:24:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Why do LLM pelicans look like this?</title>
       <link>https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</link>
       <guid isPermaLink="false">https://arcfu.com/post/the-emperor-pelican-has-no-clothes/</guid>
       <category>model</category>
       <pubDate>Wed, 14 Oct 2026 16:33:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)</title>
+      <link>https://huggingface.co/Remek/basal-omni-1.0-ultra</link>
+      <guid isPermaLink="false">https://huggingface.co/Remek/basal-omni-1.0-ultra</guid>
+      <category>model</category>
+      <pubDate>Sun, 18 Oct 2026 11:28:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -99,6 +99,14 @@
       <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
       <category>model</category>
       <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLM01: 2025 Prompt Injection</title>
+      <link>https://genai.owasp.org/llmrisk/llm01-prompt-injection/</link>
+      <guid isPermaLink="false">https://genai.owasp.org/llmrisk/llm01-prompt-injection/</guid>
+      <category>security</category>
+      <pubDate>Sun, 18 Oct 2026 19:27:26 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,6 +174,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11721</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11721</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11721</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 18:08:15 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11720</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11720</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11720</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 17:40:31 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11719</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11719</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11719</guid>
@@ -190,20 +214,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11718</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11718</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11718</guid>
+      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
       <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 04:45:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11717</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11717</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11717</guid>
-      <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 02:53:27 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.7</title>
@@ -212,14 +228,6 @@
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 00:28:57 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)</title>

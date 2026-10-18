@@ -1,38 +1,16 @@
 {
-  "generated_at": "2026-10-18T15:57:59.748898+00:00",
+  "generated_at": "2026-10-18T20:53:41.686700+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 313,
+        "score": 319,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
-        "url": "https://github.com/luochen1990/secret-guard",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-18T15:24:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
-        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-18T11:28:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -47,6 +25,17 @@
         }
       },
       {
+        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+        "url": "https://github.com/luochen1990/secret-guard",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T15:24:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Why do LLM pelicans look like this?",
         "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
         "source": "hn",
@@ -55,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
+        }
+      },
+      {
+        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-18T11:28:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -137,6 +137,17 @@
     ],
     "security": [
       {
+        "title": "LLM01: 2025 Prompt Injection",
+        "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T19:27:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
         "source": "hn",
@@ -208,7 +219,7 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 368,
+        "score": 372,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
@@ -219,11 +230,33 @@
         "title": "Hyper Optimizing Kimi K3 in vLLM",
         "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
         "source": "hn",
-        "score": 3,
+        "score": 15,
         "published": "2026-10-18T13:08:50Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11721",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11721",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T18:08:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11720",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11720",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T17:40:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,25 +293,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11718",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11718",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T04:45:27+00:00",
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T03:34:45Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11717",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11717",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T02:53:27+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -290,17 +312,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-10-16T03:34:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
