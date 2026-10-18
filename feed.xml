@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:44:11 +0000</lastBuildDate>
     <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
@@ -30,22 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Non-deterministic leet code small LLM challenge site?</title>
-      <link>https://news.ycombinator.com/item?id=50132166</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50132166</guid>
-      <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 15:52:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>China to Restrict Open-Weights Model Exports</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</link>
-      <guid isPermaLink="false">https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</guid>
-      <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 02:41:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
@@ -62,19 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM</title>
-      <link>https://Joe-Heffer.github.io/sys2txt/</link>
-      <guid isPermaLink="false">https://Joe-Heffer.github.io/sys2txt/</guid>
+      <title>China to Restrict Open-Weights Model Exports</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</link>
+      <guid isPermaLink="false">https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</guid>
       <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 08:14:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weight models 88% more susceptible to cyber attacks</title>
-      <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
-      <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:52:37 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 02:41:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,11 +62,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open-weight models 88% more susceptible to cyber attacks</title>
+      <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
+      <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 17:52:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Introducing Beam: Reflection’s 501B open-weight model</title>
       <link>https://reflection.ai/blog/beam-is-available</link>
       <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
       <category>model</category>
       <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Non-deterministic leet code small LLM challenge site?</title>
+      <link>https://news.ycombinator.com/item?id=50132166</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50132166</guid>
+      <category>model</category>
+      <pubDate>Sat, 17 Oct 2026 15:52:13 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM</title>
+      <link>https://Joe-Heffer.github.io/sys2txt/</link>
+      <guid isPermaLink="false">https://Joe-Heffer.github.io/sys2txt/</guid>
+      <category>model</category>
+      <pubDate>Sat, 17 Oct 2026 08:14:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -102,19 +102,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser</title>
-      <link>https://adikshatriyag-crypto.github.io/aegis-kernel/</link>
-      <guid isPermaLink="false">https://adikshatriyag-crypto.github.io/aegis-kernel/</guid>
-      <category>security</category>
-      <pubDate>Sat, 17 Oct 2026 16:42:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt injection in HTTP headers: what 217M web responses show</title>
       <link>https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</link>
       <guid isPermaLink="false">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</guid>
       <category>security</category>
       <pubDate>Thu, 15 Oct 2026 14:36:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser</title>
+      <link>https://adikshatriyag-crypto.github.io/aegis-kernel/</link>
+      <guid isPermaLink="false">https://adikshatriyag-crypto.github.io/aegis-kernel/</guid>
+      <category>security</category>
+      <pubDate>Sat, 17 Oct 2026 16:42:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,19 +158,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11716: hexagon: add support for Q1_0 and Q2_0 (#30122)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11716</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11716</guid>
+      <title>llama.cpp: b11718</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11718</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11718</guid>
       <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 20:36:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 04:44:03 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11715</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11715</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11715</guid>
+      <title>llama.cpp: b11717</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11717</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11717</guid>
       <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 19:37:43 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 02:53:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.7</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 00:28:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11716</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11716</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11716</guid>
+      <category>harness</category>
+      <pubDate>Sat, 17 Oct 2026 21:15:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,12 +198,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11714</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11714</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11714</guid>
+      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
       <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 16:20:21 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.6</title>
@@ -203,14 +219,6 @@
       <guid isPermaLink="false">https://2tinteractive.com/apps/lmailer/</guid>
       <category>harness</category>
       <pubDate>Sat, 17 Oct 2026 07:05:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://www.openai-hub.com/news/1924/</guid>
       <category>harness</category>
       <pubDate>Thu, 15 Oct 2026 21:08:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Push-Based KV Transfer to Improve TTFT, TPOT for Disaggregated Inference in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-14-nixl-push-connector</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-14-nixl-push-connector</guid>
-      <category>harness</category>
-      <pubDate>Thu, 15 Oct 2026 18:41:41 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

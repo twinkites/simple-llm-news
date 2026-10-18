@@ -1,0 +1,341 @@
+{
+  "generated_at": "2026-10-18T04:44:11.902741+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "source": "hn",
+        "score": 267,
+        "published": "2026-10-17T04:36:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 727,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+        "source": "hn",
+        "score": 164,
+        "published": "2026-10-14T16:33:34Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
+        }
+      },
+      {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "source": "hn",
+        "score": 124,
+        "published": "2026-10-14T16:55:07Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-10-17T02:41:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "Ask HN: CAD for wood working with LLM support?",
+        "url": "https://news.ycombinator.com/item?id=50067325",
+        "source": "hn",
+        "score": 127,
+        "published": "2026-10-13T05:54:01Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
+        }
+      },
+      {
+        "title": "Open-weight models 88% more susceptible to cyber attacks",
+        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-10-16T17:52:37Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
+        "title": "Introducing Beam: Reflection’s 501B open-weight model",
+        "url": "https://reflection.ai/blog/beam-is-available",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-10-16T13:34:30Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
+        "url": "https://news.ycombinator.com/item?id=50132166",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T15:52:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+        "url": "https://Joe-Heffer.github.io/sys2txt/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-17T08:14:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "China unveils draft export controls on AI, open-weight models, and chips",
+        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T17:24:41Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "source": "hn",
+        "score": 95,
+        "published": "2026-10-15T14:36:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
+        }
+      },
+      {
+        "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T16:42:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Prompt injection classifiers are terrible security boundaries",
+        "url": "https://thecout.com/blog/injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-12T14:21:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt injection through log files: what red-teaming our assistant found",
+        "url": "https://jl3-cloud.site/blog/prompt-injection-through-log-files/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T18:53:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection will always be unsolved",
+        "url": "https://news.ycombinator.com/item?id=50024585",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-09T18:16:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
+        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-10T12:30:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 367,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11718",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11718",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T04:44:03+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11717",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11717",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T02:53:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-18T00:28:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11716",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11716",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T21:15:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T18:57:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T03:34:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.6",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T15:29:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
+        "url": "https://2tinteractive.com/apps/lmailer/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T07:05:30Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-17T00:25:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.6-rc1: transfer: support proxies on registry redirect targets (#19065)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-16T22:00:17+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "If llama.cpp enables MoE to activate multiple experts",
+        "url": "https://www.openai-hub.com/news/1924/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-15T21:08:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ]
+  }
+}
