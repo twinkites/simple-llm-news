@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T13:30:28.322960+00:00",
+  "generated_at": "2026-10-19T22:28:48.650625+00:00",
   "sections": {
     "model": [
       {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 448,
+        "score": 501,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 217,
+        "score": 292,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -25,10 +25,32 @@
         }
       },
       {
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "url": "https://heymaxwell.ai/",
+        "source": "hn",
+        "score": 39,
+        "published": "2026-10-19T13:47:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "What happened to open weights models?",
+        "url": "https://news.ycombinator.com/item?id=50158840",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T22:21:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 325,
+        "score": 328,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
@@ -39,22 +61,11 @@
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 727,
+        "score": 728,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
-        }
-      },
-      {
-        "title": "Why do LLM pelicans look like this?",
-        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-        "source": "hn",
-        "score": 165,
-        "published": "2026-10-14T16:33:34Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
         }
       },
       {
@@ -69,17 +80,6 @@
         }
       },
       {
-        "title": "Ask HN: CAD for wood working with LLM support?",
-        "url": "https://news.ycombinator.com/item?id=50067325",
-        "source": "hn",
-        "score": 127,
-        "published": "2026-10-13T05:54:01Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 113 points)"
-        }
-      },
-      {
         "title": "China to Restrict Open-Weights Model Exports",
         "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "hn",
@@ -88,28 +88,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
-        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
-        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-18T11:28:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
-        "url": "https://github.com/luochen1990/secret-guard",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-18T15:24:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,6 +102,17 @@
         }
       },
       {
+        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-18T11:28:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Open-weight models 88% more susceptible to cyber attacks",
         "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
+        }
+      },
+      {
+        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+        "url": "https://github.com/luochen1990/secret-guard",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T15:24:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -192,17 +192,6 @@
         }
       },
       {
-        "title": "Prompt Injection will always be unsolved",
-        "url": "https://news.ycombinator.com/item?id=50024585",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-09T18:16:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
         "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
         "source": "hn",
@@ -216,10 +205,21 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11744: server: add --connect, allow p2p access to server outside LAN (#28277)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11744",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T22:23:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 373,
+        "score": 374,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
@@ -227,14 +227,25 @@
         }
       },
       {
-        "title": "vLLM Agentic API",
-        "url": "https://vllm-project.github.io/agentic-api/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-19T10:11:33Z",
+        "title": "llama.cpp: b11742",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11742",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T21:34:38+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11741",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11741",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T20:17:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,36 +260,25 @@
         }
       },
       {
-        "title": "llama.cpp: b11729",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11729",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T11:27:37+00:00",
+        "title": "Yzma now over 2.6X faster at embeddings than Ollama or Docker Model Runner",
+        "url": "https://yzma.ai/docs/reference/benchmarks/#comparing-engines",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T14:26:53Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "llama.cpp: b11731: ggml-cpu: vectorize ggml_v_silu and ggml_v_expf (#30791)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11731",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T07:59:49+00:00",
+        "title": "vLLM Agentic API",
+        "url": "https://vllm-project.github.io/agentic-api/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T10:11:33Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11730: cuda: cap MMQ Stream-K blocks at available work (#30553)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11730",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T07:41:14+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -334,17 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.7",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T00:28:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
