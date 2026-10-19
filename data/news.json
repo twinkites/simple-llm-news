@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T04:52:31.335644+00:00",
+  "generated_at": "2026-10-19T13:30:28.322960+00:00",
   "sections": {
     "model": [
       {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 284,
+        "score": 448,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 83,
+        "score": 217,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 322,
+        "score": 325,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
@@ -50,22 +50,11 @@
         "title": "Why do LLM pelicans look like this?",
         "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
         "source": "hn",
-        "score": 164,
+        "score": 165,
         "published": "2026-10-14T16:33:34Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 147 points)"
-        }
-      },
-      {
-        "title": "Linus Torvalds's first LLM-assisted patch series",
-        "url": "https://lwn.net/Articles/1100449/",
-        "source": "hn",
-        "score": 124,
-        "published": "2026-10-14T16:55:07Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
         }
       },
       {
@@ -91,14 +80,14 @@
         }
       },
       {
-        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
-        "url": "https://github.com/luochen1990/secret-guard",
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-18T15:24:48Z",
+        "score": 13,
+        "published": "2026-10-17T02:41:30Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -113,14 +102,14 @@
         }
       },
       {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+        "url": "https://github.com/luochen1990/secret-guard",
         "source": "hn",
-        "score": 13,
-        "published": "2026-10-17T02:41:30Z",
+        "score": 1,
+        "published": "2026-10-18T15:24:48Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Open-weight models 88% more susceptible to cyber attacks",
+        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-10-16T17:52:37Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
         }
       }
     ],
@@ -219,7 +219,7 @@
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 372,
+        "score": 373,
         "published": "2026-10-16T18:32:35Z",
         "truthiness": {
           "label": "green",
@@ -227,10 +227,21 @@
         }
       },
       {
+        "title": "vLLM Agentic API",
+        "url": "https://vllm-project.github.io/agentic-api/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T10:11:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Hyper Optimizing Kimi K3 in vLLM",
         "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
         "source": "hn",
-        "score": 23,
+        "score": 30,
         "published": "2026-10-18T13:08:50Z",
         "truthiness": {
           "label": "red",
@@ -238,47 +249,58 @@
         }
       },
       {
+        "title": "llama.cpp: b11729",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11729",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T11:27:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11731: ggml-cpu: vectorize ggml_v_silu and ggml_v_expf (#30791)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11731",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T07:59:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11730: cuda: cap MMQ Stream-K blocks at available work (#30553)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11730",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T07:41:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "sglang: v0.5.22",
         "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.22",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-19T02:55:19+00:00",
+        "published": "2026-10-19T05:55:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11723",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11723",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T02:09:04+00:00",
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T03:34:45Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11722",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11722",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T01:54:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11721",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11721",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T18:08:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -304,28 +326,6 @@
         }
       },
       {
-        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-10-16T03:34:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.7",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T00:28:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
         "url": "https://2tinteractive.com/apps/lmailer/",
         "source": "hn",
@@ -337,11 +337,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.6",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+        "title": "ollama: v0.40.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-17T15:29:04+00:00",
+        "published": "2026-10-18T00:28:57+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
