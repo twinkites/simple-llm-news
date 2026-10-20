@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T17:18:36.224468+00:00",
+  "generated_at": "2026-10-20T21:44:19.981308+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 680,
+        "score": 704,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 511,
+        "score": 513,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 298,
+        "score": 299,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -36,25 +36,25 @@
         }
       },
       {
+        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+        "url": "https://rocus.io/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-20T18:28:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 124,
+        "score": 126,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
-        }
-      },
-      {
-        "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-        "url": "https://huggingface.co/blog/allenai/fairstress",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T16:09:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -69,33 +69,11 @@
         }
       },
       {
-        "title": "Decision model as prompt-injection judge: 40 of 40 on 78 texts",
-        "url": "https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge",
+        "title": "EGPU and Local LLM Inference",
+        "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
         "source": "hn",
         "score": 1,
-        "published": "2026-10-20T13:55:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T15:19:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference",
-        "url": "https://sentinelgate.dev",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T12:38:01Z",
+        "published": "2026-10-20T18:07:44Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -113,6 +91,17 @@
         }
       },
       {
+        "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T18:17:47+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
@@ -124,11 +113,22 @@
         }
       },
       {
-        "title": "Ask HN: What happened to open weights models?",
-        "url": "https://news.ycombinator.com/item?id=50158840",
+        "title": "Decision model as prompt-injection judge: 40 of 40 on 78 texts",
+        "url": "https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge",
         "source": "hn",
-        "score": 4,
-        "published": "2026-10-19T22:21:23Z",
+        "score": 1,
+        "published": "2026-10-20T13:55:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference",
+        "url": "https://sentinelgate.dev",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T12:38:01Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -136,6 +136,17 @@
       }
     ],
     "security": [
+      {
+        "title": "Prompt injection scanners should be positional, not phrasal",
+        "url": "https://attest.rta.lat/article",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T19:03:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Building a System One Model for Prompt Injection",
         "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
@@ -205,14 +216,25 @@
     ],
     "harness": [
       {
-        "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
-        "url": "https://github.com/Helldez/BigMoeOnEdge",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T15:45:31Z",
+        "title": "llama.cpp: b11759",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11759",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T21:29:32+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T21:15:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,36 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11756",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11756",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T13:52:00+00:00",
+        "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
+        "url": "https://github.com/Helldez/BigMoeOnEdge",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T15:45:31Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11757: CUDA: Clear CUDA graphs after legacy memory pool flush (#26771)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11757",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T11:30:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11755",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11755",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T11:22:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -268,6 +268,28 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11760",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11760",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T11:32:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11758: spec : save the dynamic ngram cache file (#22055)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11758",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T11:31:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -320,17 +342,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-19T05:55:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.32.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T10:23:45+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
