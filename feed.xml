@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:18:36 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -38,11 +38,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+      <link>https://huggingface.co/blog/allenai/fairstress</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/fairstress</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Decision model as prompt-injection judge: 40 of 40 on 78 texts</title>
+      <link>https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge</link>
+      <guid isPermaLink="false">https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 13:55:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference</title>
+      <link>https://sentinelgate.dev</link>
+      <guid isPermaLink="false">https://sentinelgate.dev</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 12:38:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,35 +102,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
-      <link>https://research.meta.ai/blog/muse-spark-open</link>
-      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>MPS in PyTorch 2.15</title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/mps-pytorch-2-15</guid>
-      <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>China to Restrict Open-Weights Model Exports</title>
-      <link>https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</link>
-      <guid isPermaLink="false">https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/</guid>
-      <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 02:41:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing Beam: Reflection’s 501B open-weight model</title>
-      <link>https://reflection.ai/blog/beam-is-available</link>
-      <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
+      <title>Building a System One Model for Prompt Injection</title>
+      <link>https://www.stackone.com/blog/system-one-model-prompt-injection/</link>
+      <guid isPermaLink="false">https://www.stackone.com/blog/system-one-model-prompt-injection/</guid>
+      <category>security</category>
+      <pubDate>Tue, 20 Oct 2026 12:56:00 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,28 +150,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection Detection and Defense Tools for Enterprise AI Agents</title>
-      <link>https://www.arcade.dev/blog/prompt-injection-detection-tools/</link>
-      <guid isPermaLink="false">https://www.arcade.dev/blog/prompt-injection-detection-tools/</guid>
-      <category>security</category>
-      <pubDate>Sat, 10 Oct 2026 12:30:32 +0000</pubDate>
+      <title>Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop</title>
+      <link>https://github.com/Helldez/BigMoeOnEdge</link>
+      <guid isPermaLink="false">https://github.com/Helldez/BigMoeOnEdge</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 15:45:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11756</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11756</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11756</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 11:23:41 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11755</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11755</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11755</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 11:22:04 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
@@ -174,11 +166,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11753</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11753</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11753</guid>
+      <title>llama.cpp: b11756</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11756</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11756</guid>
       <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 09:10:56 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 13:52:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11757: CUDA: Clear CUDA graphs after legacy memory pool flush (#26771)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11757</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11757</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 11:30:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11755</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11755</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11755</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 11:22:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.0</guid>
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 10:23:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.32.1rc0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0</guid>
-      <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 09:26:56 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>

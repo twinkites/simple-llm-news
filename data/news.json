@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T11:49:07.382849+00:00",
+  "generated_at": "2026-10-20T17:18:36.224468+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 501,
+        "score": 680,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 507,
+        "score": 511,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 297,
+        "score": 298,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -39,11 +39,22 @@
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 87,
+        "score": 124,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "url": "https://huggingface.co/blog/allenai/fairstress",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T16:09:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -52,6 +63,39 @@
         "source": "hn",
         "score": 329,
         "published": "2026-10-17T04:36:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Decision model as prompt-injection judge: 40 of 40 on 78 texts",
+        "url": "https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T13:55:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T15:19:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference",
+        "url": "https://sentinelgate.dev",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T12:38:01Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -72,7 +116,7 @@
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
-        "score": 728,
+        "score": 729,
         "published": "2026-10-11T20:20:52Z",
         "truthiness": {
           "label": "green",
@@ -89,53 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
+      }
+    ],
+    "security": [
       {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "title": "Building a System One Model for Prompt Injection",
+        "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
         "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
+        "score": 2,
+        "published": "2026-10-20T12:56:00Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
-      {
-        "title": "MPS in PyTorch 2.15",
-        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-        "source": "hn",
-        "score": 13,
-        "published": "2026-10-17T02:41:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
-        "title": "Introducing Beam: Reflection’s 501B open-weight model",
-        "url": "https://reflection.ai/blog/beam-is-available",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-10-16T13:34:30Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      }
-    ],
-    "security": [
       {
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
@@ -190,26 +201,48 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
+      }
+    ],
+    "harness": [
       {
-        "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
-        "url": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+        "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
+        "url": "https://github.com/Helldez/BigMoeOnEdge",
         "source": "hn",
         "score": 1,
-        "published": "2026-10-10T12:30:32Z",
+        "published": "2026-10-20T15:45:31Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      }
-    ],
-    "harness": [
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
       {
         "title": "llama.cpp: b11756",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11756",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-20T11:23:41+00:00",
+        "published": "2026-10-20T13:52:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11757: CUDA: Clear CUDA graphs after legacy memory pool flush (#26771)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11757",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T11:30:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -221,28 +254,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-20T11:22:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
-        "source": "hn",
-        "score": 374,
-        "published": "2026-10-16T18:32:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11753",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11753",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T09:10:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -320,17 +331,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-18T10:23:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.32.1rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-18T09:26:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
