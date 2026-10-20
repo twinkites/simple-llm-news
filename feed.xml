@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 05:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:49:07 +0000</lastBuildDate>
+    <item>
+      <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
+      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+      <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
       <link>https://arxiv.org/abs/2610.18861</link>
@@ -38,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: What happened to open weights models?</title>
-      <link>https://news.ycombinator.com/item?id=50158840</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
+      <title>Krea 3 – An image model built for editing at scale</title>
+      <link>https://www.krea.ai/krea-3</link>
+      <guid isPermaLink="false">https://www.krea.ai/krea-3</guid>
       <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 16:04:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,12 +62,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Ask HN: What happened to open weights models?</title>
+      <link>https://news.ycombinator.com/item?id=50158840</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>MPS in PyTorch 2.15</title>
+      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/mps-pytorch-2-15</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>China to Restrict Open-Weights Model Exports</title>
@@ -75,30 +99,6 @@
       <guid isPermaLink="false">https://reflection.ai/blog/beam-is-available</guid>
       <category>model</category>
       <pubDate>Fri, 16 Oct 2026 13:34:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Open-weight models 88% more susceptible to cyber attacks</title>
-      <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
-      <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:52:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)</title>
-      <link>https://huggingface.co/Remek/basal-omni-1.0-ultra</link>
-      <guid isPermaLink="false">https://huggingface.co/Remek/basal-omni-1.0-ultra</guid>
-      <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 11:28:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
-      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
-      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
-      <category>model</category>
-      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,19 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11750</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11750</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11750</guid>
+      <title>llama.cpp: b11756</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11756</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11756</guid>
       <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 04:47:25 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 11:23:41 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11749: ui: hide the native clear button in SearchInput (#30719)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11749</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11749</guid>
+      <title>llama.cpp: b11755</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11755</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11755</guid>
       <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 03:58:38 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 11:22:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,12 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>PyTorch-native TPU back end for vLLM</title>
-      <link>https://github.com/vllm-project/vllm-torchtpu</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
+      <title>llama.cpp: b11753</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11753</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11753</guid>
       <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 20 Oct 2026 09:10:56 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
@@ -190,12 +190,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11748</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11748</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11748</guid>
+      <title>PyTorch-native TPU back end for vLLM</title>
+      <link>https://github.com/vllm-project/vllm-torchtpu</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
       <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 00:27:18 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Yzma now over 2.6X faster at embeddings than Ollama or Docker Model Runner</title>
@@ -214,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>sglang: v0.5.22</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.22</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.22</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 05:55:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
       <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
       <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.22</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.22</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.22</guid>
+      <category>harness</category>
+      <pubDate>Mon, 19 Oct 2026 05:55:53 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM: v0.32.0</title>

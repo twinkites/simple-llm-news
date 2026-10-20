@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-20T05:01:09.806032+00:00",
+  "generated_at": "2026-10-20T11:49:07.382849+00:00",
   "sections": {
     "model": [
+      {
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "hn",
+        "score": 501,
+        "published": "2026-10-19T23:22:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
+        }
+      },
       {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 503,
+        "score": 507,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 295,
+        "score": 297,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +39,7 @@
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 47,
+        "score": 87,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
@@ -47,14 +58,14 @@
         }
       },
       {
-        "title": "Ask HN: What happened to open weights models?",
-        "url": "https://news.ycombinator.com/item?id=50158840",
+        "title": "Krea 3 – An image model built for editing at scale",
+        "url": "https://www.krea.ai/krea-3",
         "source": "hn",
-        "score": 3,
-        "published": "2026-10-19T22:21:23Z",
+        "score": 352,
+        "published": "2026-10-15T16:04:05Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 352 points)"
         }
       },
       {
@@ -69,6 +80,17 @@
         }
       },
       {
+        "title": "Ask HN: What happened to open weights models?",
+        "url": "https://news.ycombinator.com/item?id=50158840",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-19T22:21:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
@@ -77,6 +99,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "MPS in PyTorch 2.15",
+        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -99,39 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Open-weight models 88% more susceptible to cyber attacks",
-        "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-10-16T17:52:37Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 10 points)"
-        }
-      },
-      {
-        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
-        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-18T11:28:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "China unveils draft export controls on AI, open-weight models, and chips",
-        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-10-16T17:24:41Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       }
     ],
@@ -205,22 +205,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11750",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11750",
+        "title": "llama.cpp: b11756",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11756",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-20T04:47:25+00:00",
+        "published": "2026-10-20T11:23:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11749: ui: hide the native clear button in SearchInput (#30719)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11749",
+        "title": "llama.cpp: b11755",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11755",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-20T03:58:38+00:00",
+        "published": "2026-10-20T11:22:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,14 +238,14 @@
         }
       },
       {
-        "title": "PyTorch-native TPU back end for vLLM",
-        "url": "https://github.com/vllm-project/vllm-torchtpu",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-19T22:34:38Z",
+        "title": "llama.cpp: b11753",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11753",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T09:10:56+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,14 +260,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11748",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11748",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T00:27:18+00:00",
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T22:34:38Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -293,17 +293,6 @@
         }
       },
       {
-        "title": "sglang: v0.5.22",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.22",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T05:55:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
         "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
         "source": "hn",
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.22",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.22",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-19T05:55:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
