@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:01:09 +0000</lastBuildDate>
     <item>
       <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
       <link>https://arxiv.org/abs/2610.18861</link>
@@ -30,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>What happened to open weights models?</title>
-      <link>https://news.ycombinator.com/item?id=50158840</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
-      <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: What happened to open weights models?</title>
+      <link>https://news.ycombinator.com/item?id=50158840</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)</title>
-      <link>https://huggingface.co/Remek/basal-omni-1.0-ultra</link>
-      <guid isPermaLink="false">https://huggingface.co/Remek/basal-omni-1.0-ultra</guid>
-      <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 11:28:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-weight models 88% more susceptible to cyber attacks</title>
       <link>https://www.promptarmor.com/resources/open-weight-susceptibility</link>
       <guid isPermaLink="false">https://www.promptarmor.com/resources/open-weight-susceptibility</guid>
@@ -94,11 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Secret Guard – a local LLM gateway; keys never leave your machine</title>
-      <link>https://github.com/luochen1990/secret-guard</link>
-      <guid isPermaLink="false">https://github.com/luochen1990/secret-guard</guid>
+      <title>Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)</title>
+      <link>https://huggingface.co/Remek/basal-omni-1.0-ultra</link>
+      <guid isPermaLink="false">https://huggingface.co/Remek/basal-omni-1.0-ultra</guid>
       <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 15:24:48 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 11:28:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>China unveils draft export controls on AI, open-weight models, and chips</title>
+      <link>https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</link>
+      <guid isPermaLink="false">https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf</guid>
+      <category>model</category>
+      <pubDate>Fri, 16 Oct 2026 17:24:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11744: server: add --connect, allow p2p access to server outside LAN (#28277)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11744</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11744</guid>
+      <title>llama.cpp: b11750</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11750</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11750</guid>
       <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 22:23:14 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 04:47:25 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11749: ui: hide the native clear button in SearchInput (#30719)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11749</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11749</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 03:58:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,20 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11742</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11742</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11742</guid>
+      <title>PyTorch-native TPU back end for vLLM</title>
+      <link>https://github.com/vllm-project/vllm-torchtpu</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
       <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 21:34:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11741</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11741</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11741</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 20:17:05 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
@@ -188,6 +188,14 @@
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11748</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11748</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11748</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 00:27:18 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Yzma now over 2.6X faster at embeddings than Ollama or Docker Model Runner</title>
@@ -236,14 +244,6 @@
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 09:26:56 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)</title>
-      <link>https://2tinteractive.com/apps/lmailer/</link>
-      <guid isPermaLink="false">https://2tinteractive.com/apps/lmailer/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 17 Oct 2026 07:05:30 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

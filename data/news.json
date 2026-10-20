@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T22:28:48.650625+00:00",
+  "generated_at": "2026-10-20T05:01:09.806032+00:00",
   "sections": {
     "model": [
       {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 501,
+        "score": 503,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 292,
+        "score": 295,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 39,
+        "score": 47,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
@@ -36,22 +36,22 @@
         }
       },
       {
-        "title": "What happened to open weights models?",
-        "url": "https://news.ycombinator.com/item?id=50158840",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-19T22:21:23Z",
+        "score": 329,
+        "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
+        "title": "Ask HN: What happened to open weights models?",
+        "url": "https://news.ycombinator.com/item?id=50158840",
         "source": "hn",
-        "score": 328,
-        "published": "2026-10-17T04:36:53Z",
+        "score": 3,
+        "published": "2026-10-19T22:21:23Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -102,17 +102,6 @@
         }
       },
       {
-        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
-        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-18T11:28:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Open-weight models 88% more susceptible to cyber attacks",
         "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
         "source": "hn",
@@ -124,14 +113,25 @@
         }
       },
       {
-        "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
-        "url": "https://github.com/luochen1990/secret-guard",
+        "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+        "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-18T15:24:48Z",
+        "score": 2,
+        "published": "2026-10-18T11:28:54Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "China unveils draft export controls on AI, open-weight models, and chips",
+        "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-10-16T17:24:41Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       }
     ],
@@ -140,7 +140,7 @@
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
         "source": "hn",
-        "score": 95,
+        "score": 96,
         "published": "2026-10-15T14:36:22Z",
         "truthiness": {
           "label": "green",
@@ -205,11 +205,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11744: server: add --connect, allow p2p access to server outside LAN (#28277)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11744",
+        "title": "llama.cpp: b11750",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11750",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-19T22:23:14+00:00",
+        "published": "2026-10-20T04:47:25+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11749: ui: hide the native clear button in SearchInput (#30719)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11749",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T03:58:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,25 +238,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11742",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11742",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T21:34:38+00:00",
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T22:34:38Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11741",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11741",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T20:17:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -257,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11748",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11748",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T00:27:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
-        "url": "https://2tinteractive.com/apps/lmailer/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-17T07:05:30Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
