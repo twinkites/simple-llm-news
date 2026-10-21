@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 12:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:21:19 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -30,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -44,6 +44,14 @@
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
@@ -70,6 +78,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
       <link>https://rocus.io/</link>
       <guid isPermaLink="false">https://rocus.io/</guid>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>EGPU and Local LLM Inference</title>
-      <link>https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</link>
-      <guid isPermaLink="false">https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</guid>
-      <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 18:07:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: What happened to open weights models?</title>
-      <link>https://news.ycombinator.com/item?id=50158840</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
-      <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Prompt injection in HTTP headers: what 217M web responses show</title>
       <link>https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</link>
       <guid isPermaLink="false">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</guid>
@@ -110,19 +110,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt injection scanners should be positional, not phrasal</title>
-      <link>https://attest.rta.lat/article</link>
-      <guid isPermaLink="false">https://attest.rta.lat/article</guid>
-      <category>security</category>
-      <pubDate>Tue, 20 Oct 2026 19:03:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Building a System One Model for Prompt Injection</title>
       <link>https://www.stackone.com/blog/system-one-model-prompt-injection/</link>
       <guid isPermaLink="false">https://www.stackone.com/blog/system-one-model-prompt-injection/</guid>
       <category>security</category>
       <pubDate>Tue, 20 Oct 2026 12:56:00 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Prompt injection scanners should be positional, not phrasal</title>
+      <link>https://attest.rta.lat/article</link>
+      <guid isPermaLink="false">https://attest.rta.lat/article</guid>
+      <category>security</category>
+      <pubDate>Tue, 20 Oct 2026 19:03:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,11 +158,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11793</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11793</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11793</guid>
+      <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>
+      <link>https://github.com/eagle-hq/EAGLE-4</link>
+      <guid isPermaLink="false">https://github.com/eagle-hq/EAGLE-4</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 11:58:23 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:57:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11799</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11799</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11799</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 17:01:03 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11798</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11798</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11798</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 16:40:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.8</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 16:20:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,19 +198,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11792</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11792</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11792</guid>
+      <title>llama.cpp: b11797</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11797</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11797</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 11:42:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11795: server : forward llama.cpp sampling params on /v1/messages (#30856)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11795</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11795</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 10:58:52 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:04:56 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,20 +222,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.7</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 04:01:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
       <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.7</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 04:01:19 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop</title>
@@ -236,22 +252,6 @@
       <category>harness</category>
       <pubDate>Tue, 20 Oct 2026 21:15:15 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>PyTorch-native TPU back end for vLLM</title>
-      <link>https://github.com/vllm-project/vllm-torchtpu</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Yzma now over 2.6X faster at embeddings than Ollama or Docker Model Runner</title>
-      <link>https://yzma.ai/docs/reference/benchmarks/#comparing-engines</link>
-      <guid isPermaLink="false">https://yzma.ai/docs/reference/benchmarks/#comparing-engines</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 14:26:53 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
