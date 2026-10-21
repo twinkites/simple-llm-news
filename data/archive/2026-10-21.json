@@ -1,0 +1,352 @@
+{
+  "generated_at": "2026-10-21T04:59:20.021791+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "hn",
+        "score": 720,
+        "published": "2026-10-19T23:22:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
+        }
+      },
+      {
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "source": "hn",
+        "score": 516,
+        "published": "2026-10-18T20:48:14Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
+        }
+      },
+      {
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "source": "hn",
+        "score": 300,
+        "published": "2026-10-18T21:09:12Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 83 points)"
+        }
+      },
+      {
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "url": "https://heymaxwell.ai/",
+        "source": "hn",
+        "score": 130,
+        "published": "2026-10-19T13:47:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "source": "hn",
+        "score": 329,
+        "published": "2026-10-17T04:36:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+        "url": "https://rocus.io/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-20T18:28:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Krea 3 – An image model built for editing at scale",
+        "url": "https://www.krea.ai/krea-3",
+        "source": "hn",
+        "score": 352,
+        "published": "2026-10-15T16:04:05Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 352 points)"
+        }
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "hn",
+        "score": 729,
+        "published": "2026-10-11T20:20:52Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "EGPU and Local LLM Inference",
+        "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T18:07:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Decision model as prompt-injection judge: 40 of 40 on 78 texts",
+        "url": "https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T13:55:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Ask HN: What happened to open weights models?",
+        "url": "https://news.ycombinator.com/item?id=50158840",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-10-19T22:21:23Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt injection scanners should be positional, not phrasal",
+        "url": "https://attest.rta.lat/article",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T19:03:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Building a System One Model for Prompt Injection",
+        "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-20T12:56:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "source": "hn",
+        "score": 96,
+        "published": "2026-10-15T14:36:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
+        }
+      },
+      {
+        "title": "LLM01: 2025 Prompt Injection",
+        "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T19:27:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T16:42:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Prompt injection classifiers are terrible security boundaries",
+        "url": "https://thecout.com/blog/injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-12T14:21:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt injection through log files: what red-teaming our assistant found",
+        "url": "https://jl3-cloud.site/blog/prompt-injection-through-log-files/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-11T18:53:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-21T04:37:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11782",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11782",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T04:59:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11781",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11781",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T04:40:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T04:01:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
+        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-20T23:27:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11783: opencl: fix rope program build error with newer Clang (#30893)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11783",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T00:19:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T21:15:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 30,
+        "published": "2026-10-18T13:08:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
+        "url": "https://github.com/Helldez/BigMoeOnEdge",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T15:45:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-19T22:34:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Yzma now over 2.6X faster at embeddings than Ollama or Docker Model Runner",
+        "url": "https://yzma.ai/docs/reference/benchmarks/#comparing-engines",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-19T14:26:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T21:44:19.981308+00:00",
+  "generated_at": "2026-10-21T04:59:20.021791+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 704,
+        "score": 720,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 513,
+        "score": 516,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 299,
+        "score": 300,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -36,21 +36,10 @@
         }
       },
       {
-        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
-        "url": "https://rocus.io/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-20T18:28:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 126,
+        "score": 130,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
@@ -69,14 +58,14 @@
         }
       },
       {
-        "title": "EGPU and Local LLM Inference",
-        "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
+        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+        "url": "https://rocus.io/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T18:07:44Z",
+        "score": 4,
+        "published": "2026-10-20T18:28:16Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -91,17 +80,6 @@
         }
       },
       {
-        "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T18:17:47+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "source": "hn",
@@ -110,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+        }
+      },
+      {
+        "title": "EGPU and Local LLM Inference",
+        "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-20T18:07:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,14 +113,25 @@
         }
       },
       {
-        "title": "Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference",
-        "url": "https://sentinelgate.dev",
+        "title": "Ask HN: What happened to open weights models?",
+        "url": "https://news.ycombinator.com/item?id=50158840",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T12:38:01Z",
+        "score": 5,
+        "published": "2026-10-19T22:21:23Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
         }
       }
     ],
@@ -216,11 +216,77 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11759",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11759",
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-21T04:37:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11782",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11782",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-20T21:29:32+00:00",
+        "published": "2026-10-21T04:59:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11781",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11781",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T04:40:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T04:01:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
+        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-20T23:27:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11783: opencl: fix rope program build error with newer Clang (#30893)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11783",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T00:19:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,14 +304,14 @@
         }
       },
       {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
         "source": "hn",
-        "score": 375,
-        "published": "2026-10-16T18:32:35Z",
+        "score": 30,
+        "published": "2026-10-18T13:08:50Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -260,43 +326,10 @@
         }
       },
       {
-        "title": "Hyper Optimizing Kimi K3 in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-        "source": "hn",
-        "score": 30,
-        "published": "2026-10-18T13:08:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11760",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11760",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T11:32:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11758: spec : save the dynamic ngram cache file (#22055)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11758",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T11:31:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "PyTorch-native TPU back end for vLLM",
         "url": "https://github.com/vllm-project/vllm-torchtpu",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-10-19T22:34:38Z",
         "truthiness": {
           "label": "red",
@@ -312,39 +345,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM Agentic API",
-        "url": "https://vllm-project.github.io/agentic-api/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-19T10:11:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-10-16T03:34:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "sglang: v0.5.22",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.22",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-19T05:55:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

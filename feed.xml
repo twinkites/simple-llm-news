@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 21:44:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:59:20 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
-      <link>https://rocus.io/</link>
-      <guid isPermaLink="false">https://rocus.io/</guid>
-      <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 18:28:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
       <link>https://heymaxwell.ai/</link>
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
@@ -54,11 +46,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>EGPU and Local LLM Inference</title>
-      <link>https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</link>
-      <guid isPermaLink="false">https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</guid>
+      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
+      <link>https://rocus.io/</link>
+      <guid isPermaLink="false">https://rocus.io/</guid>
       <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 18:07:44 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 18:28:16 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-      <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
       <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
       <category>model</category>
       <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>EGPU and Local LLM Inference</title>
+      <link>https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</link>
+      <guid isPermaLink="false">https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/</guid>
+      <category>model</category>
+      <pubDate>Tue, 20 Oct 2026 18:07:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: SentinelGate – Drop prompt injections at Token 0 before LLM inference</title>
-      <link>https://sentinelgate.dev</link>
-      <guid isPermaLink="false">https://sentinelgate.dev</guid>
+      <title>Ask HN: What happened to open weights models?</title>
+      <link>https://news.ycombinator.com/item?id=50158840</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158840</guid>
       <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 12:38:01 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:21:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,11 +158,59 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11759</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11759</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11759</guid>
+      <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
+      <link>https://github.com/xamrayev/nexus-cli</link>
+      <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
       <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 21:29:32 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11782</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11782</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11782</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 04:59:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11781</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11781</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11781</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 04:40:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.7</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 04:01:19 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 23:27:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11783: opencl: fix rope program build error with newer Clang (#30893)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11783</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11783</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 00:19:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +222,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
+      <title>Hyper Optimizing Kimi K3 in vLLM</title>
+      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -188,30 +236,6 @@
       <category>harness</category>
       <pubDate>Tue, 20 Oct 2026 15:45:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Hyper Optimizing Kimi K3 in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
-      <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11760</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11760</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11760</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 11:32:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11758: spec : save the dynamic ngram cache file (#22055)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11758</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11758</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 11:31:10 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>PyTorch-native TPU back end for vLLM</title>
@@ -228,30 +252,6 @@
       <category>harness</category>
       <pubDate>Mon, 19 Oct 2026 14:26:53 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM Agentic API</title>
-      <link>https://vllm-project.github.io/agentic-api/</link>
-      <guid isPermaLink="false">https://vllm-project.github.io/agentic-api/</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 10:11:33 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
-      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
-      <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 03:34:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>sglang: v0.5.22</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.22</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.22</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 05:55:53 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
