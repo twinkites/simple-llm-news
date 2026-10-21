@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T04:59:20.021791+00:00",
+  "generated_at": "2026-10-21T12:01:51.154214+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 720,
+        "score": 729,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 300,
+        "score": 301,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -36,10 +36,21 @@
         }
       },
       {
+        "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+        "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T10:59:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 130,
+        "score": 132,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
-        "url": "https://rocus.io/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-20T18:28:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -91,22 +91,33 @@
         }
       },
       {
+        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+        "url": "https://rocus.io/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-20T18:28:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
         "title": "EGPU and Local LLM Inference",
         "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
         "source": "hn",
         "score": 1,
         "published": "2026-10-20T18:07:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Decision model as prompt-injection judge: 40 of 40 on 78 texts",
-        "url": "https://loomcycle.dev/blog/decision-model-as-prompt-injection-judge",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T13:55:43Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -122,20 +133,20 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
-      },
-      {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "source": "hn",
+        "score": 96,
+        "published": "2026-10-15T14:36:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
+        }
+      },
       {
         "title": "Prompt injection scanners should be positional, not phrasal",
         "url": "https://attest.rta.lat/article",
@@ -156,17 +167,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Prompt injection in HTTP headers: what 217M web responses show",
-        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-        "source": "hn",
-        "score": 96,
-        "published": "2026-10-15T14:36:22Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
         }
       },
       {
@@ -216,10 +216,21 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11793",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11793",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T11:58:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
         "url": "https://github.com/xamrayev/nexus-cli",
         "source": "hn",
-        "score": 2,
+        "score": 14,
         "published": "2026-10-21T04:37:18Z",
         "truthiness": {
           "label": "red",
@@ -227,47 +238,25 @@
         }
       },
       {
-        "title": "llama.cpp: b11782",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11782",
+        "title": "llama.cpp: b11792",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11792",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T04:59:09+00:00",
+        "published": "2026-10-21T11:42:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11781",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11781",
+        "title": "llama.cpp: b11795: server : forward llama.cpp sampling params on /v1/messages (#30856)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11795",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T04:40:14+00:00",
+        "published": "2026-10-21T10:58:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.7",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T04:01:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
-        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-20T23:27:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -282,22 +271,22 @@
         }
       },
       {
-        "title": "llama.cpp: b11783: opencl: fix rope program build error with newer Clang (#30893)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11783",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T00:19:08+00:00",
+        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
+        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-20T23:27:04Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
-        "title": "ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
+        "title": "ollama: v0.40.7",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-20T21:15:15+00:00",
+        "published": "2026-10-21T04:01:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-20T21:15:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
