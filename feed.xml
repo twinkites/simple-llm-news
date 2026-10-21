@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 17:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:50:54 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
       <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
+      <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
+      <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,20 +30,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
+      <link>https://news.ycombinator.com/item?id=50185265</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>If you don&#x27;t run your own LLM proxy, how do you know whats going on?</title>
       <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</link>
       <guid isPermaLink="false">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</guid>
       <category>model</category>
       <pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
@@ -46,20 +54,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Krea 3 – An image model built for editing at scale</title>
@@ -70,19 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The gap in shared understanding of LLM capability is widening</title>
-      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-      <guid isPermaLink="false">https://twitter.com/karpathy/status/2109361546505966046</guid>
+      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
       <category>model</category>
-      <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
-      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://rocus.io/</guid>
       <category>model</category>
       <pubDate>Tue, 20 Oct 2026 18:28:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
-      <link>https://research.meta.ai/blog/muse-spark-open</link>
-      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,12 +150,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt injection through log files: what red-teaming our assistant found</title>
-      <link>https://jl3-cloud.site/blog/prompt-injection-through-log-files/</link>
-      <guid isPermaLink="false">https://jl3-cloud.site/blog/prompt-injection-through-log-files/</guid>
-      <category>security</category>
-      <pubDate>Sun, 11 Oct 2026 18:53:14 +0000</pubDate>
+      <title>ollama: v0.40.8</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 21:46:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11800</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11800</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11800</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 21:18:22 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Ollama flint requires 0.40.8 but most recent is 0.40.7</title>
+      <link>https://news.ycombinator.com/item?id=50186617</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50186617</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 19:50:43 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 20:12:06 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>
@@ -166,27 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11799</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11799</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11799</guid>
+      <title>llama.cpp: b11801: model: Add support for SenseNova U1 model (#28919)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11801</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11801</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 17:01:03 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11798</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11798</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11798</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 16:40:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.8</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 16:20:30 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 19:54:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,20 +206,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11797</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11797</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11797</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 16:04:56 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
       <link>https://github.com/cobanov/PS5LM</link>
       <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11799</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11799</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11799</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 17:55:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.8-rc0: mlx: add Flint model support (#19181)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 14:45:50 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
@@ -228,30 +244,6 @@
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.7</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 04:01:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop</title>
-      <link>https://github.com/Helldez/BigMoeOnEdge</link>
-      <guid isPermaLink="false">https://github.com/Helldez/BigMoeOnEdge</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 15:45:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 21:15:15 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>

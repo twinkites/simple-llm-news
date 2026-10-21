@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-21T17:21:19.618150+00:00",
+  "generated_at": "2026-10-21T21:50:54.884542+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 735,
+        "score": 737,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
+        }
+      },
+      {
+        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-21T18:57:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -25,6 +36,17 @@
         }
       },
       {
+        "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
+        "url": "https://news.ycombinator.com/item?id=50185265",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-21T18:17:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
@@ -33,17 +55,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 83 points)"
-        }
-      },
-      {
-        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T16:04:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -58,17 +69,6 @@
         }
       },
       {
-        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T14:58:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T18:26:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -91,22 +102,22 @@
         }
       },
       {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "hn",
-        "score": 729,
-        "published": "2026-10-11T20:20:52Z",
+        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T17:35:36+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 379 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T12:51:24+00:00",
+        "published": "2026-10-21T16:04:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
         }
       }
     ],
@@ -201,25 +201,58 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Prompt injection through log files: what red-teaming our assistant found",
-        "url": "https://jl3-cloud.site/blog/prompt-injection-through-log-files/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-11T18:53:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
       {
+        "title": "ollama: v0.40.8",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T21:46:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11800",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11800",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T21:18:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Ollama flint requires 0.40.8 but most recent is 0.40.7",
+        "url": "https://news.ycombinator.com/item?id=50186617",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-21T19:50:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T20:12:06+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
         "url": "https://github.com/eagle-hq/EAGLE-4",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-10-21T16:57:34Z",
         "truthiness": {
           "label": "red",
@@ -227,33 +260,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11799",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11799",
+        "title": "llama.cpp: b11801: model: Add support for SenseNova U1 model (#28919)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11801",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T17:01:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11798",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11798",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T16:40:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.8",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T16:20:30+00:00",
+        "published": "2026-10-21T19:54:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +282,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11797",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11797",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T16:04:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
@@ -290,6 +290,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11799",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11799",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T17:55:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.8-rc0: mlx: add Flint model support (#19181)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T14:45:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -307,44 +329,11 @@
         "title": "Hyper Optimizing Kimi K3 in vLLM",
         "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
         "source": "hn",
-        "score": 30,
+        "score": 31,
         "published": "2026-10-18T13:08:50Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.7",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T04:01:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
-        "url": "https://github.com/Helldez/BigMoeOnEdge",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T15:45:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.7-rc1: mlx: deduplicate CUDA runtime payloads (#17956)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-20T21:15:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
