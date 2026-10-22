@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-10-21T21:50:54.884542+00:00",
+  "generated_at": "2026-10-22T05:01:08.927575+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 737,
+        "score": 738,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
-        }
-      },
-      {
-        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
-        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-21T18:57:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -33,17 +22,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
-        }
-      },
-      {
-        "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
-        "url": "https://news.ycombinator.com/item?id=50185265",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-21T18:17:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -61,7 +39,7 @@
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 132,
+        "score": 133,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
@@ -80,14 +58,14 @@
         }
       },
       {
-        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T18:26:30+00:00",
+        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-21T18:57:14Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -102,6 +80,28 @@
         }
       },
       {
+        "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
+        "url": "https://news.ycombinator.com/item?id=50185265",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-21T18:17:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T18:26:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
         "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
         "source": "rss",
@@ -113,6 +113,17 @@
         }
       },
       {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
         "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
         "source": "rss",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
-        "url": "https://rocus.io/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-20T18:28:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -205,66 +205,33 @@
     ],
     "harness": [
       {
-        "title": "ollama: v0.40.8",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T21:46:35+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11800",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11800",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T21:18:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama flint requires 0.40.8 but most recent is 0.40.7",
-        "url": "https://news.ycombinator.com/item?id=50186617",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-21T19:50:43Z",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
         }
       },
       {
-        "title": "ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0",
+        "title": "ollama: v0.40.9",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T20:12:06+00:00",
+        "published": "2026-10-22T01:33:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
-        "url": "https://github.com/eagle-hq/EAGLE-4",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-21T16:57:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11801: model: Add support for SenseNova U1 model (#28919)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11801",
+        "title": "llama.cpp: b11804",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11804",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T19:54:16+00:00",
+        "published": "2026-10-22T01:30:26+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,47 +249,69 @@
         }
       },
       {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
+        "title": "Ollama flint requires 0.40.8 but most recent is 0.40.7",
+        "url": "https://news.ycombinator.com/item?id=50186617",
         "source": "hn",
-        "score": 375,
-        "published": "2026-10-16T18:32:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11799",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11799",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T17:55:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.8-rc0: mlx: add Flint model support (#19181)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T14:45:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
-        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-20T23:27:04Z",
+        "score": 1,
+        "published": "2026-10-21T19:50:43Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
+        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-21T16:57:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11803",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11803",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T22:34:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11802",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11802",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T22:17:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.8",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T21:46:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-21T20:12:06+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -331,6 +320,17 @@
         "source": "hn",
         "score": 31,
         "published": "2026-10-18T13:08:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
+        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-20T23:27:04Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"

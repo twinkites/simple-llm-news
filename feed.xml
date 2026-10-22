@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:01:08 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -14,27 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
-      <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
-      <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
       <link>https://arxiv.org/abs/2610.18861</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2610.18861</guid>
       <category>model</category>
       <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
-      <link>https://news.ycombinator.com/item?id=50185265</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,12 +46,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+      <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
+      <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
+      <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Krea 3 – An image model built for editing at scale</title>
@@ -78,6 +62,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
+      <link>https://news.ycombinator.com/item?id=50185265</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
       <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
       <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
@@ -86,20 +86,20 @@
       <source>rss</source>
     </item>
     <item>
+      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
+      <category>model</category>
+      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
       <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
       <guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
       <category>model</category>
       <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
-      <link>https://rocus.io/</link>
-      <guid isPermaLink="false">https://rocus.io/</guid>
-      <category>model</category>
-      <pubDate>Tue, 20 Oct 2026 18:28:16 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Prompt injection in HTTP headers: what 217M web responses show</title>
@@ -150,51 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.8</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8</guid>
+      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 21:46:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11800</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11800</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11800</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 21:18:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama flint requires 0.40.8 but most recent is 0.40.7</title>
-      <link>https://news.ycombinator.com/item?id=50186617</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50186617</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 19:50:43 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</guid>
+      <title>ollama: v0.40.9</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 20:12:06 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 01:33:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>
-      <link>https://github.com/eagle-hq/EAGLE-4</link>
-      <guid isPermaLink="false">https://github.com/eagle-hq/EAGLE-4</guid>
+      <title>llama.cpp: b11804</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11804</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11804</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 16:57:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11801: model: Add support for SenseNova U1 model (#28919)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11801</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11801</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 19:54:16 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 01:30:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,36 +182,52 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
+      <title>Ollama flint requires 0.40.8 but most recent is 0.40.7</title>
+      <link>https://news.ycombinator.com/item?id=50186617</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50186617</guid>
       <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 19:50:43 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11799</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11799</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11799</guid>
+      <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>
+      <link>https://github.com/eagle-hq/EAGLE-4</link>
+      <guid isPermaLink="false">https://github.com/eagle-hq/EAGLE-4</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 17:55:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.8-rc0: mlx: add Flint model support (#19181)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 14:45:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 23:27:04 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:57:34 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11803</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11803</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11803</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 22:34:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11802</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11802</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11802</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 22:17:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.8</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 21:46:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 20:12:06 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
@@ -243,6 +235,14 @@
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 20 Oct 2026 23:27:04 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
