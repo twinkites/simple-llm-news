@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T05:01:08.927575+00:00",
+  "generated_at": "2026-10-22T12:03:29.668492+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 738,
+        "score": 739,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -14,10 +14,21 @@
         }
       },
       {
+        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "source": "hn",
+        "score": 13,
+        "published": "2026-10-22T06:33:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 517,
+        "score": 518,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -58,14 +69,14 @@
         }
       },
       {
-        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
-        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-21T18:57:14Z",
+        "title": "Ensemble forecasting with IBM Granite time-series models",
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-22T07:51:31+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,36 +91,25 @@
         }
       },
       {
+        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-21T18:57:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
         "url": "https://news.ycombinator.com/item?id=50185265",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-10-21T18:17:50Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T18:26:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T17:35:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T16:04:43+00:00",
+        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+        "url": "https://rocus.io/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-20T18:28:16Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -205,6 +205,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11818: server : support typed content input for RERANK endpoint (#29625)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11818",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-22T11:27:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11815",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11815",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-22T09:36:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11814",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11814",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-22T09:15:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "hn",
@@ -213,28 +246,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.9",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-22T01:33:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11804",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11804",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-22T01:30:26+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "Ollama flint requires 0.40.8 but most recent is 0.40.7",
-        "url": "https://news.ycombinator.com/item?id=50186617",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-21T19:50:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
         "url": "https://github.com/eagle-hq/EAGLE-4",
         "source": "hn",
@@ -271,25 +271,36 @@
         }
       },
       {
-        "title": "llama.cpp: b11803",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11803",
+        "title": "Ollama flint requires 0.40.8 but most recent is 0.40.7",
+        "url": "https://news.ycombinator.com/item?id=50186617",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-21T19:50:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.9",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-21T22:34:41+00:00",
+        "published": "2026-10-22T01:33:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11802",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11802",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-21T22:17:39+00:00",
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-10-18T13:08:50Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Hyper Optimizing Kimi K3 in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-10-18T13:08:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
