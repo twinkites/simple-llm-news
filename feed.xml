@@ -4,29 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 17:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:45:16 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
       <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Using LLM for confidence scoring is a bad idea</title>
-      <link>https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</link>
-      <guid isPermaLink="false">https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 04:27:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
-      <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,12 +22,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>If you don&#x27;t run your own LLM proxy, how do you know whats going on?</title>
@@ -78,11 +62,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+      <category>model</category>
+      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
       <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
       <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
       <category>model</category>
       <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
+      <link>https://news.ycombinator.com/item?id=50185265</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
-      <link>https://news.ycombinator.com/item?id=50185265</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +142,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11821</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11821</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11821</guid>
+      <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:05:42 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11827</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11827</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11827</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 19:41:06 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.9</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 19:39:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
+      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11826</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11826</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11826</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 19:00:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,27 +190,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11822: model : fix qwen4exp layer inputs for DFlash drafters (#30927)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11822</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11822</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 13:49:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11820</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11820</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11820</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 12:40:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
       <link>https://github.com/xamrayev/nexus-cli</link>
       <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
       <category>harness</category>
       <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11824</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11824</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11824</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 14:00:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Hyper Optimizing Kimi K3 in vLLM</title>
+      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
+      <category>harness</category>
+      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,14 +222,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hyper Optimizing Kimi K3 in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
-      <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ollama flint requires 0.40.8 but most recent is 0.40.7</title>
       <link>https://news.ycombinator.com/item?id=50186617</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50186617</guid>
@@ -206,36 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.9</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 01:33:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
       <link>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</link>
       <guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</guid>
       <category>harness</category>
       <pubDate>Tue, 20 Oct 2026 23:27:04 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.8</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.8</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.8</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 21:46:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.9-rc0: ci: switch to released WoA CTK (#19185)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 20:12:06 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
