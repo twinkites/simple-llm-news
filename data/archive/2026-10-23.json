@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:48:28.896275+00:00",
+  "generated_at": "2026-10-23T17:17:24.137473+00:00",
   "sections": {
     "model": [
       {
@@ -14,21 +14,32 @@
         }
       },
       {
-        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
-        "url": "https://huggingface.co/cekal/hlas-1",
+        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
+        "url": "https://news.ycombinator.com/item?id=50210227",
         "source": "hn",
-        "score": 3,
-        "published": "2026-10-23T06:52:05Z",
+        "score": 1,
+        "published": "2026-10-23T15:01:53Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T16:15:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
-        "score": 519,
+        "score": 520,
         "published": "2026-10-18T20:48:14Z",
         "truthiness": {
           "label": "green",
@@ -47,10 +58,21 @@
         }
       },
       {
+        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
+        "url": "https://huggingface.co/cekal/hlas-1",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-23T06:52:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
-        "score": 330,
+        "score": 331,
         "published": "2026-10-17T04:36:53Z",
         "truthiness": {
           "label": "red",
@@ -61,22 +83,11 @@
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
-        "score": 134,
+        "score": 135,
         "published": "2026-10-19T13:47:56Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
-        }
-      },
-      {
-        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-10-22T06:33:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -91,14 +102,14 @@
         }
       },
       {
-        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-22T22:24:34+00:00",
+        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-10-22T06:33:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -113,25 +124,14 @@
         }
       },
       {
-        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
-        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-21T18:57:14Z",
+        "title": "Does Your Model Run on AWS Trainium? Look It Up",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T00:00:00+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
-        "url": "https://news.ycombinator.com/item?id=50185265",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-21T18:17:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -194,11 +194,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11836",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11836",
+        "title": "ollama: v0.40.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-23T08:23:15+00:00",
+        "published": "2026-10-23T17:10:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11840",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11840",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T16:51:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11841",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11841",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T16:26:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.10-rc0: Update gemma renderers (#19241)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T14:12:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11838",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11838",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T13:39:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,25 +260,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11835",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11835",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T07:32:16+00:00",
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-10-21T04:37:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11834: Extend probabilistic sampling for DFlash2 drafts (#30663)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11834",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T05:45:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -260,17 +293,6 @@
         }
       },
       {
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "url": "https://github.com/xamrayev/nexus-cli",
-        "source": "hn",
-        "score": 15,
-        "published": "2026-10-21T04:37:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
         "source": "hn",
@@ -282,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.9-rc3: Support GA Gradium Phonon checkpoints (#19227)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-22T22:51:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Hyper Optimizing Kimi K3 in vLLM",
         "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
         "source": "hn",
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.9-rc2: flint: fix replies with thinking disabled (#19216)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-22T18:38:27+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
