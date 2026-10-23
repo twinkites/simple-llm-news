@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:31:42 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -12,22 +12,6 @@
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
-      <link>https://news.ycombinator.com/item?id=50210227</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
@@ -46,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
-      <link>https://huggingface.co/cekal/hlas-1</link>
-      <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
+      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
+      <link>https://news.ycombinator.com/item?id=50210227</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
       <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,11 +54,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+      <link>https://huggingface.co/blog/allenai/litpivot</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Krea 3 – An image model built for editing at scale</title>
       <link>https://www.krea.ai/krea-3</link>
       <guid isPermaLink="false">https://www.krea.ai/krea-3</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:04:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
+      <link>https://huggingface.co/cekal/hlas-1</link>
+      <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+      <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
+      <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
+      <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
       <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Prompt injection in HTTP headers: what 217M web responses show</title>
@@ -142,43 +142,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11845: CUDA: fix build after chunked CUDA graphs (#30804) (#31053)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11845</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11845</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 18:47:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11844</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11844</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11844</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 17:56:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11843: qwen4exp : build the QSA selection without the kq_mask (#30965)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11843</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11843</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 17:49:08 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ollama: v0.40.10</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:10:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11840</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11840</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11840</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 16:51:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11841</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11841</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11841</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 16:26:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11838</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11838</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11838</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 13:39:52 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -188,6 +180,14 @@
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
@@ -206,12 +206,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.9</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9</guid>
+      <title>Hyper Optimizing Kimi K3 in vLLM</title>
+      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 02:12:47 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hyper Optimizing Kimi K3 in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
+      <title>ollama: v0.40.9</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9</guid>
       <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 23 Oct 2026 02:12:47 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:17:24.137473+00:00",
+  "generated_at": "2026-10-23T21:31:42.919373+00:00",
   "sections": {
     "model": [
       {
@@ -11,28 +11,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
-        "url": "https://news.ycombinator.com/item?id=50210227",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-23T15:01:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "url": "https://huggingface.co/blog/allenai/litpivot",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T16:15:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -58,14 +36,14 @@
         }
       },
       {
-        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
-        "url": "https://huggingface.co/cekal/hlas-1",
+        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
+        "url": "https://news.ycombinator.com/item?id=50210227",
         "source": "hn",
-        "score": 3,
-        "published": "2026-10-23T06:52:05Z",
+        "score": 1,
+        "published": "2026-10-23T15:01:53Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,6 +69,17 @@
         }
       },
       {
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T16:15:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Krea 3 – An image model built for editing at scale",
         "url": "https://www.krea.ai/krea-3",
         "source": "hn",
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 352 points)"
+        }
+      },
+      {
+        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
+        "url": "https://huggingface.co/cekal/hlas-1",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-23T06:52:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Does Your Model Run on AWS Trainium? Look It Up",
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T00:00:00+00:00",
+        "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+        "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-21T18:57:14Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -194,55 +194,44 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11845: CUDA: fix build after chunked CUDA graphs (#30804) (#31053)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11845",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T18:47:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11844",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11844",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T17:56:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11843: qwen4exp : build the QSA selection without the kq_mask (#30965)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11843",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T17:49:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.40.10",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-23T17:10:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11840",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11840",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T16:51:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11841",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11841",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T16:26:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.10-rc0: Update gemma renderers (#19241)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T14:12:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11838",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11838",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T13:39:52+00:00",
+        "published": "2026-10-23T17:17:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -257,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.10-rc0: Update gemma renderers (#19241)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T14:12:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,14 +282,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.9",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T02:12:47+00:00",
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-10-18T13:08:50Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -304,14 +304,14 @@
         }
       },
       {
-        "title": "Hyper Optimizing Kimi K3 in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-10-18T13:08:50Z",
+        "title": "ollama: v0.40.9",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T02:12:47+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
