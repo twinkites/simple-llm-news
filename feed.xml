@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:01:37 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -22,14 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
-      <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>If you don&#x27;t run your own LLM proxy, how do you know whats going on?</title>
       <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</link>
       <guid isPermaLink="false">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</guid>
@@ -38,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Maxwell: A new kind of model that sits between code and hardware</title>
-      <link>https://heymaxwell.ai/</link>
-      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
+      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Maxwell: A new kind of model that sits between code and hardware</title>
+      <link>https://heymaxwell.ai/</link>
+      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Krea 3 – An image model built for editing at scale</title>
       <link>https://www.krea.ai/krea-3</link>
       <guid isPermaLink="false">https://www.krea.ai/krea-3</guid>
@@ -62,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
       <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -78,19 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
-      <link>https://news.ycombinator.com/item?id=50185265</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ensemble forecasting with IBM Granite time-series models</title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-      <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -99,6 +91,14 @@
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>macOS 27 has a built-in, offline LLM you can call from Terminal</title>
+      <link>https://news.ycombinator.com/item?id=50185265</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185265</guid>
+      <category>model</category>
+      <pubDate>Wed, 21 Oct 2026 18:17:50 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,43 +142,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
+      <title>llama.cpp: b11832</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11832</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11832</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 23 Oct 2026 04:05:44 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11827</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11827</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11827</guid>
+      <title>llama.cpp: b11831</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11831</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11831</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 19:41:06 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 02:43:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11830: sycl: Add graph record and replay (#28725)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11830</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11830</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 02:39:52 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.9</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 19:39:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
-      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11826</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11826</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11826</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 19:00:55 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 02:12:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,6 +182,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
+      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.9-rc3: Support GA Gradium Phonon checkpoints (#19227)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc3</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 22:51:43 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
+      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
       <link>https://github.com/xamrayev/nexus-cli</link>
       <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
@@ -198,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11824</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11824</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11824</guid>
+      <title>ollama: v0.40.9-rc2: flint: fix replies with thinking disabled (#19216)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9-rc2</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 14:00:57 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:38:27 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -219,22 +235,6 @@
       <guid isPermaLink="false">https://github.com/eagle-hq/EAGLE-4</guid>
       <category>harness</category>
       <pubDate>Wed, 21 Oct 2026 16:57:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ollama flint requires 0.40.8 but most recent is 0.40.7</title>
-      <link>https://news.ycombinator.com/item?id=50186617</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50186617</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 19:50:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 20 Oct 2026 23:27:04 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
