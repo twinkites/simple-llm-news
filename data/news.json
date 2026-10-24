@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-10-24T11:14:22.937996+00:00",
+  "generated_at": "2026-10-24T16:04:59.732520+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
-        "url": "https://news.ycombinator.com/item?id=50219762",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T10:09:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -25,11 +14,11 @@
         }
       },
       {
-        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
-        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
+        "url": "https://news.ycombinator.com/item?id=50219762",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-24T07:51:01Z",
+        "published": "2026-10-24T10:09:27Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -47,10 +36,21 @@
         }
       },
       {
+        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T07:51:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "source": "hn",
-        "score": 302,
+        "score": 303,
         "published": "2026-10-18T21:09:12Z",
         "truthiness": {
           "label": "green",
@@ -194,22 +194,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11853",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11853",
+        "title": "llama.cpp: b11856",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11856",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T11:14:11+00:00",
+        "published": "2026-10-24T15:10:27+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11852",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11852",
+        "title": "llama.cpp: b11854",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11854",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T07:54:53+00:00",
+        "published": "2026-10-24T14:38:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11854: vulkan: ggml src1 precision support (#30656)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11854",
+        "title": "llama.cpp: b11857: ggml : allow MUL_MAT_ID -1 index to skip the computation (#26631)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11857",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T04:05:05+00:00",
+        "published": "2026-10-24T10:15:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,11 +260,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+        "title": "ollama: v0.40.11: voice: add voice catalog for Phonon (#19242)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-23T17:17:19+00:00",
+        "published": "2026-10-23T23:15:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,11 +282,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.10-rc0: Update gemma renderers (#19241)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0",
+        "title": "ollama: v0.40.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-23T14:12:11+00:00",
+        "published": "2026-10-23T17:17:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
-        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-21T16:57:34Z",
+        "score": 6,
+        "published": "2026-10-19T22:34:38Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]
