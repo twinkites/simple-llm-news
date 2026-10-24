@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:04:59.732520+00:00",
+  "generated_at": "2026-10-24T20:58:29.085877+00:00",
   "sections": {
     "model": [
       {
@@ -14,17 +14,6 @@
         }
       },
       {
-        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
-        "url": "https://news.ycombinator.com/item?id=50219762",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T10:09:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "hn",
@@ -33,17 +22,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
-        }
-      },
-      {
-        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
-        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T07:51:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,6 +36,17 @@
         }
       },
       {
+        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
+        "url": "https://news.ycombinator.com/item?id=50219762",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T10:09:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T07:51:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
-        "url": "https://news.ycombinator.com/item?id=50210227",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-23T15:01:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
@@ -133,9 +122,31 @@
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
         }
+      },
+      {
+        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
+        "url": "https://news.ycombinator.com/item?id=50210227",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-23T15:01:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
       }
     ],
     "security": [
+      {
+        "title": "Prompt injection scanners should be positional, not phrasal",
+        "url": "https://attest.rta.lat/article",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T17:54:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Prompt injection in HTTP headers: what 217M web responses show",
         "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
@@ -156,17 +167,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Prompt injection scanners should be positional, not phrasal",
-        "url": "https://attest.rta.lat/article",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-20T19:03:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -194,22 +194,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11856",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11856",
+        "title": "llama.cpp: b11869: jinja : fix select and selectattr argument handling (#31059)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11869",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T15:10:27+00:00",
+        "published": "2026-10-24T20:54:46+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11854",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11854",
+        "title": "llama.cpp: b11868",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11868",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T14:38:49+00:00",
+        "published": "2026-10-24T20:27:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11867",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11867",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T20:15:22+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-24T18:11:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T17:50:51+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,28 +260,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11857: ggml : allow MUL_MAT_ID -1 index to skip the computation (#26631)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11857",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T10:15:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.11",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T00:30:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
         "url": "https://github.com/xamrayev/nexus-cli",
         "source": "hn",
@@ -257,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.11: voice: add voice catalog for Phonon (#19242)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T23:15:08+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,11 +282,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-23T17:17:19+00:00",
+        "published": "2026-10-23T23:15:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,6 +304,17 @@
         }
       },
       {
+        "title": "ollama: v0.40.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T17:17:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
         "source": "hn",
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "PyTorch-native TPU back end for vLLM",
-        "url": "https://github.com/vllm-project/vllm-torchtpu",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-19T22:34:38Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]
