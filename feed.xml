@@ -4,13 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 04:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:14:22 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Benchmarks of continual learning model trained for a month on a laptop</title>
+      <link>https://news.ycombinator.com/item?id=50219762</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
+      <category>model</category>
+      <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
       <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
+      <category>model</category>
+      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +78,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
-      <link>https://news.ycombinator.com/item?id=50210227</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
       <link>https://huggingface.co/cekal/hlas-1</link>
       <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
@@ -78,12 +86,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
+      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
+      <link>https://news.ycombinator.com/item?id=50210227</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
       <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)</title>
-      <link>https://twitter.com/RichardSocher/status/2112944385415426249</link>
-      <guid isPermaLink="false">https://twitter.com/RichardSocher/status/2112944385415426249</guid>
-      <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 18:57:14 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11849</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11849</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11849</guid>
+      <title>llama.cpp: b11853</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11853</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11853</guid>
       <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 02:59:53 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 11:14:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11848</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11848</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11848</guid>
+      <title>llama.cpp: b11852</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11852</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11852</guid>
       <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 02:38:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 00:30:13 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:54:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,19 +166,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11850: mtmd : add Soprano TTS support (#28607)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11850</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11850</guid>
+      <title>llama.cpp: b11854: vulkan: ggml src1 precision support (#30656)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11854</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11854</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 23:09:50 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 04:05:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
+      <title>ollama: v0.40.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:30:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,11 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
+      <title>ollama: v0.40.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -212,6 +204,14 @@
       <category>harness</category>
       <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
