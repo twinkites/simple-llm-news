@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 21:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:46:42 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -30,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
-      <link>https://news.ycombinator.com/item?id=50210227</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
@@ -54,19 +46,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Krea 3 – An image model built for editing at scale</title>
       <link>https://www.krea.ai/krea-3</link>
       <guid isPermaLink="false">https://www.krea.ai/krea-3</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:04:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
+      <category>model</category>
+      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Secure minimalistic web front-ends to Local LLM&#x27;s?</title>
+      <link>https://news.ycombinator.com/item?id=50210227</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50210227</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 15:01:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,12 +78,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
+      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+      <link>https://huggingface.co/blog/allenai/litpivot</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
       <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
@@ -142,35 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11845: CUDA: fix build after chunked CUDA graphs (#30804) (#31053)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11845</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11845</guid>
+      <title>llama.cpp: b11849</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11849</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11849</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 18:47:20 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 02:59:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11844</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11844</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11844</guid>
+      <title>llama.cpp: b11848</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11848</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11848</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:56:38 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 02:38:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11843: qwen4exp : build the QSA selection without the kq_mask (#30965)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11843</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11843</guid>
+      <title>ollama: v0.40.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:49:08 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:30:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,11 +174,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
+      <title>llama.cpp: b11850: mtmd : add Soprano TTS support (#28607)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11850</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11850</guid>
       <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 23:09:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
-      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
+      <title>ollama: v0.40.10-rc0: Update gemma renderers (#19241)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10-rc0</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 23 Oct 2026 14:12:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
@@ -214,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
+      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
+      <category>harness</category>
+      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
       <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
       <category>harness</category>
       <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.9</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.9</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.9</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 02:12:47 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4</title>
