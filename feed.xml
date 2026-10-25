@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:54:09 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -30,35 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Benchmarks of continual learning model trained for a month on a laptop</title>
-      <link>https://news.ycombinator.com/item?id=50219762</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
-      <category>model</category>
-      <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
       <category>model</category>
       <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
-      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
-      <category>model</category>
-      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Maxwell: A new kind of model that sits between code and hardware</title>
-      <link>https://heymaxwell.ai/</link>
-      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
-      <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,6 +46,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Maxwell: A new kind of model that sits between code and hardware</title>
+      <link>https://heymaxwell.ai/</link>
+      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Benchmarks of continual learning model trained for a month on a laptop</title>
+      <link>https://news.ycombinator.com/item?id=50219762</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
+      <category>model</category>
+      <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
+      <category>model</category>
+      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
       <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
       <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
@@ -78,19 +78,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
-      <link>https://huggingface.co/cekal/hlas-1</link>
-      <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
       <category>model</category>
       <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
+      <link>https://huggingface.co/cekal/hlas-1</link>
+      <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +142,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11869: jinja : fix select and selectattr argument handling (#31059)</title>
+      <title>llama.cpp: b11870</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11870</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11870</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 02:18:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
+      <category>harness</category>
+      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
+      <link>https://qxotic.ai/</link>
+      <guid isPermaLink="false">https://qxotic.ai/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11869</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11869</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11869</guid>
       <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 20:54:46 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 21:21:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,36 +182,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11867</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11867</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11867</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 20:15:22 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
-      <link>https://qxotic.ai/</link>
-      <guid isPermaLink="false">https://qxotic.ai/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>ollama: v0.40.11</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
       <category>harness</category>
       <pubDate>Sat, 24 Oct 2026 17:50:51 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>

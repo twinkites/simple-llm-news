@@ -1,0 +1,330 @@
+{
+  "generated_at": "2026-10-25T04:54:09.763070+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "hn",
+        "score": 743,
+        "published": "2026-10-19T23:22:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
+        }
+      },
+      {
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "source": "hn",
+        "score": 520,
+        "published": "2026-10-18T20:48:14Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
+        }
+      },
+      {
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "source": "hn",
+        "score": 303,
+        "published": "2026-10-18T21:09:12Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 83 points)"
+        }
+      },
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "source": "hn",
+        "score": 331,
+        "published": "2026-10-17T04:36:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Krea 3 – An image model built for editing at scale",
+        "url": "https://www.krea.ai/krea-3",
+        "source": "hn",
+        "score": 352,
+        "published": "2026-10-15T16:04:05Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 352 points)"
+        }
+      },
+      {
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "url": "https://heymaxwell.ai/",
+        "source": "hn",
+        "score": 136,
+        "published": "2026-10-19T13:47:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
+        "url": "https://news.ycombinator.com/item?id=50219762",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T10:09:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T07:51:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-10-22T06:33:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
+        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-10-15T16:58:30Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
+        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
+        "url": "https://huggingface.co/cekal/hlas-1",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-23T06:52:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
+        "url": "https://news.ycombinator.com/item?id=50210227",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-23T15:01:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt injection scanners should be positional, not phrasal",
+        "url": "https://attest.rta.lat/article",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T17:54:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "source": "hn",
+        "score": 96,
+        "published": "2026-10-15T14:36:22Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
+        }
+      },
+      {
+        "title": "Building a System One Model for Prompt Injection",
+        "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-20T12:56:00Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "LLM01: 2025 Prompt Injection",
+        "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-18T19:27:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-17T16:42:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "llama.cpp: b11870",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T02:18:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-24T18:11:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11869",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11869",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T21:21:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11868",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11868",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T20:27:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T17:50:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-10-21T04:37:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-10-18T13:08:50Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T23:15:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving",
+        "url": "https://vllm.ai/blog/2026-10-20-vllm-torchtpu",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-22T17:25:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T17:17:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-22T17:54:10Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T20:58:29.085877+00:00",
+  "generated_at": "2026-10-25T04:54:09.763070+00:00",
   "sections": {
     "model": [
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 742,
+        "score": 743,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
-        "url": "https://news.ycombinator.com/item?id=50219762",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T10:09:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "source": "hn",
@@ -55,28 +44,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
-        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T07:51:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Maxwell: A new kind of model that sits between code and hardware",
-        "url": "https://heymaxwell.ai/",
-        "source": "hn",
-        "score": 136,
-        "published": "2026-10-19T13:47:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
         }
       },
       {
@@ -91,6 +58,39 @@
         }
       },
       {
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "url": "https://heymaxwell.ai/",
+        "source": "hn",
+        "score": 136,
+        "published": "2026-10-19T13:47:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
+        "url": "https://news.ycombinator.com/item?id=50219762",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T10:09:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T07:51:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
@@ -102,17 +102,6 @@
         }
       },
       {
-        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
-        "url": "https://huggingface.co/cekal/hlas-1",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-23T06:52:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
@@ -121,6 +110,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
+        "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
+        "url": "https://huggingface.co/cekal/hlas-1",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-23T06:52:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -194,11 +194,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11869: jinja : fix select and selectattr argument handling (#31059)",
+        "title": "llama.cpp: b11870",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T02:18:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "score": 375,
+        "published": "2026-10-16T18:32:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-24T18:11:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11869",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11869",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-24T20:54:46+00:00",
+        "published": "2026-10-24T21:21:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,28 +249,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11867",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11867",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T20:15:22+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-24T18:11:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "ollama: v0.40.11",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
         "source": "rss",
@@ -246,17 +257,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
-        "source": "hn",
-        "score": 375,
-        "published": "2026-10-16T18:32:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
         }
       },
       {
