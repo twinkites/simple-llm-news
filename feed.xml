@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 11:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:33:23 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -38,19 +38,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Krea 3 – An image model built for editing at scale</title>
-      <link>https://www.krea.ai/krea-3</link>
-      <guid isPermaLink="false">https://www.krea.ai/krea-3</guid>
-      <category>model</category>
-      <pubDate>Thu, 15 Oct 2026 16:04:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
       <link>https://heymaxwell.ai/</link>
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
+      <category>model</category>
+      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,14 +70,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
-      <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Muse Spark Open, the Most Capable US Open‑Weight Model to Date</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
       <guid isPermaLink="false">https://research.meta.ai/blog/muse-spark-open</guid>
@@ -91,6 +83,14 @@
       <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
       <category>model</category>
       <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>M3.1 Flash weights are now open</title>
+      <link>https://www.together.ai/models/minimax-m3-1-flash</link>
+      <guid isPermaLink="false">https://www.together.ai/models/minimax-m3-1-flash</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 02:27:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,14 +118,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt injection in HTTP headers: what 217M web responses show</title>
-      <link>https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</link>
-      <guid isPermaLink="false">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</guid>
-      <category>security</category>
-      <pubDate>Thu, 15 Oct 2026 14:36:22 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Building a System One Model for Prompt Injection</title>
       <link>https://www.stackone.com/blog/system-one-model-prompt-injection/</link>
       <guid isPermaLink="false">https://www.stackone.com/blog/system-one-model-prompt-injection/</guid>
@@ -150,19 +142,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11873: opencl: add initial q2_k support (#30999)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11873</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11873</guid>
+      <title>llama.cpp: b11880</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11880</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11880</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 09:09:56 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 16:33:17 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11871</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11871</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11871</guid>
+      <title>llama.cpp: b11879</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11879</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11879</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 06:31:38 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 16:15:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11870</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11870</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11870</guid>
+      <title>llama.cpp: b11881: llama : respect no_alloc in all memory caches (#31087)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11881</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11881</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 02:18:48 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 09:56:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,20 +182,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 17:50:51 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
       <link>https://github.com/xamrayev/nexus-cli</link>
       <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
       <category>harness</category>
       <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
+      <category>harness</category>
+      <pubDate>Sat, 24 Oct 2026 17:50:51 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
@@ -230,20 +222,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.10</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>PyTorch-native TPU back end for vLLM</title>
       <link>https://github.com/vllm-project/vllm-torchtpu</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
       <category>harness</category>
       <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.10</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.10</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.10</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 17:17:19 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>

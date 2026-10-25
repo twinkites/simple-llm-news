@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:43:29.194684+00:00",
+  "generated_at": "2026-10-25T16:33:23.456319+00:00",
   "sections": {
     "model": [
       {
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "Krea 3 – An image model built for editing at scale",
-        "url": "https://www.krea.ai/krea-3",
-        "source": "hn",
-        "score": 352,
-        "published": "2026-10-15T16:04:05Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 352 points)"
-        }
-      },
-      {
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "source": "hn",
+        "score": 16,
+        "published": "2026-10-22T06:33:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-10-22T06:33:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
         "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "hn",
@@ -121,6 +110,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "M3.1 Flash weights are now open",
+        "url": "https://www.together.ai/models/minimax-m3-1-flash",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-23T02:27:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -159,17 +159,6 @@
         }
       },
       {
-        "title": "Prompt injection in HTTP headers: what 217M web responses show",
-        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-        "source": "hn",
-        "score": 96,
-        "published": "2026-10-15T14:36:22Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 45 points)"
-        }
-      },
-      {
         "title": "Building a System One Model for Prompt Injection",
         "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
         "source": "hn",
@@ -205,22 +194,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11873: opencl: add initial q2_k support (#30999)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11873",
+        "title": "llama.cpp: b11880",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11880",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T09:09:56+00:00",
+        "published": "2026-10-25T16:33:17+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11871",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11871",
+        "title": "llama.cpp: b11879",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11879",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T06:31:38+00:00",
+        "published": "2026-10-25T16:15:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11870",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+        "title": "llama.cpp: b11881: llama : respect no_alloc in all memory caches (#31087)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11881",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T02:18:48+00:00",
+        "published": "2026-10-25T09:56:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,17 +249,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.11",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T17:50:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
         "url": "https://github.com/xamrayev/nexus-cli",
         "source": "hn",
@@ -279,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-24T17:50:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T17:17:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "PyTorch-native TPU back end for vLLM",
         "url": "https://github.com/vllm-project/vllm-torchtpu",
         "source": "hn",
@@ -334,6 +312,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.10",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T17:17:19+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
