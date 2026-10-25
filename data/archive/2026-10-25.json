@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-25T16:33:23.456319+00:00",
+  "generated_at": "2026-10-25T20:59:21.631631+00:00",
   "sections": {
     "model": [
+      {
+        "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+        "url": "https://github.com/aymen94/NeuronDump",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-25T19:45:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "An American Answer to China's Open Si Models: A Safe Harbor for Open Weights",
+        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-25T18:54:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -22,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
+        }
+      },
+      {
+        "title": "Using LLM for confidence scoring is a bad idea",
+        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "source": "hn",
+        "score": 226,
+        "published": "2026-10-21T04:27:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 226 points)"
         }
       },
       {
@@ -91,17 +124,6 @@
         }
       },
       {
-        "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "hn",
-        "score": 72,
-        "published": "2026-10-15T16:58:30Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
-        }
-      },
-      {
         "title": "Show HN: Hlas-1: open-weight 3B params TTS with frontier performance",
         "url": "https://huggingface.co/cekal/hlas-1",
         "source": "hn",
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "M3.1 Flash weights are now open",
-        "url": "https://www.together.ai/models/minimax-m3-1-flash",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-23T02:27:17Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
-        "url": "https://news.ycombinator.com/item?id=50210227",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-23T15:01:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -194,22 +194,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11880",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11880",
+        "title": "llama.cpp: b11887",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11887",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T16:33:17+00:00",
+        "published": "2026-10-25T18:38:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11879",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11879",
+        "title": "llama.cpp: b11886",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11886",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T16:15:29+00:00",
+        "published": "2026-10-25T18:20:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T18:06:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11884",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11884",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T17:59:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,21 +249,10 @@
         }
       },
       {
-        "title": "llama.cpp: b11881: llama : respect no_alloc in all memory caches (#31087)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11881",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-25T09:56:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
         "url": "https://qxotic.ai/",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-10-24T18:11:57Z",
         "truthiness": {
           "label": "red",
@@ -257,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.11",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T17:50:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.10",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T17:17:19+00:00",
+        "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-22T17:54:10Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
