@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 04:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:43:29 +0000</lastBuildDate>
     <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
@@ -102,6 +102,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Prompt Injection Techniques Every Red Teamer Should Test</title>
+      <link>https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d</link>
+      <guid isPermaLink="false">https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d</guid>
+      <category>security</category>
+      <pubDate>Sun, 25 Oct 2026 06:54:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Prompt injection scanners should be positional, not phrasal</title>
       <link>https://attest.rta.lat/article</link>
       <guid isPermaLink="false">https://attest.rta.lat/article</guid>
@@ -142,11 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11870</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11870</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11870</guid>
+      <title>llama.cpp: b11873: opencl: add initial q2_k support (#30999)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11873</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11873</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 02:18:48 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 09:09:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11871</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11871</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11871</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 06:31:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -158,28 +174,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11870</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11870</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11870</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 02:18:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
       <link>https://qxotic.ai/</link>
       <guid isPermaLink="false">https://qxotic.ai/</guid>
       <category>harness</category>
       <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11869</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11869</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11869</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 21:21:36 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11868</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11868</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11868</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 20:27:24 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.11</title>
@@ -206,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 23:15:08 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
       <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
       <category>harness</category>
       <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 23 Oct 2026 23:15:08 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.10</title>
@@ -230,11 +238,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
+      <title>PyTorch-native TPU back end for vLLM</title>
+      <link>https://github.com/vllm-project/vllm-torchtpu</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

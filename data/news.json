@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:54:09.763070+00:00",
+  "generated_at": "2026-10-25T11:43:29.194684+00:00",
   "sections": {
     "model": [
       {
@@ -137,6 +137,17 @@
     ],
     "security": [
       {
+        "title": "Prompt Injection Techniques Every Red Teamer Should Test",
+        "url": "https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-25T06:54:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Prompt injection scanners should be positional, not phrasal",
         "url": "https://attest.rta.lat/article",
         "source": "hn",
@@ -194,11 +205,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11870",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+        "title": "llama.cpp: b11873: opencl: add initial q2_k support (#30999)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11873",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T02:18:48+00:00",
+        "published": "2026-10-25T09:09:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11871",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11871",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T06:31:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,6 +238,17 @@
         }
       },
       {
+        "title": "llama.cpp: b11870",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T02:18:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
         "url": "https://qxotic.ai/",
         "source": "hn",
@@ -224,28 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11869",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11869",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T21:21:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11868",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11868",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-24T20:27:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T23:15:08+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving",
         "url": "https://vllm.ai/blog/2026-10-20-vllm-torchtpu",
         "source": "hn",
@@ -301,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T23:15:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,14 +326,14 @@
         }
       },
       {
-        "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-22T17:54:10Z",
+        "score": 6,
+        "published": "2026-10-19T22:34:38Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]
