@@ -4,13 +4,37 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 04:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:16:36 +0000</lastBuildDate>
     <item>
       <title>IBM CEO says open weight models are now good and cheap on-prem</title>
       <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
       <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+      <link>https://minimaxir.com/2026/10/cheap-llms/</link>
+      <guid isPermaLink="false">https://minimaxir.com/2026/10/cheap-llms/</guid>
+      <category>model</category>
+      <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
+      <link>https://github.com/goyohan0611-png/graph-mind</link>
+      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,30 +54,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
-      <link>https://github.com/aymen94/NeuronDump</link>
-      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
-      <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>If you don&#x27;t run your own LLM proxy, how do you know whats going on?</title>
-      <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</link>
-      <guid isPermaLink="false">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</guid>
-      <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>An American Answer to China&#x27;s Open Si Models: A Safe Harbor for Open Weights</title>
-      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</link>
-      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</guid>
-      <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 18:54:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
@@ -62,11 +62,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
+      <link>https://github.com/aymen94/NeuronDump</link>
+      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
+      <category>model</category>
+      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
       <link>https://heymaxwell.ai/</link>
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An American Answer to China&#x27;s Open Si Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</guid>
+      <category>model</category>
+      <pubDate>Sun, 25 Oct 2026 18:54:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
       <category>model</category>
       <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Hlas-1: open-weight 3B params TTS with frontier performance</title>
-      <link>https://huggingface.co/cekal/hlas-1</link>
-      <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>M3.1 Flash weights are now open</title>
-      <link>https://www.together.ai/models/minimax-m3-1-flash</link>
-      <guid isPermaLink="false">https://www.together.ai/models/minimax-m3-1-flash</guid>
-      <category>model</category>
-      <pubDate>Fri, 23 Oct 2026 02:27:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,27 +142,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Bringing Flame Serving Close to Standalone vLLM</title>
-      <link>https://xflops.io/blog/flame-vllm-serving/</link>
-      <guid isPermaLink="false">https://xflops.io/blog/flame-vllm-serving/</guid>
+      <title>Fixing Tool-Call Accuracy in vLLM</title>
+      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
+      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
       <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 01:06:01 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11889</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11889</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11889</guid>
+      <title>llama.cpp: b11899</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11899</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11899</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 23:48:14 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 12:29:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11888</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11888</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11888</guid>
+      <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
+      <link>https://ollama.com/blog/speech-models</link>
+      <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 23:31:40 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11898</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11898</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11898</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 11:40:55 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11897</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11897</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11897</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 11:00:46 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,12 +190,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11887</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11887</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11887</guid>
+      <title>Bringing Flame Serving Close to Standalone vLLM</title>
+      <link>https://xflops.io/blog/flame-vllm-serving/</link>
+      <guid isPermaLink="false">https://xflops.io/blog/flame-vllm-serving/</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:38:00 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 26 Oct 2026 01:06:01 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.11</title>
@@ -220,22 +236,6 @@
       <category>harness</category>
       <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>PyTorch-native TPU back end for vLLM</title>
-      <link>https://github.com/vllm-project/vllm-torchtpu</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 23:15:08 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
