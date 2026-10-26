@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 13:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:47:22 +0000</lastBuildDate>
+    <item>
+      <title>Concerning behavior from a popular open-weight AI model</title>
+      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+      <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>IBM CEO says open weight models are now good and cheap on-prem</title>
       <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
@@ -22,27 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
-      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
-      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
-      <link>https://github.com/goyohan0611-png/graph-mind</link>
-      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
       <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
       <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,6 +54,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
+      <link>https://github.com/goyohan0611-png/graph-mind</link>
+      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
       <link>https://llmspeed.dev/</link>
       <guid isPermaLink="false">https://llmspeed.dev/</guid>
@@ -62,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
-      <link>https://github.com/aymen94/NeuronDump</link>
-      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
-      <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
       <link>https://heymaxwell.ai/</link>
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
+      <link>https://github.com/aymen94/NeuronDump</link>
+      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
+      <category>model</category>
+      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -91,14 +99,6 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
       <category>model</category>
       <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
-      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
-      <category>model</category>
-      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,11 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11899</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11899</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11899</guid>
+      <title>llama.cpp: b11912</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11912</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11912</guid>
       <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:29:36 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 22:33:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11910</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11910</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11910</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 21:23:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11909</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11909</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11909</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 21:04:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,30 +182,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11898</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11898</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11898</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 11:40:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11897</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11897</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11897</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 11:00:46 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
-      <category>harness</category>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Bringing Flame Serving Close to Standalone vLLM</title>
       <link>https://xflops.io/blog/flame-vllm-serving/</link>
       <guid isPermaLink="false">https://xflops.io/blog/flame-vllm-serving/</guid>
@@ -198,27 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
-      <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
       <link>https://qxotic.ai/</link>
       <guid isPermaLink="false">https://qxotic.ai/</guid>
       <category>harness</category>
       <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
-      <link>https://github.com/xamrayev/nexus-cli</link>
-      <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
-      <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -230,11 +206,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
+      <link>https://github.com/xamrayev/nexus-cli</link>
+      <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
+      <category>harness</category>
+      <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
       <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
       <category>harness</category>
       <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>PyTorch-native TPU back end for vLLM</title>
+      <link>https://github.com/vllm-project/vllm-torchtpu</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
+      <category>harness</category>
+      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
