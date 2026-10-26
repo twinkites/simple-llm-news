@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 20:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:57:57 +0000</lastBuildDate>
     <item>
-      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
-      <link>https://github.com/aymen94/NeuronDump</link>
-      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
+      <title>IBM CEO says open weight models are now good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>An American Answer to China&#x27;s Open Si Models: A Safe Harbor for Open Weights</title>
-      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</link>
-      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</guid>
-      <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 18:54:18 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Using LLM for confidence scoring is a bad idea</title>
-      <link>https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</link>
-      <guid isPermaLink="false">https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</guid>
+      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
+      <link>https://github.com/aymen94/NeuronDump</link>
+      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
       <category>model</category>
-      <pubDate>Wed, 21 Oct 2026 04:27:51 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -51,6 +43,14 @@
       <guid isPermaLink="false">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</guid>
       <category>model</category>
       <pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An American Answer to China&#x27;s Open Si Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights</guid>
+      <category>model</category>
+      <pubDate>Sun, 25 Oct 2026 18:54:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,14 +67,6 @@
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>IBM CEO says open weight models are now irresistibly good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
-      <category>model</category>
-      <pubDate>Thu, 22 Oct 2026 06:33:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -99,6 +91,14 @@
       <guid isPermaLink="false">https://huggingface.co/cekal/hlas-1</guid>
       <category>model</category>
       <pubDate>Fri, 23 Oct 2026 06:52:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>M3.1 Flash weights are now open</title>
+      <link>https://www.together.ai/models/minimax-m3-1-flash</link>
+      <guid isPermaLink="false">https://www.together.ai/models/minimax-m3-1-flash</guid>
+      <category>model</category>
+      <pubDate>Fri, 23 Oct 2026 02:27:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,35 +142,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11887</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11887</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11887</guid>
+      <title>Bringing Flame Serving Close to Standalone vLLM</title>
+      <link>https://xflops.io/blog/flame-vllm-serving/</link>
+      <guid isPermaLink="false">https://xflops.io/blog/flame-vllm-serving/</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:38:00 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 01:06:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11889</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11889</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11889</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 23:48:14 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11886</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11886</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11886</guid>
+      <title>llama.cpp: b11888</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11888</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11888</guid>
       <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:20:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
-      <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11884</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11884</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11884</guid>
-      <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 17:59:22 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:31:40 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -180,6 +172,22 @@
       <category>harness</category>
       <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11887</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11887</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11887</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 18:38:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.11</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
+      <category>harness</category>
+      <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
@@ -214,14 +222,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
-      <category>harness</category>
-      <pubDate>Fri, 23 Oct 2026 23:15:08 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>PyTorch-native TPU back end for vLLM</title>
       <link>https://github.com/vllm-project/vllm-torchtpu</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
@@ -230,12 +230,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Train LoRA directly on the GGUF you have, then merge the adapter</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
-      <guid isPermaLink="false">https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</guid>
+      <title>ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0</guid>
       <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:54:10 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 23 Oct 2026 23:15:08 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>

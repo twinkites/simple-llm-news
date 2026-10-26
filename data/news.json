@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-10-25T20:59:21.631631+00:00",
+  "generated_at": "2026-10-26T04:57:57.588769+00:00",
   "sections": {
     "model": [
       {
-        "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
-        "url": "https://github.com/aymen94/NeuronDump",
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-25T19:45:09Z",
+        "score": 105,
+        "published": "2026-10-26T01:47:46Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "An American Answer to China's Open Si Models: A Safe Harbor for Open Weights",
-        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-25T18:54:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -47,14 +36,14 @@
         }
       },
       {
-        "title": "Using LLM for confidence scoring is a bad idea",
-        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+        "url": "https://github.com/aymen94/NeuronDump",
         "source": "hn",
-        "score": 226,
-        "published": "2026-10-21T04:27:51Z",
+        "score": 2,
+        "published": "2026-10-25T19:45:09Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 226 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -66,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 83 points)"
+        }
+      },
+      {
+        "title": "An American Answer to China's Open Si Models: A Safe Harbor for Open Weights",
+        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-25T18:54:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -88,17 +88,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
-        }
-      },
-      {
-        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "source": "hn",
-        "score": 16,
-        "published": "2026-10-22T06:33:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
       },
       {
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "M3.1 Flash weights are now open",
+        "url": "https://www.together.ai/models/minimax-m3-1-flash",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-23T02:27:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -194,44 +194,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11887",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11887",
+        "title": "Bringing Flame Serving Close to Standalone vLLM",
+        "url": "https://xflops.io/blog/flame-vllm-serving/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-26T01:06:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11889",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11889",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T18:38:00+00:00",
+        "published": "2026-10-25T23:48:14+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b11886",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11886",
+        "title": "llama.cpp: b11888",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11888",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-25T18:20:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.11",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-25T18:06:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11884",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11884",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-25T17:59:22+00:00",
+        "published": "2026-10-25T23:31:40+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -246,6 +235,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 110 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11887",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11887",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T18:38:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.11",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-25T18:06:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,17 +304,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-23T23:15:08+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "PyTorch-native TPU back end for vLLM",
         "url": "https://github.com/vllm-project/vllm-torchtpu",
         "source": "hn",
@@ -315,14 +315,14 @@
         }
       },
       {
-        "title": "Show HN: Train LoRA directly on the GGUF you have, then merge the adapter",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-22T17:54:10Z",
+        "title": "ollama: v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-23T23:15:08+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
