@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T05:16:49.193846+00:00",
+  "generated_at": "2026-10-27T12:24:31.503035+00:00",
   "sections": {
     "model": [
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 281,
+        "score": 308,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 417,
+        "score": 421,
         "published": "2026-10-26T01:47:46Z",
         "truthiness": {
           "label": "yellow",
@@ -28,7 +28,7 @@
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "source": "hn",
-        "score": 422,
+        "score": 426,
         "published": "2026-10-25T21:11:31Z",
         "truthiness": {
           "label": "green",
@@ -44,17 +44,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
-        }
-      },
-      {
-        "title": "Flint is an open-weight mixture-of-experts model from Recursive",
-        "url": "https://openrouter.ai/recursive/flint-v1.0:free",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-26T23:55:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Flint is an open-weight mixture-of-experts model from Recursive",
+        "url": "https://openrouter.ai/recursive/flint-v1.0:free",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-26T23:55:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,11 +124,11 @@
         }
       },
       {
-        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
-        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
+        "url": "https://news.ycombinator.com/item?id=50219762",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-24T07:51:01Z",
+        "published": "2026-10-24T10:09:27Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -208,11 +208,55 @@
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
-        "score": 158,
+        "score": 166,
         "published": "2026-10-26T12:59:48Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11927",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11927",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T11:11:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Ollama client library for Golang with streaming API support",
+        "url": "https://github.com/okunix/gollama",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T09:28:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11928: model: Add MiniCPM-OCR-Jev (#30980)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11928",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T10:49:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11926",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11926",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T10:32:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,14 +271,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11913",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11913",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T00:23:09+00:00",
+        "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
+        "url": "https://ollama.com/blog/speech-models",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-26T09:34:16Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -249,36 +293,14 @@
         }
       },
       {
-        "title": "llama.cpp: b11912",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11912",
+        "title": "vLLM: v0.33.0rc0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-26T22:33:56+00:00",
+        "published": "2026-10-26T17:59:24+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11910",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11910",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-26T21:23:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
-        "url": "https://ollama.com/blog/speech-models",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-26T09:34:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T18:11:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.11",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-25T18:06:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

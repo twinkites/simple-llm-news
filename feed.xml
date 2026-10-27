@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 05:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:24:31 +0000</lastBuildDate>
     <item>
       <title>Concerning behavior from a popular open-weight AI model</title>
       <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
@@ -38,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
-      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
-      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
       <link>https://arxiv.org/abs/2610.18861</link>
       <guid isPermaLink="false">https://arxiv.org/abs/2610.18861</guid>
@@ -59,6 +51,14 @@
       <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
+      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
+      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
-      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
+      <title>Show HN: Benchmarks of continual learning model trained for a month on a laptop</title>
+      <link>https://news.ycombinator.com/item?id=50219762</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
       <category>model</category>
-      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +158,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11927</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11927</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11927</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 11:11:14 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Ollama client library for Golang with streaming API support</title>
+      <link>https://github.com/okunix/gollama</link>
+      <guid isPermaLink="false">https://github.com/okunix/gollama</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 09:28:35 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11928: model: Add MiniCPM-OCR-Jev (#30980)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11928</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11928</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 10:49:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11926</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11926</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11926</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 10:32:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
       <link>https://hitl.systems/libs/latai/</link>
       <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
@@ -166,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11913</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11913</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11913</guid>
+      <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
+      <link>https://ollama.com/blog/speech-models</link>
+      <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
       <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 00:23:09 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.12</title>
@@ -182,28 +214,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11912</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11912</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11912</guid>
+      <title>vLLM: v0.33.0rc0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0</guid>
       <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 22:33:56 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 17:59:24 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11910</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11910</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11910</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 21:23:36 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
-      <link>https://ollama.com/blog/speech-models</link>
-      <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Bringing Flame Serving Close to Standalone vLLM</title>
@@ -228,22 +244,6 @@
       <category>harness</category>
       <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
-      <link>https://qxotic.ai/</link>
-      <guid isPermaLink="false">https://qxotic.ai/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.11</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
-      <category>harness</category>
-      <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
