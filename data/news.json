@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T12:24:31.503035+00:00",
+  "generated_at": "2026-10-27T22:23:47.058251+00:00",
   "sections": {
     "model": [
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 308,
+        "score": 322,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -17,22 +17,11 @@
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 421,
+        "score": 423,
         "published": "2026-10-26T01:47:46Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://minimaxir.com/2026/10/cheap-llms/",
-        "source": "hn",
-        "score": 426,
-        "published": "2026-10-25T21:11:31Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 372 points)"
         }
       },
       {
@@ -58,21 +47,43 @@
         }
       },
       {
-        "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
-        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-10-26T12:20:05Z",
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T17:16:52+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
+        "url": "https://modelsalt.com/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T13:42:03Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T16:12:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
         "title": "Flint is an open-weight mixture-of-experts model from Recursive",
         "url": "https://openrouter.ai/recursive/flint-v1.0:free",
         "source": "hn",
-        "score": 1,
+        "score": 3,
         "published": "2026-10-26T23:55:13Z",
         "truthiness": {
           "label": "red",
@@ -91,14 +102,14 @@
         }
       },
       {
-        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-        "url": "https://github.com/goyohan0611-png/graph-mind",
+        "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
+        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-26T12:30:12Z",
+        "score": 5,
+        "published": "2026-10-26T12:20:05Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -113,29 +124,29 @@
         }
       },
       {
-        "title": "An American Answer to China's Open Si Models: A Safe Harbor for Open Weights",
-        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-si-models-a-safe-harbor-for-open-weights",
+        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
+        "url": "https://github.com/goyohan0611-png/graph-mind",
         "source": "hn",
         "score": 1,
-        "published": "2026-10-25T18:54:18Z",
+        "published": "2026-10-26T12:30:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
+        "url": "https://www.blazle.io/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T18:11:13Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
-      {
-        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
-        "url": "https://news.ycombinator.com/item?id=50219762",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T10:09:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      }
-    ],
-    "security": [
       {
         "title": "Who Governs the Governor? – Stored Prompt Injection Through the API Gateway",
         "url": "https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/",
@@ -190,17 +201,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
-        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-17T16:42:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
@@ -208,7 +208,7 @@
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
-        "score": 166,
+        "score": 171,
         "published": "2026-10-26T12:59:48Z",
         "truthiness": {
           "label": "red",
@@ -216,11 +216,44 @@
         }
       },
       {
-        "title": "llama.cpp: b11927",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11927",
+        "title": "ollama: v0.40.12",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-27T11:11:14+00:00",
+        "published": "2026-10-27T21:41:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11936",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11936",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T20:15:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11935",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11935",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T17:18:49+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.12-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T15:47:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,22 +271,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11928: model: Add MiniCPM-OCR-Jev (#30980)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11928",
+        "title": "llama.cpp: b11937",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11937",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-27T10:49:12+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11926",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11926",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T10:32:27+00:00",
+        "published": "2026-10-27T14:14:03+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,11 +304,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.12",
+        "title": "ollama: v0.40.12-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-27T00:07:12+00:00",
+        "published": "2026-10-26T23:10:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Hyper Optimizing Kimi K3 in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-10-18T13:08:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "url": "https://github.com/xamrayev/nexus-cli",
-        "source": "hn",
-        "score": 15,
-        "published": "2026-10-21T04:37:18Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
