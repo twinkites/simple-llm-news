@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T22:47:22.932232+00:00",
+  "generated_at": "2026-10-27T05:16:49.193846+00:00",
   "sections": {
     "model": [
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 233,
+        "score": 281,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 412,
+        "score": 417,
         "published": "2026-10-26T01:47:46Z",
         "truthiness": {
           "label": "yellow",
@@ -28,7 +28,7 @@
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "source": "hn",
-        "score": 410,
+        "score": 422,
         "published": "2026-10-25T21:11:31Z",
         "truthiness": {
           "label": "green",
@@ -47,14 +47,14 @@
         }
       },
       {
-        "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
-        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
+        "title": "Flint is an open-weight mixture-of-experts model from Recursive",
+        "url": "https://openrouter.ai/recursive/flint-v1.0:free",
         "source": "hn",
-        "score": 5,
-        "published": "2026-10-26T12:20:05Z",
+        "score": 1,
+        "published": "2026-10-26T23:55:13Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,25 +69,14 @@
         }
       },
       {
-        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-        "url": "https://github.com/goyohan0611-png/graph-mind",
+        "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
+        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-26T12:30:12Z",
+        "score": 5,
+        "published": "2026-10-26T12:20:05Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
-        "source": "hn",
-        "score": 331,
-        "published": "2026-10-17T04:36:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -99,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
+        "url": "https://github.com/goyohan0611-png/graph-mind",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-26T12:30:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,11 +124,11 @@
         }
       },
       {
-        "title": "Show HN: Benchmarks of continual learning model trained for a month on a laptop",
-        "url": "https://news.ycombinator.com/item?id=50219762",
+        "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
         "source": "hn",
         "score": 2,
-        "published": "2026-10-24T10:09:27Z",
+        "published": "2026-10-24T07:51:01Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
@@ -136,6 +136,17 @@
       }
     ],
     "security": [
+      {
+        "title": "Who Governs the Governor? – Stored Prompt Injection Through the API Gateway",
+        "url": "https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-27T02:53:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Prompt Injection Techniques Every Red Teamer Should Test",
         "url": "https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d",
@@ -197,11 +208,44 @@
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
-        "score": 143,
+        "score": 158,
         "published": "2026-10-26T12:59:48Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Latai – run GGUF compliant/local models upto 35 MB on edge",
+        "url": "https://hitl.systems/libs/latai/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-27T03:08:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11913",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11913",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T00:23:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.12",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T00:07:12+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,21 +271,10 @@
         }
       },
       {
-        "title": "llama.cpp: b11909",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11909",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-26T21:04:08+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
         "url": "https://ollama.com/blog/speech-models",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-10-26T09:34:16Z",
         "truthiness": {
           "label": "red",
@@ -254,17 +287,6 @@
         "source": "hn",
         "score": 1,
         "published": "2026-10-26T01:06:01Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
-        "url": "https://qxotic.ai/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-24T18:11:57Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -293,6 +315,17 @@
         }
       },
       {
+        "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
+        "url": "https://qxotic.ai/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T18:11:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "ollama: v0.40.11",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
         "source": "rss",
@@ -301,28 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving",
-        "url": "https://vllm.ai/blog/2026-10-20-vllm-torchtpu",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-22T17:25:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "PyTorch-native TPU back end for vLLM",
-        "url": "https://github.com/vllm-project/vllm-torchtpu",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-10-19T22:34:38Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ]

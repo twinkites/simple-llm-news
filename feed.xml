@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:16:49 +0000</lastBuildDate>
     <item>
       <title>Concerning behavior from a popular open-weight AI model</title>
       <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
@@ -38,11 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
-      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
-      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
+      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
+      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
+      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
       <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,19 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
-      <link>https://github.com/goyohan0611-png/graph-mind</link>
-      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
+      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
       <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
-      <link>https://llmspeed.dev/</link>
-      <guid isPermaLink="false">https://llmspeed.dev/</guid>
-      <category>model</category>
-      <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -75,6 +67,14 @@
       <guid isPermaLink="false">https://heymaxwell.ai/</guid>
       <category>model</category>
       <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
+      <link>https://github.com/goyohan0611-png/graph-mind</link>
+      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Benchmarks of continual learning model trained for a month on a laptop</title>
-      <link>https://news.ycombinator.com/item?id=50219762</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50219762</guid>
+      <title>Kimi K3.1 Pro will be leading open-weights model once its weights are published</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
       <category>model</category>
-      <pubDate>Sat, 24 Oct 2026 10:09:27 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:51:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Who Governs the Governor? – Stored Prompt Injection Through the API Gateway</title>
+      <link>https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</link>
+      <guid isPermaLink="false">https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</guid>
+      <category>security</category>
+      <pubDate>Tue, 27 Oct 2026 02:53:22 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,6 +158,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
+      <link>https://hitl.systems/libs/latai/</link>
+      <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 03:08:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11913</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11913</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11913</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 00:23:09 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.12</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 00:07:12 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b11912</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11912</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11912</guid>
@@ -163,14 +195,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11910</guid>
       <category>harness</category>
       <pubDate>Mon, 26 Oct 2026 21:23:36 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11909</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11909</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11909</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 21:04:08 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,14 +214,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
-      <link>https://qxotic.ai/</link>
-      <guid isPermaLink="false">https://qxotic.ai/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
       <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
@@ -214,28 +230,20 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Local inferencing in one JVM JAR, dependency free, faster than llama.cpp</title>
+      <link>https://qxotic.ai/</link>
+      <guid isPermaLink="false">https://qxotic.ai/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 24 Oct 2026 18:11:57 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.40.11</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.11</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.11</guid>
       <category>harness</category>
       <pubDate>Sun, 25 Oct 2026 18:06:57 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving</title>
-      <link>https://vllm.ai/blog/2026-10-20-vllm-torchtpu</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-20-vllm-torchtpu</guid>
-      <category>harness</category>
-      <pubDate>Thu, 22 Oct 2026 17:25:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>PyTorch-native TPU back end for vLLM</title>
-      <link>https://github.com/vllm-project/vllm-torchtpu</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm-torchtpu</guid>
-      <category>harness</category>
-      <pubDate>Mon, 19 Oct 2026 22:34:38 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
