@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T22:23:47.058251+00:00",
+  "generated_at": "2026-10-28T05:53:05.582417+00:00",
   "sections": {
     "model": [
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 322,
+        "score": 326,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
-        "score": 743,
+        "score": 744,
         "published": "2026-10-19T23:22:18Z",
         "truthiness": {
           "label": "green",
@@ -47,17 +47,6 @@
         }
       },
       {
-        "title": "Build specialized multimodal models with LFM3",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T17:16:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
         "url": "https://modelsalt.com/",
         "source": "hn",
@@ -69,11 +58,22 @@
         }
       },
       {
-        "title": "Can we trust LLMs to judge whether a research idea is novel?",
-        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "url": "https://heymaxwell.ai/",
+        "source": "hn",
+        "score": 136,
+        "published": "2026-10-19T13:47:56Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+        }
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-27T16:12:42+00:00",
+        "published": "2026-10-27T17:16:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -91,14 +91,14 @@
         }
       },
       {
-        "title": "Maxwell: A new kind of model that sits between code and hardware",
-        "url": "https://heymaxwell.ai/",
-        "source": "hn",
-        "score": 136,
-        "published": "2026-10-19T13:47:56Z",
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T16:12:42+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -208,11 +208,44 @@
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
-        "score": 171,
+        "score": 172,
         "published": "2026-10-26T12:59:48Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11946",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11946",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T02:02:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11945",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11945",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T01:44:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11944",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11944",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T01:27:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -221,39 +254,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-27T21:41:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11936",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11936",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T20:15:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11935",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11935",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T17:18:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.12-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T15:47:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +271,6 @@
         }
       },
       {
-        "title": "llama.cpp: b11937",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11937",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T14:14:03+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Latai – run GGUF compliant/local models upto 35 MB on edge",
         "url": "https://hitl.systems/libs/latai/",
         "source": "hn",
@@ -290,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.12-rc1",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T15:47:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -315,25 +315,25 @@
         }
       },
       {
-        "title": "vLLM: v0.33.0rc0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-26T17:59:24+00:00",
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-10-18T13:08:50Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
-        "title": "Bringing Flame Serving Close to Standalone vLLM",
-        "url": "https://xflops.io/blog/flame-vllm-serving/",
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "url": "https://github.com/xamrayev/nexus-cli",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-26T01:06:01Z",
+        "score": 15,
+        "published": "2026-10-21T04:37:18Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
         }
       }
     ]
