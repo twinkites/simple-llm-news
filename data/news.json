@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T05:53:05.582417+00:00",
+  "generated_at": "2026-10-28T13:08:45.896779+00:00",
   "sections": {
     "model": [
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 326,
+        "score": 327,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -22,6 +22,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
+        "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+        "url": "https://www.mybotsai.com/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-28T08:18:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -47,17 +58,6 @@
         }
       },
       {
-        "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
-        "url": "https://modelsalt.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-27T13:42:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Maxwell: A new kind of model that sits between code and hardware",
         "url": "https://heymaxwell.ai/",
         "source": "hn",
@@ -69,14 +69,14 @@
         }
       },
       {
-        "title": "Build specialized multimodal models with LFM3",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T17:16:52+00:00",
+        "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
+        "url": "https://modelsalt.com/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T13:42:03Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "Can we trust LLMs to judge whether a research idea is novel?",
-        "url": "https://huggingface.co/blog/allenai/novelty-bench",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T16:12:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
         "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
         "source": "hn",
@@ -113,6 +102,28 @@
         }
       },
       {
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T17:16:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-27T16:12:42+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
         "url": "https://github.com/aymen94/NeuronDump",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-        "url": "https://github.com/goyohan0611-png/graph-mind",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-26T12:30:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -205,6 +205,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b11962",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11962",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T13:04:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.8.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T12:49:41+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11960",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11960",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T12:48:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
@@ -216,33 +249,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11946",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11946",
+        "title": "vLLM: v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-28T02:02:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11945",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11945",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T01:44:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11944",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11944",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T01:27:07+00:00",
+        "published": "2026-10-28T09:31:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: Ollama client library for Golang with streaming API support",
-        "url": "https://github.com/okunix/gollama",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-27T09:28:35Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Latai – run GGUF compliant/local models upto 35 MB on edge",
         "url": "https://hitl.systems/libs/latai/",
         "source": "hn",
@@ -279,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Ollama client library for Golang with streaming API support",
+        "url": "https://github.com/okunix/gollama",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T09:28:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.12-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-26T23:10:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

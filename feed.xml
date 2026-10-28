@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 05:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:08:45 +0000</lastBuildDate>
     <item>
       <title>Concerning behavior from a popular open-weight AI model</title>
       <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
@@ -19,6 +19,14 @@
       <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM</title>
+      <link>https://www.mybotsai.com/</link>
+      <guid isPermaLink="false">https://www.mybotsai.com/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 08:18:29 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Maxwell: A new kind of model that sits between code and hardware</title>
+      <link>https://heymaxwell.ai/</link>
+      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy</title>
       <link>https://modelsalt.com/</link>
       <guid isPermaLink="false">https://modelsalt.com/</guid>
@@ -46,11 +62,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Maxwell: A new kind of model that sits between code and hardware</title>
-      <link>https://heymaxwell.ai/</link>
-      <guid isPermaLink="false">https://heymaxwell.ai/</guid>
+      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
+      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
+      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
       <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 13:47:56 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
+      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
+      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,14 +86,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
-      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
-      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Can we trust LLMs to judge whether a research idea is novel?</title>
       <link>https://huggingface.co/blog/allenai/novelty-bench</link>
       <guid isPermaLink="false">https://huggingface.co/blog/allenai/novelty-bench</guid>
@@ -78,27 +94,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
-      <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
-      <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
       <link>https://github.com/aymen94/NeuronDump</link>
       <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
       <category>model</category>
       <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save</title>
-      <link>https://github.com/goyohan0611-png/graph-mind</link>
-      <guid isPermaLink="false">https://github.com/goyohan0611-png/graph-mind</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 12:30:12 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,6 +150,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b11962</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11962</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11962</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 13:04:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: v0.8.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 12:49:41 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11960</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11960</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11960</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 12:48:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Fixing Tool-Call Accuracy in vLLM</title>
       <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
       <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
@@ -158,27 +182,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11946</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11946</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11946</guid>
+      <title>vLLM: v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 02:02:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11945</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11945</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11945</guid>
-      <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 01:44:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11944</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11944</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11944</guid>
-      <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 01:27:07 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 09:31:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,19 +198,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Ollama client library for Golang with streaming API support</title>
-      <link>https://github.com/okunix/gollama</link>
-      <guid isPermaLink="false">https://github.com/okunix/gollama</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 09:28:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
       <link>https://hitl.systems/libs/latai/</link>
       <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
       <category>harness</category>
       <pubDate>Tue, 27 Oct 2026 03:08:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Ollama client library for Golang with streaming API support</title>
+      <link>https://github.com/okunix/gollama</link>
+      <guid isPermaLink="false">https://github.com/okunix/gollama</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 09:28:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -220,14 +228,6 @@
       <category>harness</category>
       <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.12-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 23:10:42 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Hyper Optimizing Kimi K3 in vLLM</title>
