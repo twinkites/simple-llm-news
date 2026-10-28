@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 13:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:43:36 +0000</lastBuildDate>
+    <item>
+      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
+      <link>https://www.brangus.io/survival-llm</link>
+      <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
+      <category>model</category>
+      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Concerning behavior from a popular open-weight AI model</title>
       <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
@@ -22,11 +30,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM</title>
-      <link>https://www.mybotsai.com/</link>
-      <guid isPermaLink="false">https://www.mybotsai.com/</guid>
+      <title>Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper</title>
+      <link>https://github.com/egma-ai/homi/</link>
+      <guid isPermaLink="false">https://github.com/egma-ai/homi/</guid>
       <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 08:18:29 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:09:08 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Particle: AI inference layer for open weight models</title>
+      <link>https://particle.ai/</link>
+      <guid isPermaLink="false">https://particle.ai/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 17:58:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU</title>
+      <link>https://simedw.com/projects/harness-corp/</link>
+      <guid isPermaLink="false">https://simedw.com/projects/harness-corp/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,12 +62,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
-      <link>https://arxiv.org/abs/2610.18861</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.18861</guid>
+      <title>A garbage collector for LLM context windows, written in Rust</title>
+      <link>https://news.ycombinator.com/item?id=50274683</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50274683</guid>
       <category>model</category>
-      <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 14:52:56 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM</title>
+      <link>https://www.mybotsai.com/</link>
+      <guid isPermaLink="false">https://www.mybotsai.com/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 08:18:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
@@ -54,51 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy</title>
-      <link>https://modelsalt.com/</link>
-      <guid isPermaLink="false">https://modelsalt.com/</guid>
-      <category>model</category>
-      <pubDate>Tue, 27 Oct 2026 13:42:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Flint is an open-weight mixture-of-experts model from Recursive</title>
-      <link>https://openrouter.ai/recursive/flint-v1.0:free</link>
-      <guid isPermaLink="false">https://openrouter.ai/recursive/flint-v1.0:free</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 23:55:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>An American Answer to China&#x27;s Open AI Models: A Safe Harbor for Open Weights</title>
       <link>https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</link>
       <guid isPermaLink="false">https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 12:20:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Build specialized multimodal models with LFM3</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm3</guid>
-      <category>model</category>
-      <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/novelty-bench</guid>
-      <category>model</category>
-      <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks</title>
-      <link>https://github.com/aymen94/NeuronDump</link>
-      <guid isPermaLink="false">https://github.com/aymen94/NeuronDump</guid>
-      <category>model</category>
-      <pubDate>Sun, 25 Oct 2026 19:45:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,19 +142,51 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLM01: 2025 Prompt Injection</title>
-      <link>https://genai.owasp.org/llmrisk/llm01-prompt-injection/</link>
-      <guid isPermaLink="false">https://genai.owasp.org/llmrisk/llm01-prompt-injection/</guid>
-      <category>security</category>
-      <pubDate>Sun, 18 Oct 2026 19:27:26 +0000</pubDate>
+      <title>llama.cpp: b11971</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11971</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11971</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 22:28:26 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.13-rc1: llama.cpp: workaround Metal unary crash (#19372)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 22:20:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b11972</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11972</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11972</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 22:15:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp</title>
+      <link>https://github.com/ChrystianSchutz/ThreadShelf</link>
+      <guid isPermaLink="false">https://github.com/ChrystianSchutz/ThreadShelf</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 20:23:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11962</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11962</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11962</guid>
+      <title>Fixing Tool-Call Accuracy in vLLM</title>
+      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
+      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
       <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 13:04:28 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.13-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.13-rc0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 28 Oct 2026 19:55:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,35 +198,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11960</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11960</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11960</guid>
-      <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 12:48:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Fixing Tool-Call Accuracy in vLLM</title>
-      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>vLLM: v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1</guid>
       <category>harness</category>
       <pubDate>Wed, 28 Oct 2026 09:31:23 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.12</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.12</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.12</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 21:41:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,22 +214,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Ollama client library for Golang with streaming API support</title>
-      <link>https://github.com/okunix/gollama</link>
-      <guid isPermaLink="false">https://github.com/okunix/gollama</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 09:28:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.12-rc1</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 15:47:18 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
       <link>https://ollama.com/blog/speech-models</link>
       <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
@@ -230,20 +222,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hyper Optimizing Kimi K3 in vLLM</title>
-      <link>https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel</guid>
+      <title>Show HN: Ollama client library for Golang with streaming API support</title>
+      <link>https://github.com/okunix/gollama</link>
+      <guid isPermaLink="false">https://github.com/okunix/gollama</guid>
       <category>harness</category>
-      <pubDate>Sun, 18 Oct 2026 13:08:50 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 09:28:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support</title>
-      <link>https://github.com/xamrayev/nexus-cli</link>
-      <guid isPermaLink="false">https://github.com/xamrayev/nexus-cli</guid>
+      <title>ollama: v0.40.12</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.12</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.12</guid>
       <category>harness</category>
-      <pubDate>Wed, 21 Oct 2026 04:37:18 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 27 Oct 2026 21:41:00 +0000</pubDate>
+      <source>rss</source>
     </item>
   </channel>
 </rss>

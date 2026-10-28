@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-28T13:08:45.896779+00:00",
+  "generated_at": "2026-10-28T22:43:36.414446+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "source": "hn",
+        "score": 511,
+        "published": "2026-10-27T19:55:06Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
       {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 327,
+        "score": 329,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 423,
+        "score": 425,
         "published": "2026-10-26T01:47:46Z",
         "truthiness": {
           "label": "yellow",
@@ -25,14 +36,36 @@
         }
       },
       {
-        "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
-        "url": "https://www.mybotsai.com/",
+        "title": "Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
+        "url": "https://github.com/egma-ai/homi/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-10-28T08:18:29Z",
+        "score": 4,
+        "published": "2026-10-28T17:09:08Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Particle: AI inference layer for open weight models",
+        "url": "https://particle.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-28T17:58:56Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
+        "url": "https://simedw.com/projects/harness-corp/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-28T13:36:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -47,14 +80,36 @@
         }
       },
       {
-        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "url": "https://arxiv.org/abs/2610.18861",
+        "title": "A garbage collector for LLM context windows, written in Rust",
+        "url": "https://news.ycombinator.com/item?id=50274683",
         "source": "hn",
-        "score": 520,
-        "published": "2026-10-18T20:48:14Z",
+        "score": 1,
+        "published": "2026-10-28T14:52:56Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+        "url": "https://www.mybotsai.com/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-28T08:18:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T14:58:17+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 284 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -69,28 +124,6 @@
         }
       },
       {
-        "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
-        "url": "https://modelsalt.com/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-27T13:42:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Flint is an open-weight mixture-of-experts model from Recursive",
-        "url": "https://openrouter.ai/recursive/flint-v1.0:free",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-26T23:55:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
         "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
         "source": "hn",
@@ -99,39 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Build specialized multimodal models with LFM3",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T17:16:52+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Can we trust LLMs to judge whether a research idea is novel?",
-        "url": "https://huggingface.co/blog/allenai/novelty-bench",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T16:12:42+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
-        "url": "https://github.com/aymen94/NeuronDump",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-25T19:45:09Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -190,26 +190,70 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "LLM01: 2025 Prompt Injection",
-        "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-18T19:27:26Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11962",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11962",
+        "title": "llama.cpp: b11971",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11971",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-28T13:04:28+00:00",
+        "published": "2026-10-28T22:28:26+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.13-rc1: llama.cpp: workaround Metal unary crash (#19372)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T22:20:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11972",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11972",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T22:15:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
+        "url": "https://github.com/ChrystianSchutz/ThreadShelf",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-28T20:23:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "source": "hn",
+        "score": 172,
+        "published": "2026-10-26T12:59:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.13",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-28T19:55:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,44 +271,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11960",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11960",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T12:48:58+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "source": "hn",
-        "score": 172,
-        "published": "2026-10-26T12:59:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "vLLM: v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1",
         "source": "rss",
         "score": 0,
         "published": "2026-10-28T09:31:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.12",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-27T21:41:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,6 +293,17 @@
         }
       },
       {
+        "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
+        "url": "https://ollama.com/blog/speech-models",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-26T09:34:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: Ollama client library for Golang with streaming API support",
         "url": "https://github.com/okunix/gollama",
         "source": "hn",
@@ -293,47 +315,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.12-rc1",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1",
+        "title": "ollama: v0.40.12",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-27T15:47:18+00:00",
+        "published": "2026-10-27T21:41:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
-        "url": "https://ollama.com/blog/speech-models",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-26T09:34:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Hyper Optimizing Kimi K3 in vLLM",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-        "source": "hn",
-        "score": 31,
-        "published": "2026-10-18T13:08:50Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
-        }
-      },
-      {
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "url": "https://github.com/xamrayev/nexus-cli",
-        "source": "hn",
-        "score": 15,
-        "published": "2026-10-21T04:37:18Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
         }
       }
     ]
