@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:14:58 +0000</lastBuildDate>
     <item>
       <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
       <link>https://www.brangus.io/survival-llm</link>
@@ -30,11 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
-      <link>https://rocus.io/</link>
-      <guid isPermaLink="false">https://rocus.io/</guid>
+      <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+      <link>https://minimaxir.com/2026/10/cheap-llms/</link>
+      <guid isPermaLink="false">https://minimaxir.com/2026/10/cheap-llms/</guid>
       <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 18:52:37 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
+      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+      <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+      <category>model</category>
+      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +54,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
+      <link>https://rocus.io/</link>
+      <guid isPermaLink="false">https://rocus.io/</guid>
       <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 18:52:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,20 +78,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A garbage collector for LLM context windows, written in Rust</title>
-      <link>https://news.ycombinator.com/item?id=50274683</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50274683</guid>
+      <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anydecisionmodel</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/anydecisionmodel</guid>
       <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 14:52:56 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM</title>
-      <link>https://www.mybotsai.com/</link>
-      <guid isPermaLink="false">https://www.mybotsai.com/</guid>
-      <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 08:18:29 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Maxwell: A new kind of model that sits between code and hardware</title>
@@ -94,12 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <title>A garbage collector for LLM context windows, written in Rust</title>
+      <link>https://news.ycombinator.com/item?id=50274683</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50274683</guid>
       <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 28 Oct 2026 14:52:56 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Blazle – Block prompt injection and secret leaks before AI agents act</title>
@@ -142,19 +142,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11978</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11978</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11978</guid>
+      <title>llama.cpp: b11982</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11982</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11982</guid>
       <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 05:43:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11977</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11977</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11977</guid>
-      <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 04:45:38 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:20:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.13</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.13</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.13</guid>
+      <title>llama.cpp: b11981</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11981</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11981</guid>
       <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 02:54:11 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 08:15:57 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b11976</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11976</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11976</guid>
+      <title>llama.cpp: b11983</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11983</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11983</guid>
       <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 02:31:23 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 08:09:51 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -188,6 +180,14 @@
       <category>harness</category>
       <pubDate>Wed, 28 Oct 2026 23:44:50 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.13</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.13</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.13</guid>
+      <category>harness</category>
+      <pubDate>Thu, 29 Oct 2026 02:54:11 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp</title>
@@ -222,19 +222,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
-      <link>https://hitl.systems/libs/latai/</link>
-      <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 03:08:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
       <link>https://ollama.com/blog/speech-models</link>
       <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
       <category>harness</category>
       <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
+      <link>https://hitl.systems/libs/latai/</link>
+      <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
+      <category>harness</category>
+      <pubDate>Tue, 27 Oct 2026 03:08:05 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
