@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-29T13:14:58.992404+00:00",
+  "generated_at": "2026-10-29T22:53:04.498415+00:00",
   "sections": {
     "model": [
+      {
+        "title": "LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "source": "hn",
+        "score": 299,
+        "published": "2026-10-29T14:57:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
       {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 528,
+        "score": 537,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 330,
+        "score": 331,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +39,7 @@
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
-        "score": 426,
+        "score": 427,
         "published": "2026-10-26T01:47:46Z",
         "truthiness": {
           "label": "yellow",
@@ -47,6 +58,17 @@
         }
       },
       {
+        "title": "An economy for open weight AI models",
+        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-29T17:12:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "source": "hn",
@@ -55,6 +77,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 501 points)"
+        }
+      },
+      {
+        "title": "Using LLM for confidence scoring is a bad idea",
+        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "source": "hn",
+        "score": 227,
+        "published": "2026-10-21T04:27:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 227 points)"
+        }
+      },
+      {
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-29T13:37:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -89,53 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Particle: AI inference layer for open weight models",
-        "url": "https://particle.ai/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T17:58:56Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "url": "https://huggingface.co/blog/anydecisionmodel",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-29T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Maxwell: A new kind of model that sits between code and hardware",
-        "url": "https://heymaxwell.ai/",
-        "source": "hn",
-        "score": 136,
-        "published": "2026-10-19T13:47:56Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 39 points)"
-        }
-      },
-      {
-        "title": "A garbage collector for LLM context windows, written in Rust",
-        "url": "https://news.ycombinator.com/item?id=50274683",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T14:52:56Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Open-weight AI models can exploit the patch gap",
+        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-29T22:32:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
         "url": "https://www.blazle.io/",
@@ -194,11 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b11982",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11982",
+        "title": "llama.cpp: b11988",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11988",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-29T12:20:22+00:00",
+        "published": "2026-10-29T20:57:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Ollama Mock Server",
+        "url": "https://ollama-mock.kinduff.com/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-29T18:17:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b11986",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11986",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-29T20:19:14+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,22 +249,11 @@
         }
       },
       {
-        "title": "llama.cpp: b11981",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11981",
+        "title": "llama.cpp: b11989: HIP/CUDA: enable sparse attn on CDNA (#31259)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11989",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-29T08:15:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b11983",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11983",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-29T08:09:51+00:00",
+        "published": "2026-10-29T08:14:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.13",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-29T02:54:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
         "url": "https://github.com/ChrystianSchutz/ThreadShelf",
         "source": "hn",
@@ -268,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.13",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-29T02:54:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -287,17 +309,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-28T17:37:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T09:31:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
