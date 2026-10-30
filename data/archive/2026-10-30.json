@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T13:06:33.375141+00:00",
+  "generated_at": "2026-10-30T22:28:54.520265+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 514,
+        "score": 587,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -17,33 +17,11 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 538,
+        "score": 540,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
-        }
-      },
-      {
-        "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
-        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-30T09:27:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Concerning behavior from a popular open-weight AI model",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "hn",
-        "score": 332,
-        "published": "2026-10-26T16:35:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
         }
       },
       {
@@ -58,6 +36,17 @@
         }
       },
       {
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "source": "hn",
+        "score": 334,
+        "published": "2026-10-26T16:35:44Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
+        }
+      },
+      {
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "source": "hn",
@@ -66,6 +55,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 441 points)"
+        }
+      },
+      {
+        "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-30T09:27:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "nemotron-halloween",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T17:57:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,17 +91,6 @@
         }
       },
       {
-        "title": "An economy for open weight AI models",
-        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-29T17:12:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
         "url": "https://github.com/egma-ai/homi/",
         "source": "hn",
@@ -99,6 +99,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "An economy for open weight AI models",
+        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-29T17:12:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Granite Switch 4.1.1 — Update models like you update software",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-29T13:37:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -194,11 +194,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12005",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12005",
+        "title": "llama.cpp: b12017",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T12:48:32+00:00",
+        "published": "2026-10-30T20:23:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
+        "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-30T15:55:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "source": "hn",
+        "score": 172,
+        "published": "2026-10-26T12:59:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12015",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12015",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T16:09:47+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12014",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12014",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T15:33:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,17 +260,6 @@
         }
       },
       {
-        "title": "llama.cpp: b12004",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12004",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T12:20:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Ask HN: What inference engine and KV offload engine do you use and why?",
         "url": "https://news.ycombinator.com/item?id=50302109",
         "source": "hn",
@@ -238,33 +271,11 @@
         }
       },
       {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "source": "hn",
-        "score": 172,
-        "published": "2026-10-26T12:59:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
         "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
         "source": "rss",
         "score": 0,
         "published": "2026-10-30T09:10:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12006: memory: refuse rollbacks past the snapshots of the last ubatch (#31368)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12006",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T08:11:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.13",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-29T02:54:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

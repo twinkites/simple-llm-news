@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 13:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:28:54 +0000</lastBuildDate>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -22,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Mistral 4 had a release, makes it comparable to Chinese open-weight models</title>
-      <link>https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</link>
-      <guid isPermaLink="false">https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</guid>
+      <title>IBM CEO says open weight models are now good and cheap on-prem</title>
+      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
+      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 09:27:45 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,20 +38,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM CEO says open weight models are now good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
       <link>https://minimaxir.com/2026/10/cheap-llms/</link>
       <guid isPermaLink="false">https://minimaxir.com/2026/10/cheap-llms/</guid>
       <category>model</category>
       <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Mistral 4 had a release, makes it comparable to Chinese open-weight models</title>
+      <link>https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</link>
+      <guid isPermaLink="false">https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</guid>
+      <category>model</category>
+      <pubDate>Fri, 30 Oct 2026 09:27:45 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>nemotron-halloween</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+      <category>model</category>
+      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Using LLM for confidence scoring is a bad idea</title>
@@ -62,19 +70,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An economy for open weight AI models</title>
-      <link>https://twitter.com/bertgodel/status/2115565111624753557</link>
-      <guid isPermaLink="false">https://twitter.com/bertgodel/status/2115565111624753557</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 17:12:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper</title>
       <link>https://github.com/egma-ai/homi/</link>
       <guid isPermaLink="false">https://github.com/egma-ai/homi/</guid>
       <category>model</category>
       <pubDate>Wed, 28 Oct 2026 17:09:08 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An economy for open weight AI models</title>
+      <link>https://twitter.com/bertgodel/status/2115565111624753557</link>
+      <guid isPermaLink="false">https://twitter.com/bertgodel/status/2115565111624753557</guid>
+      <category>model</category>
+      <pubDate>Thu, 29 Oct 2026 17:12:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -92,14 +100,6 @@
       <category>model</category>
       <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Granite Switch 4.1.1 — Update models like you update software</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Open-weight AI models can exploit the patch gap</title>
@@ -142,35 +142,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12005</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12005</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12005</guid>
+      <title>llama.cpp: b12017</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12017</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12017</guid>
       <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 12:48:32 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 20:23:45 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
-      <link>https://news.ycombinator.com/item?id=50302340</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302340</guid>
+      <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
+      <link>https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</link>
+      <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</guid>
       <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 11:06:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12004</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12004</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12004</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 12:20:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
-      <link>https://news.ycombinator.com/item?id=50302109</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302109</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 10:37:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -182,19 +166,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12015</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12015</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12015</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 16:09:47 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12014</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12014</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12014</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 15:33:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
+      <link>https://news.ycombinator.com/item?id=50302340</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302340</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 11:06:31 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
+      <link>https://news.ycombinator.com/item?id=50302109</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302109</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 10:37:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N &gt;= 2^31 on gfx950 (#64567)</title>
       <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</link>
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</guid>
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 09:10:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12006: memory: refuse rollbacks past the snapshots of the last ubatch (#31368)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12006</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12006</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 08:11:58 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -228,14 +236,6 @@
       <category>harness</category>
       <pubDate>Wed, 28 Oct 2026 20:23:34 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.13</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.13</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.13</guid>
-      <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 02:54:11 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
