@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:59:49 +0000</lastBuildDate>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -54,28 +54,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
-      <category>model</category>
-      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Using LLM for confidence scoring is a bad idea</title>
       <link>https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</link>
       <guid isPermaLink="false">https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</guid>
       <category>model</category>
       <pubDate>Wed, 21 Oct 2026 04:27:51 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Granite Switch 4.1.1 — Update models like you update software</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper</title>
@@ -102,6 +86,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+      <category>model</category>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Particle: AI inference layer for open weight models</title>
+      <link>https://particle.ai/</link>
+      <guid isPermaLink="false">https://particle.ai/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 17:58:56 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Open-weight AI models can exploit the patch gap</title>
       <link>https://epoch.ai/publications/open-weight-models-patch-gap</link>
       <guid isPermaLink="false">https://epoch.ai/publications/open-weight-models-patch-gap</guid>
@@ -110,19 +110,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Blazle – Block prompt injection and secret leaks before AI agents act</title>
-      <link>https://www.blazle.io/</link>
-      <guid isPermaLink="false">https://www.blazle.io/</guid>
-      <category>security</category>
-      <pubDate>Tue, 27 Oct 2026 18:11:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Who Governs the Governor? – Stored Prompt Injection Through the API Gateway</title>
       <link>https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</link>
       <guid isPermaLink="false">https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</guid>
       <category>security</category>
       <pubDate>Tue, 27 Oct 2026 02:53:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Blazle – Block prompt injection and secret leaks before AI agents act</title>
+      <link>https://www.blazle.io/</link>
+      <guid isPermaLink="false">https://www.blazle.io/</guid>
+      <category>security</category>
+      <pubDate>Tue, 27 Oct 2026 18:11:13 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11988</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11988</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11988</guid>
+      <title>llama.cpp: b12000</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12000</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12000</guid>
       <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 20:57:09 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Ollama Mock Server</title>
-      <link>https://ollama-mock.kinduff.com/</link>
-      <guid isPermaLink="false">https://ollama-mock.kinduff.com/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 18:17:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b11986</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11986</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11986</guid>
-      <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 20:19:14 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 04:28:31 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,11 +166,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b11989: HIP/CUDA: enable sparse attn on CDNA (#31259)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b11989</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b11989</guid>
+      <title>llama.cpp: b12004</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12004</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12004</guid>
       <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 08:14:11 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:27:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.23</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.23</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.23</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 00:13:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Ollama Mock Server</title>
+      <link>https://ollama-mock.kinduff.com/</link>
+      <guid isPermaLink="false">https://ollama-mock.kinduff.com/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 29 Oct 2026 18:17:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12001: ROCm/HIP: add RDNA4_M family for gfx1170/gfx1171 (#31373)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12001</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12001</guid>
+      <category>harness</category>
+      <pubDate>Thu, 29 Oct 2026 17:23:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
       <category>harness</category>
       <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Latai – run GGUF compliant/local models upto 35 MB on edge</title>
-      <link>https://hitl.systems/libs/latai/</link>
-      <guid isPermaLink="false">https://hitl.systems/libs/latai/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 27 Oct 2026 03:08:05 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
