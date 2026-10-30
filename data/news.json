@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T05:59:49.103071+00:00",
+  "generated_at": "2026-10-30T13:06:33.375141+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 407,
+        "score": 514,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -25,10 +25,21 @@
         }
       },
       {
+        "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-30T09:27:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 331,
+        "score": 332,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -58,17 +69,6 @@
         }
       },
       {
-        "title": "An economy for open weight AI models",
-        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-29T17:12:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Using LLM for confidence scoring is a bad idea",
         "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
         "source": "hn",
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 227 points)"
+        }
+      },
+      {
+        "title": "An economy for open weight AI models",
+        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-29T17:12:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
-      },
-      {
-        "title": "Particle: AI inference layer for open weight models",
-        "url": "https://particle.ai/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T17:58:56Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "Open-weight AI models can exploit the patch gap",
         "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
         "source": "hn",
-        "score": 10,
+        "score": 13,
         "published": "2026-10-29T22:32:46Z",
         "truthiness": {
           "label": "red",
@@ -190,29 +190,51 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Building a System One Model for Prompt Injection",
-        "url": "https://www.stackone.com/blog/system-one-model-prompt-injection/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-20T12:56:00Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12000",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12000",
+        "title": "llama.cpp: b12005",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12005",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T04:28:31+00:00",
+        "published": "2026-10-30T12:48:32+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Ask HN: What inference engine and KV offload engine do you use and why?",
+        "url": "https://news.ycombinator.com/item?id=50302340",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-30T11:06:31Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12004",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12004",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T12:20:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Ask HN: What inference engine and KV offload engine do you use and why?",
+        "url": "https://news.ycombinator.com/item?id=50302109",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-30T10:37:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -227,22 +249,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12004",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12004",
+        "title": "vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T00:27:50+00:00",
+        "published": "2026-10-30T09:10:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "sglang: v0.5.23",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
+        "title": "llama.cpp: b12006: memory: refuse rollbacks past the snapshots of the last ubatch (#31368)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12006",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T00:13:59+00:00",
+        "published": "2026-10-30T08:11:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,11 +282,11 @@
         }
       },
       {
-        "title": "llama.cpp: b12001: ROCm/HIP: add RDNA4_M family for gfx1170/gfx1171 (#31373)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12001",
+        "title": "sglang: v0.5.23",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-29T17:23:29+00:00",
+        "published": "2026-10-30T00:13:59+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -301,39 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.13-rc1: llama.cpp: workaround Metal unary crash (#19372)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T22:20:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.13-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-28T17:37:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon",
-        "url": "https://ollama.com/blog/speech-models",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-26T09:34:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
