@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-31T12:45:16.713122+00:00",
+  "generated_at": "2026-10-31T21:44:31.677244+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 31,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 598,
+        "score": 604,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +28,7 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 541,
+        "score": 542,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
@@ -91,17 +102,6 @@
         }
       },
       {
-        "title": "nemotron-halloween",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T17:57:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
         "url": "https://github.com/egma-ai/homi/",
         "source": "hn",
@@ -110,6 +110,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "nemotron-halloween",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T17:57:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -122,20 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
-        "url": "https://simedw.com/projects/harness-corp/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-28T13:36:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "source": "hn",
+        "score": 221,
+        "published": "2026-10-31T14:29:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
       {
         "title": "Open-weight AI models can exploit the patch gap",
         "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
@@ -194,11 +205,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12020",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12020",
+        "title": "llama.cpp: b12024",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12024",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-31T08:11:45+00:00",
+        "published": "2026-10-31T21:38:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12023",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12023",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T19:22:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12022",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12022",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T19:02:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.124",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T17:21:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -221,39 +265,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-10-31T07:15:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12019",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T05:23:25+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.124",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T04:51:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12018",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12018",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T02:24:59+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,17 +304,6 @@
         }
       },
       {
-        "title": "vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T09:10:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Ollama Mock Server",
         "url": "https://ollama-mock.kinduff.com/",
         "source": "hn",
@@ -312,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-30T09:10:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

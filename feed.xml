@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 12:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:44:31 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: A language model that lives in a boot sector</title>
+      <link>https://github.com/kerlenton/bootgpt</link>
+      <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
+      <category>model</category>
+      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -70,20 +78,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>nemotron-halloween</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-      <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper</title>
       <link>https://github.com/egma-ai/homi/</link>
       <guid isPermaLink="false">https://github.com/egma-ai/homi/</guid>
       <category>model</category>
       <pubDate>Wed, 28 Oct 2026 17:09:08 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>nemotron-halloween</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+      <category>model</category>
+      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
@@ -94,11 +102,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU</title>
-      <link>https://simedw.com/projects/harness-corp/</link>
-      <guid isPermaLink="false">https://simedw.com/projects/harness-corp/</guid>
-      <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
+      <title>Malware uses LLMs to rank victims by how much they&#x27;re worth</title>
+      <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</link>
+      <guid isPermaLink="false">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</guid>
+      <category>security</category>
+      <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,11 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12020</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12020</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12020</guid>
+      <title>llama.cpp: b12024</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12024</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12024</guid>
       <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 08:11:45 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 21:38:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12023</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12023</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12023</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 19:22:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12022</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12022</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12022</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 19:02:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.124</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 17:21:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -163,30 +195,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
       <category>harness</category>
       <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12019</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12019</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12019</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 05:23:25 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.124</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 04:51:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12018</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12018</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12018</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 02:24:59 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -214,20 +222,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N &gt;= 2^31 on gfx950 (#64567)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 09:10:43 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Ollama Mock Server</title>
       <link>https://ollama-mock.kinduff.com/</link>
       <guid isPermaLink="false">https://ollama-mock.kinduff.com/</guid>
       <category>harness</category>
       <pubDate>Thu, 29 Oct 2026 18:17:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N &gt;= 2^31 on gfx950 (#64567)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 30 Oct 2026 09:10:43 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>sglang: v0.5.23</title>
