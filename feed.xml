@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 05:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:45:16 +0000</lastBuildDate>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -22,27 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Fastbrowse, Browser agent that picks clicks with a System One model</title>
-      <link>https://www.fastbrowse.ai/</link>
-      <guid isPermaLink="false">https://www.fastbrowse.ai/</guid>
-      <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 22:37:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>IBM CEO says open weight models are now good and cheap on-prem</title>
       <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
       <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Concerning behavior from a popular open-weight AI model</title>
-      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
-      <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +38,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Concerning behavior from a popular open-weight AI model</title>
+      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+      <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
       <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
       <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
       <category>model</category>
       <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Fastbrowse, Browser agent that picks clicks with a System One model</title>
+      <link>https://www.fastbrowse.ai/</link>
+      <guid isPermaLink="false">https://www.fastbrowse.ai/</guid>
+      <category>model</category>
+      <pubDate>Fri, 30 Oct 2026 22:37:34 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An economy for open weight AI models</title>
-      <link>https://twitter.com/bertgodel/status/2115565111624753557</link>
-      <guid isPermaLink="false">https://twitter.com/bertgodel/status/2115565111624753557</guid>
+      <title>Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU</title>
+      <link>https://simedw.com/projects/harness-corp/</link>
+      <guid isPermaLink="false">https://simedw.com/projects/harness-corp/</guid>
       <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 17:12:48 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,6 +142,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12020</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12020</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12020</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 08:11:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Fixing Tool-Call Accuracy in vLLM</title>
+      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
+      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.33.0rc3</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>llama.cpp: b12019</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12019</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12019</guid>
@@ -166,28 +190,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Fixing Tool-Call Accuracy in vLLM</title>
-      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
       <link>https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</link>
       <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</guid>
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12017</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12017</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12017</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 20:23:45 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
@@ -228,14 +236,6 @@
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 00:13:59 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>2TI Desktop Suite – Rust/Tauri Native Apps (&lt;30MB RAM) with Ollama Perfect Audio</title>
-      <link>https://2tinteractive.com/apps/launcher/</link>
-      <guid isPermaLink="false">https://2tinteractive.com/apps/launcher/</guid>
-      <category>harness</category>
-      <pubDate>Wed, 28 Oct 2026 23:44:50 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

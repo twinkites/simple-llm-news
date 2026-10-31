@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T05:56:11.946592+00:00",
+  "generated_at": "2026-10-31T12:45:16.713122+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 593,
+        "score": 598,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
-        "url": "https://www.fastbrowse.ai/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-10-30T22:37:34Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "IBM CEO says open weight models are now good and cheap on-prem",
         "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
         "source": "hn",
@@ -44,17 +33,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
-        }
-      },
-      {
-        "title": "Concerning behavior from a popular open-weight AI model",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "hn",
-        "score": 335,
-        "published": "2026-10-26T16:35:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
         }
       },
       {
@@ -69,6 +47,17 @@
         }
       },
       {
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "source": "hn",
+        "score": 335,
+        "published": "2026-10-26T16:35:44Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
+        }
+      },
+      {
         "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
         "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
         "source": "hn",
@@ -77,6 +66,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+        "url": "https://www.fastbrowse.ai/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-30T22:37:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "An economy for open weight AI models",
-        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
+        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
+        "url": "https://simedw.com/projects/harness-corp/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-10-29T17:12:48Z",
+        "score": 4,
+        "published": "2026-10-28T13:36:05Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -194,6 +194,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b12020",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12020",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T08:11:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "source": "hn",
+        "score": 172,
+        "published": "2026-10-26T12:59:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0rc3",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T07:15:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "llama.cpp: b12019",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
         "source": "rss",
@@ -227,17 +260,6 @@
         }
       },
       {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "source": "hn",
-        "score": 172,
-        "published": "2026-10-26T12:59:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
         "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
         "source": "hn",
@@ -246,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12017",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T20:23:45+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,17 +323,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio",
-        "url": "https://2tinteractive.com/apps/launcher/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T23:44:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
