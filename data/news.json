@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T22:28:54.520265+00:00",
+  "generated_at": "2026-10-31T05:56:11.946592+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 587,
+        "score": 593,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -17,11 +17,22 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 540,
+        "score": 541,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+        "url": "https://www.fastbrowse.ai/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-10-30T22:37:34Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -39,7 +50,7 @@
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 334,
+        "score": 335,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -50,7 +61,7 @@
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "source": "hn",
-        "score": 442,
+        "score": 443,
         "published": "2026-10-25T21:11:31Z",
         "truthiness": {
           "label": "green",
@@ -58,10 +69,21 @@
         }
       },
       {
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "source": "hn",
+        "score": 57,
+        "published": "2026-10-29T00:30:37Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
         "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
         "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
         "source": "hn",
-        "score": 4,
+        "score": 5,
         "published": "2026-10-30T09:27:45Z",
         "truthiness": {
           "label": "red",
@@ -80,17 +102,6 @@
         }
       },
       {
-        "title": "Using LLM for confidence scoring is a bad idea",
-        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-        "source": "hn",
-        "score": 227,
-        "published": "2026-10-21T04:27:51Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 227 points)"
-        }
-      },
-      {
         "title": "Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
         "url": "https://github.com/egma-ai/homi/",
         "source": "hn",
@@ -99,17 +110,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "An economy for open weight AI models",
-        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-29T17:12:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
-        "url": "https://simedw.com/projects/harness-corp/",
+        "title": "An economy for open weight AI models",
+        "url": "https://twitter.com/bertgodel/status/2115565111624753557",
         "source": "hn",
-        "score": 4,
-        "published": "2026-10-28T13:36:05Z",
+        "score": 1,
+        "published": "2026-10-29T17:12:48Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -194,25 +194,36 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12017",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
+        "title": "llama.cpp: b12019",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T20:23:45+00:00",
+        "published": "2026-10-31T05:23:25+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
-        "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-30T15:55:41Z",
+        "title": "koboldcpp: koboldcpp-1.124",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T04:51:16+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12018",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12018",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T02:24:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,22 +238,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12015",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12015",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T16:09:47+00:00",
+        "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
+        "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-30T15:55:41Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "llama.cpp: b12014",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12014",
+        "title": "llama.cpp: b12017",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T15:33:33+00:00",
+        "published": "2026-10-30T20:23:45+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -309,17 +320,6 @@
         "source": "hn",
         "score": 1,
         "published": "2026-10-28T23:44:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
-        "url": "https://github.com/ChrystianSchutz/ThreadShelf",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T20:23:34Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
