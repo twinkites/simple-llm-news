@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-11-01T06:20:05.325720+00:00",
+  "generated_at": "2026-11-01T13:40:40.383621+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
-        "source": "hn",
-        "score": 73,
-        "published": "2026-10-31T12:58:29Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
-        }
-      },
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
@@ -22,6 +11,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 87,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -61,7 +61,7 @@
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 335,
+        "score": 336,
         "published": "2026-10-26T16:35:44Z",
         "truthiness": {
           "label": "green",
@@ -140,7 +140,7 @@
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
         "source": "hn",
-        "score": 67,
+        "score": 181,
         "published": "2026-11-01T02:19:53Z",
         "truthiness": {
           "label": "green",
@@ -151,7 +151,7 @@
         "title": "Malware uses LLMs to rank victims by how much they're worth",
         "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
         "source": "hn",
-        "score": 241,
+        "score": 250,
         "published": "2026-10-31T14:29:03Z",
         "truthiness": {
           "label": "green",
@@ -216,11 +216,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12027",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12027",
+        "title": "koboldcpp: koboldcpp-1.124.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-01T06:19:48+00:00",
+        "published": "2026-11-01T09:25:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-01T09:21:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12032",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12032",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-01T09:04:46+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12031",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12031",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-01T07:45:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12030",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12030",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-01T07:19:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,39 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12030: hexagon : fix DMA transfers with strides > 24 bits (#31442)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12030",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T23:49:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12028: tests : enable Gemma 4 in `test-llama-archs` (#31401)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12028",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T22:55:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.124",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T17:21:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -326,25 +337,14 @@
         }
       },
       {
-        "title": "vLLM: v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
+        "title": "koboldcpp: v1.124: Merge branch 'upstream' into concedo_experimental",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-30T09:10:43+00:00",
+        "published": "2026-10-30T15:09:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio",
-        "url": "https://2tinteractive.com/apps/launcher/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-28T23:44:50Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
