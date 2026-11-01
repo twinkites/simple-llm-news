@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-01T13:40:40.383621+00:00",
+  "generated_at": "2026-11-01T22:10:16.029159+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
+        "source": "hn",
+        "score": 9,
+        "published": "2026-11-01T19:01:42Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 9 points)"
+        }
+      },
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
@@ -17,7 +28,7 @@
         "title": "Show HN: A language model that lives in a boot sector",
         "url": "https://github.com/kerlenton/bootgpt",
         "source": "hn",
-        "score": 87,
+        "score": 93,
         "published": "2026-10-31T12:58:29Z",
         "truthiness": {
           "label": "green",
@@ -80,6 +91,17 @@
         }
       },
       {
+        "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+        "url": "https://news.ycombinator.com/item?id=50286306",
+        "source": "hn",
+        "score": 34,
+        "published": "2026-10-29T09:06:12Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 34 points)"
+        }
+      },
+      {
         "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
         "url": "https://www.fastbrowse.ai/",
         "source": "hn",
@@ -111,28 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
-      },
-      {
-        "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
-        "url": "https://rocus.io/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-28T18:52:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
-        "url": "https://simedw.com/projects/harness-corp/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-10-28T13:36:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
         "source": "hn",
-        "score": 181,
+        "score": 299,
         "published": "2026-11-01T02:19:53Z",
         "truthiness": {
           "label": "green",
@@ -151,11 +151,22 @@
         "title": "Malware uses LLMs to rank victims by how much they're worth",
         "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
         "source": "hn",
-        "score": 250,
+        "score": 254,
         "published": "2026-10-31T14:29:03Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-01T15:23:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -216,6 +227,17 @@
     ],
     "harness": [
       {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "source": "hn",
+        "score": 172,
+        "published": "2026-10-26T12:59:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "koboldcpp: koboldcpp-1.124.1",
         "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1",
         "source": "rss",
@@ -268,17 +290,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "source": "hn",
-        "score": 172,
-        "published": "2026-10-26T12:59:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {

@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 13:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 22:10:16 +0000</lastBuildDate>
+    <item>
+      <title>Heretic 2.0 Released: Training-free language model modification</title>
+      <link>https://news.ycombinator.com/item?id=50328567</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <category>model</category>
+      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -62,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites</title>
+      <link>https://news.ycombinator.com/item?id=50286306</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50286306</guid>
+      <category>model</category>
+      <pubDate>Thu, 29 Oct 2026 09:06:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Fastbrowse, Browser agent that picks clicks with a System One model</title>
       <link>https://www.fastbrowse.ai/</link>
       <guid isPermaLink="false">https://www.fastbrowse.ai/</guid>
@@ -86,22 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
-      <link>https://rocus.io/</link>
-      <guid isPermaLink="false">https://rocus.io/</guid>
-      <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 18:52:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU</title>
-      <link>https://simedw.com/projects/harness-corp/</link>
-      <guid isPermaLink="false">https://simedw.com/projects/harness-corp/</guid>
-      <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
       <link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</link>
       <guid isPermaLink="false">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</guid>
@@ -115,6 +115,14 @@
       <guid isPermaLink="false">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</guid>
       <category>security</category>
       <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Brazilian lawyers fined $16K for hiding a prompt injection in a court filing</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</guid>
+      <category>security</category>
+      <pubDate>Sun, 01 Nov 2026 15:23:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,6 +166,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Fixing Tool-Call Accuracy in vLLM</title>
+      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
+      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>koboldcpp: koboldcpp-1.124.1</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</guid>
@@ -196,14 +212,6 @@
       <category>harness</category>
       <pubDate>Sun, 01 Nov 2026 07:19:38 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Fixing Tool-Call Accuracy in vLLM</title>
-      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
