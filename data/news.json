@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T21:44:31.677244+00:00",
+  "generated_at": "2026-11-01T06:20:05.325720+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: A language model that lives in a boot sector",
         "url": "https://github.com/kerlenton/bootgpt",
         "source": "hn",
-        "score": 31,
+        "score": 73,
         "published": "2026-10-31T12:58:29Z",
         "truthiness": {
           "label": "green",
@@ -17,7 +17,7 @@
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 604,
+        "score": 605,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
@@ -28,7 +28,7 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 542,
+        "score": 543,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
@@ -83,7 +83,7 @@
         "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
         "url": "https://www.fastbrowse.ai/",
         "source": "hn",
-        "score": 3,
+        "score": 4,
         "published": "2026-10-30T22:37:34Z",
         "truthiness": {
           "label": "red",
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "nemotron-halloween",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T17:57:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
         "url": "https://rocus.io/",
         "source": "hn",
@@ -133,14 +122,36 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
+      },
+      {
+        "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
+        "url": "https://simedw.com/projects/harness-corp/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-10-28T13:36:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
       }
     ],
     "security": [
       {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "source": "hn",
+        "score": 67,
+        "published": "2026-11-01T02:19:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
         "title": "Malware uses LLMs to rank victims by how much they're worth",
         "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
         "source": "hn",
-        "score": 221,
+        "score": 241,
         "published": "2026-10-31T14:29:03Z",
         "truthiness": {
           "label": "green",
@@ -205,44 +216,11 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12024",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12024",
+        "title": "llama.cpp: b12027",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12027",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-31T21:38:51+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12023",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12023",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T19:22:28+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12022",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12022",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T19:02:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.124",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-31T17:21:13+00:00",
+        "published": "2026-11-01T06:19:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,11 +238,33 @@
         }
       },
       {
-        "title": "vLLM: v0.33.0rc3",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+        "title": "llama.cpp: b12030: hexagon : fix DMA transfers with strides > 24 bits (#31442)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12030",
         "source": "rss",
         "score": 0,
-        "published": "2026-10-31T07:15:45+00:00",
+        "published": "2026-10-31T23:49:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12028: tests : enable Gemma 4 in `test-llama-archs` (#31401)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12028",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T22:55:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.124",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T17:21:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -279,6 +279,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0rc3",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-10-31T07:15:45+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -326,14 +337,14 @@
         }
       },
       {
-        "title": "sglang: v0.5.23",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-10-30T00:13:59+00:00",
+        "title": "2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio",
+        "url": "https://2tinteractive.com/apps/launcher/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-28T23:44:50Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

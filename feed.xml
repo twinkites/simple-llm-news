@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 21:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:20:05 +0000</lastBuildDate>
     <item>
       <title>Show HN: A language model that lives in a boot sector</title>
       <link>https://github.com/kerlenton/bootgpt</link>
@@ -86,19 +86,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>nemotron-halloween</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-      <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Rocus: Browser local LLM that organizes your websites, notes and files</title>
       <link>https://rocus.io/</link>
       <guid isPermaLink="false">https://rocus.io/</guid>
       <category>model</category>
       <pubDate>Wed, 28 Oct 2026 18:52:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU</title>
+      <link>https://simedw.com/projects/harness-corp/</link>
+      <guid isPermaLink="false">https://simedw.com/projects/harness-corp/</guid>
+      <category>model</category>
+      <pubDate>Wed, 28 Oct 2026 13:36:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
+      <link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</link>
+      <guid isPermaLink="false">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</guid>
+      <category>security</category>
+      <pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,35 +158,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12024</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12024</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12024</guid>
+      <title>llama.cpp: b12027</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12027</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12027</guid>
       <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 21:38:51 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12023</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12023</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12023</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 19:22:28 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12022</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12022</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12022</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 19:02:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.124</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 17:21:13 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 06:19:48 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,11 +174,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.33.0rc3</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
+      <title>llama.cpp: b12030: hexagon : fix DMA transfers with strides &gt; 24 bits (#31442)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12030</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12030</guid>
       <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 23:49:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12028: tests : enable Gemma 4 in `test-llama-archs` (#31401)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12028</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12028</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 22:55:02 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.124</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 17:21:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -204,6 +204,14 @@
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.33.0rc3</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
@@ -238,12 +246,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>sglang: v0.5.23</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.23</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.23</guid>
+      <title>2TI Desktop Suite – Rust/Tauri Native Apps (&lt;30MB RAM) with Ollama Perfect Audio</title>
+      <link>https://2tinteractive.com/apps/launcher/</link>
+      <guid isPermaLink="false">https://2tinteractive.com/apps/launcher/</guid>
       <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 00:13:59 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 28 Oct 2026 23:44:50 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
