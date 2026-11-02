@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:48:20 +0000</lastBuildDate>
+    <item>
+      <title>100% accurate next token prediction model</title>
+      <link>https://huggingface.co/xendoo/sorted-tiny-llama</link>
+      <guid isPermaLink="false">https://huggingface.co/xendoo/sorted-tiny-llama</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 21:17:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator</title>
+      <link>https://www.paidintoken.com/ai/hardware</link>
+      <guid isPermaLink="false">https://www.paidintoken.com/ai/hardware</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 20:12:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
@@ -14,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Heretic 2.0 Released: Training-free language model modification</title>
-      <link>https://news.ycombinator.com/item?id=50328567</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <title>Seldon: Open-weights 0.2B tabular foundation model for tabular classification</title>
+      <link>https://huggingface.co/Neuralk-AI/seldon</link>
+      <guid isPermaLink="false">https://huggingface.co/Neuralk-AI/seldon</guid>
       <category>model</category>
-      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 18:06:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -35,6 +51,14 @@
       <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
       <category>model</category>
       <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Heretic 2.0 Released: Training-free language model modification</title>
+      <link>https://news.ycombinator.com/item?id=50328567</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <category>model</category>
+      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,43 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Kvark Sparkle 27B – reasoning model trained to think with fewer tokens</title>
+      <link>https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B</link>
+      <guid isPermaLink="false">https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 13:06:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
       <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
       <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
       <category>model</category>
       <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites</title>
-      <link>https://news.ycombinator.com/item?id=50286306</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50286306</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 09:06:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Fastbrowse, Browser agent that picks clicks with a System One model</title>
-      <link>https://www.fastbrowse.ai/</link>
-      <guid isPermaLink="false">https://www.fastbrowse.ai/</guid>
-      <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 22:37:34 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Mistral 4 had a release, makes it comparable to Chinese open-weight models</title>
-      <link>https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</link>
-      <guid isPermaLink="false">https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/</guid>
-      <category>model</category>
-      <pubDate>Fri, 30 Oct 2026 09:27:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper</title>
-      <link>https://github.com/egma-ai/homi/</link>
-      <guid isPermaLink="false">https://github.com/egma-ai/homi/</guid>
-      <category>model</category>
-      <pubDate>Wed, 28 Oct 2026 17:09:08 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -115,6 +115,14 @@
       <guid isPermaLink="false">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</guid>
       <category>security</category>
       <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>A 37KB deterministic embedded C malware classifier with 34ns latency</title>
+      <link>https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines</link>
+      <guid isPermaLink="false">https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines</guid>
+      <category>security</category>
+      <pubDate>Mon, 02 Nov 2026 16:31:47 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,6 +174,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request</title>
+      <link>https://github.com/hari-kancharla/sdcguard</link>
+      <guid isPermaLink="false">https://github.com/hari-kancharla/sdcguard</guid>
+      <category>harness</category>
+      <pubDate>Mon, 02 Nov 2026 17:47:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12058</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12058</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12058</guid>
+      <category>harness</category>
+      <pubDate>Mon, 02 Nov 2026 19:33:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12057</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12057</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12057</guid>
+      <category>harness</category>
+      <pubDate>Mon, 02 Nov 2026 19:09:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12059</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12059</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12059</guid>
+      <category>harness</category>
+      <pubDate>Mon, 02 Nov 2026 16:13:33 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Fixing Tool-Call Accuracy in vLLM</title>
       <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
       <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
@@ -174,19 +214,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12033</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12033</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12033</guid>
+      <title>koboldcpp: koboldcpp-1.124.2</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.2</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.2</guid>
       <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 17:23:40 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 10:29:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.124.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</guid>
+      <title>vLLM: v0.33.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
       <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 09:25:53 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 10:11:34 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,20 +238,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12032</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12032</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12032</guid>
+      <title>koboldcpp: v1.124.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</guid>
       <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 09:04:46 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 06:27:04 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12031</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12031</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12031</guid>
+      <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
+      <link>https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</link>
+      <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</guid>
       <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 07:45:44 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
@@ -227,38 +267,6 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302109</guid>
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 10:37:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.33.0rc3</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Ollama Mock Server</title>
-      <link>https://ollama-mock.kinduff.com/</link>
-      <guid isPermaLink="false">https://ollama-mock.kinduff.com/</guid>
-      <category>harness</category>
-      <pubDate>Thu, 29 Oct 2026 18:17:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: v1.124: Merge branch &#x27;upstream&#x27; into concedo_experimental</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 15:09:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
-      <link>https://ollama.com/blog/speech-models</link>
-      <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
