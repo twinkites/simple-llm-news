@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 22:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Heretic 2.0 Released: Training-free language model modification</title>
-      <link>https://news.ycombinator.com/item?id=50328567</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
-      <category>model</category>
-      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 06:20:18 +0000</lastBuildDate>
     <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
       <guid isPermaLink="false">https://martinfowler.com/bliki/LLM-Voice.html</guid>
       <category>model</category>
       <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Heretic 2.0 Released: Training-free language model modification</title>
+      <link>https://news.ycombinator.com/item?id=50328567</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <category>model</category>
+      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -174,6 +174,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12033</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12033</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12033</guid>
+      <category>harness</category>
+      <pubDate>Sun, 01 Nov 2026 17:23:40 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>koboldcpp: koboldcpp-1.124.1</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</guid>
@@ -206,30 +214,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12030</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12030</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12030</guid>
-      <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 07:19:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
-      <link>https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</link>
-      <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.33.0rc3</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
-      <category>harness</category>
-      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
       <link>https://news.ycombinator.com/item?id=50302340</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302340</guid>
@@ -246,6 +230,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.33.0rc3</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
+      <category>harness</category>
+      <pubDate>Sat, 31 Oct 2026 07:15:45 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: Ollama Mock Server</title>
       <link>https://ollama-mock.kinduff.com/</link>
       <guid isPermaLink="false">https://ollama-mock.kinduff.com/</guid>
@@ -260,6 +252,14 @@
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 15:09:16 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>Ollama adds local text-to-speech, 100x faster than real time on Apple Silicon</title>
+      <link>https://ollama.com/blog/speech-models</link>
+      <guid isPermaLink="false">https://ollama.com/blog/speech-models</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 09:34:16 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
