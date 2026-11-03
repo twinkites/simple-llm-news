@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 06:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:34:49 +0000</lastBuildDate>
     <item>
       <title>LLMs are not superhuman at reading and writing neural network weights</title>
       <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
@@ -14,12 +14,44 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Revolut Cuts A.I. Coding Costs 90% with a Chinese Open-Weight Model</title>
+      <link>https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs/</link>
+      <guid isPermaLink="false">https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs/</guid>
+      <category>model</category>
+      <pubDate>Tue, 03 Nov 2026 17:03:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Best local LLM options under 2500 USD?</title>
+      <link>https://news.ycombinator.com/item?id=50355440</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50355440</guid>
+      <category>model</category>
+      <pubDate>Tue, 03 Nov 2026 17:51:33 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
       <guid isPermaLink="false">https://martinfowler.com/bliki/LLM-Voice.html</guid>
       <category>model</category>
       <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>StateBench: Testing how language models track state changes over long documents</title>
+      <link>https://huggingface.co/blog/allenai/statebench</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/statebench</guid>
+      <category>model</category>
+      <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Palette: teaching a small model to build decks in your design language</title>
+      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+      <category>model</category>
+      <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
@@ -35,14 +67,6 @@
       <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
       <category>model</category>
       <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Heretic 2.0 Released: Training-free language model modification</title>
-      <link>https://news.ycombinator.com/item?id=50328567</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
-      <category>model</category>
-      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,43 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Trim - local proxy that compresses coding prompts before they reach your LLM</title>
+      <link>https://github.com/usetrim/trim</link>
+      <guid isPermaLink="false">https://github.com/usetrim/trim</guid>
+      <category>model</category>
+      <pubDate>Tue, 03 Nov 2026 10:38:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Concerning behavior from a popular open-weight AI model</title>
       <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
       <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
       <category>model</category>
       <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>100% accurate next token prediction model</title>
-      <link>https://huggingface.co/xendoo/sorted-tiny-llama</link>
-      <guid isPermaLink="false">https://huggingface.co/xendoo/sorted-tiny-llama</guid>
-      <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 21:17:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator</title>
-      <link>https://www.paidintoken.com/ai/hardware</link>
-      <guid isPermaLink="false">https://www.paidintoken.com/ai/hardware</guid>
-      <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 20:12:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Seldon: Open-weights 0.2B tabular foundation model for tabular classification</title>
-      <link>https://huggingface.co/Neuralk-AI/seldon</link>
-      <guid isPermaLink="false">https://huggingface.co/Neuralk-AI/seldon</guid>
-      <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 18:06:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
-      <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
-      <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,12 +166,44 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt injection scanners should be positional, not phrasal</title>
-      <link>https://attest.rta.lat/article</link>
-      <guid isPermaLink="false">https://attest.rta.lat/article</guid>
-      <category>security</category>
-      <pubDate>Sat, 24 Oct 2026 17:54:43 +0000</pubDate>
+      <title>llama.cpp: b12078</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12078</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12078</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 18:28:19 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12077</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12077</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12077</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 17:55:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step</title>
+      <link>https://github.com/1solomonwakhungu/runpod-vllm-deployer</link>
+      <guid isPermaLink="false">https://github.com/1solomonwakhungu/runpod-vllm-deployer</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 15:02:23 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Fixing Tool-Call Accuracy in vLLM</title>
+      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
+      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
+      <category>harness</category>
+      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12079: Add nccl support for multi-node tensor parallelism (#28967)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12079</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12079</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 09:26:19 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.14</title>
@@ -179,38 +211,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14</guid>
       <category>harness</category>
       <pubDate>Tue, 03 Nov 2026 06:57:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12065: kv-cache : never return 0 kv_rows for sequences without cells (#31570)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12065</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12065</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 05:51:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12064</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12064</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12064</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 05:45:56 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12063</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12063</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12063</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 01:42:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.14-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 00:59:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -222,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Fixing Tool-Call Accuracy in vLLM</title>
-      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
+      <title>ollama: v0.40.14-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</guid>
       <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Tue, 03 Nov 2026 00:59:50 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>sglang: v0.5.23</title>
@@ -251,14 +251,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3</guid>
       <category>harness</category>
       <pubDate>Mon, 02 Nov 2026 10:11:34 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>vLLM: v0.33.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.33.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.33.0</guid>
-      <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 09:21:10 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
