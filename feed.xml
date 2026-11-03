@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 21:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:58:42 +0000</lastBuildDate>
     <item>
-      <title>100% accurate next token prediction model</title>
-      <link>https://huggingface.co/xendoo/sorted-tiny-llama</link>
-      <guid isPermaLink="false">https://huggingface.co/xendoo/sorted-tiny-llama</guid>
+      <title>LLMs are not superhuman at reading and writing neural network weights</title>
+      <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
+      <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 21:17:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator</title>
-      <link>https://www.paidintoken.com/ai/hardware</link>
-      <guid isPermaLink="false">https://www.paidintoken.com/ai/hardware</guid>
-      <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 20:12:54 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Seldon: Open-weights 0.2B tabular foundation model for tabular classification</title>
-      <link>https://huggingface.co/Neuralk-AI/seldon</link>
-      <guid isPermaLink="false">https://huggingface.co/Neuralk-AI/seldon</guid>
+      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
+      <link>https://www.brangus.io/survival-llm</link>
+      <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
       <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 18:06:38 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,14 +35,6 @@
       <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
       <category>model</category>
       <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
-      <link>https://www.brangus.io/survival-llm</link>
-      <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
-      <category>model</category>
-      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -86,11 +70,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Kvark Sparkle 27B – reasoning model trained to think with fewer tokens</title>
-      <link>https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B</link>
-      <guid isPermaLink="false">https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B</guid>
+      <title>100% accurate next token prediction model</title>
+      <link>https://huggingface.co/xendoo/sorted-tiny-llama</link>
+      <guid isPermaLink="false">https://huggingface.co/xendoo/sorted-tiny-llama</guid>
       <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 13:06:36 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 21:17:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator</title>
+      <link>https://www.paidintoken.com/ai/hardware</link>
+      <guid isPermaLink="false">https://www.paidintoken.com/ai/hardware</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 20:12:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Seldon: Open-weights 0.2B tabular foundation model for tabular classification</title>
+      <link>https://huggingface.co/Neuralk-AI/seldon</link>
+      <guid isPermaLink="false">https://huggingface.co/Neuralk-AI/seldon</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 18:06:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,19 +126,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Brazilian lawyers fined $16K for hiding a prompt injection in a court filing</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</guid>
-      <category>security</category>
-      <pubDate>Sun, 01 Nov 2026 15:23:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Open-weight AI models can exploit the patch gap</title>
       <link>https://epoch.ai/publications/open-weight-models-patch-gap</link>
       <guid isPermaLink="false">https://epoch.ai/publications/open-weight-models-patch-gap</guid>
       <category>security</category>
       <pubDate>Thu, 29 Oct 2026 22:32:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Brazilian lawyers fined $16K for hiding a prompt injection in a court filing</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</guid>
+      <category>security</category>
+      <pubDate>Sun, 01 Nov 2026 15:23:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -174,6 +174,46 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.40.14</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 06:57:31 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12065: kv-cache : never return 0 kv_rows for sequences without cells (#31570)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12065</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12065</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 05:51:53 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12064</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12064</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12064</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 05:45:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12063</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12063</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12063</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 01:42:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.14-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 00:59:50 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request</title>
       <link>https://github.com/hari-kancharla/sdcguard</link>
       <guid isPermaLink="false">https://github.com/hari-kancharla/sdcguard</guid>
@@ -182,36 +222,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12058</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12058</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12058</guid>
-      <category>harness</category>
-      <pubDate>Mon, 02 Nov 2026 19:33:27 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12057</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12057</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12057</guid>
-      <category>harness</category>
-      <pubDate>Mon, 02 Nov 2026 19:09:40 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12059</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12059</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12059</guid>
-      <category>harness</category>
-      <pubDate>Mon, 02 Nov 2026 16:13:33 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Fixing Tool-Call Accuracy in vLLM</title>
       <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
       <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
       <category>harness</category>
       <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: v0.5.23</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/v0.5.23</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/v0.5.23</guid>
+      <category>harness</category>
+      <pubDate>Mon, 02 Nov 2026 22:14:10 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>koboldcpp: koboldcpp-1.124.2</title>
@@ -238,35 +262,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>koboldcpp: v1.124.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 01 Nov 2026 06:27:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>LlamaIndex&#x27;s Document Parsing Protocol: 140 rules for a correctly parsed page</title>
       <link>https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</link>
       <guid isPermaLink="false">https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol</guid>
       <category>harness</category>
       <pubDate>Fri, 30 Oct 2026 15:55:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
-      <link>https://news.ycombinator.com/item?id=50302340</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302340</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 11:06:31 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: What inference engine and KV offload engine do you use and why?</title>
-      <link>https://news.ycombinator.com/item?id=50302109</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50302109</guid>
-      <category>harness</category>
-      <pubDate>Fri, 30 Oct 2026 10:37:04 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

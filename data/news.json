@@ -1,60 +1,27 @@
 {
-  "generated_at": "2026-11-02T21:48:20.373883+00:00",
+  "generated_at": "2026-11-03T06:58:42.711784+00:00",
   "sections": {
     "model": [
       {
-        "title": "100% accurate next token prediction model",
-        "url": "https://huggingface.co/xendoo/sorted-tiny-llama",
+        "title": "LLMs are not superhuman at reading and writing neural network weights",
+        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-02T21:17:15Z",
+        "score": 57,
+        "published": "2026-11-02T22:26:53Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
-        "url": "https://www.paidintoken.com/ai/hardware",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-02T20:12:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
         }
       },
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 606,
+        "score": 607,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
-        }
-      },
-      {
-        "title": "Seldon: Open-weights 0.2B tabular foundation model for tabular classification",
-        "url": "https://huggingface.co/Neuralk-AI/seldon",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-02T18:06:38Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
-        "source": "hn",
-        "score": 105,
-        "published": "2026-10-31T12:58:29Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -66,6 +33,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 105,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -113,11 +91,33 @@
         }
       },
       {
-        "title": "Show HN: Kvark Sparkle 27B – reasoning model trained to think with fewer tokens",
-        "url": "https://huggingface.co/Egzakta/Kvark-Sparkle-1.0-27B",
+        "title": "100% accurate next token prediction model",
+        "url": "https://huggingface.co/xendoo/sorted-tiny-llama",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-02T13:06:36Z",
+        "published": "2026-11-02T21:17:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
+        "url": "https://www.paidintoken.com/ai/hardware",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T20:12:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Seldon: Open-weights 0.2B tabular foundation model for tabular classification",
+        "url": "https://huggingface.co/Neuralk-AI/seldon",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T18:06:38Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -140,7 +140,7 @@
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
         "source": "hn",
-        "score": 339,
+        "score": 340,
         "published": "2026-11-01T02:19:53Z",
         "truthiness": {
           "label": "green",
@@ -151,7 +151,7 @@
         "title": "Malware uses LLMs to rank victims by how much they're worth",
         "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
         "source": "hn",
-        "score": 260,
+        "score": 261,
         "published": "2026-10-31T14:29:03Z",
         "truthiness": {
           "label": "green",
@@ -170,17 +170,6 @@
         }
       },
       {
-        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-01T15:23:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Open-weight AI models can exploit the patch gap",
         "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
         "source": "hn",
@@ -189,6 +178,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-01T15:23:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -238,6 +238,61 @@
     ],
     "harness": [
       {
+        "title": "ollama: v0.40.14",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T06:57:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12065: kv-cache : never return 0 kv_rows for sequences without cells (#31570)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12065",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T05:51:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12064",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12064",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T05:45:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12063",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12063",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T01:42:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.14-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T00:59:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request",
         "url": "https://github.com/hari-kancharla/sdcguard",
         "source": "hn",
@@ -249,39 +304,6 @@
         }
       },
       {
-        "title": "llama.cpp: b12058",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12058",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T19:33:27+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12057",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12057",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T19:09:40+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12059",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12059",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T16:13:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
@@ -290,6 +312,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.23",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-02T22:14:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -326,17 +359,6 @@
         }
       },
       {
-        "title": "koboldcpp: v1.124.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-01T06:27:04+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
         "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
         "source": "hn",
@@ -345,28 +367,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ask HN: What inference engine and KV offload engine do you use and why?",
-        "url": "https://news.ycombinator.com/item?id=50302340",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-30T11:06:31Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Ask HN: What inference engine and KV offload engine do you use and why?",
-        "url": "https://news.ycombinator.com/item?id=50302109",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-30T10:37:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

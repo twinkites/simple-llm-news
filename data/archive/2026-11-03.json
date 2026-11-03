@@ -1,0 +1,374 @@
+{
+  "generated_at": "2026-11-03T06:58:42.711784+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "LLMs are not superhuman at reading and writing neural network weights",
+        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "source": "hn",
+        "score": 57,
+        "published": "2026-11-02T22:26:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "source": "hn",
+        "score": 607,
+        "published": "2026-10-29T14:57:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "source": "hn",
+        "score": 543,
+        "published": "2026-10-27T19:55:06Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 105,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+        }
+      },
+      {
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
+        "source": "hn",
+        "score": 21,
+        "published": "2026-11-01T19:01:42Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 9 points)"
+        }
+      },
+      {
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "source": "hn",
+        "score": 428,
+        "published": "2026-10-26T01:47:46Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+        }
+      },
+      {
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "source": "hn",
+        "score": 443,
+        "published": "2026-10-25T21:11:31Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 441 points)"
+        }
+      },
+      {
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "source": "hn",
+        "score": 337,
+        "published": "2026-10-26T16:35:44Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
+        }
+      },
+      {
+        "title": "100% accurate next token prediction model",
+        "url": "https://huggingface.co/xendoo/sorted-tiny-llama",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T21:17:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
+        "url": "https://www.paidintoken.com/ai/hardware",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T20:12:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Seldon: Open-weights 0.2B tabular foundation model for tabular classification",
+        "url": "https://huggingface.co/Neuralk-AI/seldon",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T18:06:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "source": "hn",
+        "score": 57,
+        "published": "2026-10-29T00:30:37Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "source": "hn",
+        "score": 340,
+        "published": "2026-11-01T02:19:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "source": "hn",
+        "score": 261,
+        "published": "2026-10-31T14:29:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
+        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T16:31:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Open-weight AI models can exploit the patch gap",
+        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+        "source": "hn",
+        "score": 13,
+        "published": "2026-10-29T22:32:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-01T15:23:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Who Governs the Governor? – Stored Prompt Injection Through the API Gateway",
+        "url": "https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-27T02:53:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
+        "url": "https://www.blazle.io/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-10-27T18:11:13Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Prompt Injection Techniques Every Red Teamer Should Test",
+        "url": "https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-25T06:54:42Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Prompt injection scanners should be positional, not phrasal",
+        "url": "https://attest.rta.lat/article",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-24T17:54:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "ollama: v0.40.14",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T06:57:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12065: kv-cache : never return 0 kv_rows for sequences without cells (#31570)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12065",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T05:51:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12064",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12064",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T05:45:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12063",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12063",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T01:42:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.14-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T00:59:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request",
+        "url": "https://github.com/hari-kancharla/sdcguard",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T17:47:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "source": "hn",
+        "score": 172,
+        "published": "2026-10-26T12:59:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "sglang: v0.5.23",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-02T22:14:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.124.2",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-02T10:29:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-02T10:11:34+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.33.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-01T09:21:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
+        "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-10-30T15:55:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ]
+  }
+}
