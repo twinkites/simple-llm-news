@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-11-04T06:38:47.029979+00:00",
+  "generated_at": "2026-11-04T19:54:12.473338+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "source": "hn",
+        "score": 119,
+        "published": "2026-11-03T21:20:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
+        "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
+        "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-04T18:30:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 142,
+        "score": 146,
         "published": "2026-11-02T22:26:53Z",
         "truthiness": {
           "label": "green",
@@ -14,14 +47,25 @@
         }
       },
       {
-        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-        "source": "hn",
-        "score": 11,
-        "published": "2026-11-03T20:57:15Z",
+        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-04T17:50:10+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
+        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-04T14:09:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -36,6 +80,17 @@
         }
       },
       {
+        "title": "I Wrote a Book: The Art and Science of LLM Jailbreaking",
+        "url": "https://leanpub.com/theartandscienceofllmjailbreaking",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-04T13:58:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
@@ -44,6 +99,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+        "source": "hn",
+        "score": 12,
+        "published": "2026-11-03T20:57:15Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -67,72 +133,6 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
         }
-      },
-      {
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://minimaxir.com/2026/10/cheap-llms/",
-        "source": "hn",
-        "score": 443,
-        "published": "2026-10-25T21:11:31Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 441 points)"
-        }
-      },
-      {
-        "title": "Concerning behavior from a popular open-weight AI model",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "hn",
-        "score": 337,
-        "published": "2026-10-26T16:35:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
-        }
-      },
-      {
-        "title": "Revolut Cuts A.I. Coding Costs 90% with a Chinese Open-Weight Model",
-        "url": "https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-03T17:03:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Best local LLM options under 2500 USD?",
-        "url": "https://news.ycombinator.com/item?id=50355440",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T17:51:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Heretic 2.0 Released: Training-free language model modification",
-        "url": "https://news.ycombinator.com/item?id=50328567",
-        "source": "hn",
-        "score": 22,
-        "published": "2026-11-01T19:01:42Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
-        }
-      },
-      {
-        "title": "Trim - local proxy that compresses coding prompts before they reach your LLM",
-        "url": "https://github.com/usetrim/trim",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T10:38:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -151,22 +151,11 @@
         "title": "Malware uses LLMs to rank victims by how much they're worth",
         "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
         "source": "hn",
-        "score": 262,
+        "score": 263,
         "published": "2026-10-31T14:29:03Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
-        }
-      },
-      {
-        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
-        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-02T16:31:47Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -178,6 +167,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
+        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T16:31:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -212,73 +212,73 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Prompt Injection Techniques Every Red Teamer Should Test",
-        "url": "https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-25T06:54:42Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12099",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12099",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T05:50:37+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12098",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12098",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T03:53:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12097",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12097",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T03:32:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T22:52:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step",
-        "url": "https://github.com/1solomonwakhungu/runpod-vllm-deployer",
+        "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+        "url": "https://github.com/flitai-io/gpuworks",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T15:02:23Z",
+        "score": 2,
+        "published": "2026-11-04T16:09:54Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Desktop app from the llama.cpp team (Mac OS and Windows)",
+        "url": "https://llama.app/models",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-04T12:00:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Running quantum circuits inside llama.cpp",
+        "url": "https://github.com/dakk/qullama",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-04T10:45:06Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12111: common : delete common_get_path_from_env() (#31444)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12111",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-04T13:21:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: v0.9.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-04T13:09:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12110",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12110",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-04T12:56:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,11 +293,22 @@
         }
       },
       {
-        "title": "ollama: v0.40.14",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+        "title": "Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step",
+        "url": "https://github.com/1solomonwakhungu/runpod-vllm-deployer",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-03T15:02:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-03T06:57:31+00:00",
+        "published": "2026-11-03T22:52:31+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -315,44 +326,22 @@
         }
       },
       {
+        "title": "ollama: v0.40.14",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T06:57:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "ollama: v0.40.14-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0",
         "source": "rss",
         "score": 0,
         "published": "2026-11-03T00:59:50+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "sglang: v0.5.23",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T22:14:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.124.2",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124.2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T10:29:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.33.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-02T10:11:34+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
