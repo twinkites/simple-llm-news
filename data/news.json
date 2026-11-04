@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T19:34:49.550188+00:00",
+  "generated_at": "2026-11-04T06:38:47.029979+00:00",
   "sections": {
     "model": [
       {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 132,
+        "score": 142,
         "published": "2026-11-02T22:26:53Z",
         "truthiness": {
           "label": "green",
@@ -14,25 +14,14 @@
         }
       },
       {
-        "title": "Revolut Cuts A.I. Coding Costs 90% with a Chinese Open-Weight Model",
-        "url": "https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs/",
+        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-03T17:03:36Z",
+        "score": 11,
+        "published": "2026-11-03T20:57:15Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Best local LLM options under 2500 USD?",
-        "url": "https://news.ycombinator.com/item?id=50355440",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T17:51:33Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
         }
       },
       {
@@ -44,28 +33,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
-        }
-      },
-      {
-        "title": "StateBench: Testing how language models track state changes over long documents",
-        "url": "https://huggingface.co/blog/allenai/statebench",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T17:15:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Palette: teaching a small model to build decks in your design language",
-        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T16:35:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -113,17 +80,6 @@
         }
       },
       {
-        "title": "Trim - local proxy that compresses coding prompts before they reach your LLM",
-        "url": "https://github.com/usetrim/trim",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T10:38:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Concerning behavior from a popular open-weight AI model",
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
@@ -133,6 +89,50 @@
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 233 points)"
         }
+      },
+      {
+        "title": "Revolut Cuts A.I. Coding Costs 90% with a Chinese Open-Weight Model",
+        "url": "https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-03T17:03:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Best local LLM options under 2500 USD?",
+        "url": "https://news.ycombinator.com/item?id=50355440",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-03T17:51:33Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
+        "source": "hn",
+        "score": 22,
+        "published": "2026-11-01T19:01:42Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+        }
+      },
+      {
+        "title": "Trim - local proxy that compresses coding prompts before they reach your LLM",
+        "url": "https://github.com/usetrim/trim",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-03T10:38:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
       }
     ],
     "security": [
@@ -140,7 +140,7 @@
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
         "source": "hn",
-        "score": 343,
+        "score": 347,
         "published": "2026-11-01T02:19:53Z",
         "truthiness": {
           "label": "green",
@@ -227,22 +227,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12078",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12078",
+        "title": "llama.cpp: b12099",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12099",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-03T18:28:19+00:00",
+        "published": "2026-11-04T05:50:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12077",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12077",
+        "title": "llama.cpp: b12098",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12098",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-03T17:55:36+00:00",
+        "published": "2026-11-04T03:53:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12097",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12097",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-04T03:32:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T22:52:31+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,17 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12079: Add nccl support for multi-node tensor parallelism (#28967)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12079",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T09:26:19+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -345,17 +356,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "LlamaIndex's Document Parsing Protocol: 140 rules for a correctly parsed page",
-        "url": "https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-30T15:55:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
