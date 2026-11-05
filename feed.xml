@@ -4,7 +4,39 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 06:58:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
+      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
+      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
+      <link>https://www.ricursive.com/ripple</link>
+      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
+      <link>https://www.linum.ai/field-notes/pjit-21k</link>
+      <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
       <link>https://uncracked.city</link>
@@ -19,14 +51,6 @@
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
-      <link>https://vernerobotics.com/research/verne-v0-5</link>
-      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
+      <link>https://vernerobotics.com/research/verne-v0-5</link>
+      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: A language model that lives in a boot sector</title>
       <link>https://github.com/kerlenton/bootgpt</link>
       <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
@@ -62,43 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
-      <link>https://www.linum.ai/field-notes/pjit-21k</link>
-      <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Concerning behavior from a popular open-weight AI model</title>
-      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
-      <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
-      <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ripple-65B Preview: Ricursive Intelligence&#x27;s Open-Weight American SOTA Model</title>
-      <link>https://twitter.com/RicursiveAI/status/2118046765857546733</link>
-      <guid isPermaLink="false">https://twitter.com/RicursiveAI/status/2118046765857546733</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 18:30:20 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Swarm World – local LLM creatures living in a little tile world</title>
       <link>https://swarm-world.4rc4de.com/public/app/</link>
       <guid isPermaLink="false">https://swarm-world.4rc4de.com/public/app/</guid>
       <category>model</category>
       <pubDate>Wed, 04 Nov 2026 14:09:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I Wrote a Book: The Art and Science of LLM Jailbreaking</title>
-      <link>https://leanpub.com/theartandscienceofllmjailbreaking</link>
-      <guid isPermaLink="false">https://leanpub.com/theartandscienceofllmjailbreaking</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 13:58:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,19 +158,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12123</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12123</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12123</guid>
+      <title>llama.cpp: b12130</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12130</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12130</guid>
       <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 06:46:54 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 19:39:53 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12122</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12122</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12122</guid>
+      <title>llama.cpp: b12129</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12129</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12129</guid>
       <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 06:19:16 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 18:51:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,19 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</guid>
+      <title>Kinference: Open-source inference control plane for vLLM</title>
+      <link>https://vllm.ai/blog/2026-11-04-introducing-kinference</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-04-introducing-kinference</guid>
       <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 03:36:38 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 05 Nov 2026 10:21:08 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12124: opencl: support non-contig sigmoid (#31687)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12124</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12124</guid>
+      <title>llama.cpp: b12131: server : drop u8path() and use generic_string() (#31682)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12131</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12131</guid>
       <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 03:18:24 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:37:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,19 +206,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.40.15</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 03:36:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Running quantum circuits inside llama.cpp</title>
       <link>https://github.com/dakk/qullama</link>
       <guid isPermaLink="false">https://github.com/dakk/qullama</guid>
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 10:45:06 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Fixing Tool-Call Accuracy in vLLM</title>
-      <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-      <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-      <category>harness</category>
-      <pubDate>Mon, 26 Oct 2026 12:59:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -230,20 +230,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.15-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 15:09:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request</title>
       <link>https://github.com/hari-kancharla/sdcguard</link>
       <guid isPermaLink="false">https://github.com/hari-kancharla/sdcguard</guid>
       <category>harness</category>
       <pubDate>Mon, 02 Nov 2026 17:47:12 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</guid>
+      <category>harness</category>
+      <pubDate>Tue, 03 Nov 2026 15:09:06 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.14</title>

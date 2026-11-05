@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-11-05T06:58:27.192210+00:00",
+  "generated_at": "2026-11-05T20:05:27.038856+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 14,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
+        "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
+        "url": "https://www.ricursive.com/ripple",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-05T18:59:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T19:35:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 78,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
         "url": "https://uncracked.city",
         "source": "hn",
-        "score": 124,
+        "score": 127,
         "published": "2026-11-03T21:20:03Z",
         "truthiness": {
           "label": "green",
@@ -17,11 +61,33 @@
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 147,
+        "score": 148,
         "published": "2026-11-02T22:26:53Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "source": "hn",
+        "score": 611,
+        "published": "2026-10-29T14:57:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "source": "hn",
+        "score": 544,
+        "published": "2026-10-27T19:55:06Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
         }
       },
       {
@@ -33,28 +99,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
-        "title": "LLM Voice",
-        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-        "source": "hn",
-        "score": 610,
-        "published": "2026-10-29T14:57:55Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
-        }
-      },
-      {
-        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-        "url": "https://www.brangus.io/survival-llm",
-        "source": "hn",
-        "score": 543,
-        "published": "2026-10-27T19:55:06Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
         }
       },
       {
@@ -80,39 +124,6 @@
         }
       },
       {
-        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-        "url": "https://www.linum.ai/field-notes/pjit-21k",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-04T16:45:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Concerning behavior from a popular open-weight AI model",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "hn",
-        "score": 337,
-        "published": "2026-10-26T16:35:44Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 337 points)"
-        }
-      },
-      {
-        "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
-        "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-04T18:30:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
         "url": "https://swarm-world.4rc4de.com/public/app/",
         "source": "hn",
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "I Wrote a Book: The Art and Science of LLM Jailbreaking",
-        "url": "https://leanpub.com/theartandscienceofllmjailbreaking",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-04T13:58:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -216,22 +216,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12123",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12123",
+        "title": "llama.cpp: b12130",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12130",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-05T06:46:54+00:00",
+        "published": "2026-11-05T19:39:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12122",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12122",
+        "title": "llama.cpp: b12129",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12129",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-05T06:19:16+00:00",
+        "published": "2026-11-05T18:51:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,22 +249,22 @@
         }
       },
       {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T03:36:38+00:00",
+        "title": "Kinference: Open-source inference control plane for vLLM",
+        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-05T10:21:08Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "llama.cpp: b12124: opencl: support non-contig sigmoid (#31687)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12124",
+        "title": "llama.cpp: b12131: server : drop u8path() and use generic_string() (#31682)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12131",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-05T03:18:24+00:00",
+        "published": "2026-11-05T07:37:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,6 +282,17 @@
         }
       },
       {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T03:36:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Running quantum circuits inside llama.cpp",
         "url": "https://github.com/dakk/qullama",
         "source": "hn",
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "source": "hn",
-        "score": 172,
-        "published": "2026-10-26T12:59:48Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -315,17 +315,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.15-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T15:09:06+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request",
         "url": "https://github.com/hari-kancharla/sdcguard",
         "source": "hn",
@@ -334,6 +323,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-03T15:09:06+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
