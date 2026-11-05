@@ -4,29 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:58:27 +0000</lastBuildDate>
     <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
       <link>https://uncracked.city</link>
       <guid isPermaLink="false">https://uncracked.city</guid>
       <category>model</category>
       <pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ripple-65B Preview: Ricursive Intelligence&#x27;s Open-Weight American SOTA Model</title>
-      <link>https://twitter.com/RicursiveAI/status/2118046765857546733</link>
-      <guid isPermaLink="false">https://twitter.com/RicursiveAI/status/2118046765857546733</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 18:30:20 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
-      <link>https://www.linum.ai/field-notes/pjit-21k</link>
-      <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,19 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
+      <link>https://vernerobotics.com/research/verne-v0-5</link>
+      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
       <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Swarm World – local LLM creatures living in a little tile world</title>
-      <link>https://swarm-world.4rc4de.com/public/app/</link>
-      <guid isPermaLink="false">https://swarm-world.4rc4de.com/public/app/</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 14:09:29 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,27 +38,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I Wrote a Book: The Art and Science of LLM Jailbreaking</title>
-      <link>https://leanpub.com/theartandscienceofllmjailbreaking</link>
-      <guid isPermaLink="false">https://leanpub.com/theartandscienceofllmjailbreaking</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 13:58:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
       <link>https://www.brangus.io/survival-llm</link>
       <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
       <category>model</category>
       <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%</title>
-      <link>https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</link>
-      <guid isPermaLink="false">https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</guid>
-      <category>model</category>
-      <pubDate>Tue, 03 Nov 2026 20:57:15 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +54,51 @@
       <source>hn</source>
     </item>
     <item>
-      <title>IBM CEO says open weight models are now good and cheap on-prem</title>
-      <link>https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</link>
-      <guid isPermaLink="false">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</guid>
+      <title>Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%</title>
+      <link>https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</link>
+      <guid isPermaLink="false">https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</guid>
       <category>model</category>
-      <pubDate>Mon, 26 Oct 2026 01:47:46 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 20:57:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
+      <link>https://www.linum.ai/field-notes/pjit-21k</link>
+      <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Concerning behavior from a popular open-weight AI model</title>
+      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+      <guid isPermaLink="false">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</guid>
+      <category>model</category>
+      <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ripple-65B Preview: Ricursive Intelligence&#x27;s Open-Weight American SOTA Model</title>
+      <link>https://twitter.com/RicursiveAI/status/2118046765857546733</link>
+      <guid isPermaLink="false">https://twitter.com/RicursiveAI/status/2118046765857546733</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 18:30:20 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Swarm World – local LLM creatures living in a little tile world</title>
+      <link>https://swarm-world.4rc4de.com/public/app/</link>
+      <guid isPermaLink="false">https://swarm-world.4rc4de.com/public/app/</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 14:09:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I Wrote a Book: The Art and Science of LLM Jailbreaking</title>
+      <link>https://leanpub.com/theartandscienceofllmjailbreaking</link>
+      <guid isPermaLink="false">https://leanpub.com/theartandscienceofllmjailbreaking</guid>
+      <category>model</category>
+      <pubDate>Wed, 04 Nov 2026 13:58:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -158,12 +158,44 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12123</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12123</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12123</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 06:46:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12122</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12122</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12122</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 06:19:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
       <link>https://github.com/flitai-io/gpuworks</link>
       <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 03:36:38 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12124: opencl: support non-contig sigmoid (#31687)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12124</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12124</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 03:18:24 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Desktop app from the llama.cpp team (Mac OS and Windows)</title>
@@ -182,30 +214,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12111: common : delete common_get_path_from_env() (#31444)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12111</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12111</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 13:21:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: v0.9.0</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 13:09:55 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12110</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12110</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12110</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 12:56:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Fixing Tool-Call Accuracy in vLLM</title>
       <link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
       <guid isPermaLink="false">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
@@ -222,11 +230,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.15</title>
+      <title>ollama: v0.40.15-rc0</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 22:52:31 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 15:09:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -243,14 +251,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14</guid>
       <category>harness</category>
       <pubDate>Tue, 03 Nov 2026 06:57:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.14-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 00:59:50 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>

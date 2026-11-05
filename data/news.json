@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T19:54:12.473338+00:00",
+  "generated_at": "2026-11-05T06:58:27.192210+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
         "url": "https://uncracked.city",
         "source": "hn",
-        "score": 119,
+        "score": 124,
         "published": "2026-11-03T21:20:03Z",
         "truthiness": {
           "label": "green",
@@ -14,32 +14,10 @@
         }
       },
       {
-        "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
-        "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-04T18:30:20Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-        "url": "https://www.linum.ai/field-notes/pjit-21k",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-04T16:45:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 146,
+        "score": 147,
         "published": "2026-11-02T22:26:53Z",
         "truthiness": {
           "label": "green",
@@ -47,25 +25,14 @@
         }
       },
       {
-        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T17:50:10+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
-        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "title": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model",
+        "url": "https://vernerobotics.com/research/verne-v0-5",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-04T14:09:29Z",
+        "score": 6,
+        "published": "2026-11-04T20:47:24Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       },
       {
@@ -80,17 +47,6 @@
         }
       },
       {
-        "title": "I Wrote a Book: The Art and Science of LLM Jailbreaking",
-        "url": "https://leanpub.com/theartandscienceofllmjailbreaking",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-04T13:58:04Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
@@ -99,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
         }
       },
       {
@@ -113,25 +80,58 @@
         }
       },
       {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 107,
-        "published": "2026-10-31T12:58:29Z",
+        "score": 2,
+        "published": "2026-11-04T16:45:11Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "IBM CEO says open weight models are now good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "hn",
-        "score": 428,
-        "published": "2026-10-26T01:47:46Z",
+        "score": 337,
+        "published": "2026-10-26T16:35:44Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 13 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 337 points)"
+        }
+      },
+      {
+        "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
+        "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-04T18:30:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
+        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-04T14:09:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "I Wrote a Book: The Art and Science of LLM Jailbreaking",
+        "url": "https://leanpub.com/theartandscienceofllmjailbreaking",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-04T13:58:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -216,14 +216,58 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b12123",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12123",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T06:46:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12122",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12122",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T06:19:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
         "url": "https://github.com/flitai-io/gpuworks",
         "source": "hn",
-        "score": 2,
+        "score": 25,
         "published": "2026-11-04T16:09:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T03:36:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12124: opencl: support non-contig sigmoid (#31687)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12124",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T03:18:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,39 +293,6 @@
         }
       },
       {
-        "title": "llama.cpp: b12111: common : delete common_get_path_from_env() (#31444)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12111",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T13:21:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: v0.9.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T13:09:55+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12110",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12110",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-04T12:56:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Fixing Tool-Call Accuracy in vLLM",
         "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
         "source": "hn",
@@ -304,11 +315,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.15",
+        "title": "ollama: v0.40.15-rc0",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-03T22:52:31+00:00",
+        "published": "2026-11-03T15:09:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -331,17 +342,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-11-03T06:57:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.14-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T00:59:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
