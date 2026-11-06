@@ -1,49 +1,38 @@
 {
-  "generated_at": "2026-11-05T20:05:27.038856+00:00",
+  "generated_at": "2026-11-06T06:59:40.787960+00:00",
   "sections": {
     "model": [
       {
-        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-        "source": "hn",
-        "score": 14,
-        "published": "2026-11-05T15:25:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
-        }
-      },
-      {
-        "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
-        "url": "https://www.ricursive.com/ripple",
+        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-05T18:59:36Z",
+        "published": "2026-11-06T06:18:29Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T19:35:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 78,
+        "score": 199,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 26,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
         }
       },
       {
@@ -83,11 +72,22 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "source": "hn",
-        "score": 544,
+        "score": 546,
         "published": "2026-10-27T19:55:06Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 511 points)"
+        }
+      },
+      {
+        "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
+        "url": "https://www.ricursive.com/ripple",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-05T18:59:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -102,14 +102,14 @@
         }
       },
       {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
-        "source": "hn",
-        "score": 109,
-        "published": "2026-10-31T12:58:29Z",
+        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T19:35:16+00:00",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 31 points)"
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
-        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-04T14:09:29Z",
+        "score": 57,
+        "published": "2026-10-29T00:30:37Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
         }
       }
     ],
@@ -192,17 +192,6 @@
         }
       },
       {
-        "title": "Who Governs the Governor? – Stored Prompt Injection Through the API Gateway",
-        "url": "https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-10-27T02:53:22Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
         "url": "https://www.blazle.io/",
         "source": "hn",
@@ -216,36 +205,47 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12130",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12130",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T19:39:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12129",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12129",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T18:51:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
         "url": "https://github.com/flitai-io/gpuworks",
         "source": "hn",
-        "score": 25,
+        "score": 30,
         "published": "2026-11-04T16:09:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12164",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12164",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T02:15:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T01:47:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T21:41:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,11 +260,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12131: server : drop u8path() and use generic_string() (#31682)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12131",
+        "title": "llama.cpp: b12153: server : simplify windows MCP command resolution (#31728)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12153",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-05T07:37:13+00:00",
+        "published": "2026-11-05T14:34:54+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12152: vendor : update cpp-httplib to 0.65.0 (#31731)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12152",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T14:34:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -282,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T03:36:38+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Running quantum circuits inside llama.cpp",
         "url": "https://github.com/dakk/qullama",
         "source": "hn",
@@ -301,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15-rc1: llama.cpp: version bump b12111 (#19530)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T01:31:38+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -323,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.15-rc0",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T15:09:06+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.14",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-03T06:57:31+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

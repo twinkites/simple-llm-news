@@ -4,30 +4,14 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 20:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:59:40 +0000</lastBuildDate>
     <item>
-      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
-      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
-      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
+      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
+      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
       <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
-      <link>https://www.ricursive.com/ripple</link>
-      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
@@ -35,6 +19,14 @@
       <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
       <category>model</category>
       <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
+      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
+      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,6 +62,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
+      <link>https://www.ricursive.com/ripple</link>
+      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
       <link>https://vernerobotics.com/research/verne-v0-5</link>
       <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
@@ -78,12 +78,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: A language model that lives in a boot sector</title>
-      <link>https://github.com/kerlenton/bootgpt</link>
-      <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
+      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
       <category>model</category>
-      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%</title>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Swarm World – local LLM creatures living in a little tile world</title>
-      <link>https://swarm-world.4rc4de.com/public/app/</link>
-      <guid isPermaLink="false">https://swarm-world.4rc4de.com/public/app/</guid>
+      <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
+      <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
+      <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
       <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 14:09:29 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,36 +142,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Who Governs the Governor? – Stored Prompt Injection Through the API Gateway</title>
-      <link>https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</link>
-      <guid isPermaLink="false">https://www.druhindhavala.com/ai-governance/stored-prompt-injection-api-gateway/</guid>
-      <category>security</category>
-      <pubDate>Tue, 27 Oct 2026 02:53:22 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Blazle – Block prompt injection and secret leaks before AI agents act</title>
       <link>https://www.blazle.io/</link>
       <guid isPermaLink="false">https://www.blazle.io/</guid>
       <category>security</category>
       <pubDate>Tue, 27 Oct 2026 18:11:13 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12130</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12130</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12130</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 19:39:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12129</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12129</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12129</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 18:51:11 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
@@ -182,6 +158,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12164</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12164</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12164</guid>
+      <category>harness</category>
+      <pubDate>Fri, 06 Nov 2026 02:15:58 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15</guid>
+      <category>harness</category>
+      <pubDate>Fri, 06 Nov 2026 01:47:18 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 21:41:21 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Kinference: Open-source inference control plane for vLLM</title>
       <link>https://vllm.ai/blog/2026-11-04-introducing-kinference</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-11-04-introducing-kinference</guid>
@@ -190,11 +190,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12131: server : drop u8path() and use generic_string() (#31682)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12131</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12131</guid>
+      <title>llama.cpp: b12153: server : simplify windows MCP command resolution (#31728)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12153</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12153</guid>
       <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 07:37:13 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 14:34:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12152: vendor : update cpp-httplib to 0.65.0 (#31731)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12152</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12152</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 14:34:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -206,20 +214,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 03:36:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Running quantum circuits inside llama.cpp</title>
       <link>https://github.com/dakk/qullama</link>
       <guid isPermaLink="false">https://github.com/dakk/qullama</guid>
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 10:45:06 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15-rc1: llama.cpp: version bump b12111 (#19530)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 01:31:38 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step</title>
@@ -236,22 +244,6 @@
       <category>harness</category>
       <pubDate>Mon, 02 Nov 2026 17:47:12 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.15-rc0</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 15:09:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.14</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.14</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.14</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 06:57:31 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
