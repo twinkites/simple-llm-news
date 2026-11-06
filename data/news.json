@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-06T06:59:40.787960+00:00",
+  "generated_at": "2026-11-06T19:31:42.961510+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
-        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-06T06:18:29Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 199,
+        "score": 266,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
@@ -28,7 +17,7 @@
         "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
         "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
         "source": "hn",
-        "score": 26,
+        "score": 29,
         "published": "2026-11-05T15:25:36Z",
         "truthiness": {
           "label": "yellow",
@@ -47,17 +36,6 @@
         }
       },
       {
-        "title": "LLMs are not superhuman at reading and writing neural network weights",
-        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-        "source": "hn",
-        "score": 148,
-        "published": "2026-11-02T22:26:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
-        }
-      },
-      {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
@@ -66,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "LLMs are not superhuman at reading and writing neural network weights",
+        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "source": "hn",
+        "score": 151,
+        "published": "2026-11-02T22:26:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
         }
       },
       {
@@ -80,14 +69,36 @@
         }
       },
       {
-        "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
-        "url": "https://www.ricursive.com/ripple",
+        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "url": "https://huggingface.co/blog/allenai/toyblocks",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T14:00:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-05T18:59:36Z",
+        "score": 2,
+        "published": "2026-11-06T06:18:29Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T19:35:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
         "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
+        "url": "https://www.ricursive.com/ripple",
         "source": "hn",
-        "score": 57,
-        "published": "2026-10-29T00:30:37Z",
+        "score": 1,
+        "published": "2026-11-05T18:59:36Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -156,6 +156,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "The Secret Leak Test: a prompt injection filter vs. attacks",
+        "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-06T08:32:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -190,20 +201,42 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
-        "url": "https://www.blazle.io/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-10-27T18:11:13Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
+      {
+        "title": "llama.cpp: b12177",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12177",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T17:13:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12176",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12176",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T16:43:44+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12175",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12175",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T16:11:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
         "url": "https://github.com/flitai-io/gpuworks",
@@ -216,14 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b12164",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12164",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-06T02:15:58+00:00",
+        "title": "Kinference: Open-source inference control plane for vLLM",
+        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-05T10:21:08Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -243,39 +276,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-11-05T21:41:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Kinference: Open-source inference control plane for vLLM",
-        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-05T10:21:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12153: server : simplify windows MCP command resolution (#31728)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12153",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T14:34:54+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12152: vendor : update cpp-httplib to 0.65.0 (#31731)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12152",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T14:34:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

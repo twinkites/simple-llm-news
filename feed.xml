@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 06:59:40 +0000</lastBuildDate>
-    <item>
-      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
-      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
-      <category>model</category>
-      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 19:31:42 +0000</lastBuildDate>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
@@ -38,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLMs are not superhuman at reading and writing neural network weights</title>
-      <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
-      <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
-      <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>LLM Voice</title>
       <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
       <guid isPermaLink="false">https://martinfowler.com/bliki/LLM-Voice.html</guid>
       <category>model</category>
       <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LLMs are not superhuman at reading and writing neural network weights</title>
+      <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
+      <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
+      <category>model</category>
+      <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,11 +54,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
-      <link>https://www.ricursive.com/ripple</link>
-      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
       <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
+      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
+      <category>model</category>
+      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: A language model that lives in a boot sector</title>
+      <link>https://github.com/kerlenton/bootgpt</link>
+      <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
+      <category>model</category>
+      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%</title>
       <link>https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</link>
       <guid isPermaLink="false">https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/</guid>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
-      <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
-      <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
+      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
+      <link>https://www.ricursive.com/ripple</link>
+      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
       <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -115,6 +115,14 @@
       <guid isPermaLink="false">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</guid>
       <category>security</category>
       <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Secret Leak Test: a prompt injection filter vs. attacks</title>
+      <link>https://hodor.gatebolt.com/blog/secret-leak-test</link>
+      <guid isPermaLink="false">https://hodor.gatebolt.com/blog/secret-leak-test</guid>
+      <category>security</category>
+      <pubDate>Fri, 06 Nov 2026 08:32:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -142,12 +150,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Blazle – Block prompt injection and secret leaks before AI agents act</title>
-      <link>https://www.blazle.io/</link>
-      <guid isPermaLink="false">https://www.blazle.io/</guid>
-      <category>security</category>
-      <pubDate>Tue, 27 Oct 2026 18:11:13 +0000</pubDate>
-      <source>hn</source>
+      <title>llama.cpp: b12177</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12177</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12177</guid>
+      <category>harness</category>
+      <pubDate>Fri, 06 Nov 2026 17:13:20 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12176</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12176</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12176</guid>
+      <category>harness</category>
+      <pubDate>Fri, 06 Nov 2026 16:43:44 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12175</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12175</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12175</guid>
+      <category>harness</category>
+      <pubDate>Fri, 06 Nov 2026 16:11:07 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
@@ -158,12 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12164</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12164</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12164</guid>
+      <title>Kinference: Open-source inference control plane for vLLM</title>
+      <link>https://vllm.ai/blog/2026-11-04-introducing-kinference</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-04-introducing-kinference</guid>
       <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 02:15:58 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 05 Nov 2026 10:21:08 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.15</title>
@@ -179,30 +203,6 @@
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</guid>
       <category>harness</category>
       <pubDate>Thu, 05 Nov 2026 21:41:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Kinference: Open-source inference control plane for vLLM</title>
-      <link>https://vllm.ai/blog/2026-11-04-introducing-kinference</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-04-introducing-kinference</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 10:21:08 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12153: server : simplify windows MCP command resolution (#31728)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12153</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12153</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 14:34:54 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12152: vendor : update cpp-httplib to 0.65.0 (#31731)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12152</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12152</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 14:34:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
