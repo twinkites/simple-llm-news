@@ -4,21 +4,13 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 19:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:09:41 +0000</lastBuildDate>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
       <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
       <category>model</category>
       <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
-      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
-      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,35 +30,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
+      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
+      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>LLMs are not superhuman at reading and writing neural network weights</title>
       <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
-      <link>https://www.brangus.io/survival-llm</link>
-      <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
-      <category>model</category>
-      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-      <link>https://huggingface.co/blog/allenai/toyblocks</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
-      <category>model</category>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
-      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
-      <category>model</category>
-      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,12 +54,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
-      <link>https://vernerobotics.com/research/verne-v0-5</link>
-      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
+      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
+      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
       <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
+      <category>model</category>
+      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%</title>
@@ -94,11 +78,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Introducing Ripple-65B Preview, a Frontier Open-Weight Model</title>
-      <link>https://www.ricursive.com/ripple</link>
-      <guid isPermaLink="false">https://www.ricursive.com/ripple</guid>
+      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
+      <link>https://vernerobotics.com/research/verne-v0-5</link>
+      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
       <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 18:59:36 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Heretic 2.0 Released: Training-free language model modification</title>
+      <link>https://news.ycombinator.com/item?id=50328567</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <category>model</category>
+      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
+      <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
+      <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
+      <category>model</category>
+      <pubDate>Thu, 29 Oct 2026 00:30:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12177</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12177</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12177</guid>
+      <title>llama.cpp: b12182</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12182</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12182</guid>
       <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 17:13:20 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 03:35:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12176</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12176</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12176</guid>
+      <title>Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp</title>
+      <link>https://zaage.it/writing/llama-sleep/</link>
+      <guid isPermaLink="false">https://zaage.it/writing/llama-sleep/</guid>
       <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 16:43:44 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 22:59:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12181: hexagon: fuse post-norm residual add into RMS_NORM_MUL (#31822)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12181</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12181</guid>
+      <category>harness</category>
+      <pubDate>Sat, 07 Nov 2026 00:06:59 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12175</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12175</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12175</guid>
+      <title>llama.cpp: b12180</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12180</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12180</guid>
       <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 16:11:07 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 23:24:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,20 +206,20 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.15-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 21:41:21 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Desktop app from the llama.cpp team (Mac OS and Windows)</title>
       <link>https://llama.app/models</link>
       <guid isPermaLink="false">https://llama.app/models</guid>
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 12:00:53 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.15-rc2</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 05 Nov 2026 21:41:21 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Running quantum circuits inside llama.cpp</title>
@@ -235,14 +243,6 @@
       <guid isPermaLink="false">https://github.com/1solomonwakhungu/runpod-vllm-deployer</guid>
       <category>harness</category>
       <pubDate>Tue, 03 Nov 2026 15:02:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: SDCGuard – Inspect vLLM KV-checksum coverage per request</title>
-      <link>https://github.com/hari-kancharla/sdcguard</link>
-      <guid isPermaLink="false">https://github.com/hari-kancharla/sdcguard</guid>
-      <category>harness</category>
-      <pubDate>Mon, 02 Nov 2026 17:47:12 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
