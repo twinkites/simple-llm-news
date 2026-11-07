@@ -1,38 +1,27 @@
 {
-  "generated_at": "2026-11-07T13:16:16.113557+00:00",
+  "generated_at": "2026-11-07T21:59:45.498788+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 276,
+        "score": 281,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
-        "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-07T10:15:17Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "source": "hn",
-        "score": 127,
-        "published": "2026-11-03T21:20:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
         }
       },
       {
@@ -44,6 +33,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "source": "hn",
+        "score": 127,
+        "published": "2026-11-03T21:20:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
         }
       },
       {
@@ -66,6 +66,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
+        "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
+        "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-07T10:15:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model",
-        "url": "https://vernerobotics.com/research/verne-v0-5",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-11-04T20:47:24Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
-        }
-      },
-      {
         "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
         "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Heretic 2.0 Released: Training-free language model modification",
-        "url": "https://news.ycombinator.com/item?id=50328567",
+        "title": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model",
+        "url": "https://vernerobotics.com/research/verne-v0-5",
         "source": "hn",
-        "score": 22,
-        "published": "2026-11-01T19:01:42Z",
+        "score": 6,
+        "published": "2026-11-04T20:47:24Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
         }
       }
     ],
@@ -205,33 +205,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12189",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12189",
+        "title": "llama.cpp: b12192",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12192",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T12:19:19+00:00",
+        "published": "2026-11-07T21:31:27+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12188",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12188",
+        "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+        "url": "https://github.com/lhadzic377-netizen/TokiRecur",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T18:08:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12191",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12191",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T12:02:12+00:00",
+        "published": "2026-11-07T21:14:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12187",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12187",
+        "title": "llama.cpp: b12190",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12190",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T11:45:49+00:00",
+        "published": "2026-11-07T14:02:58+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step",
-        "url": "https://github.com/1solomonwakhungu/runpod-vllm-deployer",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T15:02:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

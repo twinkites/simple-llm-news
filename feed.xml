@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 13:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:59:45 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA</title>
+      <link>https://github.com/ImpossibleComputing/jacq</link>
+      <guid isPermaLink="false">https://github.com/ImpossibleComputing/jacq</guid>
+      <category>model</category>
+      <pubDate>Sat, 07 Nov 2026 17:58:49 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
@@ -14,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>OMLX: Use a second Mac to speed up local LLM prefill 2.9x</title>
-      <link>https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1</link>
-      <guid isPermaLink="false">https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1</guid>
+      <title>LLM Voice</title>
+      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
+      <guid isPermaLink="false">https://martinfowler.com/bliki/LLM-Voice.html</guid>
       <category>model</category>
-      <pubDate>Sat, 07 Nov 2026 10:15:17 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -27,14 +35,6 @@
       <guid isPermaLink="false">https://uncracked.city</guid>
       <category>model</category>
       <pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LLM Voice</title>
-      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
-      <guid isPermaLink="false">https://martinfowler.com/bliki/LLM-Voice.html</guid>
-      <category>model</category>
-      <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -51,6 +51,14 @@
       <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
       <category>model</category>
       <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>OMLX: Use a second Mac to speed up local LLM prefill 2.9x</title>
+      <link>https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1</link>
+      <guid isPermaLink="false">https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1</guid>
+      <category>model</category>
+      <pubDate>Sat, 07 Nov 2026 10:15:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
-      <link>https://vernerobotics.com/research/verne-v0-5</link>
-      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
-      <category>model</category>
-      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>MicroZig to Adopt Strict No LLM / No AI Policy</title>
       <link>https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</link>
       <guid isPermaLink="false">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</guid>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Heretic 2.0 Released: Training-free language model modification</title>
-      <link>https://news.ycombinator.com/item?id=50328567</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
+      <title>Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model</title>
+      <link>https://vernerobotics.com/research/verne-v0-5</link>
+      <guid isPermaLink="false">https://vernerobotics.com/research/verne-v0-5</guid>
       <category>model</category>
-      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 20:47:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12189</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12189</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12189</guid>
+      <title>llama.cpp: b12192</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12192</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12192</guid>
       <category>harness</category>
-      <pubDate>Sat, 07 Nov 2026 12:19:19 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 21:31:27 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12188</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12188</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12188</guid>
+      <title>TokiRecur – llama.cpp LLM launcher with KV-cache recycling</title>
+      <link>https://github.com/lhadzic377-netizen/TokiRecur</link>
+      <guid isPermaLink="false">https://github.com/lhadzic377-netizen/TokiRecur</guid>
       <category>harness</category>
-      <pubDate>Sat, 07 Nov 2026 12:02:12 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 18:08:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12191</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12191</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12191</guid>
+      <category>harness</category>
+      <pubDate>Sat, 07 Nov 2026 21:14:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12187</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12187</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12187</guid>
+      <title>llama.cpp: b12190</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12190</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12190</guid>
       <category>harness</category>
-      <pubDate>Sat, 07 Nov 2026 11:45:49 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 14:02:58 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -236,14 +244,6 @@
       <category>harness</category>
       <pubDate>Thu, 05 Nov 2026 01:31:38 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step</title>
-      <link>https://github.com/1solomonwakhungu/runpod-vllm-deployer</link>
-      <guid isPermaLink="false">https://github.com/1solomonwakhungu/runpod-vllm-deployer</guid>
-      <category>harness</category>
-      <pubDate>Tue, 03 Nov 2026 15:02:23 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>
