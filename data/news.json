@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-07T06:09:41.849375+00:00",
+  "generated_at": "2026-11-07T13:16:16.113557+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 273,
+        "score": 276,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
+        "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-07T10:15:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -36,17 +47,6 @@
         }
       },
       {
-        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-        "source": "hn",
-        "score": 29,
-        "published": "2026-11-05T15:25:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
-        }
-      },
-      {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
@@ -55,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
         }
       },
       {
@@ -72,22 +83,11 @@
         "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
         "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-11-06T06:18:29Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-        "url": "https://huggingface.co/blog/allenai/toyblocks",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-06T14:00:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -113,17 +113,6 @@
         }
       },
       {
-        "title": "Heretic 2.0 Released: Training-free language model modification",
-        "url": "https://news.ycombinator.com/item?id=50328567",
-        "source": "hn",
-        "score": 22,
-        "published": "2026-11-01T19:01:42Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
-        }
-      },
-      {
         "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
         "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
         "source": "hn",
@@ -132,6 +121,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
+        "source": "hn",
+        "score": 22,
+        "published": "2026-11-01T19:01:42Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
         }
       }
     ],
@@ -205,44 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12182",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12182",
+        "title": "llama.cpp: b12189",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12189",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T03:35:00+00:00",
+        "published": "2026-11-07T12:19:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
-        "url": "https://zaage.it/writing/llama-sleep/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-06T22:59:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12181: hexagon: fuse post-norm residual add into RMS_NORM_MUL (#31822)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12181",
+        "title": "llama.cpp: b12188",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12188",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T00:06:59+00:00",
+        "published": "2026-11-07T12:02:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12180",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12180",
+        "title": "llama.cpp: b12187",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12187",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-06T23:24:23+00:00",
+        "published": "2026-11-07T11:45:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,6 +249,17 @@
         }
       },
       {
+        "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
+        "url": "https://zaage.it/writing/llama-sleep/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-06T22:59:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Kinference: Open-source inference control plane for vLLM",
         "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
         "source": "hn",
@@ -268,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-06T01:47:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,11 +282,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.15-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-05T21:41:21+00:00",
+        "published": "2026-11-06T01:47:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15-rc2",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-05T21:41:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
