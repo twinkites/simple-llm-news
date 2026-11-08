@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-08T13:36:57.737530+00:00",
+  "generated_at": "2026-11-08T22:16:33.697323+00:00",
   "sections": {
     "model": [
       {
-        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
-        "url": "https://github.com/harelix/aiport",
+        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
+        "url": "https://promptinjections.de/threat-index/zahlen/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-08T11:44:16Z",
+        "score": 3,
+        "published": "2026-11-08T18:43:41Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 283,
+        "score": 284,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
@@ -25,14 +25,14 @@
         }
       },
       {
-        "title": "LLM Voice",
-        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "title": "I made an open-web protocol for local LLM storage sharing",
+        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
         "source": "hn",
-        "score": 612,
-        "published": "2026-10-29T14:57:55Z",
+        "score": 2,
+        "published": "2026-11-08T14:38:57Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -47,6 +47,17 @@
         }
       },
       {
+        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+        "url": "https://github.com/harelix/aiport",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-08T11:44:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
@@ -55,17 +66,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
-        }
-      },
-      {
-        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-        "url": "https://github.com/ImpossibleComputing/jacq",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T17:58:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -80,14 +80,25 @@
         }
       },
       {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
         "source": "hn",
-        "score": 109,
-        "published": "2026-10-31T12:58:29Z",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+        "url": "https://concepts.laxmena.com/",
+        "source": "hn",
+        "score": 41,
+        "published": "2026-11-03T15:48:35Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
         }
       },
       {
@@ -96,17 +107,6 @@
         "source": "hn",
         "score": 1,
         "published": "2026-11-07T10:15:17Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
-        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-06T06:18:29Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Heretic 2.0 Released: Training-free language model modification",
-        "url": "https://news.ycombinator.com/item?id=50328567",
+        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
         "source": "hn",
-        "score": 22,
-        "published": "2026-11-01T19:01:42Z",
+        "score": 3,
+        "published": "2026-11-06T06:18:29Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -205,33 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12206",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12206",
+        "title": "llama.cpp: b12211",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12211",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T13:29:11+00:00",
+        "published": "2026-11-08T16:53:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12205: webgpu : add COUNT_EQUAL support (#31578)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12205",
+        "title": "llama.cpp: b12210",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12210",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T09:50:09+00:00",
+        "published": "2026-11-08T16:18:43+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12204: ci: move runners to Ubuntu 26.04 (#31529)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12204",
+        "title": "llama.cpp: b12209",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12209",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T09:47:29+00:00",
+        "published": "2026-11-08T16:04:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
