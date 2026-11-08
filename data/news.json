@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-07T21:59:45.498788+00:00",
+  "generated_at": "2026-11-08T06:14:45.031992+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-        "url": "https://github.com/ImpossibleComputing/jacq",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T17:58:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 281,
+        "score": 282,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
@@ -33,6 +22,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
+        }
+      },
+      {
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -69,6 +69,17 @@
         }
       },
       {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
         "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
         "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
         "source": "hn",
@@ -80,14 +91,14 @@
         }
       },
       {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
+        "title": "In LLM era, can software startup survive?",
+        "url": "https://news.ycombinator.com/item?id=50331001",
         "source": "hn",
-        "score": 109,
-        "published": "2026-10-31T12:58:29Z",
+        "score": 37,
+        "published": "2026-11-01T23:28:46Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 37 points)"
         }
       },
       {
@@ -113,25 +124,14 @@
         }
       },
       {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
         "source": "hn",
-        "score": 57,
-        "published": "2026-10-29T00:30:37Z",
+        "score": 22,
+        "published": "2026-11-01T19:01:42Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
-        }
-      },
-      {
-        "title": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model",
-        "url": "https://vernerobotics.com/research/verne-v0-5",
-        "source": "hn",
-        "score": 6,
-        "published": "2026-11-04T20:47:24Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 6 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
         }
       }
     ],
@@ -205,11 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12192",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12192",
+        "title": "llama.cpp: b12200: opencl: improve q8_0 and MoE small-n verification for spec (#31831)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12200",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-07T21:31:27+00:00",
+        "published": "2026-11-08T06:04:10+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12199",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12199",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T04:48:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12198",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12198",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T02:09:08+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -224,28 +246,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12191",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12191",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-07T21:14:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12190",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12190",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-07T14:02:58+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-06T01:47:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Running quantum circuits inside llama.cpp",
         "url": "https://github.com/dakk/qullama",
         "source": "hn",
@@ -312,6 +301,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-06T01:47:18+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -326,14 +326,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.15-rc1: llama.cpp: version bump b12111 (#19530)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T01:31:38+00:00",
+        "title": "Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step",
+        "url": "https://github.com/1solomonwakhungu/runpod-vllm-deployer",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-03T15:02:23Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
