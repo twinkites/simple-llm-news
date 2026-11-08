@@ -4,7 +4,15 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 06:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:36:57 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder</title>
+      <link>https://github.com/harelix/aiport</link>
+      <guid isPermaLink="false">https://github.com/harelix/aiport</guid>
+      <category>model</category>
+      <pubDate>Sun, 08 Nov 2026 11:44:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
@@ -22,14 +30,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA</title>
-      <link>https://github.com/ImpossibleComputing/jacq</link>
-      <guid isPermaLink="false">https://github.com/ImpossibleComputing/jacq</guid>
-      <category>model</category>
-      <pubDate>Sat, 07 Nov 2026 17:58:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
       <link>https://uncracked.city</link>
       <guid isPermaLink="false">https://uncracked.city</guid>
@@ -43,6 +43,14 @@
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA</title>
+      <link>https://github.com/ImpossibleComputing/jacq</link>
+      <guid isPermaLink="false">https://github.com/ImpossibleComputing/jacq</guid>
+      <category>model</category>
+      <pubDate>Sat, 07 Nov 2026 17:58:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -67,14 +75,6 @@
       <guid isPermaLink="false">https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1</guid>
       <category>model</category>
       <pubDate>Sat, 07 Nov 2026 10:15:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>In LLM era, can software startup survive?</title>
-      <link>https://news.ycombinator.com/item?id=50331001</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50331001</guid>
-      <category>model</category>
-      <pubDate>Sun, 01 Nov 2026 23:28:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,27 +150,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12200: opencl: improve q8_0 and MoE small-n verification for spec (#31831)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12200</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12200</guid>
+      <title>llama.cpp: b12206</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12206</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12206</guid>
       <category>harness</category>
-      <pubDate>Sun, 08 Nov 2026 06:04:10 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:29:11 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12199</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12199</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12199</guid>
+      <title>llama.cpp: b12205: webgpu : add COUNT_EQUAL support (#31578)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12205</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12205</guid>
       <category>harness</category>
-      <pubDate>Sun, 08 Nov 2026 04:48:16 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 09:50:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12198</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12198</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12198</guid>
+      <title>llama.cpp: b12204: ci: move runners to Ubuntu 26.04 (#31529)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12204</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12204</guid>
       <category>harness</category>
-      <pubDate>Sun, 08 Nov 2026 02:09:08 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 09:47:29 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

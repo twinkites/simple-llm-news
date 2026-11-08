@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-08T06:14:45.031992+00:00",
+  "generated_at": "2026-11-08T13:36:57.737530+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+        "url": "https://github.com/harelix/aiport",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-08T11:44:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 282,
+        "score": 283,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
@@ -17,22 +28,11 @@
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "source": "hn",
-        "score": 611,
+        "score": 612,
         "published": "2026-10-29T14:57:55Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 299 points)"
-        }
-      },
-      {
-        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-        "url": "https://github.com/ImpossibleComputing/jacq",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T17:58:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -55,6 +55,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -88,17 +99,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "In LLM era, can software startup survive?",
-        "url": "https://news.ycombinator.com/item?id=50331001",
-        "source": "hn",
-        "score": 37,
-        "published": "2026-11-01T23:28:46Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 37 points)"
         }
       },
       {
@@ -205,33 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12200: opencl: improve q8_0 and MoE small-n verification for spec (#31831)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12200",
+        "title": "llama.cpp: b12206",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12206",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T06:04:10+00:00",
+        "published": "2026-11-08T13:29:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12199",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12199",
+        "title": "llama.cpp: b12205: webgpu : add COUNT_EQUAL support (#31578)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12205",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T04:48:16+00:00",
+        "published": "2026-11-08T09:50:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12198",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12198",
+        "title": "llama.cpp: b12204: ci: move runners to Ubuntu 26.04 (#31529)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12204",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T02:09:08+00:00",
+        "published": "2026-11-08T09:47:29+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
