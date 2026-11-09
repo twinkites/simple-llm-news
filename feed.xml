@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 22:16:33 +0000</lastBuildDate>
-    <item>
-      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
-      <link>https://promptinjections.de/threat-index/zahlen/</link>
-      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 06:49:04 +0000</lastBuildDate>
     <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
@@ -22,11 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>I made an open-web protocol for local LLM storage sharing</title>
-      <link>https://joshuadd79.github.io/bring-your-own-brain/</link>
-      <guid isPermaLink="false">https://joshuadd79.github.io/bring-your-own-brain/</guid>
+      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
+      <link>https://promptinjections.de/threat-index/zahlen/</link>
+      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
       <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 14:38:57 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,19 +30,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder</title>
-      <link>https://github.com/harelix/aiport</link>
-      <guid isPermaLink="false">https://github.com/harelix/aiport</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 11:44:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>LLMs are not superhuman at reading and writing neural network weights</title>
       <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>I made an open-web protocol for local LLM storage sharing</title>
+      <link>https://joshuadd79.github.io/bring-your-own-brain/</link>
+      <guid isPermaLink="false">https://joshuadd79.github.io/bring-your-own-brain/</guid>
+      <category>model</category>
+      <pubDate>Sun, 08 Nov 2026 14:38:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,19 +54,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder</title>
+      <link>https://github.com/harelix/aiport</link>
+      <guid isPermaLink="false">https://github.com/harelix/aiport</guid>
+      <category>model</category>
+      <pubDate>Sun, 08 Nov 2026 11:44:16 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: A language model that lives in a boot sector</title>
+      <link>https://github.com/kerlenton/bootgpt</link>
+      <guid isPermaLink="false">https://github.com/kerlenton/bootgpt</guid>
+      <category>model</category>
+      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA</title>
       <link>https://github.com/ImpossibleComputing/jacq</link>
       <guid isPermaLink="false">https://github.com/ImpossibleComputing/jacq</guid>
       <category>model</category>
       <pubDate>Sat, 07 Nov 2026 17:58:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals</title>
-      <link>https://concepts.laxmena.com/</link>
-      <guid isPermaLink="false">https://concepts.laxmena.com/</guid>
-      <category>model</category>
-      <pubDate>Tue, 03 Nov 2026 15:48:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Inkling 2 Small: highest-scoring open weights model developed outside China</title>
-      <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
+      <title>Heretic 2.0 Released: Training-free language model modification</title>
+      <link>https://news.ycombinator.com/item?id=50328567</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328567</guid>
       <category>model</category>
-      <pubDate>Fri, 06 Nov 2026 06:18:29 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -130,7 +130,7 @@
       <link>https://epoch.ai/publications/open-weight-models-patch-gap</link>
       <guid isPermaLink="false">https://epoch.ai/publications/open-weight-models-patch-gap</guid>
       <category>security</category>
-      <pubDate>Thu, 29 Oct 2026 22:32:46 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 04:55:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -166,6 +166,14 @@
       <source>rss</source>
     </item>
     <item>
+      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
+      <link>https://github.com/flitai-io/gpuworks</link>
+      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
+      <category>harness</category>
+      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>llama.cpp: b12209</title>
       <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12209</link>
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12209</guid>
@@ -179,14 +187,6 @@
       <guid isPermaLink="false">https://github.com/lhadzic377-netizen/TokiRecur</guid>
       <category>harness</category>
       <pubDate>Sat, 07 Nov 2026 18:08:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
-      <link>https://github.com/flitai-io/gpuworks</link>
-      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>

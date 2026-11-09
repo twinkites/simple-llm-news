@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-08T22:16:33.697323+00:00",
+  "generated_at": "2026-11-09T06:49:04.828347+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 285,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
         "url": "https://promptinjections.de/threat-index/zahlen/",
@@ -11,28 +22,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-        "url": "https://www.linum.ai/field-notes/pjit-21k",
-        "source": "hn",
-        "score": 284,
-        "published": "2026-11-04T16:45:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "I made an open-web protocol for local LLM storage sharing",
-        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-08T14:38:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -47,17 +36,6 @@
         }
       },
       {
-        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
-        "url": "https://github.com/harelix/aiport",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-08T11:44:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
@@ -66,6 +44,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "I made an open-web protocol for local LLM storage sharing",
+        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-08T14:38:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -80,6 +69,28 @@
         }
       },
       {
+        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+        "url": "https://github.com/harelix/aiport",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-08T11:44:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
         "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
         "url": "https://github.com/ImpossibleComputing/jacq",
         "source": "hn",
@@ -88,17 +99,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-        "url": "https://concepts.laxmena.com/",
-        "source": "hn",
-        "score": 41,
-        "published": "2026-11-03T15:48:35Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
-        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
+        "title": "Heretic 2.0 Released: Training-free language model modification",
+        "url": "https://news.ycombinator.com/item?id=50328567",
         "source": "hn",
-        "score": 3,
-        "published": "2026-11-06T06:18:29Z",
+        "score": 22,
+        "published": "2026-11-01T19:01:42Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
         }
       }
     ],
@@ -173,8 +173,8 @@
         "title": "Open-weight AI models can exploit the patch gap",
         "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
         "source": "hn",
-        "score": 13,
-        "published": "2026-10-29T22:32:46Z",
+        "score": 2,
+        "published": "2026-11-05T04:55:17Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
@@ -227,6 +227,17 @@
         }
       },
       {
+        "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+        "url": "https://github.com/flitai-io/gpuworks",
+        "source": "hn",
+        "score": 30,
+        "published": "2026-11-04T16:09:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "llama.cpp: b12209",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12209",
         "source": "rss",
@@ -246,17 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
-        "url": "https://github.com/flitai-io/gpuworks",
-        "source": "hn",
-        "score": 30,
-        "published": "2026-11-04T16:09:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
