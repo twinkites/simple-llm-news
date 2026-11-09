@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-09T06:49:04.828347+00:00",
+  "generated_at": "2026-11-09T22:30:54.507880+00:00",
   "sections": {
     "model": [
+      {
+        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "hn",
+        "score": 72,
+        "published": "2026-11-09T11:36:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
       {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
-        "score": 285,
+        "score": 286,
         "published": "2026-11-04T16:45:11Z",
         "truthiness": {
           "label": "red",
@@ -14,14 +25,14 @@
         }
       },
       {
-        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
-        "url": "https://promptinjections.de/threat-index/zahlen/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-08T18:43:41Z",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T15:05:57+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -47,14 +58,25 @@
         }
       },
       {
-        "title": "I made an open-web protocol for local LLM storage sharing",
-        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T12:34:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
+        "url": "https://promptinjections.de/threat-index/zahlen/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-08T14:38:57Z",
+        "score": 3,
+        "published": "2026-11-08T18:43:41Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -69,17 +91,6 @@
         }
       },
       {
-        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
-        "url": "https://github.com/harelix/aiport",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-08T11:44:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: A language model that lives in a boot sector",
         "url": "https://github.com/kerlenton/bootgpt",
         "source": "hn",
@@ -91,47 +102,36 @@
         }
       },
       {
-        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-        "url": "https://github.com/ImpossibleComputing/jacq",
+        "title": "I made an open-web protocol for local LLM storage sharing",
+        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
         "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T17:58:49Z",
+        "score": 2,
+        "published": "2026-11-08T14:38:57Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
-        "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+        "url": "https://concepts.laxmena.com/",
+        "source": "hn",
+        "score": 41,
+        "published": "2026-11-03T15:48:35Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
+        }
+      },
+      {
+        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+        "url": "https://github.com/harelix/aiport",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-07T10:15:17Z",
+        "published": "2026-11-08T11:44:16Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-11-03T20:57:15Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 11 points)"
-        }
-      },
-      {
-        "title": "Heretic 2.0 Released: Training-free language model modification",
-        "url": "https://news.ycombinator.com/item?id=50328567",
-        "source": "hn",
-        "score": 22,
-        "published": "2026-11-01T19:01:42Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 22 points)"
         }
       }
     ],
@@ -205,22 +205,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12211",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12211",
+        "title": "llama.cpp: b12236: mtmd: add mtmd_helper_resampler (#31964)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12236",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T16:53:06+00:00",
+        "published": "2026-11-09T22:04:39+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12210",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12210",
+        "title": "llama.cpp: b12233",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12233",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-08T16:18:43+00:00",
+        "published": "2026-11-09T19:20:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12232: Windows unbuffered model load (#26014)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12232",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T18:22:08+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.16",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T18:21:19+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,17 +257,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12209",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12209",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-08T16:04:13+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -323,17 +334,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Deploy vLLM on RunPod with confirmation gates on every billable step",
-        "url": "https://github.com/1solomonwakhungu/runpod-vllm-deployer",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-03T15:02:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
