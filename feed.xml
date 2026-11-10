@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 09 Nov 2026 22:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:29:20 +0000</lastBuildDate>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
       <link>https://github.com/samir-sarwar/samir-vllm</link>
@@ -22,14 +22,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&#x27;s Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-      <category>model</category>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
       <link>https://uncracked.city</link>
       <guid isPermaLink="false">https://uncracked.city</guid>
@@ -43,22 +35,6 @@
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Your Experts Have Partners. There&#x27;s HOPE for Keeping Them Together</title>
-      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
-      <category>model</category>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
-      <link>https://promptinjections.de/threat-index/zahlen/</link>
-      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,6 +54,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
+      <link>https://promptinjections.de/threat-index/zahlen/</link>
+      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
+      <category>model</category>
+      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&#x27;s Demographics and Financial Context</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
+      <category>model</category>
+      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Your Experts Have Partners. There&#x27;s HOPE for Keeping Them Together</title>
+      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+      <category>model</category>
+      <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>I made an open-web protocol for local LLM storage sharing</title>
       <link>https://joshuadd79.github.io/bring-your-own-brain/</link>
       <guid isPermaLink="false">https://joshuadd79.github.io/bring-your-own-brain/</guid>
@@ -86,11 +86,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals</title>
-      <link>https://concepts.laxmena.com/</link>
-      <guid isPermaLink="false">https://concepts.laxmena.com/</guid>
+      <title>Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA</title>
+      <link>https://github.com/ImpossibleComputing/jacq</link>
+      <guid isPermaLink="false">https://github.com/ImpossibleComputing/jacq</guid>
       <category>model</category>
-      <pubDate>Tue, 03 Nov 2026 15:48:35 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 17:58:49 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -150,35 +150,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12236: mtmd: add mtmd_helper_resampler (#31964)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12236</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12236</guid>
+      <title>llama.cpp: b12244</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12244</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12244</guid>
       <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 22:04:39 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 07:28:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12233</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12233</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12233</guid>
+      <title>llama.cpp: b12243</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12243</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12243</guid>
       <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 19:20:05 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:52:20 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12232: Windows unbuffered model load (#26014)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12232</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12232</guid>
+      <title>llama.cpp: b12242</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12242</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12242</guid>
       <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 18:22:08 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:04:48 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
       <title>ollama: v0.40.16</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</guid>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16</guid>
       <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 18:21:19 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 23:45:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,12 +198,28 @@
       <source>hn</source>
     </item>
     <item>
+      <title>vLLM: v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0</guid>
+      <category>harness</category>
+      <pubDate>Sun, 08 Nov 2026 18:38:57 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp</title>
       <link>https://zaage.it/writing/llama-sleep/</link>
       <guid isPermaLink="false">https://zaage.it/writing/llama-sleep/</guid>
       <category>harness</category>
       <pubDate>Fri, 06 Nov 2026 22:59:16 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</guid>
+      <category>harness</category>
+      <pubDate>Sun, 08 Nov 2026 00:36:53 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Kinference: Open-source inference control plane for vLLM</title>
@@ -228,22 +244,6 @@
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 10:45:06 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.15</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15</guid>
-      <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 01:47:18 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.15-rc2</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2</guid>
-      <category>harness</category>
-      <pubDate>Thu, 05 Nov 2026 21:41:21 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>

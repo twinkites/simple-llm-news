@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T22:30:54.507880+00:00",
+  "generated_at": "2026-11-10T07:29:20.829734+00:00",
   "sections": {
     "model": [
       {
         "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
         "url": "https://github.com/samir-sarwar/samir-vllm",
         "source": "hn",
-        "score": 72,
+        "score": 78,
         "published": "2026-11-09T11:36:55Z",
         "truthiness": {
           "label": "green",
@@ -22,17 +22,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T15:05:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -58,28 +47,6 @@
         }
       },
       {
-        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T12:34:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
-        "url": "https://promptinjections.de/threat-index/zahlen/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-08T18:43:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
         "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
         "source": "hn",
@@ -102,6 +69,39 @@
         }
       },
       {
+        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
+        "url": "https://promptinjections.de/threat-index/zahlen/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-08T18:43:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T15:05:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T12:34:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "I made an open-web protocol for local LLM storage sharing",
         "url": "https://joshuadd79.github.io/bring-your-own-brain/",
         "source": "hn",
@@ -113,14 +113,14 @@
         }
       },
       {
-        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-        "url": "https://concepts.laxmena.com/",
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
         "source": "hn",
-        "score": 41,
-        "published": "2026-11-03T15:48:35Z",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -205,33 +205,33 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12236: mtmd: add mtmd_helper_resampler (#31964)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12236",
+        "title": "llama.cpp: b12244",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12244",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-09T22:04:39+00:00",
+        "published": "2026-11-10T07:28:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12233",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12233",
+        "title": "llama.cpp: b12243",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12243",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-09T19:20:05+00:00",
+        "published": "2026-11-10T06:52:20+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12232: Windows unbuffered model load (#26014)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12232",
+        "title": "llama.cpp: b12242",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12242",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-09T18:22:08+00:00",
+        "published": "2026-11-10T02:04:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -239,10 +239,10 @@
       },
       {
         "title": "ollama: v0.40.16",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-09T18:21:19+00:00",
+        "published": "2026-11-09T23:45:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,6 +271,17 @@
         }
       },
       {
+        "title": "vLLM: v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T18:38:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
         "url": "https://zaage.it/writing/llama-sleep/",
         "source": "hn",
@@ -279,6 +290,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T00:36:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -312,28 +334,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.15",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-06T01:47:18+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.15-rc2",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-05T21:41:21+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]

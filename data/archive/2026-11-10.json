@@ -1,0 +1,341 @@
+{
+  "generated_at": "2026-11-10T07:29:20.829734+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "hn",
+        "score": 78,
+        "published": "2026-11-09T11:36:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 286,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "source": "hn",
+        "score": 127,
+        "published": "2026-11-03T21:20:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
+        "title": "LLMs are not superhuman at reading and writing neural network weights",
+        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "source": "hn",
+        "score": 151,
+        "published": "2026-11-02T22:26:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "source": "hn",
+        "score": 109,
+        "published": "2026-10-31T12:58:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+        }
+      },
+      {
+        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
+        "url": "https://promptinjections.de/threat-index/zahlen/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-08T18:43:41Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T15:05:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T12:34:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "I made an open-web protocol for local LLM storage sharing",
+        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-08T14:38:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
+        "url": "https://github.com/ImpossibleComputing/jacq",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T17:58:49Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+        "url": "https://github.com/harelix/aiport",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-08T11:44:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "source": "hn",
+        "score": 348,
+        "published": "2026-11-01T02:19:53Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
+        }
+      },
+      {
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "source": "hn",
+        "score": 263,
+        "published": "2026-10-31T14:29:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
+        }
+      },
+      {
+        "title": "The Secret Leak Test: a prompt injection filter vs. attacks",
+        "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-06T08:32:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Open-weight AI models can exploit the patch gap",
+        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-05T04:55:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
+        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-02T16:31:47Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-01T15:23:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "llama.cpp: b12244",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12244",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-10T07:28:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12243",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12243",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-10T06:52:20+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12242",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12242",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-10T02:04:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.16",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T23:45:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+        "url": "https://github.com/flitai-io/gpuworks",
+        "source": "hn",
+        "score": 30,
+        "published": "2026-11-04T16:09:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+        "url": "https://github.com/lhadzic377-netizen/TokiRecur",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-07T18:08:43Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T18:38:57+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
+        "url": "https://zaage.it/writing/llama-sleep/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-06T22:59:16Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-08T00:36:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Kinference: Open-source inference control plane for vLLM",
+        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-05T10:21:08Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Desktop app from the llama.cpp team (Mac OS and Windows)",
+        "url": "https://llama.app/models",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-04T12:00:53Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Running quantum circuits inside llama.cpp",
+        "url": "https://github.com/dakk/qullama",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-04T10:45:06Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ]
+  }
+}
