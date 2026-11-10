@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-10T07:29:20.829734+00:00",
+  "generated_at": "2026-11-10T19:51:20.818604+00:00",
   "sections": {
     "model": [
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-10T15:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
         "url": "https://github.com/samir-sarwar/samir-vllm",
         "source": "hn",
-        "score": 78,
+        "score": 79,
         "published": "2026-11-09T11:36:55Z",
         "truthiness": {
           "label": "green",
@@ -39,7 +50,7 @@
         "title": "LLMs are not superhuman at reading and writing neural network weights",
         "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
         "source": "hn",
-        "score": 151,
+        "score": 152,
         "published": "2026-11-02T22:26:53Z",
         "truthiness": {
           "label": "green",
@@ -58,14 +69,36 @@
         }
       },
       {
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
+        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+        "url": "https://concepts.laxmena.com/",
         "source": "hn",
-        "score": 109,
-        "published": "2026-10-31T12:58:29Z",
+        "score": 41,
+        "published": "2026-11-03T15:48:35Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 109 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
+        }
+      },
+      {
+        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-10T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Decision Models in Hugging Face",
+        "url": "https://huggingface.co/blog/decision",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-10T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -80,28 +113,6 @@
         }
       },
       {
-        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T15:05:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T12:34:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "I made an open-web protocol for local LLM storage sharing",
         "url": "https://joshuadd79.github.io/bring-your-own-brain/",
         "source": "hn",
@@ -113,25 +124,14 @@
         }
       },
       {
-        "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-        "url": "https://github.com/ImpossibleComputing/jacq",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T17:58:49Z",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T15:05:57+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
-        "url": "https://github.com/harelix/aiport",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-08T11:44:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -145,17 +145,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
-        }
-      },
-      {
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "source": "hn",
-        "score": 263,
-        "published": "2026-10-31T14:29:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 221 points)"
         }
       },
       {
@@ -205,33 +194,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12244",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12244",
+        "title": "llama.cpp: b12255",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12255",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T07:28:33+00:00",
+        "published": "2026-11-10T19:16:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12243",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12243",
+        "title": "llama.cpp: b12254",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12254",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T06:52:20+00:00",
+        "published": "2026-11-10T18:59:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12242",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12242",
+        "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+        "url": "https://github.com/san-digital/tokspur",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T11:42:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Serving open-weight models at scale with vLLM",
+        "url": "https://ngrok.com/blog/vllm",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-10T12:27:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12257: CUDA: move graph and concurrent stream state out of common.cuh (#32001)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12257",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T02:04:48+00:00",
+        "published": "2026-11-10T09:03:49+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -304,17 +315,6 @@
         }
       },
       {
-        "title": "Kinference: Open-source inference control plane for vLLM",
-        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-05T10:21:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Desktop app from the llama.cpp team (Mac OS and Windows)",
         "url": "https://llama.app/models",
         "source": "hn",
@@ -323,17 +323,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Running quantum circuits inside llama.cpp",
-        "url": "https://github.com/dakk/qullama",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-04T10:45:06Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
