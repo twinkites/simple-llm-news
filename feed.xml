@@ -4,22 +4,14 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 06:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:42:38 +0000</lastBuildDate>
     <item>
-      <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
-      <link>https://naklecha.com/research/caramel-1</link>
-      <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
+      <title>Show HN: Anathem – local memory for coding agents, no LLM and no daemon</title>
+      <link>https://gitlab.com/__alexander__/anathem</link>
+      <guid isPermaLink="false">https://gitlab.com/__alexander__/anathem</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 18:10:46 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/qvac/botpsy</guid>
-      <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
@@ -30,11 +22,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses</title>
-      <link>https://github.com/OddlyGoods/peep-note</link>
-      <guid isPermaLink="false">https://github.com/OddlyGoods/peep-note</guid>
+      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
+      <link>https://github.com/garritfra/llmtee</link>
+      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 00:14:18 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -43,6 +35,14 @@
       <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
       <category>model</category>
       <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
+      <link>https://naklecha.com/research/caramel-1</link>
+      <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,6 +70,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/qvac/botpsy</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
+      <link>https://huggingface.co/blog/token-pooling</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/token-pooling</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
       <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
       <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
@@ -86,20 +102,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/hub-gcp-marketplace</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Decision Models in Hugging Face</title>
-      <link>https://huggingface.co/blog/decision</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/decision</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
+      <title>Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak</title>
+      <link>https://www.mrnice.dev/posts/heavyweight-guardrails/</link>
+      <guid isPermaLink="false">https://www.mrnice.dev/posts/heavyweight-guardrails/</guid>
+      <category>security</category>
+      <pubDate>Wed, 11 Nov 2026 18:41:14 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>The Secret Leak Test: a prompt injection filter vs. attacks</title>
@@ -126,35 +134,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Brazilian lawyers fined $16K for hiding a prompt injection in a court filing</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</link>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000</guid>
-      <category>security</category>
-      <pubDate>Sun, 01 Nov 2026 15:23:39 +0000</pubDate>
+      <title>Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]</title>
+      <link>https://www.youtube.com/watch?v=saXrLnzWTD0</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=saXrLnzWTD0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 11 Nov 2026 18:22:09 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12283</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12283</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12283</guid>
+      <title>vLLM: v0.34.0rc1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</guid>
       <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 06:21:55 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 19:37:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12282</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12282</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12282</guid>
+      <title>llama.cpp: b12290</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12290</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12290</guid>
       <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 03:35:11 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 19:36:38 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12277</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12277</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12277</guid>
+      <title>llama.cpp: b12289</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12289</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12289</guid>
       <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 03:14:37 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 19:07:05 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12291: vulkan: allow dequantized KV optimization with CM2 (#31526)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12291</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12291</guid>
+      <category>harness</category>
+      <pubDate>Wed, 11 Nov 2026 10:08:06 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -211,22 +227,6 @@
       <guid isPermaLink="false">https://github.com/lhadzic377-netizen/TokiRecur</guid>
       <category>harness</category>
       <pubDate>Sat, 07 Nov 2026 18:08:43 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0</guid>
-      <category>harness</category>
-      <pubDate>Sun, 08 Nov 2026 18:38:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp</title>
-      <link>https://zaage.it/writing/llama-sleep/</link>
-      <guid isPermaLink="false">https://zaage.it/writing/llama-sleep/</guid>
-      <category>harness</category>
-      <pubDate>Fri, 06 Nov 2026 22:59:16 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

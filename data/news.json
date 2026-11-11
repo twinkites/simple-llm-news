@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-11-11T06:39:11.025141+00:00",
+  "generated_at": "2026-11-11T19:42:38.096166+00:00",
   "sections": {
     "model": [
       {
-        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-        "url": "https://naklecha.com/research/caramel-1",
+        "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
+        "url": "https://gitlab.com/__alexander__/anathem",
         "source": "hn",
-        "score": 3,
-        "published": "2026-11-11T03:05:24Z",
+        "score": 2,
+        "published": "2026-11-11T18:10:46Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "url": "https://huggingface.co/blog/qvac/botpsy",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T05:01:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -36,14 +25,14 @@
         }
       },
       {
-        "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
-        "url": "https://github.com/OddlyGoods/peep-note",
+        "title": "Show HN: Llmtee – Lightweight LLM Proxy",
+        "url": "https://github.com/garritfra/llmtee",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-11T00:14:18Z",
+        "score": 1,
+        "published": "2026-11-11T10:55:46Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -55,6 +44,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-11T03:05:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -72,7 +72,7 @@
         "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
         "url": "https://uncracked.city",
         "source": "hn",
-        "score": 127,
+        "score": 128,
         "published": "2026-11-03T21:20:03Z",
         "truthiness": {
           "label": "green",
@@ -88,6 +88,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 57 points)"
+        }
+      },
+      {
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T05:01:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "url": "https://huggingface.co/blog/token-pooling",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -111,31 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-10T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Decision Models in Hugging Face",
-        "url": "https://huggingface.co/blog/decision",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-10T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak",
+        "url": "https://www.mrnice.dev/posts/heavyweight-guardrails/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-11T18:41:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
       {
         "title": "The Secret Leak Test: a prompt injection filter vs. attacks",
         "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
@@ -168,48 +179,59 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-01T15:23:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12283",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12283",
+        "title": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
+        "url": "https://www.youtube.com/watch?v=saXrLnzWTD0",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-11T18:22:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-11T06:21:55+00:00",
+        "published": "2026-11-11T19:37:13+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12282",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12282",
+        "title": "llama.cpp: b12290",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12290",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-11T03:35:11+00:00",
+        "published": "2026-11-11T19:36:38+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12277",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12277",
+        "title": "llama.cpp: b12289",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12289",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-11T03:14:37+00:00",
+        "published": "2026-11-11T19:07:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12291: vulkan: allow dequantized KV optimization with CM2 (#31526)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12291",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T10:08:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -219,7 +241,7 @@
         "title": "Show HN: Warmctl – Fast cold starts for vLLM inference",
         "url": "https://github.com/TensorRails/warmctl",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-11-10T22:28:15Z",
         "truthiness": {
           "label": "red",
@@ -290,28 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-08T18:38:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
-        "url": "https://zaage.it/writing/llama-sleep/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-06T22:59:16Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
