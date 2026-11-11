@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-10T19:51:20.818604+00:00",
+  "generated_at": "2026-11-11T06:39:11.025141+00:00",
   "sections": {
     "model": [
       {
-        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
         "source": "hn",
         "score": 3,
-        "published": "2026-11-10T15:29:36Z",
+        "published": "2026-11-11T03:05:24Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T05:01:16+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -25,6 +36,17 @@
         }
       },
       {
+        "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+        "url": "https://github.com/OddlyGoods/peep-note",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-11T00:14:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "source": "hn",
@@ -33,6 +55,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T15:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -69,14 +102,14 @@
         }
       },
       {
-        "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-        "url": "https://concepts.laxmena.com/",
+        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
+        "url": "https://promptinjections.de/threat-index/zahlen/",
         "source": "hn",
-        "score": 41,
-        "published": "2026-11-03T15:48:35Z",
+        "score": 3,
+        "published": "2026-11-08T18:43:41Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 41 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -100,53 +133,9 @@
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
-      },
-      {
-        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
-        "url": "https://promptinjections.de/threat-index/zahlen/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-08T18:43:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "I made an open-web protocol for local LLM storage sharing",
-        "url": "https://joshuadd79.github.io/bring-your-own-brain/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-08T14:38:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T15:05:57+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
       }
     ],
     "security": [
-      {
-        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "source": "hn",
-        "score": 348,
-        "published": "2026-11-01T02:19:53Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 67 points)"
-        }
-      },
       {
         "title": "The Secret Leak Test: a prompt injection filter vs. attacks",
         "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
@@ -194,25 +183,47 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12255",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12255",
+        "title": "llama.cpp: b12283",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12283",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T19:16:00+00:00",
+        "published": "2026-11-11T06:21:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12254",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12254",
+        "title": "llama.cpp: b12282",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12282",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T18:59:04+00:00",
+        "published": "2026-11-11T03:35:11+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12277",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12277",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T03:14:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Warmctl – Fast cold starts for vLLM inference",
+        "url": "https://github.com/TensorRails/warmctl",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-10T22:28:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -230,7 +241,7 @@
         "title": "Serving open-weight models at scale with vLLM",
         "url": "https://ngrok.com/blog/vllm",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-11-10T12:27:12Z",
         "truthiness": {
           "label": "red",
@@ -238,22 +249,11 @@
         }
       },
       {
-        "title": "llama.cpp: b12257: CUDA: move graph and concurrent stream state out of common.cuh (#32001)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12257",
+        "title": "ollama: v0.40.17",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-10T09:03:49+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.16",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-09T23:45:36+00:00",
+        "published": "2026-11-10T22:25:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,6 +268,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.16",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-09T23:45:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -301,28 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-08T00:36:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Desktop app from the llama.cpp team (Mac OS and Windows)",
-        "url": "https://llama.app/models",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-04T12:00:53Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]

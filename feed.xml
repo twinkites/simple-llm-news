@@ -4,14 +4,22 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 19:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:39:11 +0000</lastBuildDate>
     <item>
-      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
-      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
-      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
+      <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
+      <link>https://naklecha.com/research/caramel-1</link>
+      <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
       <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/qvac/botpsy</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
@@ -22,11 +30,27 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses</title>
+      <link>https://github.com/OddlyGoods/peep-note</link>
+      <guid isPermaLink="false">https://github.com/OddlyGoods/peep-note</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 00:14:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)</title>
       <link>https://www.linum.ai/field-notes/pjit-21k</link>
       <guid isPermaLink="false">https://www.linum.ai/field-notes/pjit-21k</guid>
       <category>model</category>
       <pubDate>Wed, 04 Nov 2026 16:45:11 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
+      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
+      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
+      <category>model</category>
+      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,11 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals</title>
-      <link>https://concepts.laxmena.com/</link>
-      <guid isPermaLink="false">https://concepts.laxmena.com/</guid>
+      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
+      <link>https://promptinjections.de/threat-index/zahlen/</link>
+      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
       <category>model</category>
-      <pubDate>Tue, 03 Nov 2026 15:48:35 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -76,38 +100,6 @@
       <category>model</category>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
-      <link>https://promptinjections.de/threat-index/zahlen/</link>
-      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>I made an open-web protocol for local LLM storage sharing</title>
-      <link>https://joshuadd79.github.io/bring-your-own-brain/</link>
-      <guid isPermaLink="false">https://joshuadd79.github.io/bring-your-own-brain/</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 14:38:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&#x27;s Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-      <category>model</category>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
-      <link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</link>
-      <guid isPermaLink="false">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</guid>
-      <category>security</category>
-      <pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>The Secret Leak Test: a prompt injection filter vs. attacks</title>
@@ -142,20 +134,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12255</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12255</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12255</guid>
+      <title>llama.cpp: b12283</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12283</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12283</guid>
       <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 19:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 06:21:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12254</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12254</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12254</guid>
+      <title>llama.cpp: b12282</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12282</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12282</guid>
       <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 18:59:04 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 03:35:11 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12277</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12277</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12277</guid>
+      <category>harness</category>
+      <pubDate>Wed, 11 Nov 2026 03:14:37 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Show HN: Warmctl – Fast cold starts for vLLM inference</title>
+      <link>https://github.com/TensorRails/warmctl</link>
+      <guid isPermaLink="false">https://github.com/TensorRails/warmctl</guid>
+      <category>harness</category>
+      <pubDate>Tue, 10 Nov 2026 22:28:15 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Tokspur a 3x faster open source inference engine for Macs</title>
@@ -174,19 +182,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12257: CUDA: move graph and concurrent stream state out of common.cuh (#32001)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12257</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12257</guid>
+      <title>ollama: v0.40.17</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</guid>
       <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 09:03:49 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.16</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16</guid>
-      <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 23:45:36 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 22:25:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -196,6 +196,14 @@
       <category>harness</category>
       <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.16</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16</guid>
+      <category>harness</category>
+      <pubDate>Mon, 09 Nov 2026 23:45:36 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>TokiRecur – llama.cpp LLM launcher with KV-cache recycling</title>
@@ -219,22 +227,6 @@
       <guid isPermaLink="false">https://zaage.it/writing/llama-sleep/</guid>
       <category>harness</category>
       <pubDate>Fri, 06 Nov 2026 22:59:16 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0</guid>
-      <category>harness</category>
-      <pubDate>Sun, 08 Nov 2026 00:36:53 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Desktop app from the llama.cpp team (Mac OS and Windows)</title>
-      <link>https://llama.app/models</link>
-      <guid isPermaLink="false">https://llama.app/models</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 12:00:53 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
