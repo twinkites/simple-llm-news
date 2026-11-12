@@ -4,15 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 19:42:38 +0000</lastBuildDate>
-    <item>
-      <title>Show HN: Anathem – local memory for coding agents, no LLM and no daemon</title>
-      <link>https://gitlab.com/__alexander__/anathem</link>
-      <guid isPermaLink="false">https://gitlab.com/__alexander__/anathem</guid>
-      <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 18:10:46 +0000</pubDate>
-      <source>hn</source>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 07:21:57 +0000</lastBuildDate>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
       <link>https://github.com/samir-sarwar/samir-vllm</link>
@@ -22,11 +14,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
-      <link>https://github.com/garritfra/llmtee</link>
-      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
+      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
+      <link>https://github.com/rmpmrepo1278/swapback</link>
+      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,14 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
-      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
-      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
       <link>https://uncracked.city</link>
       <guid isPermaLink="false">https://uncracked.city</guid>
@@ -67,6 +51,30 @@
       <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
       <category>model</category>
       <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
+      <link>https://github.com/garritfra/llmtee</link>
+      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
+      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
+      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
+      <category>model</category>
+      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
+      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
+      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
+      <category>model</category>
+      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -84,14 +92,6 @@
       <category>model</category>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
-      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
-      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
@@ -134,6 +134,38 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12317</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12317</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12317</guid>
+      <category>harness</category>
+      <pubDate>Thu, 12 Nov 2026 07:02:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12316</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12316</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12316</guid>
+      <category>harness</category>
+      <pubDate>Thu, 12 Nov 2026 06:29:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.34.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</guid>
+      <category>harness</category>
+      <pubDate>Thu, 12 Nov 2026 06:21:02 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12314</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12314</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12314</guid>
+      <category>harness</category>
+      <pubDate>Thu, 12 Nov 2026 05:27:01 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]</title>
       <link>https://www.youtube.com/watch?v=saXrLnzWTD0</link>
       <guid isPermaLink="false">https://www.youtube.com/watch?v=saXrLnzWTD0</guid>
@@ -150,28 +182,12 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12290</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12290</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12290</guid>
+      <title>Show HN: Tokspur a 3x faster open source inference engine for Macs</title>
+      <link>https://github.com/san-digital/tokspur</link>
+      <guid isPermaLink="false">https://github.com/san-digital/tokspur</guid>
       <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 19:36:38 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12289</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12289</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12289</guid>
-      <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 19:07:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12291: vulkan: allow dequantized KV optimization with CM2 (#31526)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12291</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12291</guid>
-      <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 10:08:06 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 10 Nov 2026 11:42:45 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Warmctl – Fast cold starts for vLLM inference</title>
@@ -179,14 +195,6 @@
       <guid isPermaLink="false">https://github.com/TensorRails/warmctl</guid>
       <category>harness</category>
       <pubDate>Tue, 10 Nov 2026 22:28:15 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Tokspur a 3x faster open source inference engine for Macs</title>
-      <link>https://github.com/san-digital/tokspur</link>
-      <guid isPermaLink="false">https://github.com/san-digital/tokspur</guid>
-      <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 11:42:45 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,14 +206,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.17</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 22:25:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
       <link>https://github.com/flitai-io/gpuworks</link>
       <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
@@ -214,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.16</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.16</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.16</guid>
+      <title>ollama: v0.40.17</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</guid>
       <category>harness</category>
-      <pubDate>Mon, 09 Nov 2026 23:45:36 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 22:25:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>

@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-11T19:42:38.096166+00:00",
+  "generated_at": "2026-11-12T07:21:57.965662+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
-        "url": "https://gitlab.com/__alexander__/anathem",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-11T18:10:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
       {
         "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
         "url": "https://github.com/samir-sarwar/samir-vllm",
         "source": "hn",
-        "score": 79,
+        "score": 80,
         "published": "2026-11-09T11:36:55Z",
         "truthiness": {
           "label": "green",
@@ -25,11 +14,11 @@
         }
       },
       {
-        "title": "Show HN: Llmtee – Lightweight LLM Proxy",
-        "url": "https://github.com/garritfra/llmtee",
+        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+        "url": "https://github.com/rmpmrepo1278/swapback",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-11T10:55:46Z",
+        "published": "2026-11-12T00:09:39Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -58,17 +47,6 @@
         }
       },
       {
-        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-10T15:29:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
         "url": "https://uncracked.city",
         "source": "hn",
@@ -91,6 +69,39 @@
         }
       },
       {
+        "title": "Show HN: Llmtee – Lightweight LLM Proxy",
+        "url": "https://github.com/garritfra/llmtee",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-11T10:55:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T15:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
         "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "url": "https://huggingface.co/blog/qvac/botpsy",
         "source": "rss",
@@ -110,17 +121,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-        "source": "hn",
-        "score": 29,
-        "published": "2026-11-05T15:25:36Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
         }
       },
       {
@@ -183,6 +183,50 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b12317",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12317",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T07:02:04+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12316",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12316",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T06:29:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T06:21:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12314",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12314",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T05:27:01+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
         "url": "https://www.youtube.com/watch?v=saXrLnzWTD0",
         "source": "hn",
@@ -205,36 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b12290",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12290",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T19:36:38+00:00",
+        "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+        "url": "https://github.com/san-digital/tokspur",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T11:42:45Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12289",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12289",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T19:07:05+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12291: vulkan: allow dequantized KV optimization with CM2 (#31526)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12291",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T10:08:06+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -249,17 +271,6 @@
         }
       },
       {
-        "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
-        "url": "https://github.com/san-digital/tokspur",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-10T11:42:45Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
         "title": "Serving open-weight models at scale with vLLM",
         "url": "https://ngrok.com/blog/vllm",
         "source": "hn",
@@ -268,17 +279,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.17",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-10T22:25:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,11 +293,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.16",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+        "title": "ollama: v0.40.17",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-09T23:45:36+00:00",
+        "published": "2026-11-10T22:25:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
