@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 07:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:04:24 +0000</lastBuildDate>
+    <item>
+      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <category>model</category>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
       <link>https://github.com/samir-sarwar/samir-vllm</link>
       <guid isPermaLink="false">https://github.com/samir-sarwar/samir-vllm</guid>
       <category>model</category>
       <pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
-      <link>https://github.com/rmpmrepo1278/swapback</link>
-      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
-      <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +30,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
-      <link>https://naklecha.com/research/caramel-1</link>
-      <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
+      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
+      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
+      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,12 +54,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
-      <link>https://github.com/garritfra/llmtee</link>
-      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
+      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
+      <link>https://github.com/rmpmrepo1278/swapback</link>
+      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
+      <link>https://naklecha.com/research/caramel-1</link>
+      <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <category>model</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
@@ -70,35 +86,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
+      <link>https://github.com/garritfra/llmtee</link>
+      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
       <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
       <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
       <category>model</category>
       <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/qvac/botpsy</guid>
-      <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-      <link>https://huggingface.co/blog/token-pooling</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/token-pooling</guid>
-      <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Open dataset of prompt-injection CVEs with a monthly threat index</title>
-      <link>https://promptinjections.de/threat-index/zahlen/</link>
-      <guid isPermaLink="false">https://promptinjections.de/threat-index/zahlen/</guid>
-      <category>model</category>
-      <pubDate>Sun, 08 Nov 2026 18:43:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,43 +126,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>A 37KB deterministic embedded C malware classifier with 34ns latency</title>
-      <link>https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines</link>
-      <guid isPermaLink="false">https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines</guid>
-      <category>security</category>
-      <pubDate>Mon, 02 Nov 2026 16:31:47 +0000</pubDate>
+      <title>Compress any LLM 3x in one click, near-lossless, vLLM successor</title>
+      <link>https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</link>
+      <guid isPermaLink="false">https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</guid>
+      <category>harness</category>
+      <pubDate>Thu, 12 Nov 2026 16:53:48 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12317</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12317</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12317</guid>
+      <title>llama.cpp: b12323</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12323</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12323</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 07:02:04 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 20:04:18 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12316</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12316</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12316</guid>
+      <title>llama.cpp: b12322</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12322</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12322</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 06:29:07 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 19:03:31 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</guid>
+      <title>llama.cpp: b12324</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12324</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12324</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 06:21:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12314</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12314</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12314</guid>
-      <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 05:27:01 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 08:34:16 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +166,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0rc1</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</guid>
+      <title>vLLM: v0.34.0rc2</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</guid>
       <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 19:37:13 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 06:21:02 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -196,6 +188,14 @@
       <category>harness</category>
       <pubDate>Tue, 10 Nov 2026 22:28:15 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>vLLM: v0.34.0rc1</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</guid>
+      <category>harness</category>
+      <pubDate>Wed, 11 Nov 2026 19:37:13 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Serving open-weight models at scale with vLLM</title>
@@ -220,14 +220,6 @@
       <category>harness</category>
       <pubDate>Tue, 10 Nov 2026 22:25:00 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>TokiRecur – llama.cpp LLM launcher with KV-cache recycling</title>
-      <link>https://github.com/lhadzic377-netizen/TokiRecur</link>
-      <guid isPermaLink="false">https://github.com/lhadzic377-netizen/TokiRecur</guid>
-      <category>harness</category>
-      <pubDate>Sat, 07 Nov 2026 18:08:43 +0000</pubDate>
-      <source>hn</source>
     </item>
   </channel>
 </rss>

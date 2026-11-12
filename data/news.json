@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-12T07:21:57.965662+00:00",
+  "generated_at": "2026-11-12T20:04:24.749601+00:00",
   "sections": {
     "model": [
+      {
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T19:07:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
         "url": "https://github.com/samir-sarwar/samir-vllm",
@@ -11,17 +22,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
-        }
-      },
-      {
-        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
-        "url": "https://github.com/rmpmrepo1278/swapback",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-12T00:09:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -36,14 +36,14 @@
         }
       },
       {
-        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-        "url": "https://naklecha.com/research/caramel-1",
+        "title": "Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents",
+        "url": "https://huggingface.co/tarun7r/indic-turn-detector",
         "source": "hn",
-        "score": 4,
-        "published": "2026-11-11T03:05:24Z",
+        "score": 1,
+        "published": "2026-11-12T07:34:10Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,14 +69,36 @@
         }
       },
       {
-        "title": "Show HN: Llmtee – Lightweight LLM Proxy",
-        "url": "https://github.com/garritfra/llmtee",
+        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+        "url": "https://github.com/rmpmrepo1278/swapback",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-11T10:55:46Z",
+        "published": "2026-11-12T00:09:39Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-11T03:05:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -91,6 +113,17 @@
         }
       },
       {
+        "title": "Show HN: Llmtee – Lightweight LLM Proxy",
+        "url": "https://github.com/garritfra/llmtee",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-11T10:55:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
         "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
         "source": "hn",
@@ -99,39 +132,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
-        }
-      },
-      {
-        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "url": "https://huggingface.co/blog/qvac/botpsy",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T05:01:16+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-        "url": "https://huggingface.co/blog/token-pooling",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-11T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Open dataset of prompt-injection CVEs with a monthly threat index",
-        "url": "https://promptinjections.de/threat-index/zahlen/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-08T18:43:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -168,59 +168,48 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
-        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-02T16:31:47Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12317",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12317",
+        "title": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
+        "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-11-12T16:53:48Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12323",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12323",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-12T07:02:04+00:00",
+        "published": "2026-11-12T20:04:18+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12316",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12316",
+        "title": "llama.cpp: b12322",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12322",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-12T06:29:07+00:00",
+        "published": "2026-11-12T19:03:31+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "vLLM: v0.34.0rc2",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
+        "title": "llama.cpp: b12324",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12324",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-12T06:21:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12314",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12314",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-12T05:27:01+00:00",
+        "published": "2026-11-12T08:34:16+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -238,11 +227,11 @@
         }
       },
       {
-        "title": "vLLM: v0.34.0rc1",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
+        "title": "vLLM: v0.34.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-11T19:37:13+00:00",
+        "published": "2026-11-12T06:21:02+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -268,6 +257,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T19:37:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -301,17 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
-        "url": "https://github.com/lhadzic377-netizen/TokiRecur",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-07T18:08:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]
