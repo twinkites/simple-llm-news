@@ -1,0 +1,308 @@
+{
+  "generated_at": "2026-11-13T06:55:55.959765+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)",
+        "url": "https://huggingface.co/Octen/Octen-WebGR-4B",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-13T03:45:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Runway releases a 27B open-weight model for controlling real robots",
+        "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-13T00:21:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "hn",
+        "score": 80,
+        "published": "2026-11-09T11:36:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 286,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T19:07:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "source": "hn",
+        "score": 128,
+        "published": "2026-11-03T21:20:03Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
+        }
+      },
+      {
+        "title": "Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents",
+        "url": "https://huggingface.co/tarun7r/indic-turn-detector",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-12T07:34:10Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
+        "url": "https://gitlab.com/__alexander__/anathem",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-11T18:10:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-11T03:05:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+        "url": "https://github.com/rmpmrepo1278/swapback",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-12T00:09:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T15:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+        "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-05T15:25:36Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak",
+        "url": "https://www.mrnice.dev/posts/heavyweight-guardrails/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-11T18:41:14Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "The Secret Leak Test: a prompt injection filter vs. attacks",
+        "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-06T08:32:59Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Open-weight AI models can exploit the patch gap",
+        "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-05T04:55:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "llama.cpp: b12345",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12345",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-13T06:37:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
+        "url": "https://github.com/kncshw/cybergate",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-13T00:52:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
+        "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-11-12T16:53:48Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12352",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12352",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T23:11:58+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12347: llama : prune (#30565)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12347",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T18:59:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
+        "url": "https://www.youtube.com/watch?v=saXrLnzWTD0",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-11T18:22:09Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc2",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-12T06:21:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+        "url": "https://github.com/san-digital/tokspur",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T11:42:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+        "url": "https://github.com/flitai-io/gpuworks",
+        "source": "hn",
+        "score": 30,
+        "published": "2026-11-04T16:09:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Serving open-weight models at scale with vLLM",
+        "url": "https://ngrok.com/blog/vllm",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-10T12:27:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Show HN: Warmctl – Fast cold starts for vLLM inference",
+        "url": "https://github.com/TensorRails/warmctl",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-10T22:28:15Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0rc1",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-11T19:37:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      }
+    ]
+  }
+}

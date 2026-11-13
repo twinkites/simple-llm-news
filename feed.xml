@@ -4,14 +4,22 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 20:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:55:55 +0000</lastBuildDate>
     <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <title>Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)</title>
+      <link>https://huggingface.co/Octen/Octen-WebGR-4B</link>
+      <guid isPermaLink="false">https://huggingface.co/Octen/Octen-WebGR-4B</guid>
       <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 13 Nov 2026 03:45:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Runway releases a 27B open-weight model for controlling real robots</title>
+      <link>https://runway.com/news/company-news/praxis-1-is-now-available</link>
+      <guid isPermaLink="false">https://runway.com/news/company-news/praxis-1-is-now-available</guid>
+      <category>model</category>
+      <pubDate>Fri, 13 Nov 2026 00:21:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
@@ -30,12 +38,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
-      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
-      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
+      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
       <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
@@ -46,19 +54,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLMs are not superhuman at reading and writing neural network weights</title>
-      <link>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
-      <guid isPermaLink="false">https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
+      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
+      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
+      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
       <category>model</category>
-      <pubDate>Mon, 02 Nov 2026 22:26:53 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
-      <link>https://github.com/rmpmrepo1278/swapback</link>
-      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
+      <title>Show HN: Anathem – local memory for coding agents, no LLM and no daemon</title>
+      <link>https://gitlab.com/__alexander__/anathem</link>
+      <guid isPermaLink="false">https://gitlab.com/__alexander__/anathem</guid>
       <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 18:10:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,12 +78,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
+      <link>https://github.com/rmpmrepo1278/swapback</link>
+      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
       <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
@@ -83,14 +91,6 @@
       <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
       <category>model</category>
       <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Llmtee – Lightweight LLM Proxy</title>
-      <link>https://github.com/garritfra/llmtee</link>
-      <guid isPermaLink="false">https://github.com/garritfra/llmtee</guid>
-      <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 10:55:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,6 +126,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12345</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12345</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12345</guid>
+      <category>harness</category>
+      <pubDate>Fri, 13 Nov 2026 06:37:27 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>CyberGate – vLLM plugin to unlock cybersecurity without weight edits</title>
+      <link>https://github.com/kncshw/cybergate</link>
+      <guid isPermaLink="false">https://github.com/kncshw/cybergate</guid>
+      <category>harness</category>
+      <pubDate>Fri, 13 Nov 2026 00:52:32 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Compress any LLM 3x in one click, near-lossless, vLLM successor</title>
       <link>https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</link>
       <guid isPermaLink="false">https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</guid>
@@ -134,27 +150,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12323</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12323</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12323</guid>
+      <title>llama.cpp: b12352</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12352</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12352</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 20:04:18 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:11:58 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12322</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12322</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12322</guid>
+      <title>llama.cpp: b12347: llama : prune (#30565)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12347</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12347</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 19:03:31 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12324</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12324</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12324</guid>
-      <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 08:34:16 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 18:59:09 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -182,6 +190,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
+      <link>https://github.com/flitai-io/gpuworks</link>
+      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
+      <category>harness</category>
+      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Serving open-weight models at scale with vLLM</title>
+      <link>https://ngrok.com/blog/vllm</link>
+      <guid isPermaLink="false">https://ngrok.com/blog/vllm</guid>
+      <category>harness</category>
+      <pubDate>Tue, 10 Nov 2026 12:27:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Warmctl – Fast cold starts for vLLM inference</title>
       <link>https://github.com/TensorRails/warmctl</link>
       <guid isPermaLink="false">https://github.com/TensorRails/warmctl</guid>
@@ -195,30 +219,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</guid>
       <category>harness</category>
       <pubDate>Wed, 11 Nov 2026 19:37:13 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Serving open-weight models at scale with vLLM</title>
-      <link>https://ngrok.com/blog/vllm</link>
-      <guid isPermaLink="false">https://ngrok.com/blog/vllm</guid>
-      <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 12:27:12 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
-      <link>https://github.com/flitai-io/gpuworks</link>
-      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.17</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 10 Nov 2026 22:25:00 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
