@@ -4,21 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:51:41 +0000</lastBuildDate>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+      <category>model</category>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/xybench</guid>
+      <category>model</category>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+      <source>rss</source>
+    </item>
     <item>
       <title>Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)</title>
       <link>https://huggingface.co/Octen/Octen-WebGR-4B</link>
       <guid isPermaLink="false">https://huggingface.co/Octen/Octen-WebGR-4B</guid>
       <category>model</category>
       <pubDate>Fri, 13 Nov 2026 03:45:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Runway releases a 27B open-weight model for controlling real robots</title>
-      <link>https://runway.com/news/company-news/praxis-1-is-now-available</link>
-      <guid isPermaLink="false">https://runway.com/news/company-news/praxis-1-is-now-available</guid>
-      <category>model</category>
-      <pubDate>Fri, 13 Nov 2026 00:21:38 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,12 +46,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <title>Runway releases a 27B open-weight model for controlling real robots</title>
+      <link>https://runway.com/news/company-news/praxis-1-is-now-available</link>
+      <guid isPermaLink="false">https://runway.com/news/company-news/praxis-1-is-now-available</guid>
       <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 13 Nov 2026 00:21:38 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
@@ -51,14 +59,6 @@
       <guid isPermaLink="false">https://uncracked.city</guid>
       <category>model</category>
       <pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
-      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
-      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
-      <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,6 +70,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
+      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
+      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
+      <category>model</category>
+      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
       <link>https://naklecha.com/research/caramel-1</link>
       <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
@@ -78,27 +86,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
-      <link>https://github.com/rmpmrepo1278/swapback</link>
-      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
-      <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
-      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
-      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
       <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
       <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
       <category>model</category>
       <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Keeping names, emails and phone numbers out of LLM prompts with a local proxy</title>
+      <link>https://github.com/rmpmrepo1278/swapback</link>
+      <guid isPermaLink="false">https://github.com/rmpmrepo1278/swapback</guid>
+      <category>model</category>
+      <pubDate>Thu, 12 Nov 2026 00:09:39 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,12 +126,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12345</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12345</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12345</guid>
+      <title>Llama.cpp v1 Is Out</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
       <category>harness</category>
-      <pubDate>Fri, 13 Nov 2026 06:37:27 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Fri, 13 Nov 2026 14:12:34 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>LM Studio vs. Ollama on Linux: same model files, measured on an RTX 3090</title>
+      <link>https://homebrewserver.club/lm-studio-vs-ollama.html</link>
+      <guid isPermaLink="false">https://homebrewserver.club/lm-studio-vs-ollama.html</guid>
+      <category>harness</category>
+      <pubDate>Fri, 13 Nov 2026 18:08:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp v1.0</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0</guid>
+      <category>harness</category>
+      <pubDate>Fri, 13 Nov 2026 10:59:41 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>CyberGate – vLLM plugin to unlock cybersecurity without weight edits</title>
@@ -142,6 +158,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12367: CUDA: add SM103 SASS to non-native builds (#30099)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12367</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12367</guid>
+      <category>harness</category>
+      <pubDate>Fri, 13 Nov 2026 15:02:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Compress any LLM 3x in one click, near-lossless, vLLM successor</title>
       <link>https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</link>
       <guid isPermaLink="false">https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</guid>
@@ -150,19 +174,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12352</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12352</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12352</guid>
+      <title>llama.cpp: v1.0.0-b12359-b1b770d: examples : remove explict version from test-cmake (#32191)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0-b12359-b1b770d</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0-b12359-b1b770d</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 23:11:58 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12347: llama : prune (#30565)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12347</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12347</guid>
-      <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 18:59:09 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 09:09:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,12 +190,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0rc2</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2</guid>
+      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
+      <link>https://github.com/flitai-io/gpuworks</link>
+      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
       <category>harness</category>
-      <pubDate>Thu, 12 Nov 2026 06:21:02 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: Tokspur a 3x faster open source inference engine for Macs</title>
@@ -187,14 +203,6 @@
       <guid isPermaLink="false">https://github.com/san-digital/tokspur</guid>
       <category>harness</category>
       <pubDate>Tue, 10 Nov 2026 11:42:45 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed</title>
-      <link>https://github.com/flitai-io/gpuworks</link>
-      <guid isPermaLink="false">https://github.com/flitai-io/gpuworks</guid>
-      <category>harness</category>
-      <pubDate>Wed, 04 Nov 2026 16:09:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -212,14 +220,6 @@
       <category>harness</category>
       <pubDate>Tue, 10 Nov 2026 22:28:15 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.34.0rc1</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1</guid>
-      <category>harness</category>
-      <pubDate>Wed, 11 Nov 2026 19:37:13 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>
