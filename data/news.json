@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-13T19:51:41.718272+00:00",
+  "generated_at": "2026-11-14T06:39:00.302020+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "source": "hn",
+        "score": 287,
+        "published": "2026-11-04T16:45:11Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "hn",
+        "score": 80,
+        "published": "2026-11-09T11:36:55Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
+        }
+      },
+      {
+        "title": "Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)",
+        "url": "https://huggingface.co/Octen/Octen-WebGR-4B",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-11-13T03:45:25Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+        "url": "https://neuracryption.com/research",
+        "source": "hn",
+        "score": 34,
+        "published": "2026-11-10T13:51:51Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 34 points)"
+        }
+      },
       {
         "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -25,39 +69,6 @@
         }
       },
       {
-        "title": "Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)",
-        "url": "https://huggingface.co/Octen/Octen-WebGR-4B",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-13T03:45:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-        "url": "https://github.com/samir-sarwar/samir-vllm",
-        "source": "hn",
-        "score": 80,
-        "published": "2026-11-09T11:36:55Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 72 points)"
-        }
-      },
-      {
-        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-        "url": "https://www.linum.ai/field-notes/pjit-21k",
-        "source": "hn",
-        "score": 286,
-        "published": "2026-11-04T16:45:11Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Runway releases a 27B open-weight model for controlling real robots",
         "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
         "source": "hn",
@@ -69,44 +80,11 @@
         }
       },
       {
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "source": "hn",
-        "score": 128,
-        "published": "2026-11-03T21:20:03Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 119 points)"
-        }
-      },
-      {
         "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
         "url": "https://gitlab.com/__alexander__/anathem",
         "source": "hn",
         "score": 3,
         "published": "2026-11-11T18:10:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents",
-        "url": "https://huggingface.co/tarun7r/indic-turn-detector",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-12T07:34:10Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-        "url": "https://naklecha.com/research/caramel-1",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-11T03:05:24Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
@@ -124,14 +102,36 @@
         }
       },
       {
-        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
-        "url": "https://github.com/rmpmrepo1278/swapback",
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-11T03:05:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents",
+        "url": "https://huggingface.co/tarun7r/indic-turn-detector",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-12T00:09:39Z",
+        "published": "2026-11-12T07:34:10Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-10T15:29:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -183,6 +183,17 @@
         }
       },
       {
+        "title": "llama.cpp: b12375",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12375",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-14T04:18:14+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "LM Studio vs. Ollama on Linux: same model files, measured on an RTX 3090",
         "url": "https://homebrewserver.club/lm-studio-vs-ollama.html",
         "source": "hn",
@@ -205,6 +216,17 @@
         }
       },
       {
+        "title": "vLLM: v0.34.0rc3",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-13T22:52:29+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
         "url": "https://github.com/kncshw/cybergate",
         "source": "hn",
@@ -213,17 +235,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12367: CUDA: add SM103 SASS to non-native builds (#30099)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12367",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-13T15:02:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: Warmctl – Fast cold starts for vLLM inference",
-        "url": "https://github.com/TensorRails/warmctl",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-10T22:28:15Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]
