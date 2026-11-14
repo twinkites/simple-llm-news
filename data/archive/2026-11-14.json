@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-14T18:15:44.796405+00:00",
+  "generated_at": "2026-11-14T22:33:28.206296+00:00",
   "sections": {
     "model": [
       {
         "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
         "url": "https://twitter.com/willdepue/status/2120992457630326841",
         "source": "hn",
-        "score": 16,
+        "score": 18,
         "published": "2026-11-14T06:50:21Z",
         "truthiness": {
           "label": "yellow",
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-        "url": "https://naklecha.com/research/caramel-1",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-11T03:05:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
         "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
         "source": "hn",
@@ -110,6 +99,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 14 points)"
+        }
+      },
+      {
+        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+        "url": "https://naklecha.com/research/caramel-1",
+        "source": "hn",
+        "score": 5,
+        "published": "2026-11-11T03:05:24Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -136,6 +136,17 @@
       }
     ],
     "security": [
+      {
+        "title": "Show HN: Deterministic prompt injection detector using formal logic",
+        "url": "https://nischoy.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-14T21:35:45Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak",
         "url": "https://www.mrnice.dev/posts/heavyweight-guardrails/",
@@ -175,11 +186,33 @@
         "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
         "source": "hn",
-        "score": 84,
+        "score": 125,
         "published": "2026-11-14T14:09:25Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 84 points)"
+        }
+      },
+      {
+        "title": "Show HN: Loft – offline Q&A over your local files, with citations (llama.cpp)",
+        "url": "https://github.com/nwaoga/loft",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-14T19:42:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp hits v1.0 with a native app for macOS",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "hn",
+        "score": 25,
+        "published": "2026-11-14T02:05:37Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       },
       {
@@ -194,58 +227,47 @@
         }
       },
       {
-        "title": "llama.cpp: b12385: qwen2vl : apply FFN weight scales (#32241)",
+        "title": "llama.cpp: b12387",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12387",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-14T19:29:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12386",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12386",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-14T19:11:31+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12385",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12385",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-14T18:02:15+00:00",
+        "published": "2026-11-14T18:52:59+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Llama.cpp hits v1.0 with a native app for macOS",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "title": "llama.cpp v1.0",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
         "source": "hn",
-        "score": 24,
-        "published": "2026-11-14T02:05:37Z",
+        "score": 5,
+        "published": "2026-11-13T10:59:41Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12383",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12383",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-14T14:47:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12381",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12381",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-14T14:28:46+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.0rc4",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-14T10:15:55+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       },
       {
@@ -260,14 +282,14 @@
         }
       },
       {
-        "title": "llama.cpp v1.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-13T10:59:41Z",
+        "title": "vLLM: v0.34.0rc4",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-14T10:15:55+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -290,17 +312,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.0rc3",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-13T22:52:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
