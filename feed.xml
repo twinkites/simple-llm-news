@@ -4,7 +4,23 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 06:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:58:14 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size</title>
+      <link>https://github.com/figranium/folate</link>
+      <guid isPermaLink="false">https://github.com/figranium/folate</guid>
+      <category>model</category>
+      <pubDate>Sun, 15 Nov 2026 15:55:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint</title>
+      <link>https://github.com/Scronkfinkle/byob</link>
+      <guid isPermaLink="false">https://github.com/Scronkfinkle/byob</guid>
+      <category>model</category>
+      <pubDate>Sun, 15 Nov 2026 14:52:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
       <link>https://twitter.com/willdepue/status/2120992457630326841</link>
@@ -22,22 +38,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Surprising Effectiveness of Deleting Weights in LLM Post-Training</title>
-      <link>https://arxiv.org/abs/2611.10866</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.10866</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 22:44:49 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</title>
-      <link>https://neuracryption.com/research</link>
-      <guid isPermaLink="false">https://neuracryption.com/research</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 13:51:51 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)</title>
       <link>https://huggingface.co/Octen/Octen-WebGR-4B</link>
       <guid isPermaLink="false">https://huggingface.co/Octen/Octen-WebGR-4B</guid>
@@ -46,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
-      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
-      <guid isPermaLink="false">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</guid>
-      <category>model</category>
-      <pubDate>Thu, 05 Nov 2026 15:25:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Caramel: a speech-to-speech conversation model trained only on audio</title>
       <link>https://naklecha.com/research/caramel-1</link>
       <guid isPermaLink="false">https://naklecha.com/research/caramel-1</guid>
       <category>model</category>
       <pubDate>Wed, 11 Nov 2026 03:05:24 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Anathem – local memory for coding agents, no LLM and no daemon</title>
+      <link>https://gitlab.com/__alexander__/anathem</link>
+      <guid isPermaLink="false">https://gitlab.com/__alexander__/anathem</guid>
+      <category>model</category>
+      <pubDate>Wed, 11 Nov 2026 18:10:46 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,6 +78,14 @@
       <source>rss</source>
     </item>
     <item>
+      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
+      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
+      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
+      <category>model</category>
+      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>XYBench: Helping with the problem behind the question</title>
       <link>https://huggingface.co/blog/allenai/xybench</link>
       <guid isPermaLink="false">https://huggingface.co/blog/allenai/xybench</guid>
@@ -86,19 +94,19 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: Anathem – local memory for coding agents, no LLM and no daemon</title>
-      <link>https://gitlab.com/__alexander__/anathem</link>
-      <guid isPermaLink="false">https://gitlab.com/__alexander__/anathem</guid>
+      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
+      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
+      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
       <category>model</category>
-      <pubDate>Wed, 11 Nov 2026 18:10:46 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
-      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
-      <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
-      <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
+      <title>Prompt Injection Attacks in Large Language Model Systems</title>
+      <link>https://zenodo.org/records/21357273</link>
+      <guid isPermaLink="false">https://zenodo.org/records/21357273</guid>
+      <category>security</category>
+      <pubDate>Sun, 15 Nov 2026 14:39:06 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,12 +142,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hardware-Agnostic Models in vLLM</title>
-      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
-      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
+      <title>llama.cpp: b12422</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12422</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12422</guid>
       <category>harness</category>
-      <pubDate>Sun, 15 Nov 2026 02:25:51 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Sun, 15 Nov 2026 18:33:06 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12421</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12421</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12421</guid>
+      <category>harness</category>
+      <pubDate>Sun, 15 Nov 2026 18:18:23 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12420</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12420</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12420</guid>
+      <category>harness</category>
+      <pubDate>Sun, 15 Nov 2026 17:29:12 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp hits v1.0 with a native app for macOS</title>
@@ -150,12 +174,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12407: model : metal : workaround fusion for LFM3 (#32296)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12407</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12407</guid>
+      <title>Hardware-Agnostic Models in vLLM</title>
+      <link>https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</link>
+      <guid isPermaLink="false">https://pytorch.org/blog/hardware-agnostic-models-in-vllm/</guid>
       <category>harness</category>
-      <pubDate>Sun, 15 Nov 2026 00:05:20 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Sun, 15 Nov 2026 02:25:51 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding</title>
@@ -172,22 +196,6 @@
       <category>harness</category>
       <pubDate>Sat, 14 Nov 2026 19:42:17 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12401: llamafile: introduce more Q0 quant support for s390x (#32203)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12401</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12401</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 22:38:06 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12400</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12400</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12400</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 22:37:46 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>llama.cpp v1.0</title>
@@ -214,12 +222,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0rc4</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc4</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc4</guid>
+      <title>Compress any LLM 3x in one click, near-lossless, vLLM successor</title>
+      <link>https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</link>
+      <guid isPermaLink="false">https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/</guid>
       <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 10:15:55 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Thu, 12 Nov 2026 16:53:48 +0000</pubDate>
+      <source>hn</source>
     </item>
   </channel>
 </rss>
