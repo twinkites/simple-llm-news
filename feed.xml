@@ -4,21 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 06:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:16:50 +0000</lastBuildDate>
+    <item>
+      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
+      <link>https://huggingface.co/blog/openrouter</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/openrouter</guid>
+      <category>model</category>
+      <pubDate>Mon, 16 Nov 2026 17:29:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Mon, 16 Nov 2026 16:39:07 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>The efficient frontier of LLM inference</title>
       <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization</link>
       <guid isPermaLink="false">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization</guid>
       <category>model</category>
       <pubDate>Sun, 15 Nov 2026 23:55:50 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size</title>
-      <link>https://github.com/figranium/folate</link>
-      <guid isPermaLink="false">https://github.com/figranium/folate</guid>
-      <category>model</category>
-      <pubDate>Sun, 15 Nov 2026 15:55:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,11 +38,35 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint</title>
+      <link>https://github.com/Scronkfinkle/byob</link>
+      <guid isPermaLink="false">https://github.com/Scronkfinkle/byob</guid>
+      <category>model</category>
+      <pubDate>Sun, 15 Nov 2026 14:52:06 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
       <link>https://github.com/samir-sarwar/samir-vllm</link>
       <guid isPermaLink="false">https://github.com/samir-sarwar/samir-vllm</guid>
       <category>model</category>
       <pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size</title>
+      <link>https://github.com/figranium/folate</link>
+      <guid isPermaLink="false">https://github.com/figranium/folate</guid>
+      <category>model</category>
+      <pubDate>Sun, 15 Nov 2026 15:55:36 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</title>
+      <link>https://neuracryption.com/research</link>
+      <guid isPermaLink="false">https://neuracryption.com/research</guid>
+      <category>model</category>
+      <pubDate>Tue, 10 Nov 2026 13:51:51 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,43 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Runway releases a 27B open-weight model for controlling real robots</title>
-      <link>https://runway.com/news/company-news/praxis-1-is-now-available</link>
-      <guid isPermaLink="false">https://runway.com/news/company-news/praxis-1-is-now-available</guid>
-      <category>model</category>
-      <pubDate>Fri, 13 Nov 2026 00:21:38 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>MiniMax H3-Image Released, an Open-Weight Image Model Built on H3</title>
       <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
       <guid isPermaLink="false">https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</guid>
       <category>model</category>
       <pubDate>Tue, 10 Nov 2026 15:29:36 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
-      <category>model</category>
-      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>XYBench: Helping with the problem behind the question</title>
-      <link>https://huggingface.co/blog/allenai/xybench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/xybench</guid>
-      <category>model</category>
-      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents</title>
-      <link>https://huggingface.co/tarun7r/indic-turn-detector</link>
-      <guid isPermaLink="false">https://huggingface.co/tarun7r/indic-turn-detector</guid>
-      <category>model</category>
-      <pubDate>Thu, 12 Nov 2026 07:34:10 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,19 +126,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>The Secret Leak Test: a prompt injection filter vs. attacks</title>
+      <title>Show HN: We tested our prompt injection filter in public</title>
       <link>https://hodor.gatebolt.com/blog/secret-leak-test</link>
       <guid isPermaLink="false">https://hodor.gatebolt.com/blog/secret-leak-test</guid>
       <category>security</category>
-      <pubDate>Fri, 06 Nov 2026 08:32:59 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 04:32:24 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12430</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12430</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12430</guid>
+      <title>Intel benchmarks D270 vs. RTX PRO 6000: 1.12x throughput on Qwen3-30B-A3B (vLLM)</title>
+      <link>https://www.intel.com/content/www/us/en/newsroom/news/data-center/why-intel-gpu-d270-belongs-in-the-hpc-conversation.html</link>
+      <guid isPermaLink="false">https://www.intel.com/content/www/us/en/newsroom/news/data-center/why-intel-gpu-d270-belongs-in-the-hpc-conversation.html</guid>
       <category>harness</category>
-      <pubDate>Mon, 16 Nov 2026 06:39:21 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 18:51:43 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12445</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12445</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12445</guid>
+      <category>harness</category>
+      <pubDate>Mon, 16 Nov 2026 20:48:05 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,19 +158,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0</guid>
+      <title>llama.cpp: b12444</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12444</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12444</guid>
       <category>harness</category>
-      <pubDate>Mon, 16 Nov 2026 04:27:15 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 19:10:26 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12428</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12428</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12428</guid>
+      <title>ollama: v0.40.17</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1</guid>
       <category>harness</category>
-      <pubDate>Mon, 16 Nov 2026 00:17:10 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 19:02:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12447</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12447</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12447</guid>
+      <category>harness</category>
+      <pubDate>Mon, 16 Nov 2026 14:16:13 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,11 +190,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12429: convert: fix ripple dflash2 NoPE metadata (#32363)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12429</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12429</guid>
+      <title>vLLM: v0.34.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0</guid>
       <category>harness</category>
-      <pubDate>Sun, 15 Nov 2026 23:47:27 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:27:15 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -190,14 +206,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding</title>
-      <link>https://homebrewserver.club/llama-cpp-v1.html</link>
-      <guid isPermaLink="false">https://homebrewserver.club/llama-cpp-v1.html</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 16:30:57 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>CyberGate – vLLM plugin to unlock cybersecurity without weight edits</title>
       <link>https://github.com/kncshw/cybergate</link>
       <guid isPermaLink="false">https://github.com/kncshw/cybergate</guid>
@@ -206,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Loft – offline Q&amp;A over your local files, with citations (llama.cpp)</title>
-      <link>https://github.com/nwaoga/loft</link>
-      <guid isPermaLink="false">https://github.com/nwaoga/loft</guid>
+      <title>Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding</title>
+      <link>https://homebrewserver.club/llama-cpp-v1.html</link>
+      <guid isPermaLink="false">https://homebrewserver.club/llama-cpp-v1.html</guid>
       <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 19:42:17 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 16:30:57 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -219,14 +227,6 @@
       <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0</guid>
       <category>harness</category>
       <pubDate>Fri, 13 Nov 2026 10:59:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>LM Studio vs. Ollama on Linux: same model files, measured on an RTX 3090</title>
-      <link>https://homebrewserver.club/lm-studio-vs-ollama.html</link>
-      <guid isPermaLink="false">https://homebrewserver.club/lm-studio-vs-ollama.html</guid>
-      <category>harness</category>
-      <pubDate>Fri, 13 Nov 2026 18:08:58 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
