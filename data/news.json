@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-15T18:58:14.245447+00:00",
+  "generated_at": "2026-11-16T06:44:39.150952+00:00",
   "sections": {
     "model": [
+      {
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-11-15T23:55:50Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
       {
         "title": "Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size",
         "url": "https://github.com/figranium/folate",
@@ -11,17 +22,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
-        "url": "https://github.com/Scronkfinkle/byob",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-15T14:52:06Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -91,17 +91,6 @@
         }
       },
       {
-        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-13T18:00:39+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "source": "hn",
@@ -110,6 +99,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-13T18:00:39+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -140,7 +140,7 @@
         "title": "Prompt Injection Attacks in Large Language Model Systems",
         "url": "https://zenodo.org/records/21357273",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-11-15T14:39:06Z",
         "truthiness": {
           "label": "red",
@@ -183,10 +183,21 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b12430",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12430",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-16T06:39:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
         "source": "hn",
-        "score": 142,
+        "score": 145,
         "published": "2026-11-14T14:09:25Z",
         "truthiness": {
           "label": "green",
@@ -194,33 +205,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12422",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12422",
+        "title": "vLLM: v0.34.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-15T18:33:06+00:00",
+        "published": "2026-11-16T04:27:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12421",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12421",
+        "title": "llama.cpp: b12428",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12428",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-15T18:18:23+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12420",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12420",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-15T17:29:12+00:00",
+        "published": "2026-11-16T00:17:10+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -235,6 +235,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12429: convert: fix ripple dflash2 NoPE metadata (#32363)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12429",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-15T23:47:27+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -260,6 +271,17 @@
         }
       },
       {
+        "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
+        "url": "https://github.com/kncshw/cybergate",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-11-13T00:52:32Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Show HN: Loft – offline Q&A over your local files, with citations (llama.cpp)",
         "url": "https://github.com/nwaoga/loft",
         "source": "hn",
@@ -282,17 +304,6 @@
         }
       },
       {
-        "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
-        "url": "https://github.com/kncshw/cybergate",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-11-13T00:52:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "LM Studio vs. Ollama on Linux: same model files, measured on an RTX 3090",
         "url": "https://homebrewserver.club/lm-studio-vs-ollama.html",
         "source": "hn",
@@ -301,17 +312,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
-        "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-12T16:53:48Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
         }
       }
     ]
