@@ -1,27 +1,38 @@
 {
-  "generated_at": "2026-11-16T22:16:50.481464+00:00",
+  "generated_at": "2026-11-17T08:04:36.530328+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+        "url": "https://neander.ai/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T07:21:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-17T01:03:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
       {
         "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
         "url": "https://huggingface.co/blog/openrouter",
         "source": "hn",
-        "score": 2,
+        "score": 4,
         "published": "2026-11-16T17:29:41Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-16T16:39:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -36,6 +47,17 @@
         }
       },
       {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-16T16:39:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
         "url": "https://twitter.com/willdepue/status/2120992457630326841",
         "source": "hn",
@@ -44,17 +66,6 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
-        }
-      },
-      {
-        "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
-        "url": "https://github.com/Scronkfinkle/byob",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-15T14:52:06Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -69,17 +80,6 @@
         }
       },
       {
-        "title": "Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size",
-        "url": "https://github.com/figranium/folate",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-15T15:55:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
         "url": "https://neuracryption.com/research",
         "source": "hn",
@@ -88,6 +88,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 34 points)"
+        }
+      },
+      {
+        "title": "Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size",
+        "url": "https://github.com/figranium/folate",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-15T15:55:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -121,17 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-10T15:29:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ],
@@ -168,37 +168,37 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
-      },
-      {
-        "title": "Show HN: We tested our prompt injection filter in public",
-        "url": "https://hodor.gatebolt.com/blog/secret-leak-test",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-07T04:32:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
       {
-        "title": "Intel benchmarks D270 vs. RTX PRO 6000: 1.12x throughput on Qwen3-30B-A3B (vLLM)",
-        "url": "https://www.intel.com/content/www/us/en/newsroom/news/data-center/why-intel-gpu-d270-belongs-in-the-hpc-conversation.html",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-16T18:51:43Z",
+        "title": "llama.cpp: b12465",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12465",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-17T07:56:12+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12445",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12445",
+        "title": "llama.cpp: b12464",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12464",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-16T20:48:05+00:00",
+        "published": "2026-11-17T06:33:07+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12463",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12463",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-17T06:17:28+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -216,33 +216,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12444",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12444",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-16T19:10:26+00:00",
+        "title": "Intel benchmarks D270 vs. RTX PRO 6000: 1.12x throughput on Qwen3-30B-A3B (vLLM)",
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/data-center/why-intel-gpu-d270-belongs-in-the-hpc-conversation.html",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-16T18:51:43Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "ollama: v0.40.17",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1",
+        "title": "vLLM: v0.34.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-16T19:02:48+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12447",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12447",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-16T14:16:13+00:00",
+        "published": "2026-11-16T23:50:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,11 +249,11 @@
         }
       },
       {
-        "title": "vLLM: v0.34.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+        "title": "ollama: v0.40.17",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-16T04:27:15+00:00",
+        "published": "2026-11-16T19:02:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -293,17 +282,6 @@
         }
       },
       {
-        "title": "Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding",
-        "url": "https://homebrewserver.club/llama-cpp-v1.html",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-14T16:30:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "llama.cpp v1.0",
         "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
         "source": "hn",
@@ -312,6 +290,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding",
+        "url": "https://homebrewserver.club/llama-cpp-v1.html",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-14T16:30:57Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
