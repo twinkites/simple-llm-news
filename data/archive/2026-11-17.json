@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-11-17T08:04:36.530328+00:00",
+  "generated_at": "2026-11-17T21:03:25.795191+00:00",
   "sections": {
     "model": [
+      {
+        "title": "CLI for torrenting open weight AI models",
+        "url": "https://pirateface.co/articles/pirate-face-cli",
+        "source": "hn",
+        "score": 8,
+        "published": "2026-11-17T16:53:07Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Are open-weight models like Qwen used in production?",
+        "url": "https://news.ycombinator.com/item?id=50533464",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T16:10:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Mino – Hackable ROS 2 robot with on-device stereo vision and a local LLM",
+        "url": "https://mino.bot",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T14:39:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
+        "url": "https://news.ycombinator.com/item?id=50531822",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T14:24:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
         "url": "https://neander.ai/",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-11-17T07:21:58Z",
         "truthiness": {
           "label": "red",
@@ -25,6 +69,17 @@
         }
       },
       {
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+        "source": "hn",
+        "score": 13,
+        "published": "2026-11-15T23:55:50Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
         "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
         "url": "https://huggingface.co/blog/openrouter",
         "source": "hn",
@@ -33,17 +88,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
-        "source": "hn",
-        "score": 12,
-        "published": "2026-11-15T23:55:50Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
@@ -89,50 +133,6 @@
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 34 points)"
         }
-      },
-      {
-        "title": "Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size",
-        "url": "https://github.com/figranium/folate",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-15T15:55:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)",
-        "url": "https://huggingface.co/Octen/Octen-WebGR-4B",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-13T03:45:25Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-        "url": "https://naklecha.com/research/caramel-1",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-11T03:05:24Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
-        "url": "https://gitlab.com/__alexander__/anathem",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-11T18:10:46Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
       }
     ],
     "security": [
@@ -172,47 +172,102 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12465",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12465",
+        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "source": "hn",
+        "score": 32,
+        "published": "2026-11-17T16:01:04Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 32 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12483",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12483",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-17T07:56:12+00:00",
+        "published": "2026-11-17T20:10:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12464",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12464",
+        "title": "llama.cpp: b12482",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12482",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-17T06:33:07+00:00",
+        "published": "2026-11-17T19:54:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12463",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12463",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-17T06:17:28+00:00",
+        "title": "One environment variable made our llama.cpp server up to 21% faster",
+        "url": "https://tensward.com/blog/huge-pages-llama-cpp",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T16:54:08Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
         "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
         "source": "hn",
-        "score": 148,
+        "score": 149,
         "published": "2026-11-14T14:09:25Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 84 points)"
+        }
+      },
+      {
+        "title": "Show HN: Terraform Module for a Private LLM Stack on AWS (Ollama, Open WebUI)",
+        "url": "https://github.com/1solomonwakhungu/terraform-aws-private-llm",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T15:01:26Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: OpenEye – Ollama for vision models (YOLO, SAM 2, depth) with MCP server",
+        "url": "https://github.com/aw3-technology/openeye.sh",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-17T13:42:52Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12484",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12484",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-17T14:40:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Llama.cpp hits v1.0 with a native app for macOS",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "hn",
+        "score": 26,
+        "published": "2026-11-14T02:05:37Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       },
       {
@@ -238,17 +293,6 @@
         }
       },
       {
-        "title": "Llama.cpp hits v1.0 with a native app for macOS",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "hn",
-        "score": 26,
-        "published": "2026-11-14T02:05:37Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
         "title": "ollama: v0.40.17",
         "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1",
         "source": "rss",
@@ -257,50 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Hardware-Agnostic Models in vLLM",
-        "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-15T02:25:51Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
-        "url": "https://github.com/kncshw/cybergate",
-        "source": "hn",
-        "score": 7,
-        "published": "2026-11-13T00:52:32Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "llama.cpp v1.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
-        "source": "hn",
-        "score": 5,
-        "published": "2026-11-13T10:59:41Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 5 points)"
-        }
-      },
-      {
-        "title": "Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding",
-        "url": "https://homebrewserver.club/llama-cpp-v1.html",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-14T16:30:57Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
