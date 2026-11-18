@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-17T21:03:25.795191+00:00",
+  "generated_at": "2026-11-18T07:41:08.732194+00:00",
   "sections": {
     "model": [
+      {
+        "title": "Not Everything Needs an LLM",
+        "url": "https://newsletter.posthog.com/p/decision-models",
+        "source": "hn",
+        "score": 145,
+        "published": "2026-11-17T18:16:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
+        }
+      },
+      {
+        "title": "An agent skill for hill-climbing the speed of a local LLM server",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skil",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-18T06:11:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "CLI for torrenting open weight AI models",
         "url": "https://pirateface.co/articles/pirate-face-cli",
@@ -11,6 +33,28 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
+        "url": "https://news.ycombinator.com/item?id=50531822",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-17T14:24:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+        "url": "https://neander.ai/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-17T07:21:58Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -36,25 +80,14 @@
         }
       },
       {
-        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
-        "url": "https://news.ycombinator.com/item?id=50531822",
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-17T14:24:54Z",
+        "score": 13,
+        "published": "2026-11-15T23:55:50Z",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-        "url": "https://neander.ai/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-17T07:21:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
         }
       },
       {
@@ -69,17 +102,6 @@
         }
       },
       {
-        "title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
-        "source": "hn",
-        "score": 13,
-        "published": "2026-11-15T23:55:50Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
         "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
         "url": "https://huggingface.co/blog/openrouter",
         "source": "hn",
@@ -88,28 +110,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-16T16:39:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
-        "url": "https://twitter.com/willdepue/status/2120992457630326841",
-        "source": "hn",
-        "score": 18,
-        "published": "2026-11-14T06:50:21Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       },
       {
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-        "url": "https://neuracryption.com/research",
+        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
+        "url": "https://twitter.com/willdepue/status/2120992457630326841",
         "source": "hn",
-        "score": 34,
-        "published": "2026-11-10T13:51:51Z",
+        "score": 18,
+        "published": "2026-11-14T06:50:21Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 34 points)"
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
         }
       }
     ],
@@ -175,7 +175,7 @@
         "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
         "url": "https://github.com/RunanywhereAI/trnrt",
         "source": "hn",
-        "score": 32,
+        "score": 48,
         "published": "2026-11-17T16:01:04Z",
         "truthiness": {
           "label": "green",
@@ -183,22 +183,55 @@
         }
       },
       {
-        "title": "llama.cpp: b12483",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12483",
+        "title": "llama.cpp: b12500",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12500",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-17T20:10:00+00:00",
+        "published": "2026-11-18T07:08:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12482",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12482",
+        "title": "llama.cpp: b12499",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12499",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-17T19:54:37+00:00",
+        "published": "2026-11-18T05:27:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12498",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12498",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T04:22:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "source": "hn",
+        "score": 149,
+        "published": "2026-11-14T14:09:25Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 84 points)"
+        }
+      },
+      {
+        "title": "sglang: router-v0.1.0",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T00:34:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -213,17 +246,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-        "source": "hn",
-        "score": 149,
-        "published": "2026-11-14T14:09:25Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 84 points)"
         }
       },
       {
@@ -246,17 +268,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12484",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12484",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-17T14:40:53+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -287,17 +298,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-11-16T23:50:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.17",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-16T19:02:48+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"

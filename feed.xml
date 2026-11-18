@@ -4,29 +4,29 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 21:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:41:08 +0000</lastBuildDate>
+    <item>
+      <title>Not Everything Needs an LLM</title>
+      <link>https://newsletter.posthog.com/p/decision-models</link>
+      <guid isPermaLink="false">https://newsletter.posthog.com/p/decision-models</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 18:16:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>An agent skill for hill-climbing the speed of a local LLM server</title>
+      <link>https://github.com/sybil-solutions/inference-optimisation-skil</link>
+      <guid isPermaLink="false">https://github.com/sybil-solutions/inference-optimisation-skil</guid>
+      <category>model</category>
+      <pubDate>Wed, 18 Nov 2026 06:11:23 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>CLI for torrenting open weight AI models</title>
       <link>https://pirateface.co/articles/pirate-face-cli</link>
       <guid isPermaLink="false">https://pirateface.co/articles/pirate-face-cli</guid>
       <category>model</category>
       <pubDate>Tue, 17 Nov 2026 16:53:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ask HN: Are open-weight models like Qwen used in production?</title>
-      <link>https://news.ycombinator.com/item?id=50533464</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50533464</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 16:10:17 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Mino – Hackable ROS 2 robot with on-device stereo vision and a local LLM</title>
-      <link>https://mino.bot</link>
-      <guid isPermaLink="false">https://mino.bot</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 14:39:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,11 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
-      <link>https://kobi.music/research/dettato</link>
-      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
+      <title>Ask HN: Are open-weight models like Qwen used in production?</title>
+      <link>https://news.ycombinator.com/item?id=50533464</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50533464</guid>
       <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 16:10:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Mino – Hackable ROS 2 robot with on-device stereo vision and a local LLM</title>
+      <link>https://mino.bot</link>
+      <guid isPermaLink="false">https://mino.bot</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 14:39:17 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -62,27 +70,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
+      <link>https://kobi.music/research/dettato</link>
+      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
       <link>https://huggingface.co/blog/openrouter</link>
       <guid isPermaLink="false">https://huggingface.co/blog/openrouter</guid>
       <category>model</category>
       <pubDate>Mon, 16 Nov 2026 17:29:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anyone can easily use private, open weight models</title>
-      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
-      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Mon, 16 Nov 2026 16:39:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
-      <link>https://twitter.com/willdepue/status/2120992457630326841</link>
-      <guid isPermaLink="false">https://twitter.com/willdepue/status/2120992457630326841</guid>
-      <category>model</category>
-      <pubDate>Sat, 14 Nov 2026 06:50:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</title>
-      <link>https://neuracryption.com/research</link>
-      <guid isPermaLink="false">https://neuracryption.com/research</guid>
+      <title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
+      <link>https://twitter.com/willdepue/status/2120992457630326841</link>
+      <guid isPermaLink="false">https://twitter.com/willdepue/status/2120992457630326841</guid>
       <category>model</category>
-      <pubDate>Tue, 10 Nov 2026 13:51:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 06:50:21 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -134,19 +134,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12483</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12483</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12483</guid>
+      <title>llama.cpp: b12500</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12500</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12500</guid>
       <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 20:10:00 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 07:08:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12482</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12482</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12482</guid>
+      <title>llama.cpp: b12499</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12499</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12499</guid>
       <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 19:54:37 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 05:27:24 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12498</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12498</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12498</guid>
+      <category>harness</category>
+      <pubDate>Wed, 18 Nov 2026 04:22:36 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
+      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
+      <guid isPermaLink="false">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>sglang: router-v0.1.0</title>
+      <link>https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0</link>
+      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 18 Nov 2026 00:34:15 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -155,14 +179,6 @@
       <guid isPermaLink="false">https://tensward.com/blog/huge-pages-llama-cpp</guid>
       <category>harness</category>
       <pubDate>Tue, 17 Nov 2026 16:54:08 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
-      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
-      <guid isPermaLink="false">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -180,14 +196,6 @@
       <category>harness</category>
       <pubDate>Tue, 17 Nov 2026 13:42:52 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12484</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12484</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12484</guid>
-      <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 14:40:53 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Llama.cpp hits v1.0 with a native app for macOS</title>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0</guid>
       <category>harness</category>
       <pubDate>Mon, 16 Nov 2026 23:50:15 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.17</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1</guid>
-      <category>harness</category>
-      <pubDate>Mon, 16 Nov 2026 19:02:48 +0000</pubDate>
       <source>rss</source>
     </item>
   </channel>
