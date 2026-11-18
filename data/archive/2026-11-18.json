@@ -1,16 +1,60 @@
 {
-  "generated_at": "2026-11-18T07:41:08.732194+00:00",
+  "generated_at": "2026-11-18T20:41:01.231390+00:00",
   "sections": {
     "model": [
       {
         "title": "Not Everything Needs an LLM",
         "url": "https://newsletter.posthog.com/p/decision-models",
         "source": "hn",
-        "score": 145,
+        "score": 176,
         "published": "2026-11-17T18:16:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
+        }
+      },
+      {
+        "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T19:54:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T18:53:43+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T15:00:23+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "CLI for torrenting open weight AI models",
+        "url": "https://pirateface.co/articles/pirate-face-cli",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-11-17T16:53:07Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -19,28 +63,6 @@
         "source": "hn",
         "score": 1,
         "published": "2026-11-18T06:11:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "CLI for torrenting open weight AI models",
-        "url": "https://pirateface.co/articles/pirate-face-cli",
-        "source": "hn",
-        "score": 8,
-        "published": "2026-11-17T16:53:07Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
-        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
-        "url": "https://news.ycombinator.com/item?id=50531822",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-17T14:24:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -58,28 +80,6 @@
         }
       },
       {
-        "title": "Ask HN: Are open-weight models like Qwen used in production?",
-        "url": "https://news.ycombinator.com/item?id=50533464",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-17T16:10:17Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Mino – Hackable ROS 2 robot with on-device stereo vision and a local LLM",
-        "url": "https://mino.bot",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-17T14:39:17Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
         "source": "hn",
@@ -88,6 +88,17 @@
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
+        "url": "https://news.ycombinator.com/item?id=50531822",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-17T14:24:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-        "url": "https://huggingface.co/blog/openrouter",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-16T17:29:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
         "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
         "url": "https://github.com/samir-sarwar/samir-vllm",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
-        "url": "https://twitter.com/willdepue/status/2120992457630326841",
+        "title": "Ask HN: Are open-weight models like Qwen used in production?",
+        "url": "https://news.ycombinator.com/item?id=50533464",
         "source": "hn",
-        "score": 18,
-        "published": "2026-11-14T06:50:21Z",
+        "score": 1,
+        "published": "2026-11-17T16:10:17Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 16 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -172,10 +172,32 @@
     ],
     "harness": [
       {
+        "title": "Parallel agent requests can slow down an Ollama session",
+        "url": "https://tensward.com/blog/ollama-agent-cache",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-18T17:55:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T20:10:50+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
         "url": "https://github.com/RunanywhereAI/trnrt",
         "source": "hn",
-        "score": 48,
+        "score": 54,
         "published": "2026-11-17T16:01:04Z",
         "truthiness": {
           "label": "green",
@@ -183,33 +205,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12500",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12500",
+        "title": "llama.cpp: b12522",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12522",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T07:08:23+00:00",
+        "published": "2026-11-18T17:29:56+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12499",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12499",
+        "title": "llama.cpp: b12521",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12521",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T05:27:24+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12498",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12498",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T04:22:36+00:00",
+        "published": "2026-11-18T17:15:37+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,14 +238,36 @@
         }
       },
       {
-        "title": "sglang: router-v0.1.0",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0",
+        "title": "llama.cpp: b12520",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12520",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T00:34:15+00:00",
+        "published": "2026-11-18T15:39:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks",
+        "url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-18T08:16:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Llama.cpp hits v1.0 with a native app for macOS",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "hn",
+        "score": 26,
+        "published": "2026-11-14T02:05:37Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       },
       {
@@ -260,44 +293,11 @@
         }
       },
       {
-        "title": "Show HN: OpenEye – Ollama for vision models (YOLO, SAM 2, depth) with MCP server",
-        "url": "https://github.com/aw3-technology/openeye.sh",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-17T13:42:52Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Llama.cpp hits v1.0 with a native app for macOS",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "hn",
-        "score": 26,
-        "published": "2026-11-14T02:05:37Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "Intel benchmarks D270 vs. RTX PRO 6000: 1.12x throughput on Qwen3-30B-A3B (vLLM)",
-        "url": "https://www.intel.com/content/www/us/en/newsroom/news/data-center/why-intel-gpu-d270-belongs-in-the-hpc-conversation.html",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-16T18:51:43Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+        "title": "sglang: router-v0.1.0",
+        "url": "https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-16T23:50:15+00:00",
+        "published": "2026-11-18T00:34:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
