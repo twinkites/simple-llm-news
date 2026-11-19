@@ -4,13 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 20:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:37:25 +0000</lastBuildDate>
     <item>
       <title>Not Everything Needs an LLM</title>
       <link>https://newsletter.posthog.com/p/decision-models</link>
       <guid isPermaLink="false">https://newsletter.posthog.com/p/decision-models</guid>
       <category>model</category>
       <pubDate>Tue, 17 Nov 2026 18:16:18 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>CLI for torrenting open weight AI models</title>
+      <link>https://pirateface.co/articles/pirate-face-cli</link>
+      <guid isPermaLink="false">https://pirateface.co/articles/pirate-face-cli</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 16:53:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,27 +46,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>CLI for torrenting open weight AI models</title>
-      <link>https://pirateface.co/articles/pirate-face-cli</link>
-      <guid isPermaLink="false">https://pirateface.co/articles/pirate-face-cli</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 16:53:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>An agent skill for hill-climbing the speed of a local LLM server</title>
       <link>https://github.com/sybil-solutions/inference-optimisation-skil</link>
       <guid isPermaLink="false">https://github.com/sybil-solutions/inference-optimisation-skil</guid>
       <category>model</category>
       <pubDate>Wed, 18 Nov 2026 06:11:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: Harness for building/cloning SaaS using open-weight models</title>
-      <link>https://neander.ai/</link>
-      <guid isPermaLink="false">https://neander.ai/</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 07:21:58 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,19 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Ask HN: Do you think open weight models will continue to remain as cheap?</title>
-      <link>https://news.ycombinator.com/item?id=50531822</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50531822</guid>
+      <title>Show HN: Harness for building/cloning SaaS using open-weight models</title>
+      <link>https://neander.ai/</link>
+      <guid isPermaLink="false">https://neander.ai/</guid>
       <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 14:24:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
-      <link>https://kobi.music/research/dettato</link>
-      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 07:21:58 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -99,6 +83,22 @@
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50533464</guid>
       <category>model</category>
       <pubDate>Tue, 17 Nov 2026 16:10:17 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
+      <link>https://kobi.music/research/dettato</link>
+      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Ask HN: Do you think open weight models will continue to remain as cheap?</title>
+      <link>https://news.ycombinator.com/item?id=50531822</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50531822</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 14:24:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,20 +126,28 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Parallel agent requests can slow down an Ollama session</title>
-      <link>https://tensward.com/blog/ollama-agent-cache</link>
-      <guid isPermaLink="false">https://tensward.com/blog/ollama-agent-cache</guid>
+      <title>Taking vLLM Apart: A Practical Guide to Disaggregated Serving</title>
+      <link>https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 17:55:18 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 03:19:35 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>vLLM: v0.34.0</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0</guid>
+      <title>llama.cpp: b12533: CUDA: use 64-bit dst offsets in mul_mat_q (#32374)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12533</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12533</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 20:10:50 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 06:11:44 +0000</pubDate>
       <source>rss</source>
+    </item>
+    <item>
+      <title>High-Interactivity Decode with FlyDSL MonoKernels in vLLM</title>
+      <link>https://vllm.ai/blog/2026-11-18-flydsl-monokernels</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-18-flydsl-monokernels</guid>
+      <category>harness</category>
+      <pubDate>Thu, 19 Nov 2026 03:21:44 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
@@ -150,20 +158,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12522</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12522</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12522</guid>
+      <title>llama.cpp: b12532</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12532</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12532</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 17:29:56 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 04:49:50 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12521</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12521</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12521</guid>
+      <title>Parallel agent requests can slow down an Ollama session</title>
+      <link>https://tensward.com/blog/ollama-agent-cache</link>
+      <guid isPermaLink="false">https://tensward.com/blog/ollama-agent-cache</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 17:15:37 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 18 Nov 2026 17:55:18 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
@@ -174,11 +182,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12520</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12520</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12520</guid>
+      <title>llama.cpp: b12531</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12531</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12531</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 15:39:30 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 02:23:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM: v0.34.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.0</link>
+      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.0</guid>
+      <category>harness</category>
+      <pubDate>Wed, 18 Nov 2026 21:02:33 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -198,28 +214,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>One environment variable made our llama.cpp server up to 21% faster</title>
-      <link>https://tensward.com/blog/huge-pages-llama-cpp</link>
-      <guid isPermaLink="false">https://tensward.com/blog/huge-pages-llama-cpp</guid>
-      <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 16:54:08 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Terraform Module for a Private LLM Stack on AWS (Ollama, Open WebUI)</title>
       <link>https://github.com/1solomonwakhungu/terraform-aws-private-llm</link>
       <guid isPermaLink="false">https://github.com/1solomonwakhungu/terraform-aws-private-llm</guid>
       <category>harness</category>
       <pubDate>Tue, 17 Nov 2026 15:01:26 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>sglang: router-v0.1.0</title>
-      <link>https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0</link>
-      <guid isPermaLink="false">https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0</guid>
-      <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 00:34:15 +0000</pubDate>
-      <source>rss</source>
     </item>
   </channel>
 </rss>

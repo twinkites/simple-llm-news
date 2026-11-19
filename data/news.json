@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-18T20:41:01.231390+00:00",
+  "generated_at": "2026-11-19T07:37:25.299932+00:00",
   "sections": {
     "model": [
       {
         "title": "Not Everything Needs an LLM",
         "url": "https://newsletter.posthog.com/p/decision-models",
         "source": "hn",
-        "score": 176,
+        "score": 183,
         "published": "2026-11-17T18:16:18Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 145 points)"
+        }
+      },
+      {
+        "title": "CLI for torrenting open weight AI models",
+        "url": "https://pirateface.co/articles/pirate-face-cli",
+        "source": "hn",
+        "score": 10,
+        "published": "2026-11-17T16:53:07Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
         }
       },
       {
@@ -47,33 +58,11 @@
         }
       },
       {
-        "title": "CLI for torrenting open weight AI models",
-        "url": "https://pirateface.co/articles/pirate-face-cli",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-11-17T16:53:07Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
-        }
-      },
-      {
         "title": "An agent skill for hill-climbing the speed of a local LLM server",
         "url": "https://github.com/sybil-solutions/inference-optimisation-skil",
         "source": "hn",
         "score": 1,
         "published": "2026-11-18T06:11:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-        "url": "https://neander.ai/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-17T07:21:58Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -91,25 +80,14 @@
         }
       },
       {
-        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
-        "url": "https://news.ycombinator.com/item?id=50531822",
+        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+        "url": "https://neander.ai/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-17T14:24:54Z",
+        "score": 4,
+        "published": "2026-11-17T07:21:58Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-17T01:03:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -127,8 +105,30 @@
         "title": "Ask HN: Are open-weight models like Qwen used in production?",
         "url": "https://news.ycombinator.com/item?id=50533464",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-11-17T16:10:17Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-17T01:03:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
+        "url": "https://news.ycombinator.com/item?id=50531822",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-17T14:24:54Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -172,25 +172,36 @@
     ],
     "harness": [
       {
-        "title": "Parallel agent requests can slow down an Ollama session",
-        "url": "https://tensward.com/blog/ollama-agent-cache",
+        "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
+        "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
         "source": "hn",
-        "score": 4,
-        "published": "2026-11-18T17:55:18Z",
+        "score": 2,
+        "published": "2026-11-19T03:19:35Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "vLLM: v0.34.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+        "title": "llama.cpp: b12533: CUDA: use 64-bit dst offsets in mul_mat_q (#32374)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12533",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T20:10:50+00:00",
+        "published": "2026-11-19T06:11:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "High-Interactivity Decode with FlyDSL MonoKernels in vLLM",
+        "url": "https://vllm.ai/blog/2026-11-18-flydsl-monokernels",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-19T03:21:44Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -205,25 +216,25 @@
         }
       },
       {
-        "title": "llama.cpp: b12522",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12522",
+        "title": "llama.cpp: b12532",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12532",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T17:29:56+00:00",
+        "published": "2026-11-19T04:49:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12521",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12521",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T17:15:37+00:00",
+        "title": "Parallel agent requests can slow down an Ollama session",
+        "url": "https://tensward.com/blog/ollama-agent-cache",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-18T17:55:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -238,11 +249,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12520",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12520",
+        "title": "llama.cpp: b12531",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12531",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-18T15:39:30+00:00",
+        "published": "2026-11-19T02:23:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM: v0.34.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T21:02:33+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,36 +293,14 @@
         }
       },
       {
-        "title": "One environment variable made our llama.cpp server up to 21% faster",
-        "url": "https://tensward.com/blog/huge-pages-llama-cpp",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-17T16:54:08Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Terraform Module for a Private LLM Stack on AWS (Ollama, Open WebUI)",
         "url": "https://github.com/1solomonwakhungu/terraform-aws-private-llm",
         "source": "hn",
-        "score": 1,
+        "score": 2,
         "published": "2026-11-17T15:01:26Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "sglang: router-v0.1.0",
-        "url": "https://github.com/sgl-project/sglang/releases/tag/router-v0.1.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T00:34:15+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ]
