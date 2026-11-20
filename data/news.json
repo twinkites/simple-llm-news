@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-19T20:46:36.881239+00:00",
+  "generated_at": "2026-11-20T07:28:35.726059+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM assisted reverse engineering",
         "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
         "source": "hn",
-        "score": 294,
+        "score": 302,
         "published": "2026-11-18T22:29:13Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 294 points)"
+        }
+      },
+      {
+        "title": "Not Everything Needs an LLM",
+        "url": "https://newsletter.posthog.com/p/decision-models",
+        "source": "hn",
+        "score": 186,
+        "published": "2026-11-17T18:16:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 186 points)"
         }
       },
       {
@@ -36,17 +47,6 @@
         }
       },
       {
-        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-        "url": "https://neander.ai/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-17T07:21:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
         "url": "https://twitter.com/willdepue/status/2120992457630326841",
         "source": "hn",
@@ -58,36 +58,14 @@
         }
       },
       {
-        "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T19:54:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "An agent skill for hill-climbing the speed of a local LLM server",
-        "url": "https://github.com/sybil-solutions/inference-optimisation-skil",
+        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+        "url": "https://neander.ai/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-18T06:11:23Z",
+        "score": 4,
+        "published": "2026-11-17T07:21:58Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Why your fine-tuning job takes longer than the FLOPs say",
-        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T18:53:43+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -102,22 +80,22 @@
         }
       },
       {
-        "title": "Ask HN: Are open-weight models like Qwen used in production?",
-        "url": "https://news.ycombinator.com/item?id=50533464",
+        "title": "An agent skill for hill-climbing the speed of a local LLM server",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skil",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-17T16:10:17Z",
+        "score": 1,
+        "published": "2026-11-18T06:11:23Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
-        "url": "https://news.ycombinator.com/item?id=50531822",
+        "title": "Ask HN: Are open-weight models like Qwen used in production?",
+        "url": "https://news.ycombinator.com/item?id=50533464",
         "source": "hn",
         "score": 2,
-        "published": "2026-11-17T14:24:54Z",
+        "published": "2026-11-17T16:10:17Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
@@ -133,9 +111,42 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
+      },
+      {
+        "title": "Ask HN: Do you think open weight models will continue to remain as cheap?",
+        "url": "https://news.ycombinator.com/item?id=50531822",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-17T14:24:54Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-18T19:54:56+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
       }
     ],
     "security": [
+      {
+        "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+        "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-19T21:55:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
       {
         "title": "Prompt Injection Attacks in Large Language Model Systems",
         "url": "https://zenodo.org/records/21357273",
@@ -172,33 +183,22 @@
     ],
     "harness": [
       {
-        "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
-        "url": "https://junctionboxai.com/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-19T14:08:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12549",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12549",
+        "title": "llama.cpp: b12559",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12559",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-19T17:51:04+00:00",
+        "published": "2026-11-20T07:00:06+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12548",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12548",
+        "title": "llama.cpp: b12558",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12558",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-19T17:35:55+00:00",
+        "published": "2026-11-20T06:41:50+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,25 +227,36 @@
         }
       },
       {
-        "title": "llama.cpp: b12550: ggml : add backend scheduler tests (#27258)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12550",
+        "title": "ollama: v0.40.17",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-19T14:40:13+00:00",
+        "published": "2026-11-20T00:25:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
-        "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+        "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
+        "url": "https://junctionboxai.com/",
         "source": "hn",
         "score": 2,
-        "published": "2026-11-19T03:19:35Z",
+        "published": "2026-11-19T14:08:49Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12557: CUDA: implement support for duplicate expert IDs (#32505)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12557",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-19T22:21:24+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -257,6 +268,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
+        "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-19T03:19:35Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -279,17 +301,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-18T21:02:33+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
