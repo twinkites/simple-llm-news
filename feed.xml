@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 07:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:31:23 +0000</lastBuildDate>
     <item>
       <title>LLM assisted reverse engineering</title>
       <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
@@ -14,11 +14,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Not Everything Needs an LLM</title>
-      <link>https://newsletter.posthog.com/p/decision-models</link>
-      <guid isPermaLink="false">https://newsletter.posthog.com/p/decision-models</guid>
+      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
+      <link>https://kobi.music/research/dettato</link>
+      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
       <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 18:16:18 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Small TTS Bench: open-weight text-to-speech models on CPU</title>
+      <link>https://erogol.com/small_tts_bench/</link>
+      <guid isPermaLink="false">https://erogol.com/small_tts_bench/</guid>
+      <category>model</category>
+      <pubDate>Fri, 20 Nov 2026 14:13:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -28,6 +36,22 @@
       <category>model</category>
       <pubDate>Tue, 17 Nov 2026 16:53:07 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+      <link>https://huggingface.co/blog/inkling2mini</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/inkling2mini</guid>
+      <category>model</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/harness-adapters-at-scale</guid>
+      <category>model</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>The efficient frontier of LLM inference</title>
@@ -54,19 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
-      <link>https://kobi.music/research/dettato</link>
-      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
+      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
+      <link>https://huggingface.co/blog/openrouter</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/openrouter</guid>
       <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>An agent skill for hill-climbing the speed of a local LLM server</title>
-      <link>https://github.com/sybil-solutions/inference-optimisation-skil</link>
-      <guid isPermaLink="false">https://github.com/sybil-solutions/inference-optimisation-skil</guid>
-      <category>model</category>
-      <pubDate>Wed, 18 Nov 2026 06:11:23 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 17:29:41 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,28 +94,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
-      <link>https://huggingface.co/blog/openrouter</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/openrouter</guid>
-      <category>model</category>
-      <pubDate>Mon, 16 Nov 2026 17:29:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Ask HN: Do you think open weight models will continue to remain as cheap?</title>
       <link>https://news.ycombinator.com/item?id=50531822</link>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50531822</guid>
       <category>model</category>
       <pubDate>Tue, 17 Nov 2026 14:24:54 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
-      <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
-      <category>model</category>
-      <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>AI Agent Authorization That Limits the Damage of Prompt Injection</title>
@@ -134,19 +134,35 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12559</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12559</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12559</guid>
+      <title>llama.cpp: b12590</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12590</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12590</guid>
       <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 07:00:06 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 19:06:21 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12558</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12558</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12558</guid>
+      <title>ollama: v0.40.17-rc3</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc3</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc3</guid>
       <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 06:41:50 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 18:37:07 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12589</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12589</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12589</guid>
+      <category>harness</category>
+      <pubDate>Fri, 20 Nov 2026 17:45:54 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12591</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12591</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12591</guid>
+      <category>harness</category>
+      <pubDate>Fri, 20 Nov 2026 17:36:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,28 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.17</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2</guid>
-      <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 00:25:30 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally</title>
       <link>https://junctionboxai.com/</link>
       <guid isPermaLink="false">https://junctionboxai.com/</guid>
       <category>harness</category>
       <pubDate>Thu, 19 Nov 2026 14:08:49 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12557: CUDA: implement support for duplicate expert IDs (#32505)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12557</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12557</guid>
-      <category>harness</category>
-      <pubDate>Thu, 19 Nov 2026 22:21:24 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Parallel agent requests can slow down an Ollama session</title>
@@ -198,19 +198,19 @@
       <source>hn</source>
     </item>
     <item>
+      <title>ollama: v0.40.17</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2</guid>
+      <category>harness</category>
+      <pubDate>Fri, 20 Nov 2026 00:25:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>Taking vLLM Apart: A Practical Guide to Disaggregated Serving</title>
       <link>https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</guid>
       <category>harness</category>
       <pubDate>Thu, 19 Nov 2026 03:19:35 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>High-Interactivity Decode with FlyDSL MonoKernels in vLLM</title>
-      <link>https://vllm.ai/blog/2026-11-18-flydsl-monokernels</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-18-flydsl-monokernels</guid>
-      <category>harness</category>
-      <pubDate>Thu, 19 Nov 2026 03:21:44 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -222,11 +222,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks</title>
-      <link>https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook</link>
-      <guid isPermaLink="false">https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook</guid>
+      <title>High-Interactivity Decode with FlyDSL MonoKernels in vLLM</title>
+      <link>https://vllm.ai/blog/2026-11-18-flydsl-monokernels</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-18-flydsl-monokernels</guid>
       <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 08:16:29 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 03:21:44 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
