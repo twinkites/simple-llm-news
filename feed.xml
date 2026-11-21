@@ -4,13 +4,37 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 07:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:25:44 +0000</lastBuildDate>
+    <item>
+      <title>Anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM assisted reverse engineering</title>
       <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
       <guid isPermaLink="false">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</guid>
       <category>model</category>
       <pubDate>Wed, 18 Nov 2026 22:29:13 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks</title>
+      <link>https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</link>
+      <guid isPermaLink="false">https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 15:02:59 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks</title>
+      <link>https://arxiv.org/abs/2611.06257</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.06257</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 15:39:28 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -35,14 +59,6 @@
       <guid isPermaLink="false">https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html</guid>
       <category>model</category>
       <pubDate>Fri, 20 Nov 2026 22:55:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction</title>
-      <link>https://arxiv.org/abs/2607.29378</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29378</guid>
-      <category>model</category>
-      <pubDate>Thu, 19 Nov 2026 01:27:02 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,22 +94,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-      <link>https://huggingface.co/blog/inkling2mini</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/inkling2mini</guid>
-      <category>model</category>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/harness-adapters-at-scale</guid>
-      <category>model</category>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: Harness for building/cloning SaaS using open-weight models</title>
       <link>https://neander.ai/</link>
       <guid isPermaLink="false">https://neander.ai/</guid>
@@ -126,36 +126,36 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak</title>
-      <link>https://www.mrnice.dev/posts/heavyweight-guardrails/</link>
-      <guid isPermaLink="false">https://www.mrnice.dev/posts/heavyweight-guardrails/</guid>
-      <category>security</category>
-      <pubDate>Wed, 11 Nov 2026 18:41:14 +0000</pubDate>
+      <title>llama.cpp: b12611</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12611</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12611</guid>
+      <category>harness</category>
+      <pubDate>Sat, 21 Nov 2026 19:15:59 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12609</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12609</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12609</guid>
+      <category>harness</category>
+      <pubDate>Sat, 21 Nov 2026 19:02:53 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12612</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12612</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12612</guid>
+      <category>harness</category>
+      <pubDate>Sat, 21 Nov 2026 11:41:55 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
+      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
+      <guid isPermaLink="false">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</guid>
+      <category>harness</category>
+      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12603</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12603</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12603</guid>
-      <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 05:22:36 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12602</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12602</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12602</guid>
-      <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 04:32:28 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.17</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17</guid>
-      <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 04:05:14 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
@@ -166,20 +166,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12600</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12600</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12600</guid>
+      <title>ollama: v0.40.17</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17</guid>
       <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 23:34:17 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 04:05:14 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
-      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
-      <guid isPermaLink="false">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.17-rc4</title>
@@ -198,6 +190,14 @@
       <source>rss</source>
     </item>
     <item>
+      <title>Llama.cpp hits v1.0 with a native app for macOS</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+      <category>harness</category>
+      <pubDate>Sat, 14 Nov 2026 02:05:37 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally</title>
       <link>https://junctionboxai.com/</link>
       <guid isPermaLink="false">https://junctionboxai.com/</guid>
@@ -211,14 +211,6 @@
       <guid isPermaLink="false">https://tensward.com/blog/ollama-agent-cache</guid>
       <category>harness</category>
       <pubDate>Wed, 18 Nov 2026 17:55:18 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Llama.cpp hits v1.0 with a native app for macOS</title>
-      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 02:05:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
