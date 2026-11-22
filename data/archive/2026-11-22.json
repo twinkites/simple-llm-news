@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-11-22T07:03:12.576274+00:00",
+  "generated_at": "2026-11-22T19:49:27.879391+00:00",
   "sections": {
     "model": [
-      {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 27,
-        "published": "2026-11-21T12:11:54Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
-        }
-      },
       {
         "title": "LLM assisted reverse engineering",
         "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
@@ -25,6 +14,50 @@
         }
       },
       {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-21T12:11:54Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "source": "hn",
+        "score": 307,
+        "published": "2026-11-17T01:03:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Not Everything Needs an LLM",
+        "url": "https://newsletter.posthog.com/p/decision-models",
+        "source": "hn",
+        "score": 188,
+        "published": "2026-11-17T18:16:18Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
+        }
+      },
+      {
+        "title": "Qlaude – Claude Code against your own model server",
+        "url": "https://github.com/trail-openers/qlaude",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-22T07:20:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Cursor may stop using Chinese open-weights AI models",
         "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
         "source": "hn",
@@ -33,17 +66,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
-        "source": "hn",
-        "score": 303,
-        "published": "2026-11-17T01:03:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       },
       {
@@ -91,17 +113,6 @@
         }
       },
       {
-        "title": "Small TTS Bench: open-weight text-to-speech models on CPU",
-        "url": "https://erogol.com/small_tts_bench/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-20T14:13:54Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "CLI for torrenting open weight AI models",
         "url": "https://pirateface.co/articles/pirate-face-cli",
         "source": "hn",
@@ -113,25 +124,14 @@
         }
       },
       {
-        "title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+        "title": "Small TTS Bench: open-weight text-to-speech models on CPU",
+        "url": "https://erogol.com/small_tts_bench/",
         "source": "hn",
-        "score": 13,
-        "published": "2026-11-15T23:55:50Z",
+        "score": 1,
+        "published": "2026-11-20T14:13:54Z",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 7 points)"
-        }
-      },
-      {
-        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
-        "url": "https://twitter.com/willdepue/status/2120992457630326841",
-        "source": "hn",
-        "score": 18,
-        "published": "2026-11-14T06:50:21Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 18 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ],
@@ -172,11 +172,44 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12628",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12628",
+        "title": "ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama",
+        "url": "https://github.com/thoufeeque22/zeroburn",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-22T14:01:03Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "koboldcpp: koboldcpp-1.125.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-22T06:58:12+00:00",
+        "published": "2026-11-22T15:04:11+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12633",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12633",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-22T14:57:05+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12632",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12632",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-22T14:41:59+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -194,11 +227,11 @@
         }
       },
       {
-        "title": "llama.cpp: b12627",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12627",
+        "title": "llama.cpp: b12634: chat : trigger lazy grammar on bare JSON tool calls (#32497)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12634",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-22T03:55:22+00:00",
+        "published": "2026-11-22T11:19:04+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -213,17 +246,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12626",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12626",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-22T02:23:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -249,11 +271,11 @@
         }
       },
       {
-        "title": "ollama: v0.40.17",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+        "title": "koboldcpp: v1.125: Merge branch 'upstream' into concedo_experimental",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-21T04:05:14+00:00",
+        "published": "2026-11-22T03:06:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -271,17 +293,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.17-rc4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-20T23:04:26+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Parallel agent requests can slow down an Ollama session",
         "url": "https://tensward.com/blog/ollama-agent-cache",
         "source": "hn",
@@ -290,17 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
-        "url": "https://junctionboxai.com/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-19T14:08:49Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]
