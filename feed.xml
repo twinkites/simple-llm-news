@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 19:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:03:12 +0000</lastBuildDate>
     <item>
       <title>Anyone can easily use private, open weight models</title>
       <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
@@ -22,6 +22,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Cursor may stop using Chinese open-weights AI models</title>
+      <link>https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</link>
+      <guid isPermaLink="false">https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 22:14:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
+      <link>https://kobi.music/research/dettato</link>
+      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
+      <category>model</category>
+      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Kvdiff – Local proxy showing the byte breaking your LLM prompt cache</title>
+      <link>https://github.com/flipcyde101/kvdiff</link>
+      <guid isPermaLink="false">https://github.com/flipcyde101/kvdiff</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 22:38:12 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks</title>
       <link>https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</link>
       <guid isPermaLink="false">https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</guid>
@@ -35,22 +59,6 @@
       <guid isPermaLink="false">https://arxiv.org/abs/2611.06257</guid>
       <category>model</category>
       <pubDate>Sat, 21 Nov 2026 15:39:28 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
-      <link>https://kobi.music/research/dettato</link>
-      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Not Everything Needs an LLM</title>
-      <link>https://newsletter.posthog.com/p/decision-models</link>
-      <guid isPermaLink="false">https://newsletter.posthog.com/p/decision-models</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 18:16:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Harness for building/cloning SaaS using open-weight models</title>
-      <link>https://neander.ai/</link>
-      <guid isPermaLink="false">https://neander.ai/</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 07:21:58 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>AI Agent Authorization That Limits the Damage of Prompt Injection</title>
       <link>https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/</link>
       <guid isPermaLink="false">https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/</guid>
@@ -126,27 +126,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12611</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12611</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12611</guid>
+      <title>llama.cpp: b12628</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12628</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12628</guid>
       <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 19:15:59 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 06:58:12 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12609</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12609</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12609</guid>
+      <title>Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100</title>
+      <link>https://github.com/johnsonshi/a100-inference-hillclimb</link>
+      <guid isPermaLink="false">https://github.com/johnsonshi/a100-inference-hillclimb</guid>
       <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 19:02:53 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:56:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12627</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12627</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12627</guid>
+      <category>harness</category>
+      <pubDate>Sun, 22 Nov 2026 03:55:22 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12612</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12612</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12612</guid>
+      <title>Hill-climbing vLLM and SGLang configs on a single A100</title>
+      <link>https://twitter.com/johnsonshi86/status/2124250717963932121</link>
+      <guid isPermaLink="false">https://twitter.com/johnsonshi86/status/2124250717963932121</guid>
       <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 11:41:55 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 23:33:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12626</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12626</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12626</guid>
+      <category>harness</category>
+      <pubDate>Sun, 22 Nov 2026 02:23:30 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -174,22 +190,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>ollama: v0.40.17-rc4</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4</guid>
-      <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 23:04:26 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>ollama: v0.40.17-rc3</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc3</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc3</guid>
-      <category>harness</category>
-      <pubDate>Fri, 20 Nov 2026 18:37:07 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Llama.cpp hits v1.0 with a native app for macOS</title>
       <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
@@ -198,12 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally</title>
-      <link>https://junctionboxai.com/</link>
-      <guid isPermaLink="false">https://junctionboxai.com/</guid>
+      <title>ollama: v0.40.17-rc4</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4</guid>
       <category>harness</category>
-      <pubDate>Thu, 19 Nov 2026 14:08:49 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 20 Nov 2026 23:04:26 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Parallel agent requests can slow down an Ollama session</title>
@@ -214,11 +214,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Taking vLLM Apart: A Practical Guide to Disaggregated Serving</title>
-      <link>https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</link>
-      <guid isPermaLink="false">https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide</guid>
+      <title>JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally</title>
+      <link>https://junctionboxai.com/</link>
+      <guid isPermaLink="false">https://junctionboxai.com/</guid>
       <category>harness</category>
-      <pubDate>Thu, 19 Nov 2026 03:19:35 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 14:08:49 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

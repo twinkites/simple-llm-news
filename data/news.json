@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T19:25:44.502599+00:00",
+  "generated_at": "2026-11-22T07:03:12.576274+00:00",
   "sections": {
     "model": [
       {
         "title": "Anyone can easily use private, open weight models",
         "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
         "source": "hn",
-        "score": 25,
+        "score": 27,
         "published": "2026-11-21T12:11:54Z",
         "truthiness": {
           "label": "green",
@@ -17,11 +17,44 @@
         "title": "LLM assisted reverse engineering",
         "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
         "source": "hn",
-        "score": 315,
+        "score": 316,
         "published": "2026-11-18T22:29:13Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 294 points)"
+        }
+      },
+      {
+        "title": "Cursor may stop using Chinese open-weights AI models",
+        "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-21T22:14:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "source": "hn",
+        "score": 303,
+        "published": "2026-11-17T01:03:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Kvdiff – Local proxy showing the byte breaking your LLM prompt cache",
+        "url": "https://github.com/flipcyde101/kvdiff",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-21T22:38:12Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -44,28 +77,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
-        "source": "hn",
-        "score": 291,
-        "published": "2026-11-17T01:03:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Not Everything Needs an LLM",
-        "url": "https://newsletter.posthog.com/p/decision-models",
-        "source": "hn",
-        "score": 188,
-        "published": "2026-11-17T18:16:18Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 187 points)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 18 points)"
         }
-      },
-      {
-        "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-        "url": "https://neander.ai/",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-17T07:21:58Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -172,33 +172,55 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12611",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12611",
+        "title": "llama.cpp: b12628",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12628",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-21T19:15:59+00:00",
+        "published": "2026-11-22T06:58:12+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12609",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12609",
+        "title": "Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100",
+        "url": "https://github.com/johnsonshi/a100-inference-hillclimb",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-22T00:56:29Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12627",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12627",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-21T19:02:53+00:00",
+        "published": "2026-11-22T03:55:22+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12612",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12612",
+        "title": "Hill-climbing vLLM and SGLang configs on a single A100",
+        "url": "https://twitter.com/johnsonshi86/status/2124250717963932121",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-21T23:33:40Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12626",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12626",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-21T11:41:55+00:00",
+        "published": "2026-11-22T02:23:30+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -208,7 +230,7 @@
         "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
         "source": "hn",
-        "score": 149,
+        "score": 150,
         "published": "2026-11-14T14:09:25Z",
         "truthiness": {
           "label": "green",
@@ -238,28 +260,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.17-rc4",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-20T23:04:26+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ollama: v0.40.17-rc3",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-20T18:37:07+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Llama.cpp hits v1.0 with a native app for macOS",
         "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
         "source": "hn",
@@ -271,14 +271,14 @@
         }
       },
       {
-        "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
-        "url": "https://junctionboxai.com/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-19T14:08:49Z",
+        "title": "ollama: v0.40.17-rc4",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc4",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-20T23:04:26+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -293,11 +293,11 @@
         }
       },
       {
-        "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
-        "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+        "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
+        "url": "https://junctionboxai.com/",
         "source": "hn",
         "score": 2,
-        "published": "2026-11-19T03:19:35Z",
+        "published": "2026-11-19T14:08:49Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
