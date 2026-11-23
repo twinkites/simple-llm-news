@@ -4,21 +4,21 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 19:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:52:17 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: I built a game where you are an LLM&#x27;s subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
+      <category>model</category>
+      <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>LLM assisted reverse engineering</title>
       <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
       <guid isPermaLink="false">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</guid>
       <category>model</category>
       <pubDate>Wed, 18 Nov 2026 22:29:13 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anyone can easily use private, open weight models</title>
-      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
-      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -30,6 +30,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Not Everything Needs an LLM</title>
       <link>https://newsletter.posthog.com/p/decision-models</link>
       <guid isPermaLink="false">https://newsletter.posthog.com/p/decision-models</guid>
@@ -38,19 +46,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Qlaude – Claude Code against your own model server</title>
-      <link>https://github.com/trail-openers/qlaude</link>
-      <guid isPermaLink="false">https://github.com/trail-openers/qlaude</guid>
-      <category>model</category>
-      <pubDate>Sun, 22 Nov 2026 07:20:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Cursor may stop using Chinese open-weights AI models</title>
       <link>https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</link>
       <guid isPermaLink="false">https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</guid>
       <category>model</category>
       <pubDate>Sat, 21 Nov 2026 22:14:48 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Qlaude – Claude Code against your own model server</title>
+      <link>https://github.com/trail-openers/qlaude</link>
+      <guid isPermaLink="false">https://github.com/trail-openers/qlaude</guid>
+      <category>model</category>
+      <pubDate>Sun, 22 Nov 2026 07:20:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Small TTS Bench: open-weight text-to-speech models on CPU</title>
-      <link>https://erogol.com/small_tts_bench/</link>
-      <guid isPermaLink="false">https://erogol.com/small_tts_bench/</guid>
-      <category>model</category>
-      <pubDate>Fri, 20 Nov 2026 14:13:54 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>AI Agent Authorization That Limits the Damage of Prompt Injection</title>
       <link>https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/</link>
       <guid isPermaLink="false">https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/</guid>
@@ -126,59 +126,43 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Show HN: AI code review in VS Code with your own API key or Ollama, no account</title>
+      <link>https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model</link>
+      <guid isPermaLink="false">https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model</guid>
+      <category>harness</category>
+      <pubDate>Mon, 23 Nov 2026 06:24:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12649</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12649</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12649</guid>
+      <category>harness</category>
+      <pubDate>Mon, 23 Nov 2026 06:59:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12648</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12648</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12648</guid>
+      <category>harness</category>
+      <pubDate>Mon, 23 Nov 2026 03:35:29 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12647</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12647</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12647</guid>
+      <category>harness</category>
+      <pubDate>Mon, 23 Nov 2026 03:22:56 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama</title>
       <link>https://github.com/thoufeeque22/zeroburn</link>
       <guid isPermaLink="false">https://github.com/thoufeeque22/zeroburn</guid>
       <category>harness</category>
       <pubDate>Sun, 22 Nov 2026 14:01:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>koboldcpp: koboldcpp-1.125.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 15:04:11 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12633</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12633</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12633</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 14:57:05 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12632</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12632</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12632</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 14:41:59 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100</title>
-      <link>https://github.com/johnsonshi/a100-inference-hillclimb</link>
-      <guid isPermaLink="false">https://github.com/johnsonshi/a100-inference-hillclimb</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 00:56:29 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12634: chat : trigger lazy grammar on bare JSON tool calls (#32497)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12634</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12634</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 11:19:04 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Hill-climbing vLLM and SGLang configs on a single A100</title>
-      <link>https://twitter.com/johnsonshi86/status/2124250717963932121</link>
-      <guid isPermaLink="false">https://twitter.com/johnsonshi86/status/2124250717963932121</guid>
-      <category>harness</category>
-      <pubDate>Sat, 21 Nov 2026 23:33:40 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -198,6 +182,30 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100</title>
+      <link>https://github.com/johnsonshi/a100-inference-hillclimb</link>
+      <guid isPermaLink="false">https://github.com/johnsonshi/a100-inference-hillclimb</guid>
+      <category>harness</category>
+      <pubDate>Sun, 22 Nov 2026 00:56:29 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Hill-climbing vLLM and SGLang configs on a single A100</title>
+      <link>https://twitter.com/johnsonshi86/status/2124250717963932121</link>
+      <guid isPermaLink="false">https://twitter.com/johnsonshi86/status/2124250717963932121</guid>
+      <category>harness</category>
+      <pubDate>Sat, 21 Nov 2026 23:33:40 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>koboldcpp: koboldcpp-1.125.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</guid>
+      <category>harness</category>
+      <pubDate>Sun, 22 Nov 2026 15:04:11 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>koboldcpp: v1.125: Merge branch &#x27;upstream&#x27; into concedo_experimental</title>
       <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.125</link>
       <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.125</guid>
@@ -211,14 +219,6 @@
       <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
       <category>harness</category>
       <pubDate>Sat, 14 Nov 2026 02:05:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Parallel agent requests can slow down an Ollama session</title>
-      <link>https://tensward.com/blog/ollama-agent-cache</link>
-      <guid isPermaLink="false">https://tensward.com/blog/ollama-agent-cache</guid>
-      <category>harness</category>
-      <pubDate>Wed, 18 Nov 2026 17:55:18 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
