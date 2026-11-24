@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T00:03:30.794073+00:00",
+  "generated_at": "2026-11-24T10:04:36.454303+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "source": "hn",
-        "score": 356,
+        "score": 358,
         "published": "2026-11-22T13:56:58Z",
         "truthiness": {
           "label": "green",
@@ -17,22 +17,11 @@
         "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
         "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
         "source": "hn",
-        "score": 15,
+        "score": 17,
         "published": "2026-11-23T15:08:43Z",
         "truthiness": {
           "label": "yellow",
           "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
-        }
-      },
-      {
-        "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
-        "url": "https://github.com/xhjkl/please",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-23T16:53:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -47,6 +36,17 @@
         }
       },
       {
+        "title": "Show HN: A SoTA open-weight looped decision model",
+        "url": "https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-24T00:21:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
         "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
         "url": "https://kobi.music/research/dettato",
         "source": "hn",
@@ -58,14 +58,25 @@
         }
       },
       {
-        "title": "Not Everything Needs an LLM",
-        "url": "https://newsletter.posthog.com/p/decision-models",
+        "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
+        "url": "https://github.com/xhjkl/please",
         "source": "hn",
-        "score": 188,
-        "published": "2026-11-17T18:16:18Z",
+        "score": 3,
+        "published": "2026-11-23T16:53:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-21T12:11:54Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 188 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
         }
       },
       {
@@ -91,17 +102,6 @@
         }
       },
       {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 29,
-        "published": "2026-11-21T12:11:54Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
-        }
-      },
-      {
         "title": "Show HN: PromptShield – Local reversible secret/PII redactor for LLM prompts",
         "url": "https://hxu129.github.io/scholarcraft-tools/promptshield/index.html",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "How to build and maintain an agentic evaluation",
-        "url": "https://huggingface.co/blog/agentic-evals",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-23T00:00:00+00:00",
+        "title": "Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks",
+        "url": "https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-21T15:02:59Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ],
@@ -172,47 +172,69 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12655",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12655",
+        "title": "llama.cpp: b12675",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12675",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-23T23:23:55+00:00",
+        "published": "2026-11-24T10:00:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
-        "url": "https://actual.inc/blog/in-search-of-perfection",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T10:26:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12657: ggml-cuda : handle zero blocks in few-row MMQ quantization (#32566)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12657",
+        "title": "ollama: v0.40.18",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-23T14:17:15+00:00",
+        "published": "2026-11-24T08:27:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
-        "url": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T06:24:04Z",
+        "title": "vLLM: v0.34.1rc0: [Perf][Qwen4Exp] Add SM100 TP=2 and TP=8 skinny GEMM plans (#69529)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-24T06:01:41+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.18-rc0: inkling2: faster Metal decode, prefill and draft rounds (#19843)",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-24T01:35:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12679: opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12679",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-24T01:12:33+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12676: GDN: use replay instead of rollback (#31669)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12676",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T23:06:02+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -227,14 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b12653: ggml : update cmake MATH_LIBRARY check (#32864)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12653",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-23T10:05:21+00:00",
+        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
+        "url": "https://actual.inc/blog/in-search-of-perfection",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-23T10:26:07Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -246,6 +268,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 32 points)"
+        }
+      },
+      {
+        "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
+        "url": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-23T06:24:04Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -268,39 +301,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Hill-climbing vLLM and SGLang configs on a single A100",
-        "url": "https://twitter.com/johnsonshi86/status/2124250717963932121",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-21T23:33:40Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "koboldcpp: koboldcpp-1.125.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-22T15:04:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Llama.cpp hits v1.0 with a native app for macOS",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "hn",
-        "score": 26,
-        "published": "2026-11-14T02:05:37Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 20 points)"
         }
       }
     ]
