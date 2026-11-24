@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-11-23T07:52:17.522723+00:00",
+  "generated_at": "2026-11-24T00:03:30.794073+00:00",
   "sections": {
     "model": [
       {
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "source": "hn",
-        "score": 309,
+        "score": 356,
         "published": "2026-11-22T13:56:58Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 309 points)"
+        }
+      },
+      {
+        "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
+        "source": "hn",
+        "score": 15,
+        "published": "2026-11-23T15:08:43Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
+        }
+      },
+      {
+        "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
+        "url": "https://github.com/xhjkl/please",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-23T16:53:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -28,22 +50,11 @@
         "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
         "url": "https://kobi.music/research/dettato",
         "source": "hn",
-        "score": 308,
+        "score": 310,
         "published": "2026-11-17T01:03:05Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
-        }
-      },
-      {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 29,
-        "published": "2026-11-21T12:11:54Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
         }
       },
       {
@@ -58,6 +69,50 @@
         }
       },
       {
+        "title": "The US-China LLM Open-Weight Feedback Loop",
+        "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-23T13:47:03Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T17:20:37+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-21T12:11:54Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Show HN: PromptShield – Local reversible secret/PII redactor for LLM prompts",
+        "url": "https://hxu129.github.io/scholarcraft-tools/promptshield/index.html",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-23T08:23:27Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Cursor may stop using Chinese open-weights AI models",
         "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
         "source": "hn",
@@ -69,69 +124,14 @@
         }
       },
       {
-        "title": "Qlaude – Claude Code against your own model server",
-        "url": "https://github.com/trail-openers/qlaude",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-22T07:20:04Z",
+        "title": "How to build and maintain an agentic evaluation",
+        "url": "https://huggingface.co/blog/agentic-evals",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T00:00:00+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Kvdiff – Local proxy showing the byte breaking your LLM prompt cache",
-        "url": "https://github.com/flipcyde101/kvdiff",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-21T22:38:12Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks",
-        "url": "https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-21T15:02:59Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
-        "url": "https://arxiv.org/abs/2611.06257",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-21T15:39:28Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
-        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-20T22:55:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
-        "title": "CLI for torrenting open weight AI models",
-        "url": "https://pirateface.co/articles/pirate-face-cli",
-        "source": "hn",
-        "score": 10,
-        "published": "2026-11-17T16:53:07Z",
-        "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 8 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       }
     ],
@@ -172,6 +172,39 @@
     ],
     "harness": [
       {
+        "title": "llama.cpp: b12655",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12655",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T23:23:55+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
+        "url": "https://actual.inc/blog/in-search-of-perfection",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-23T10:26:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12657: ggml-cuda : handle zero blocks in few-row MMQ quantization (#32566)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12657",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T14:17:15+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
         "url": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
         "source": "hn",
@@ -180,50 +213,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12649",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12649",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-23T06:59:30+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12648",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-23T03:35:29+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12647",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-23T03:22:56+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama",
-        "url": "https://github.com/thoufeeque22/zeroburn",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-22T14:01:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -238,6 +227,17 @@
         }
       },
       {
+        "title": "llama.cpp: b12653: ggml : update cmake MATH_LIBRARY check (#32864)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12653",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-23T10:05:21+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
         "url": "https://github.com/RunanywhereAI/trnrt",
         "source": "hn",
@@ -246,6 +246,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 32 points)"
+        }
+      },
+      {
+        "title": "ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama",
+        "url": "https://github.com/thoufeeque22/zeroburn",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-22T14:01:03Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -276,17 +287,6 @@
         "source": "rss",
         "score": 0,
         "published": "2026-11-22T15:04:11+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "koboldcpp: v1.125: Merge branch 'upstream' into concedo_experimental",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-22T03:06:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
