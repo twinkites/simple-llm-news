@@ -4,13 +4,37 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 10:04:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:34:14 +0000</lastBuildDate>
+    <item>
+      <title>LLM agents work for their parent companies, not for you</title>
+      <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</link>
+      <guid isPermaLink="false">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 12:40:15 +0000</pubDate>
+      <source>hn</source>
+    </item>
     <item>
       <title>Show HN: I built a game where you are an LLM&#x27;s subagent</title>
       <link>https://github.com/gulivan/worker755</link>
       <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
       <category>model</category>
       <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Vendor-neutral LLM harness with local-first support</title>
+      <link>https://github.com/abadiape/llm-harness-lite</link>
+      <guid isPermaLink="false">https://github.com/abadiape/llm-harness-lite</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa</title>
+      <link>https://ownshopai.store/</link>
+      <guid isPermaLink="false">https://ownshopai.store/</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 17:03:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -22,11 +46,27 @@
       <source>hn</source>
     </item>
     <item>
-      <title>LLM assisted reverse engineering</title>
-      <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
-      <guid isPermaLink="false">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</guid>
+      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
+      <link>https://kobi.music/research/dettato</link>
+      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
       <category>model</category>
-      <pubDate>Wed, 18 Nov 2026 22:29:13 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <category>model</category>
+      <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -38,27 +78,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: I made an audio-to-MIDI model 60x more efficient</title>
-      <link>https://kobi.music/research/dettato</link>
-      <guid isPermaLink="false">https://kobi.music/research/dettato</guid>
-      <category>model</category>
-      <pubDate>Tue, 17 Nov 2026 01:03:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine</title>
       <link>https://github.com/xhjkl/please</link>
       <guid isPermaLink="false">https://github.com/xhjkl/please</guid>
       <category>model</category>
       <pubDate>Mon, 23 Nov 2026 16:53:23 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Anyone can easily use private, open weight models</title>
-      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
-      <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
-      <category>model</category>
-      <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -70,35 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
-      <link>https://huggingface.co/blog/allenai/robotrack</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/robotrack</guid>
-      <category>model</category>
-      <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: PromptShield – Local reversible secret/PII redactor for LLM prompts</title>
       <link>https://hxu129.github.io/scholarcraft-tools/promptshield/index.html</link>
       <guid isPermaLink="false">https://hxu129.github.io/scholarcraft-tools/promptshield/index.html</guid>
       <category>model</category>
       <pubDate>Mon, 23 Nov 2026 08:23:27 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Cursor may stop using Chinese open-weights AI models</title>
-      <link>https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</link>
-      <guid isPermaLink="false">https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026</guid>
-      <category>model</category>
-      <pubDate>Sat, 21 Nov 2026 22:14:48 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks</title>
-      <link>https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</link>
-      <guid isPermaLink="false">https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models</guid>
-      <category>model</category>
-      <pubDate>Sat, 21 Nov 2026 15:02:59 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,19 +118,43 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Show HN: Deterministic prompt injection detector using formal logic</title>
-      <link>https://nischoy.ai/</link>
-      <guid isPermaLink="false">https://nischoy.ai/</guid>
-      <category>security</category>
-      <pubDate>Sat, 14 Nov 2026 21:35:45 +0000</pubDate>
+      <title>llama.cpp: b12683</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12683</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12683</guid>
+      <category>harness</category>
+      <pubDate>Tue, 24 Nov 2026 22:34:04 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12682</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12682</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12682</guid>
+      <category>harness</category>
+      <pubDate>Tue, 24 Nov 2026 22:15:46 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>Can agents write inference engines from scratch in 12 hours and beat vLLM?</title>
+      <link>https://github.com/humanityslastsystem/hls</link>
+      <guid isPermaLink="false">https://github.com/humanityslastsystem/hls</guid>
+      <category>harness</category>
+      <pubDate>Tue, 24 Nov 2026 18:20:27 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12675</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12675</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12675</guid>
+      <title>A live peek inside your LLM inference engine (SGLang, vLLM) as it runs</title>
+      <link>https://gauravjain14.github.io/inference-observe/</link>
+      <guid isPermaLink="false">https://gauravjain14.github.io/inference-observe/</guid>
       <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 10:00:15 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:37:14 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12686: server : fix skipped prompt cache lookups (#28992)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12686</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12686</guid>
+      <category>harness</category>
+      <pubDate>Tue, 24 Nov 2026 09:54:31 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,6 +174,14 @@
       <source>rss</source>
     </item>
     <item>
+      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
+      <link>https://github.com/RunanywhereAI/trnrt</link>
+      <guid isPermaLink="false">https://github.com/RunanywhereAI/trnrt</guid>
+      <category>harness</category>
+      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>ollama: v0.40.18-rc0: inkling2: faster Metal decode, prefill and draft rounds (#19843)</title>
       <link>https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0</link>
       <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0</guid>
@@ -158,43 +190,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12679: opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12679</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12679</guid>
-      <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 01:12:33 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12676: GDN: use replay instead of rollback (#31669)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12676</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12676</guid>
-      <category>harness</category>
-      <pubDate>Mon, 23 Nov 2026 23:06:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
-      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
-      <guid isPermaLink="false">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</guid>
-      <category>harness</category>
-      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0</title>
       <link>https://actual.inc/blog/in-search-of-perfection</link>
       <guid isPermaLink="false">https://actual.inc/blog/in-search-of-perfection</guid>
       <category>harness</category>
       <pubDate>Mon, 23 Nov 2026 10:26:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="false">https://github.com/RunanywhereAI/trnrt</guid>
-      <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -211,14 +211,6 @@
       <guid isPermaLink="false">https://github.com/thoufeeque22/zeroburn</guid>
       <category>harness</category>
       <pubDate>Sun, 22 Nov 2026 14:01:03 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100</title>
-      <link>https://github.com/johnsonshi/a100-inference-hillclimb</link>
-      <guid isPermaLink="false">https://github.com/johnsonshi/a100-inference-hillclimb</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 00:56:29 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
