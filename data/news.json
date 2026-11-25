@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T08:48:03.029693+00:00",
+  "generated_at": "2026-11-25T21:49:37.505002+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
         "source": "hn",
-        "score": 966,
+        "score": 997,
         "published": "2026-11-24T12:40:15Z",
         "truthiness": {
           "label": "green",
@@ -25,14 +25,25 @@
         }
       },
       {
-        "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
-        "source": "hn",
-        "score": 19,
-        "published": "2026-11-23T15:08:43Z",
+        "title": "Where scientists draw the line on AI agents",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T18:52:55+00:00",
         "truthiness": {
-          "label": "yellow",
-          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "source": "hn",
+        "score": 317,
+        "published": "2026-11-18T22:29:13Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 317 points)"
         }
       },
       {
@@ -44,6 +55,39 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
+        "source": "hn",
+        "score": 19,
+        "published": "2026-11-23T15:08:43Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
+        }
+      },
+      {
+        "title": "An Indic Voice Agent with CUGA",
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T10:22:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-21T12:11:54Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
         }
       },
       {
@@ -69,36 +113,14 @@
         }
       },
       {
-        "title": "Anyone can easily use private, open weight models",
-        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
-        "source": "hn",
-        "score": 29,
-        "published": "2026-11-21T12:11:54Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
-        }
-      },
-      {
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+        "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-24T16:34:13+00:00",
+        "published": "2026-11-25T00:00:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: A SoTA open-weight looped decision model",
-        "url": "https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-24T00:21:36Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -111,31 +133,20 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "The US-China LLM Open-Weight Feedback Loop",
-        "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T13:47:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Show HN: PromptShield – Local reversible secret/PII redactor for LLM prompts",
-        "url": "https://hxu129.github.io/scholarcraft-tools/promptshield/index.html",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T08:23:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
+      {
+        "title": "Prompt injection in a job application makes AI recruiting agents leak salaries",
+        "url": "https://vortner.de/blog/prompt-injection-job-application",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-25T14:29:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
       {
         "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
         "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/",
@@ -146,20 +157,31 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
-      },
-      {
-        "title": "Prompt Injection Attacks in Large Language Model Systems",
-        "url": "https://zenodo.org/records/21357273",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-15T14:39:06Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
       }
     ],
     "harness": [
+      {
+        "title": "koboldcpp: koboldcpp-1.125.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T15:38:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12728",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12728",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T15:23:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
       {
         "title": "Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks",
         "url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
@@ -169,17 +191,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12721",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12721",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-25T07:52:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -194,22 +205,22 @@
         }
       },
       {
-        "title": "llama.cpp: b12723: model : inkling2 graph with fewer ops in mix() and control() (#32948)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12723",
+        "title": "llama.cpp: b12732: ggml: allow input async copies (#30685)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12732",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T03:54:30+00:00",
+        "published": "2026-11-25T08:56:15+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12722",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12722",
+        "title": "llama.cpp: b12731: common : implement named tool choice (#31564)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12731",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T00:42:30+00:00",
+        "published": "2026-11-25T08:39:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -249,17 +260,6 @@
         }
       },
       {
-        "title": "vLLM: v0.34.1rc0: [Perf][Qwen4Exp] Add SM100 TP=2 and TP=8 skinny GEMM plans (#69529)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T06:01:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
         "url": "https://actual.inc/blog/in-search-of-perfection",
         "source": "hn",
@@ -271,25 +271,25 @@
         }
       },
       {
-        "title": "ollama: v0.40.18-rc0: inkling2: faster Metal decode, prefill and draft rounds (#19843)",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0",
+        "title": "vLLM: v0.34.1rc0: [Perf][Qwen4Exp] Add SM100 TP=2 and TP=8 skinny GEMM plans (#69529)",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-24T01:35:09+00:00",
+        "published": "2026-11-24T06:01:41+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
-        "url": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
+        "title": "Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100",
+        "url": "https://github.com/johnsonshi/a100-inference-hillclimb",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T06:24:04Z",
+        "score": 3,
+        "published": "2026-11-22T00:56:29Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       }
     ]
