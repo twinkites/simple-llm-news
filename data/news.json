@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T22:34:14.440964+00:00",
+  "generated_at": "2026-11-25T08:48:03.029693+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
         "source": "hn",
-        "score": 845,
+        "score": 966,
         "published": "2026-11-24T12:40:15Z",
         "truthiness": {
           "label": "green",
@@ -22,28 +22,6 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 309 points)"
-        }
-      },
-      {
-        "title": "Vendor-neutral LLM harness with local-first support",
-        "url": "https://github.com/abadiape/llm-harness-lite",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-24T17:46:41Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa",
-        "url": "https://ownshopai.store/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-24T17:03:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -69,14 +47,25 @@
         }
       },
       {
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T16:34:13+00:00",
+        "title": "Vendor-neutral LLM harness with local-first support",
+        "url": "https://github.com/abadiape/llm-harness-lite",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-24T17:46:41Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa",
+        "url": "https://ownshopai.store/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-24T17:03:37Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -88,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-24T16:34:13+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -161,22 +161,22 @@
     ],
     "harness": [
       {
-        "title": "llama.cpp: b12683",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12683",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T22:34:04+00:00",
+        "title": "Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks",
+        "url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-25T08:16:39Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
-        "title": "llama.cpp: b12682",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12682",
+        "title": "llama.cpp: b12721",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12721",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-24T22:15:46+00:00",
+        "published": "2026-11-25T07:52:00+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -194,6 +194,28 @@
         }
       },
       {
+        "title": "llama.cpp: b12723: model : inkling2 graph with fewer ops in mix() and control() (#32948)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12723",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T03:54:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12722",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12722",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T00:42:30+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "A live peek inside your LLM inference engine (SGLang, vLLM) as it runs",
         "url": "https://gauravjain14.github.io/inference-observe/",
         "source": "hn",
@@ -205,14 +227,14 @@
         }
       },
       {
-        "title": "llama.cpp: b12686: server : fix skipped prompt cache lookups (#28992)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12686",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T09:54:31+00:00",
+        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "source": "hn",
+        "score": 54,
+        "published": "2026-11-17T16:01:04Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 32 points)"
         }
       },
       {
@@ -238,14 +260,14 @@
         }
       },
       {
-        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-        "url": "https://github.com/RunanywhereAI/trnrt",
+        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
+        "url": "https://actual.inc/blog/in-search-of-perfection",
         "source": "hn",
-        "score": 54,
-        "published": "2026-11-17T16:01:04Z",
+        "score": 1,
+        "published": "2026-11-23T10:26:07Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 32 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -260,17 +282,6 @@
         }
       },
       {
-        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
-        "url": "https://actual.inc/blog/in-search-of-perfection",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-23T10:26:07Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
         "url": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
         "source": "hn",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama",
-        "url": "https://github.com/thoufeeque22/zeroburn",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-22T14:01:03Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ]

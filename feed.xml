@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 22:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:48:03 +0000</lastBuildDate>
     <item>
       <title>LLM agents work for their parent companies, not for you</title>
       <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</link>
@@ -19,22 +19,6 @@
       <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
       <category>model</category>
       <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Vendor-neutral LLM harness with local-first support</title>
-      <link>https://github.com/abadiape/llm-harness-lite</link>
-      <guid isPermaLink="false">https://github.com/abadiape/llm-harness-lite</guid>
-      <category>model</category>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa</title>
-      <link>https://ownshopai.store/</link>
-      <guid isPermaLink="false">https://ownshopai.store/</guid>
-      <category>model</category>
-      <pubDate>Tue, 24 Nov 2026 17:03:37 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -54,12 +38,20 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+      <title>Vendor-neutral LLM harness with local-first support</title>
+      <link>https://github.com/abadiape/llm-harness-lite</link>
+      <guid isPermaLink="false">https://github.com/abadiape/llm-harness-lite</guid>
       <category>model</category>
-      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa</title>
+      <link>https://ownshopai.store/</link>
+      <guid isPermaLink="false">https://ownshopai.store/</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 17:03:37 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>Anyone can easily use private, open weight models</title>
@@ -68,6 +60,14 @@
       <category>model</category>
       <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+      <category>model</category>
+      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Show HN: A SoTA open-weight looped decision model</title>
@@ -118,19 +118,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12683</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12683</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12683</guid>
+      <title>Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks</title>
+      <link>https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook</link>
+      <guid isPermaLink="false">https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook</guid>
       <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 22:34:04 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Wed, 25 Nov 2026 08:16:39 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12682</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12682</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12682</guid>
+      <title>llama.cpp: b12721</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12721</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12721</guid>
       <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 22:15:46 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 07:52:00 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -142,6 +142,22 @@
       <source>hn</source>
     </item>
     <item>
+      <title>llama.cpp: b12723: model : inkling2 graph with fewer ops in mix() and control() (#32948)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12723</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12723</guid>
+      <category>harness</category>
+      <pubDate>Wed, 25 Nov 2026 03:54:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12722</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12722</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12722</guid>
+      <category>harness</category>
+      <pubDate>Wed, 25 Nov 2026 00:42:30 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
       <title>A live peek inside your LLM inference engine (SGLang, vLLM) as it runs</title>
       <link>https://gauravjain14.github.io/inference-observe/</link>
       <guid isPermaLink="false">https://gauravjain14.github.io/inference-observe/</guid>
@@ -150,12 +166,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12686: server : fix skipped prompt cache lookups (#28992)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12686</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12686</guid>
+      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
+      <link>https://github.com/RunanywhereAI/trnrt</link>
+      <guid isPermaLink="false">https://github.com/RunanywhereAI/trnrt</guid>
       <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 09:54:31 +0000</pubDate>
-      <source>rss</source>
+      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
+      <source>hn</source>
     </item>
     <item>
       <title>ollama: v0.40.18</title>
@@ -174,11 +190,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="false">https://github.com/RunanywhereAI/trnrt</guid>
+      <title>In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0</title>
+      <link>https://actual.inc/blog/in-search-of-perfection</link>
+      <guid isPermaLink="false">https://actual.inc/blog/in-search-of-perfection</guid>
       <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 10:26:07 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -190,27 +206,11 @@
       <source>rss</source>
     </item>
     <item>
-      <title>In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0</title>
-      <link>https://actual.inc/blog/in-search-of-perfection</link>
-      <guid isPermaLink="false">https://actual.inc/blog/in-search-of-perfection</guid>
-      <category>harness</category>
-      <pubDate>Mon, 23 Nov 2026 10:26:07 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: AI code review in VS Code with your own API key or Ollama, no account</title>
       <link>https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model</link>
       <guid isPermaLink="false">https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model</guid>
       <category>harness</category>
       <pubDate>Mon, 23 Nov 2026 06:24:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>ZeroBurn – Cut coding-agent token burn 98% with 0-token MCP and local Ollama</title>
-      <link>https://github.com/thoufeeque22/zeroburn</link>
-      <guid isPermaLink="false">https://github.com/thoufeeque22/zeroburn</guid>
-      <category>harness</category>
-      <pubDate>Sun, 22 Nov 2026 14:01:03 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>
