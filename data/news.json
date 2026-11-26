@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T21:49:37.505002+00:00",
+  "generated_at": "2026-11-26T08:34:10.343370+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
         "source": "hn",
-        "score": 997,
+        "score": 1013,
         "published": "2026-11-24T12:40:15Z",
         "truthiness": {
           "label": "green",
@@ -25,25 +25,25 @@
         }
       },
       {
-        "title": "Where scientists draw the line on AI agents",
-        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T18:52:55+00:00",
+        "published": "2026-11-26T05:05:36+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "LLM assisted reverse engineering",
-        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "title": "Pushing the US Open-Weight Frontier",
+        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
         "source": "hn",
-        "score": 317,
-        "published": "2026-11-18T22:29:13Z",
+        "score": 2,
+        "published": "2026-11-26T00:17:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 317 points)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -58,6 +58,17 @@
         }
       },
       {
+        "title": "Six local-first Python engines for 10M-cell PII, LLM security and SEO",
+        "url": "https://www.sideprojectors.com/user/profile/288750",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-25T19:49:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
         "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
         "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
         "source": "hn",
@@ -69,11 +80,11 @@
         }
       },
       {
-        "title": "An Indic Voice Agent with CUGA",
-        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "title": "Where scientists draw the line on AI agents",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T10:22:09+00:00",
+        "published": "2026-11-25T18:52:55+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -88,6 +99,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "An Indic Voice Agent with CUGA",
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T10:22:09+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -110,28 +132,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-        "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-25T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
-        "url": "https://github.com/xhjkl/please",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-23T16:53:23Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -161,22 +161,66 @@
     ],
     "harness": [
       {
-        "title": "koboldcpp: koboldcpp-1.125.1",
-        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1",
+        "title": "I built an Android app to run GGUF AI models offline on your phone",
+        "url": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-26T08:05:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12760",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12760",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T15:38:09+00:00",
+        "published": "2026-11-26T07:30:47+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12728",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12728",
+        "title": "ollama: v0.40.19-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T15:23:48+00:00",
+        "published": "2026-11-26T06:20:48+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
+        "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-26T02:47:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12767",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12767",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-26T02:38:28+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12764: metal : spread the short mat-vec lanes over src1 rows (#33034)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12764",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-25T21:39:14+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -205,36 +249,14 @@
         }
       },
       {
-        "title": "llama.cpp: b12732: ggml: allow input async copies (#30685)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12732",
+        "title": "koboldcpp: koboldcpp-1.125.1",
+        "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-25T08:56:15+00:00",
+        "published": "2026-11-25T15:38:09+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12731: common : implement named tool choice (#31564)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12731",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-25T08:39:09+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "A live peek inside your LLM inference engine (SGLang, vLLM) as it runs",
-        "url": "https://gauravjain14.github.io/inference-observe/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-24T18:37:14Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -249,36 +271,14 @@
         }
       },
       {
-        "title": "ollama: v0.40.18",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T08:27:44+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
-        "url": "https://actual.inc/blog/in-search-of-perfection",
+        "title": "A live peek inside your LLM inference engine (SGLang, vLLM) as it runs",
+        "url": "https://gauravjain14.github.io/inference-observe/",
         "source": "hn",
         "score": 1,
-        "published": "2026-11-23T10:26:07Z",
+        "published": "2026-11-24T18:37:14Z",
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "vLLM: v0.34.1rc0: [Perf][Qwen4Exp] Add SM100 TP=2 and TP=8 skinny GEMM plans (#69529)",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-24T06:01:41+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {

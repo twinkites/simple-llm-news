@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 21:49:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:34:10 +0000</lastBuildDate>
     <item>
       <title>LLM agents work for their parent companies, not for you</title>
       <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</link>
@@ -22,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Where scientists draw the line on AI agents</title>
-      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
       <category>model</category>
-      <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>LLM assisted reverse engineering</title>
-      <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
-      <guid isPermaLink="false">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</guid>
+      <title>Pushing the US Open-Weight Frontier</title>
+      <link>https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</link>
+      <guid isPermaLink="false">https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</guid>
       <category>model</category>
-      <pubDate>Wed, 18 Nov 2026 22:29:13 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 00:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,6 +46,14 @@
       <source>hn</source>
     </item>
     <item>
+      <title>Six local-first Python engines for 10M-cell PII, LLM security and SEO</title>
+      <link>https://www.sideprojectors.com/user/profile/288750</link>
+      <guid isPermaLink="false">https://www.sideprojectors.com/user/profile/288750</guid>
+      <category>model</category>
+      <pubDate>Wed, 25 Nov 2026 19:49:46 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
       <title>Kolibri 1.1: English-German open-weight model with sparse attention</title>
       <link>https://aleph-alpha.com/en/blog/kolibri-1-1/</link>
       <guid isPermaLink="false">https://aleph-alpha.com/en/blog/kolibri-1-1/</guid>
@@ -54,11 +62,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>An Indic Voice Agent with CUGA</title>
-      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+      <title>Where scientists draw the line on AI agents</title>
+      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
       <category>model</category>
-      <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -68,6 +76,14 @@
       <category>model</category>
       <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
       <source>hn</source>
+    </item>
+    <item>
+      <title>An Indic Voice Agent with CUGA</title>
+      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+      <category>model</category>
+      <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Vendor-neutral LLM harness with local-first support</title>
@@ -83,22 +99,6 @@
       <guid isPermaLink="false">https://ownshopai.store/</guid>
       <category>model</category>
       <pubDate>Tue, 24 Nov 2026 17:03:37 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
-      <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
-      <category>model</category>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine</title>
-      <link>https://github.com/xhjkl/please</link>
-      <guid isPermaLink="false">https://github.com/xhjkl/please</guid>
-      <category>model</category>
-      <pubDate>Mon, 23 Nov 2026 16:53:23 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -118,19 +118,51 @@
       <source>hn</source>
     </item>
     <item>
-      <title>koboldcpp: koboldcpp-1.125.1</title>
-      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</link>
-      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</guid>
+      <title>I built an Android app to run GGUF AI models offline on your phone</title>
+      <link>https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&amp;hl=en_US</link>
+      <guid isPermaLink="false">https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&amp;hl=en_US</guid>
       <category>harness</category>
-      <pubDate>Wed, 25 Nov 2026 15:38:09 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 08:05:39 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12760</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12760</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12760</guid>
+      <category>harness</category>
+      <pubDate>Thu, 26 Nov 2026 07:30:47 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12728</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12728</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12728</guid>
+      <title>ollama: v0.40.19-rc0</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0</guid>
       <category>harness</category>
-      <pubDate>Wed, 25 Nov 2026 15:23:48 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 06:20:48 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>vLLM-GR: Efficient Inference for Generative Recommendation</title>
+      <link>https://vllm.ai/blog/2026-11-24-vllm-gr-announcement</link>
+      <guid isPermaLink="false">https://vllm.ai/blog/2026-11-24-vllm-gr-announcement</guid>
+      <category>harness</category>
+      <pubDate>Thu, 26 Nov 2026 02:47:01 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12767</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12767</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12767</guid>
+      <category>harness</category>
+      <pubDate>Thu, 26 Nov 2026 02:38:28 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12764: metal : spread the short mat-vec lanes over src1 rows (#33034)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12764</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12764</guid>
+      <category>harness</category>
+      <pubDate>Wed, 25 Nov 2026 21:39:14 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -150,28 +182,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12732: ggml: allow input async copies (#30685)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12732</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12732</guid>
+      <title>koboldcpp: koboldcpp-1.125.1</title>
+      <link>https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</link>
+      <guid isPermaLink="false">https://github.com/LostRuins/koboldcpp/releases/tag/v1.125.1</guid>
       <category>harness</category>
-      <pubDate>Wed, 25 Nov 2026 08:56:15 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 15:38:09 +0000</pubDate>
       <source>rss</source>
-    </item>
-    <item>
-      <title>llama.cpp: b12731: common : implement named tool choice (#31564)</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12731</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12731</guid>
-      <category>harness</category>
-      <pubDate>Wed, 25 Nov 2026 08:39:09 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>A live peek inside your LLM inference engine (SGLang, vLLM) as it runs</title>
-      <link>https://gauravjain14.github.io/inference-observe/</link>
-      <guid isPermaLink="false">https://gauravjain14.github.io/inference-observe/</guid>
-      <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 18:37:14 +0000</pubDate>
-      <source>hn</source>
     </item>
     <item>
       <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
@@ -182,28 +198,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.18</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.18</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.18</guid>
+      <title>A live peek inside your LLM inference engine (SGLang, vLLM) as it runs</title>
+      <link>https://gauravjain14.github.io/inference-observe/</link>
+      <guid isPermaLink="false">https://gauravjain14.github.io/inference-observe/</guid>
       <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 08:27:44 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0</title>
-      <link>https://actual.inc/blog/in-search-of-perfection</link>
-      <guid isPermaLink="false">https://actual.inc/blog/in-search-of-perfection</guid>
-      <category>harness</category>
-      <pubDate>Mon, 23 Nov 2026 10:26:07 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:37:14 +0000</pubDate>
       <source>hn</source>
-    </item>
-    <item>
-      <title>vLLM: v0.34.1rc0: [Perf][Qwen4Exp] Add SM100 TP=2 and TP=8 skinny GEMM plans (#69529)</title>
-      <link>https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0</link>
-      <guid isPermaLink="false">https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0</guid>
-      <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 06:01:41 +0000</pubDate>
-      <source>rss</source>
     </item>
     <item>
       <title>Automated K8s hill-climbing harness and tuning vLLM and SGLang on a single A100</title>
