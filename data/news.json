@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-11-26T21:44:09.424586+00:00",
+  "generated_at": "2026-11-27T08:47:46.483950+00:00",
   "sections": {
     "model": [
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
         "source": "hn",
-        "score": 1026,
+        "score": 1032,
         "published": "2026-11-24T12:40:15Z",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 845 points)"
-        }
-      },
-      {
-        "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
-        "url": "https://github.com/graphvein/graphvein/",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-26T16:36:38Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -36,25 +25,25 @@
         }
       },
       {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
+        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+        "url": "https://mit-han-lab.github.io/qda-blog/",
         "source": "hn",
-        "score": 311,
-        "published": "2026-11-17T01:03:05Z",
+        "score": 1,
+        "published": "2026-11-27T00:09:05Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
-        "title": "Pushing the US Open-Weight Frontier",
-        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+        "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
+        "url": "https://github.com/graphvein/graphvein/",
         "source": "hn",
-        "score": 2,
-        "published": "2026-11-26T00:17:18Z",
+        "score": 3,
+        "published": "2026-11-26T16:36:38Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
         }
       },
       {
@@ -69,14 +58,14 @@
         }
       },
       {
-        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T05:05:36+00:00",
+        "title": "Pushing the US Open-Weight Frontier",
+        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-26T00:17:18Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -88,6 +77,28 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Six local-first Python engines for 10M-cell PII, LLM security and SEO",
+        "url": "https://www.sideprojectors.com/user/profile/288750",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-25T19:49:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-26T05:05:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -122,17 +133,6 @@
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
-      },
-      {
-        "title": "Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa",
-        "url": "https://ownshopai.store/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-24T17:03:37Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
       }
     ],
     "security": [
@@ -161,10 +161,10 @@
     ],
     "harness": [
       {
-        "title": "AMD Specific Patches for Llama.cpp",
+        "title": "AMD-specific fork of llama.cpp",
         "url": "https://devnull.land/amd-specific-llama-cpp",
         "source": "hn",
-        "score": 211,
+        "score": 343,
         "published": "2026-11-26T17:11:29Z",
         "truthiness": {
           "label": "green",
@@ -172,11 +172,33 @@
         }
       },
       {
-        "title": "llama.cpp: b12785",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12785",
+        "title": "llama.cpp: b12810",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12810",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-26T21:35:47+00:00",
+        "published": "2026-11-27T08:14:35+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12809",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12809",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T07:18:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12808",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12808",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T06:06:35+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -186,7 +208,7 @@
         "title": "RustingStrata – Pure Rust LLM GGUF Engine, Runs Models > VRAM on CUDA and Vulkan",
         "url": "https://github.com/RustingStudio/RustingStrata",
         "source": "hn",
-        "score": 2,
+        "score": 3,
         "published": "2026-11-26T18:21:05Z",
         "truthiness": {
           "label": "red",
@@ -216,28 +238,6 @@
         }
       },
       {
-        "title": "I built an Android app to run GGUF AI models offline on your phone",
-        "url": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-26T08:05:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "llama.cpp: b12788: tests : add RPC support to test-llama-archs (#33112)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12788",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T12:57:25+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
         "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
         "source": "hn",
@@ -246,6 +246,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "I built an Android app to run GGUF AI models offline on your phone",
+        "url": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-26T08:05:39Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -260,25 +271,14 @@
         }
       },
       {
-        "title": "llama.cpp: v1.1.0",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.1.0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T09:17:18+00:00",
+        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "source": "hn",
+        "score": 54,
+        "published": "2026-11-17T16:01:04Z",
         "truthiness": {
           "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks",
-        "url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-25T08:16:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 54 points)"
         }
       },
       {
