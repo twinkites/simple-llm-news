@@ -4,7 +4,7 @@
     <title>Simple News</title>
     <link>https://twinkites.github.io/simple-llm-news/</link>
     <description>Local open-weight model news, security news, and harness news.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 08:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:27:26 +0000</lastBuildDate>
     <item>
       <title>LLM agents work for their parent companies, not for you</title>
       <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</link>
@@ -22,19 +22,19 @@
       <source>hn</source>
     </item>
     <item>
-      <title>QDA: Closed-Loop LLM Quantization Design with Agents</title>
-      <link>https://mit-han-lab.github.io/qda-blog/</link>
-      <guid isPermaLink="false">https://mit-han-lab.github.io/qda-blog/</guid>
-      <category>model</category>
-      <pubDate>Fri, 27 Nov 2026 00:09:05 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
       <title>Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM</title>
       <link>https://github.com/graphvein/graphvein/</link>
       <guid isPermaLink="false">https://github.com/graphvein/graphvein/</guid>
       <category>model</category>
       <pubDate>Thu, 26 Nov 2026 16:36:38 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>QDA: Closed-Loop LLM Quantization Design with Agents</title>
+      <link>https://mit-han-lab.github.io/qda-blog/</link>
+      <guid isPermaLink="false">https://mit-han-lab.github.io/qda-blog/</guid>
+      <category>model</category>
+      <pubDate>Fri, 27 Nov 2026 00:09:05 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -46,12 +46,12 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Pushing the US Open-Weight Frontier</title>
-      <link>https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</link>
-      <guid isPermaLink="false">https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</guid>
+      <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
       <category>model</category>
-      <pubDate>Thu, 26 Nov 2026 00:17:18 +0000</pubDate>
-      <source>hn</source>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <source>rss</source>
     </item>
     <item>
       <title>Anyone can easily use private, open weight models</title>
@@ -59,6 +59,14 @@
       <guid isPermaLink="false">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
       <category>model</category>
       <pubDate>Sat, 21 Nov 2026 12:11:54 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Pushing the US Open-Weight Frontier</title>
+      <link>https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</link>
+      <guid isPermaLink="false">https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models</guid>
+      <category>model</category>
+      <pubDate>Thu, 26 Nov 2026 00:17:18 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <source>rss</source>
     </item>
     <item>
-      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
-      <link>https://huggingface.co/blog/training-swarms</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/training-swarms</guid>
-      <category>model</category>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine</title>
       <link>https://github.com/xhjkl/please</link>
       <guid isPermaLink="false">https://github.com/xhjkl/please</guid>
@@ -94,11 +94,11 @@
       <source>hn</source>
     </item>
     <item>
-      <title>Vendor-neutral LLM harness with local-first support</title>
-      <link>https://github.com/abadiape/llm-harness-lite</link>
-      <guid isPermaLink="false">https://github.com/abadiape/llm-harness-lite</guid>
+      <title>Show HN: A SoTA open-weight looped decision model</title>
+      <link>https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/</link>
+      <guid isPermaLink="false">https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/</guid>
       <category>model</category>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:21:36 +0000</pubDate>
       <source>hn</source>
     </item>
     <item>
@@ -126,27 +126,59 @@
       <source>hn</source>
     </item>
     <item>
-      <title>llama.cpp: b12810</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12810</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12810</guid>
+      <title>Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10</title>
+      <link>https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</link>
+      <guid isPermaLink="false">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</guid>
       <category>harness</category>
-      <pubDate>Fri, 27 Nov 2026 08:14:35 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 18:59:55 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>Sandboxed AI models talk via GPU rounding errors on shared vLLM servers</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through</link>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through</guid>
+      <category>harness</category>
+      <pubDate>Fri, 27 Nov 2026 18:40:22 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>ollama: v0.40.19</title>
+      <link>https://github.com/ollama/ollama/releases/tag/v0.40.19</link>
+      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.19</guid>
+      <category>harness</category>
+      <pubDate>Fri, 27 Nov 2026 21:04:44 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12809</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12809</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12809</guid>
+      <title>llama.cpp: b12818</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12818</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12818</guid>
       <category>harness</category>
-      <pubDate>Fri, 27 Nov 2026 07:18:51 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 20:47:42 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
-      <title>llama.cpp: b12808</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12808</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12808</guid>
+      <title>ShrinkLoop – Local MLX proxy and RLVR/GRPO trainer for verifiable LLM tasks</title>
+      <link>https://shrinkloop.com/demo</link>
+      <guid isPermaLink="false">https://shrinkloop.com/demo</guid>
       <category>harness</category>
-      <pubDate>Fri, 27 Nov 2026 06:06:35 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 17:37:20 +0000</pubDate>
+      <source>hn</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12816</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12816</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12816</guid>
+      <category>harness</category>
+      <pubDate>Fri, 27 Nov 2026 17:05:51 +0000</pubDate>
+      <source>rss</source>
+    </item>
+    <item>
+      <title>llama.cpp: b12819: CUDA: cache the device type at init (#33142)</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/b12819</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp/releases/tag/b12819</guid>
+      <category>harness</category>
+      <pubDate>Fri, 27 Nov 2026 14:18:23 +0000</pubDate>
       <source>rss</source>
     </item>
     <item>
@@ -166,14 +198,6 @@
       <source>hn</source>
     </item>
     <item>
-      <title>ollama: v0.40.19</title>
-      <link>https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0</link>
-      <guid isPermaLink="false">https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0</guid>
-      <category>harness</category>
-      <pubDate>Thu, 26 Nov 2026 17:52:02 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
       <title>vLLM-GR: Efficient Inference for Generative Recommendation</title>
       <link>https://vllm.ai/blog/2026-11-24-vllm-gr-announcement</link>
       <guid isPermaLink="false">https://vllm.ai/blog/2026-11-24-vllm-gr-announcement</guid>
@@ -187,30 +211,6 @@
       <guid isPermaLink="false">https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&amp;hl=en_US</guid>
       <category>harness</category>
       <pubDate>Thu, 26 Nov 2026 08:05:39 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
-      <category>harness</category>
-      <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
-      <source>rss</source>
-    </item>
-    <item>
-      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="false">https://github.com/RunanywhereAI/trnrt</guid>
-      <category>harness</category>
-      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
-      <source>hn</source>
-    </item>
-    <item>
-      <title>Can agents write inference engines from scratch in 12 hours and beat vLLM?</title>
-      <link>https://github.com/humanityslastsystem/hls</link>
-      <guid isPermaLink="false">https://github.com/humanityslastsystem/hls</guid>
-      <category>harness</category>
-      <pubDate>Tue, 24 Nov 2026 18:20:27 +0000</pubDate>
       <source>hn</source>
     </item>
   </channel>

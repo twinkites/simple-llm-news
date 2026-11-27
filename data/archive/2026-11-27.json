@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:47:46.483950+00:00",
+  "generated_at": "2026-11-27T21:27:26.625454+00:00",
   "sections": {
     "model": [
       {
@@ -25,17 +25,6 @@
         }
       },
       {
-        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
-        "url": "https://mit-han-lab.github.io/qda-blog/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-27T00:09:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
         "url": "https://github.com/graphvein/graphvein/",
         "source": "hn",
@@ -44,6 +33,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+        "url": "https://mit-han-lab.github.io/qda-blog/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-27T00:09:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -58,14 +58,14 @@
         }
       },
       {
-        "title": "Pushing the US Open-Weight Frontier",
-        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
-        "source": "hn",
-        "score": 2,
-        "published": "2026-11-26T00:17:18Z",
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T00:00:00+00:00",
         "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -77,6 +77,17 @@
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Pushing the US Open-Weight Frontier",
+        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-26T00:17:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       },
       {
@@ -102,17 +113,6 @@
         }
       },
       {
-        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "url": "https://huggingface.co/blog/training-swarms",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T00:00:00+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
         "url": "https://github.com/xhjkl/please",
         "source": "hn",
@@ -124,14 +124,14 @@
         }
       },
       {
-        "title": "Vendor-neutral LLM harness with local-first support",
-        "url": "https://github.com/abadiape/llm-harness-lite",
+        "title": "Show HN: A SoTA open-weight looped decision model",
+        "url": "https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/",
         "source": "hn",
-        "score": 1,
-        "published": "2026-11-24T17:46:41Z",
+        "score": 2,
+        "published": "2026-11-24T00:21:36Z",
         "truthiness": {
           "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
         }
       }
     ],
@@ -164,7 +164,7 @@
         "title": "AMD-specific fork of llama.cpp",
         "url": "https://devnull.land/amd-specific-llama-cpp",
         "source": "hn",
-        "score": 343,
+        "score": 433,
         "published": "2026-11-26T17:11:29Z",
         "truthiness": {
           "label": "green",
@@ -172,33 +172,77 @@
         }
       },
       {
-        "title": "llama.cpp: b12810",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12810",
+        "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+        "source": "hn",
+        "score": 4,
+        "published": "2026-11-27T18:59:55Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-27T18:40:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.19",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T08:14:35+00:00",
+        "published": "2026-11-27T21:04:44+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12809",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12809",
+        "title": "llama.cpp: b12818",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T07:18:51+00:00",
+        "published": "2026-11-27T20:47:42+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12808",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12808",
+        "title": "ShrinkLoop – Local MLX proxy and RLVR/GRPO trainer for verifiable LLM tasks",
+        "url": "https://shrinkloop.com/demo",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-27T17:37:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12816",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12816",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T06:06:35+00:00",
+        "published": "2026-11-27T17:05:51+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12819: CUDA: cache the device type at init (#33142)",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12819",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T14:18:23+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,17 +271,6 @@
         }
       },
       {
-        "title": "ollama: v0.40.19",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T17:52:02+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
         "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
         "source": "hn",
@@ -257,39 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
-        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T11:37:17+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
-        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-        "url": "https://github.com/RunanywhereAI/trnrt",
-        "source": "hn",
-        "score": 54,
-        "published": "2026-11-17T16:01:04Z",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, well-corroborated (a Hacker News submission, 54 points)"
-        }
-      },
-      {
-        "title": "Can agents write inference engines from scratch in 12 hours and beat vLLM?",
-        "url": "https://github.com/humanityslastsystem/hls",
-        "source": "hn",
-        "score": 4,
-        "published": "2026-11-24T18:20:27Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
         }
       }
     ]
