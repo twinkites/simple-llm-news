@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:27:26.625454+00:00",
+  "generated_at": "2026-11-28T08:01:52.886662+00:00",
   "sections": {
     "model": [
       {
@@ -36,17 +36,6 @@
         }
       },
       {
-        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
-        "url": "https://mit-han-lab.github.io/qda-blog/",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-27T00:09:05Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
-        }
-      },
-      {
         "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
         "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
         "source": "hn",
@@ -58,14 +47,14 @@
         }
       },
       {
-        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "url": "https://huggingface.co/blog/video-trainium3",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-27T00:00:00+00:00",
+        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+        "url": "https://mit-han-lab.github.io/qda-blog/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-27T00:09:05Z",
         "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       },
       {
@@ -91,6 +80,17 @@
         }
       },
       {
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
         "title": "Six local-first Python engines for 10M-cell PII, LLM security and SEO",
         "url": "https://www.sideprojectors.com/user/profile/288750",
         "source": "hn",
@@ -102,17 +102,6 @@
         }
       },
       {
-        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "source": "rss",
-        "score": 0,
-        "published": "2026-11-26T05:05:36+00:00",
-        "truthiness": {
-          "label": "green",
-          "reason": "Sober framing, official release feed (an official release feed)"
-        }
-      },
-      {
         "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
         "url": "https://github.com/xhjkl/please",
         "source": "hn",
@@ -121,6 +110,17 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-26T05:05:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
@@ -164,7 +164,7 @@
         "title": "AMD-specific fork of llama.cpp",
         "url": "https://devnull.land/amd-specific-llama-cpp",
         "source": "hn",
-        "score": 433,
+        "score": 442,
         "published": "2026-11-26T17:11:29Z",
         "truthiness": {
           "label": "green",
@@ -172,10 +172,21 @@
         }
       },
       {
+        "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+        "url": "https://twitter.com/superalesha/status/2125682626056839259",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-11-28T05:30:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
         "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
         "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
         "source": "hn",
-        "score": 4,
+        "score": 54,
         "published": "2026-11-27T18:59:55Z",
         "truthiness": {
           "label": "red",
@@ -194,22 +205,22 @@
         }
       },
       {
-        "title": "ollama: v0.40.19",
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+        "title": "llama.cpp: b12823",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12823",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T21:04:44+00:00",
+        "published": "2026-11-28T01:28:25+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12818",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818",
+        "title": "llama.cpp: b12822",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12822",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T20:47:42+00:00",
+        "published": "2026-11-28T01:11:52+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -227,22 +238,33 @@
         }
       },
       {
-        "title": "llama.cpp: b12816",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12816",
+        "title": "ollama: v0.40.19",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T17:05:51+00:00",
+        "published": "2026-11-27T21:47:32+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
         }
       },
       {
-        "title": "llama.cpp: b12819: CUDA: cache the device type at init (#33142)",
-        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12819",
+        "title": "ollama: v0.40.20-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.20-rc0",
         "source": "rss",
         "score": 0,
-        "published": "2026-11-27T14:18:23+00:00",
+        "published": "2026-11-27T21:06:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12826",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12826",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T19:28:53+00:00",
         "truthiness": {
           "label": "green",
           "reason": "Sober framing, official release feed (an official release feed)"
@@ -260,17 +282,6 @@
         }
       },
       {
-        "title": "A bare-metal OS running Qwen3-0.6B 54% faster than llama.cpp",
-        "url": "https://twitter.com/superalesha/status/2125682626056839259",
-        "source": "hn",
-        "score": 3,
-        "published": "2026-11-26T16:30:44Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
-        }
-      },
-      {
         "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
         "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
         "source": "hn",
@@ -279,17 +290,6 @@
         "truthiness": {
           "label": "red",
           "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
-        }
-      },
-      {
-        "title": "I built an Android app to run GGUF AI models offline on your phone",
-        "url": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
-        "source": "hn",
-        "score": 1,
-        "published": "2026-11-26T08:05:39Z",
-        "truthiness": {
-          "label": "red",
-          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
         }
       }
     ]

@@ -1,0 +1,297 @@
+{
+  "generated_at": "2026-11-28T08:01:52.886662+00:00",
+  "sections": {
+    "model": [
+      {
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "source": "hn",
+        "score": 1032,
+        "published": "2026-11-24T12:40:15Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 845 points)"
+        }
+      },
+      {
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "source": "hn",
+        "score": 362,
+        "published": "2026-11-22T13:56:58Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 309 points)"
+        }
+      },
+      {
+        "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
+        "url": "https://github.com/graphvein/graphvein/",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-26T16:36:38Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-1-1/",
+        "source": "hn",
+        "score": 19,
+        "published": "2026-11-23T15:08:43Z",
+        "truthiness": {
+          "label": "yellow",
+          "reason": "Sober framing, moderate corroboration (a Hacker News submission, 15 points)"
+        }
+      },
+      {
+        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+        "url": "https://mit-han-lab.github.io/qda-blog/",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-27T00:09:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Anyone can easily use private, open weight models",
+        "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+        "source": "hn",
+        "score": 29,
+        "published": "2026-11-21T12:11:54Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 25 points)"
+        }
+      },
+      {
+        "title": "Pushing the US Open-Weight Frontier",
+        "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-26T00:17:18Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T00:00:00+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Six local-first Python engines for 10M-cell PII, LLM security and SEO",
+        "url": "https://www.sideprojectors.com/user/profile/288750",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-25T19:49:46Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
+        "url": "https://github.com/xhjkl/please",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-23T16:53:23Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-26T05:05:36+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "Show HN: A SoTA open-weight looped decision model",
+        "url": "https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-24T00:21:36Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ],
+    "security": [
+      {
+        "title": "Prompt injection in a job application makes AI recruiting agents leak salaries",
+        "url": "https://vortner.de/blog/prompt-injection-job-application",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-25T14:29:48Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+        "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-19T21:55:07Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ],
+    "harness": [
+      {
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "source": "hn",
+        "score": 442,
+        "published": "2026-11-26T17:11:29Z",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, well-corroborated (a Hacker News submission, 211 points)"
+        }
+      },
+      {
+        "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+        "url": "https://twitter.com/superalesha/status/2125682626056839259",
+        "source": "hn",
+        "score": 7,
+        "published": "2026-11-28T05:30:51Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+        "source": "hn",
+        "score": 54,
+        "published": "2026-11-27T18:59:55Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 4 points)"
+        }
+      },
+      {
+        "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-27T18:40:22Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 3 points)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12823",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12823",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-28T01:28:25+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12822",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12822",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-28T01:11:52+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ShrinkLoop – Local MLX proxy and RLVR/GRPO trainer for verifiable LLM tasks",
+        "url": "https://shrinkloop.com/demo",
+        "source": "hn",
+        "score": 1,
+        "published": "2026-11-27T17:37:20Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 1 points)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.19",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T21:47:32+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "ollama: v0.40.20-rc0",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.20-rc0",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T21:06:59+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "llama.cpp: b12826",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12826",
+        "source": "rss",
+        "score": 0,
+        "published": "2026-11-27T19:28:53+00:00",
+        "truthiness": {
+          "label": "green",
+          "reason": "Sober framing, official release feed (an official release feed)"
+        }
+      },
+      {
+        "title": "RustingStrata – Pure Rust LLM GGUF Engine, Runs Models > VRAM on CUDA and Vulkan",
+        "url": "https://github.com/RustingStudio/RustingStrata",
+        "source": "hn",
+        "score": 3,
+        "published": "2026-11-26T18:21:05Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      },
+      {
+        "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
+        "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+        "source": "hn",
+        "score": 2,
+        "published": "2026-11-26T02:47:01Z",
+        "truthiness": {
+          "label": "red",
+          "reason": "Sober framing but low corroboration (a Hacker News submission, 2 points)"
+        }
+      }
+    ]
+  }
+}
